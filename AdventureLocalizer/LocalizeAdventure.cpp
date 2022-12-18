@@ -23,12 +23,8 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 	if (Simulator::IsScenarioMode()) {
 		cScenarioResourcePtr resource = ScenarioMode.GetResource();
 		// Instance IDs for the locale table
-		uint32_t stringCount = 0x00000001;
-		std::stringstream sstream;
-
-		sstream << std::hex << stringCount;
-
-		string16 whitespace = u" ";
+		uint32_t stringCount = 1;
+		string16 data;
 
 		// Get the filepath
 		string16 path = Resource::Paths::GetDirFromID(Resource::PathID::Creations);
@@ -47,76 +43,88 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		string16 filename = path + name + u".locale";
 
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
-		string16 data = sstream.str() + whitespace + name + u"\n";
+		data.append_sprintf(u"%#08x %ls\n",stringCount,name);
 		stringCount++;
-		data += stringCount + ' ' + description + u"\n\n";
-		stringCount++;
-
-		data += u"# Intro text\n";
-		data += stringCount + ' ' + resource->mIntroText.mNonLocalizedString + u'\n' + u'\n';
+		data.append_sprintf(u"%#08x %ls\n\n", stringCount, description);
 		stringCount++;
 
-		data += u"# Win text\n";
-		data += stringCount + ' ' + resource->mWinText.mNonLocalizedString + u'\n' + u'\n';
+		data.append_sprintf(u"# Intro text\n");
+		data.append_sprintf(u"%#08x %ls\n\n",stringCount, resource->mIntroText.mNonLocalizedString);
 		stringCount++;
 
-		data += u"# Lose text\n";
-		data += stringCount + ' ' + resource->mLoseText.mNonLocalizedString + u'\n' + u'\n';
+		data.append_sprintf(u"# Win text\n");
+		data.append_sprintf(u"%#08x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString); 
+		stringCount++;
+
+		data.append_sprintf(u"# Lose text\n");
+		data.append_sprintf(u"%#08x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
 		stringCount++;
 
 		auto& acts = resource->mActs;
 		auto& classes = resource->mClasses;
 		uint32_t actCount = 1;
+		uint32_t goalCount = 1;
 
 		for (auto& act : acts) {
 			// Act number
-			data += u"# Act " + actCount + u'\n';
+			data.append_sprintf(u"# Act %d\n",actCount);
 
 			// Act name
-			data += stringCount + ' ' + act.mName.mNonLocalizedString + u'\n';
+			data.append_sprintf(u"%#08x %ls\n",stringCount,act.mName.mNonLocalizedString);
 			stringCount++;
 
 			// Act description
-			data += stringCount + ' ' + act.mDescription.mNonLocalizedString + u'\n' + u'\n';
+			data.append_sprintf(u"%#08x %ls\n\n",stringCount, act.mDescription.mNonLocalizedString);
 			stringCount++;
 
 			// Act goals
+			goalCount = 1;
+
 			for (auto& goal : act.mGoals) {
+				
+				data.append_sprintf(u"# Goal %d\n",goalCount);
 				for (auto& dialog : goal.mDialogs) {
-					data += stringCount + ' ' + dialog.mText.mNonLocalizedString + u'\n';
-					stringCount++;
+					if (dialog.mText.mNonLocalizedString != u"") {
+						data.append_sprintf(u"%#08x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
+						stringCount++;
+					}
 				}
-				data += u'\n';
+				data.append_sprintf(u"\n");
+				goalCount++;
 			}
-			data += u'\n' + u'\n';
+			data.append_sprintf(u"\n");
 
 			actCount++;
 		}
 
 		for (auto& classObject : classes) {
 			// Object name
-			data += stringCount + ' ' + classObject.second.mCastName.mNonLocalizedString + u'\n';
+			data.append_sprintf(u"%#08x %ls\n\n",stringCount,classObject.second.mCastName.mNonLocalizedString);
 			stringCount++;
 			actCount = 1;
 
 			for (auto& act : classObject.second.mActs) {
 				// Object chatter
-				data += u"# Chatter for Act " + actCount + u'\n';
+				data.append_sprintf(u"# Chatter for Act %d\n",actCount);
 
 				for (auto& chatter : act.mDialogsChatter) {
-					data += stringCount + ' ' + chatter.mText.mNonLocalizedString + u'\n';
-					stringCount++;
+					if (chatter.mText.mNonLocalizedString != u"") {
+						data.append_sprintf(u"%#08x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
+						stringCount++;
+					}
 				}
-				data += u'\n';
+				data.append_sprintf(u"\n");
 
 				// Object inspect
-				data += u"# Inspect for Act " + actCount + u'\n';
+				data.append_sprintf(u"# Inspect for Act %d\n", actCount);
 
 				for (auto& inspect : act.mDialogsInspect) {
-					data += stringCount + ' ' + inspect.mText.mNonLocalizedString + u'\n';
-					stringCount++;
+					if (inspect.mText.mNonLocalizedString != u"") {
+						data.append_sprintf(u"%#08x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
+						stringCount++;
+					}
 				}
-				data += u'\n';
+				data.append_sprintf(u"\n");
 				actCount++;
 			}
 		}
