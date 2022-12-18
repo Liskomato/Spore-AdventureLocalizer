@@ -3,6 +3,7 @@
 #include "shlobj.h"
 #include "LocalizeAdventure.h"
 #include <string>
+#include <sstream>
 #include <Spore/Resource/Paths.h>
 
 LocalizeAdventure::LocalizeAdventure()
@@ -23,6 +24,11 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		cScenarioResourcePtr resource = ScenarioMode.GetResource();
 		// Instance IDs for the locale table
 		uint32_t stringCount = 0x00000001;
+		std::stringstream sstream;
+
+		sstream << std::hex << stringCount;
+
+		string16 whitespace = u" ";
 
 		// Get the filepath
 		string16 path = Resource::Paths::GetDirFromID(Resource::PathID::Creations);
@@ -41,21 +47,21 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		string16 filename = path + name + u".locale";
 
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
-		string16 data = (const char16_t)stringCount + ' ' + name + u"\n";
+		string16 data = sstream.str() + whitespace + name + u"\n";
 		stringCount++;
-		data += (const char16_t)stringCount + ' ' + description + u"\n\n";
+		data += stringCount + ' ' + description + u"\n\n";
 		stringCount++;
 
 		data += u"# Intro text\n";
-		data += (const char16_t)stringCount + ' ' + resource->mIntroText.mString.GetText() + u'\n' + u'\n';
+		data += stringCount + ' ' + resource->mIntroText.mNonLocalizedString + u'\n' + u'\n';
 		stringCount++;
 
 		data += u"# Win text\n";
-		data += (const char16_t)stringCount + ' ' + resource->mWinText.mString.GetText() + u'\n' + u'\n';
+		data += stringCount + ' ' + resource->mWinText.mNonLocalizedString + u'\n' + u'\n';
 		stringCount++;
 
 		data += u"# Lose text\n";
-		data += (const char16_t)stringCount + ' ' + resource->mLoseText.mString.GetText() + u'\n' + u'\n';
+		data += stringCount + ' ' + resource->mLoseText.mNonLocalizedString + u'\n' + u'\n';
 		stringCount++;
 
 		auto& acts = resource->mActs;
@@ -64,20 +70,20 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		for (auto& act : acts) {
 			// Act number
-			data += u"# Act " + (const char16_t)actCount + u'\n';
+			data += u"# Act " + actCount + u'\n';
 
 			// Act name
-			data += (const char16_t)stringCount + ' ' + act.mName.mString.GetText() + u'\n';
+			data += stringCount + ' ' + act.mName.mNonLocalizedString + u'\n';
 			stringCount++;
 
 			// Act description
-			data += (const char16_t)stringCount + ' ' + act.mDescription.mString.GetText() + u'\n' + u'\n';
+			data += stringCount + ' ' + act.mDescription.mNonLocalizedString + u'\n' + u'\n';
 			stringCount++;
 
 			// Act goals
 			for (auto& goal : act.mGoals) {
 				for (auto& dialog : goal.mDialogs) {
-					data += (const char16_t)stringCount + ' ' + dialog.mText.mString.GetText() + u'\n';
+					data += stringCount + ' ' + dialog.mText.mNonLocalizedString + u'\n';
 					stringCount++;
 				}
 				data += u'\n';
@@ -89,25 +95,25 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		for (auto& classObject : classes) {
 			// Object name
-			data += (const char16_t)stringCount + ' ' + classObject.second.mCastName.mString.GetText() + u'\n';
+			data += stringCount + ' ' + classObject.second.mCastName.mNonLocalizedString + u'\n';
 			stringCount++;
 			actCount = 1;
 
 			for (auto& act : classObject.second.mActs) {
 				// Object chatter
-				data += u"# Chatter for Act " + (const char16_t)actCount + u'\n';
+				data += u"# Chatter for Act " + actCount + u'\n';
 
 				for (auto& chatter : act.mDialogsChatter) {
-					data += (const char16_t)stringCount + ' ' + chatter.mText.mString.GetText() + u'\n';
+					data += stringCount + ' ' + chatter.mText.mNonLocalizedString + u'\n';
 					stringCount++;
 				}
 				data += u'\n';
 
 				// Object inspect
-				data += u"# Inspect for Act " + (const char16_t)actCount + u'\n';
+				data += u"# Inspect for Act " + actCount + u'\n';
 
 				for (auto& inspect : act.mDialogsInspect) {
-					data += (const char16_t)stringCount + ' ' + inspect.mText.mString.GetText() + u'\n';
+					data += stringCount + ' ' + inspect.mText.mNonLocalizedString + u'\n';
 					stringCount++;
 				}
 				data += u'\n';
@@ -119,6 +125,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		if (stream->Open(IO::AccessFlags::ReadWrite,IO::CD::CreateAlways)) {
 			stream->Write(data.c_str(),data.size());
 			stream->Close();
+			App::ConsolePrintF("Data written successfully.");
 		}
 	}
 }
