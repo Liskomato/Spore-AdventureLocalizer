@@ -141,7 +141,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		FileStreamPtr stream = new IO::FileStream(filename.c_str());
 		if (stream->Open(IO::AccessFlags::ReadWrite,IO::CD::CreateAlways)) {
-			stream->Write(data.c_str(),data.size());
+			stream->Write(data.c_str(),data.size()*2);
 			stream->Close();
 			App::ConsolePrintF("Data written successfully.");
 		}
