@@ -43,21 +43,21 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		string16 filename = path + name + u".locale";
 
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
-		data.append_sprintf(u"%#08x %ls\n",stringCount,name);
+		data.append_sprintf(u"%#010x %ls\n",stringCount,name);
 		stringCount++;
-		data.append_sprintf(u"%#08x %ls\n\n", stringCount, description);
+		data.append_sprintf(u"%#010x %ls\n\n", stringCount, description);
 		stringCount++;
 
 		data.append_sprintf(u"# Intro text\n");
-		data.append_sprintf(u"%#08x %ls\n\n",stringCount, resource->mIntroText.mNonLocalizedString);
+		data.append_sprintf(u"%#010x %ls\n\n",stringCount, resource->mIntroText.mNonLocalizedString);
 		stringCount++;
 
 		data.append_sprintf(u"# Win text\n");
-		data.append_sprintf(u"%#08x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString); 
+		data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString); 
 		stringCount++;
 
 		data.append_sprintf(u"# Lose text\n");
-		data.append_sprintf(u"%#08x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
+		data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
 		stringCount++;
 
 		auto& acts = resource->mActs;
@@ -70,11 +70,11 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			data.append_sprintf(u"# Act %d\n",actCount);
 
 			// Act name
-			data.append_sprintf(u"%#08x %ls\n",stringCount,act.mName.mNonLocalizedString);
+			data.append_sprintf(u"%#010x %ls\n",stringCount,act.mName.mNonLocalizedString);
 			stringCount++;
 
 			// Act description
-			data.append_sprintf(u"%#08x %ls\n\n",stringCount, act.mDescription.mNonLocalizedString);
+			data.append_sprintf(u"%#010x %ls\n\n",stringCount, act.mDescription.mNonLocalizedString);
 			stringCount++;
 
 			// Act goals
@@ -85,7 +85,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				data.append_sprintf(u"# Goal %d\n",goalCount);
 				for (auto& dialog : goal.mDialogs) {
 					if (dialog.mText.mNonLocalizedString != u"") {
-						data.append_sprintf(u"%#08x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
+						data.append_sprintf(u"%#010x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
 						stringCount++;
 					}
 				}
@@ -99,7 +99,17 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		for (auto& classObject : classes) {
 			// Object name
-			data.append_sprintf(u"%#08x %ls\n\n",stringCount,classObject.second.mCastName.mNonLocalizedString);
+			if (classObject.second.mCastName.mNonLocalizedString != u"")
+			data.append_sprintf(u"%#010x %ls\n\n",stringCount,classObject.second.mCastName.mNonLocalizedString);
+			else {
+				cAssetMetadataPtr metadata;
+				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID,classObject.second.mAsset.mKey.groupID,metadata))
+				data.append_sprintf(u"%#010x %ls\n\n", stringCount, metadata->GetName());
+				else {
+					App::ConsolePrintF("Name data for asset %#010x could not be found - Leaving name blank.",stringCount);
+					data.append_sprintf(u"%#010x \n\n",stringCount);
+				}
+			}
 			stringCount++;
 			actCount = 1;
 
@@ -109,7 +119,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 				for (auto& chatter : act.mDialogsChatter) {
 					if (chatter.mText.mNonLocalizedString != u"") {
-						data.append_sprintf(u"%#08x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
+						data.append_sprintf(u"%#010x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
 						stringCount++;
 					}
 				}
@@ -120,7 +130,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 				for (auto& inspect : act.mDialogsInspect) {
 					if (inspect.mText.mNonLocalizedString != u"") {
-						data.append_sprintf(u"%#08x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
+						data.append_sprintf(u"%#010x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
 						stringCount++;
 					}
 				}
