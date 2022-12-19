@@ -5,6 +5,7 @@
 #include <string>
 #include <sstream>
 #include <Spore/Resource/Paths.h>
+#include <Spore\Properties.h>
 
 LocalizeAdventure::LocalizeAdventure()
 {
@@ -103,8 +104,14 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			data.append_sprintf(u"%#010x %ls\n\n",stringCount,classObject.second.mCastName.mNonLocalizedString);
 			else {
 				cAssetMetadataPtr metadata;
+				PropertyListPtr propList;
+				LocalizedString str;
 				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID,classObject.second.mAsset.mKey.groupID,metadata))
 				data.append_sprintf(u"%#010x %ls\n\n", stringCount, metadata->GetName());
+				else if (PropManager.GetPropertyList(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, propList)
+						&& App::Property::GetText(propList.get(),id("sporepediaName"),str)) {
+					data.append_sprintf(u"%#010x %ls\n\n", stringCount, str.GetText());
+				}
 				else {
 					App::ConsolePrintF("Name data for asset %#010x could not be found - Leaving name blank.",stringCount);
 					data.append_sprintf(u"%#010x \n\n",stringCount);
