@@ -21,7 +21,8 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 {
 	// This method is called when your cheat is invoked.
 	// Put your cheat code here.
-	if (Simulator::IsScenarioMode()) {
+	if (Simulator::IsScenarioMode() && ScenarioMode.GetMode() == App::cScenarioMode::Mode::EditMode) {
+		ScenarioMode.GetData()->StartHistoryEntry();
 		cScenarioResourcePtr resource = ScenarioMode.GetResource();
 		// Instance IDs for the locale table
 		uint32_t stringCount = 1;
@@ -37,6 +38,8 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			IO::Directory::Create(path.c_str());
 		}
 
+		
+
 		// Get name and description of the adventure
 		string16 name = ScenarioMode.GetData()->mName, description = ScenarioMode.GetData()->mDescription;
 		
@@ -51,14 +54,23 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		data.append_sprintf(u"# Intro text\n");
 		data.append_sprintf(u"%#010x %ls\n\n",stringCount, resource->mIntroText.mNonLocalizedString);
+		resource->mIntroText.mLocalizedStringInstanceID = stringCount;
+		resource->mIntroText.mLocalizedStringTableID = id(name.c_str());
+		resource->mIntroText.mNonLocalizedString = u"";
 		stringCount++;
 
 		data.append_sprintf(u"# Win text\n");
-		data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString); 
+		data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString);
+		resource->mWinText.mLocalizedStringInstanceID = stringCount;
+		resource->mWinText.mLocalizedStringTableID = id(name.c_str());
+		resource->mWinText.mNonLocalizedString = u"";
 		stringCount++;
 
 		data.append_sprintf(u"# Lose text\n");
 		data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
+		resource->mLoseText.mLocalizedStringInstanceID = stringCount;
+		resource->mLoseText.mLocalizedStringTableID = id(name.c_str());
+		resource->mLoseText.mNonLocalizedString = u"";
 		stringCount++;
 
 		auto& acts = resource->mActs;
@@ -72,10 +84,16 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 			// Act name
 			data.append_sprintf(u"%#010x %ls\n",stringCount,act.mName.mNonLocalizedString);
+			act.mName.mLocalizedStringInstanceID = stringCount;
+			act.mName.mLocalizedStringTableID = id(name.c_str());
+			act.mName.mNonLocalizedString = u"";
 			stringCount++;
 
 			// Act description
 			data.append_sprintf(u"%#010x %ls\n\n",stringCount, act.mDescription.mNonLocalizedString);
+			act.mDescription.mLocalizedStringInstanceID = stringCount;
+			act.mDescription.mLocalizedStringTableID = id(name.c_str());
+			act.mDescription.mNonLocalizedString = u"";
 			stringCount++;
 
 			// Act goals
@@ -87,6 +105,9 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				for (auto& dialog : goal.mDialogs) {
 					if (dialog.mText.mNonLocalizedString != u"") {
 						data.append_sprintf(u"%#010x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
+						dialog.mText.mLocalizedStringInstanceID = stringCount;
+						dialog.mText.mLocalizedStringTableID = id(name.c_str());
+						dialog.mText.mNonLocalizedString = u"";
 						stringCount++;
 					}
 				}
@@ -100,23 +121,33 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		for (auto& classObject : classes) {
 			// Object name
-			if (classObject.second.mCastName.mNonLocalizedString != u"")
-			data.append_sprintf(u"%#010x %ls\n\n",stringCount,classObject.second.mCastName.mNonLocalizedString);
+			if (classObject.second.mCastName.mNonLocalizedString != u"") {
+				data.append_sprintf(u"%#010x %ls\n\n", stringCount, classObject.second.mCastName.mNonLocalizedString);
+				classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
+				classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
+				classObject.second.mCastName.mNonLocalizedString = u"";
+			}
 			else {
 				cAssetMetadataPtr metadata;
 				PropertyListPtr propList;
 				LocalizedString str;
-				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID,classObject.second.mAsset.mKey.groupID,metadata))
-				data.append_sprintf(u"%#010x %ls\n\n", stringCount, metadata->GetName());
-				
+				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, metadata)) {
+					data.append_sprintf(u"%#010x %ls\n\n", stringCount, metadata->GetName());
+					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
+					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
+				}
 				else if (PropManager.GetPropertyList(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, propList)
 					&& App::Property::GetText(propList.get(), 0x071E9BD1, str))
 				{
 					data.append_sprintf(u"%#010x %ls\n\n", stringCount, str.GetText());
+					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
+					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
 				else {
 					App::ConsolePrintF("Name data for asset %#010x could not be found - Leaving name blank.",stringCount);
 					data.append_sprintf(u"%#010x \n\n",stringCount);
+					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
+					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
 			}
 			stringCount++;
@@ -129,6 +160,9 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				for (auto& chatter : act.mDialogsChatter) {
 					if (chatter.mText.mNonLocalizedString != u"") {
 						data.append_sprintf(u"%#010x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
+						chatter.mText.mLocalizedStringInstanceID = stringCount;
+						chatter.mText.mLocalizedStringTableID = id(name.c_str());
+						chatter.mText.mNonLocalizedString = u"";
 						stringCount++;
 					}
 				}
@@ -140,6 +174,9 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				for (auto& inspect : act.mDialogsInspect) {
 					if (inspect.mText.mNonLocalizedString != u"") {
 						data.append_sprintf(u"%#010x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
+						inspect.mText.mLocalizedStringInstanceID = stringCount;
+						inspect.mText.mLocalizedStringTableID = id(name.c_str());
+						inspect.mText.mNonLocalizedString = u"";
 						stringCount++;
 					}
 				}
@@ -148,13 +185,17 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			}
 		}
 
+		ScenarioMode.GetData()->CommitHistoryEntry();
+
 		FileStreamPtr stream = new IO::FileStream(filename.c_str());
 		if (stream->Open(IO::AccessFlags::ReadWrite,IO::CD::CreateAlways)) {
 			stream->Write(data.c_str(),data.size()*2);
 			stream->Close();
 			App::ConsolePrintF("Data written successfully.");
 		}
+		App::ConsolePrintF("Adventure localized successfully. Save the adventure, quit the game and pack the resulted locale file (found in %ls) into a mod for the localization to take effect.",path.c_str());
 	}
+	else App::ConsolePrintF("You have to be in adventure edit mode to use this cheat.");
 }
 
 const char* LocalizeAdventure::GetDescription(ArgScript::DescriptionMode mode) const

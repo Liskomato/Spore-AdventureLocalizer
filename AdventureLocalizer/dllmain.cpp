@@ -1,6 +1,8 @@
 // dllmain.cpp : Defines the entry point for the DLL application.
 #include "stdafx.h"
 #include "LocalizeAdventure.h"
+#include "SaveAdventureLocale.h"
+#include "UnLocalizeAdventure.h"
 
 void Initialize()
 {
@@ -12,6 +14,8 @@ void Initialize()
 	//  - Add new space tools
 	//  - Change materials
 	CheatManager.AddCheat("localizeAdventure",new LocalizeAdventure());
+	CheatManager.AddCheat("saveAdventureLocale", new SaveAdventureLocale());
+	CheatManager.AddCheat("unlocalizeAdventure",new UnLocalizeAdventure());
 }
 
 void Dispose()

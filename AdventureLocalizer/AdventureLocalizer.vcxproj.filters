@@ -22,6 +22,12 @@
     <ClInclude Include="LocalizeAdventure.h">
       <Filter>AdventureLocalizer</Filter>
     </ClInclude>
+    <ClInclude Include="SaveAdventureLocale.h">
+      <Filter>AdventureLocalizer</Filter>
+    </ClInclude>
+    <ClInclude Include="UnLocalizeAdventure.h">
+      <Filter>AdventureLocalizer</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
@@ -31,6 +37,12 @@
       <Filter>Internal</Filter>
     </ClCompile>
     <ClCompile Include="LocalizeAdventure.cpp">
+      <Filter>AdventureLocalizer</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveAdventureLocale.cpp">
+      <Filter>AdventureLocalizer</Filter>
+    </ClCompile>
+    <ClCompile Include="UnLocalizeAdventure.cpp">
       <Filter>AdventureLocalizer</Filter>
     </ClCompile>
   </ItemGroup>
