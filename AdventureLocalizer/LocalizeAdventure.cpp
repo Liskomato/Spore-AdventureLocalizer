@@ -108,8 +108,10 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				LocalizedString str;
 				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID,classObject.second.mAsset.mKey.groupID,metadata))
 				data.append_sprintf(u"%#010x %ls\n\n", stringCount, metadata->GetName());
+				
 				else if (PropManager.GetPropertyList(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, propList)
-						&& App::Property::GetText(propList.get(),id("sporepediaName"),str)) {
+					&& App::Property::GetText(propList.get(), 0x071E9BD1, str))
+				{
 					data.append_sprintf(u"%#010x %ls\n\n", stringCount, str.GetText());
 				}
 				else {
