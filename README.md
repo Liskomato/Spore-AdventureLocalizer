@@ -52,6 +52,7 @@ Get Spore ModAPI Launcher Kit from here: http://davoonline.com/sporemodder/rob55
 ## Credits
 * [Liskomato/Tenderi4](https://github.com/Tenderi4) - Creating and coding the cheats, formatting and execution
 * [Auntie Owl/Plencka](https://github.com/plencka) - Concept for localizing adventures and packing them into `.package` files.
+* [Miikka64](http://www.spore.com/view/myspore/Miikka64) - Creator of *Master of Time - Interlude*, one of the adventures used in the testing of this mod.
 
 **Special thanks to:**
 * [Emd4600](https://github.com/emd4600) - Creating the Spore ModAPI and overall research into Spore's code
