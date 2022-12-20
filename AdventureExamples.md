@@ -5,7 +5,8 @@ This version of *Trooba - The Adventure Begins* has two separate localizations f
 
 ### Master of Time - Interlude
 Adventure originally by Miikka64, this adventure sees the god of evolution Metartalius face his superiors after he left the heroes of the series (Josh's League) leave their field of vision. This iteration of the adventure is meant to showcase breaking the text limits of the adventure editor, and how the scripts still function despite being in the `mNonLocalizedText` field of the class responsible for adventure dialouge. There are two versions of this adventure: One with localization enabled (`Master of Time Interlude locale.png`), and another where `unlocalizeAdventure` has been used (`Master of Time Interlude Test.png`).
-    ***NOTE: You will need to be online in the Spore servers in order to view this adventure properly!***
+
+   ***NOTE: You will need to be online in the Spore servers in order to view this adventure properly!***
 
 ## How to use...
 ***You will need SporeModder FX for this!***
