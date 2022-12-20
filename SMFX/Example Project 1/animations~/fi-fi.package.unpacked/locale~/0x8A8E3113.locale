@@ -1,0 +1,670 @@
+0x00000001 Trooba Localization Test
+0x00000002 Troopa ja Pesäpielus ~br~ Osa 1 ~br~ ~br~Troopa on unelmoinut koko elämänsä ajan matkustamisesta ympäri maailmaa. Nyt hän on tarpeeksi vanha siihen, mutta hän tarvitsee vielä huoltajiensa luvan...
+
+# Intro text
+0x00000003 Troopa on lajin Troopa otus, joka on aina haaveillut seikkailuista. Hän on nyt tarpeeksi vanha lähteäkseen pesästä, mutta hän tarvitsee siihen vielä alfan ja vanhempien luvat...
+
+# Win text
+0x00000004 Ja näin alkoivat Troopan ja Pesäpieluksen yhteiset seikkailut. Heidän tekemisensä tulevat pian vaikuttamaan koko galaksiin! Jatkuu ensi seikkailussa...
+
+# Lose text
+0x00000005 Ja näin loppuivat Troopan seikkailut ennen kuin ne ehtivät alkaakaan. Mitä vielä odotat? Yritä uudestaan!
+
+# Act 1
+0x00000006 Lupaa hakemassa
+0x00000007 Troopa tarvitsee luvan, ennen kuin hän voi lähteä.
+
+# Goal 1
+0x00000008 Jaaha. Pikku Troopahan se siinä! Mitä sinulla on suunnitelmissa?
+0x00000009 Troopa: Aion mennä matkalle.
+0x0000000a Jaaha. Siitä sinun pitää puhua vanhempiesi kanssa. Tällaiset jutut eivät ole minun juttujani...
+0x0000000b Troopa: Siinä kaikki?
+0x0000000c Noh, niin kai voisi myös sanoa. Onnea matkallesi, Troopa!
+
+# Goal 2
+0x0000000d Aah, esikoisemme Troopa! Oletpas sinä kasvanut! Me vieläkin muistamme kun kuoriuduit munastasi! Me olimme niin onnellisia... 
+0x0000000e Muuten, mikä olikaan asiasi?
+0x0000000f Troopa: Hei äiti ja isä. Alfa sanoi, että minun pitää pyytää teiltä lupa ennen kuin voin lähteä näistä pesistä.
+0x00000010 Hmm... Tätä pitää miettiä... Odota siinä.
+0x00000011 Hyvä on sitten! Saat mennä! ~br~ Troopa: Kiitos, äiti ja isä!
+
+
+# Act 2
+0x00000012 Lähdetäänpäs matkaan!
+0x00000013 Troopa: Luulen, että lähellä saattaa olla muita otuksia. Ystävystytään niiden kanssa!
+
+# Goal 1
+0x00000014 Tuntematon otus! Näyttää siltä että se olisi vasta noussut vedestä. Ystävysty sen kanssa!
+
+# Goal 2
+
+
+# Act 3
+0x00000015 Matka jatkuu!
+0x00000016 Sait DNA-pisteitä! Nyt voit jatkaa matkaa! Mennäänpäs tuonne metsään vaihteeksi...
+
+# Goal 1
+0x00000017 Tämä laji ei näytä ystävälliseltä lajilta. Paras otta hatkat!
+0x00000018 Hei, sinä! Pois meidän reviiriltä!
+0x00000019 Troopa: Joo joo...
+
+
+# Act 4
+0x0000001a Pakene!
+0x0000001b Tämä laji ei varmaankaan pidä tunkeilijoista. Pakene niitä! Ehkäpä muualla on ystävällisempiä lajeja.
+
+# Goal 1
+0x0000001c Hmm... Kukas sinä olet?
+0x0000001d Ai Troopako? Ja haluat ystävystyä meidän kanssa?
+0x0000001e Selvä. Jos vakuutat meidät kaikki taidoillasi, me liittoudumme kanssasi!
+0x0000001f Mutta älä hyökkää kimppuumme! Me suutumme siitä TODELLA paljon! Me pesäpielukset olemme ärhäkkää väkeä!
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 5
+0x00000020 Innokas poika
+0x00000021 Alfaotusten esikoinen haluaisi mukaasi. Tee hänestä liittolaisesi!
+
+# Goal 1
+0x00000022 Moi! Me just ystävyttiin, niinhän? Haluaisin tulla mukaasi, Troopa! Onhan se okei?
+0x00000023 Troopa: Toki! Olet tervetullut laumaani, Pesäpielus!
+0x00000024 Kiitos! Äiti, isä, saanko mennä Troopan mukaan?
+0x00000025 Pesäpieluksen vanhemmat: Kyllä. Olet jo tarpeeksi vanha huolehtimaan itsestäsi. 
+0x00000026 Kiitoksia vanhemmat! Troopa! Liitä minut laumaasi, niin voimme lähteä!
+
+# Goal 2
+
+
+# Act 6
+0x00000027 Pesäpieluksella on asiaa.
+0x00000028 Olet nyt parhaita ystäviä alfojen pojan kanssa! Puhu hänen kanssaan niin voit lähteä pesästä!
+
+# Goal 1
+0x00000029 Troopa, ajattele näitä mahdollisuuksia!
+0x0000002a Paljon nähtävää, uusia otuksia, jättejä, ties vaikka ufoja! Me saatamme löytää monoliitteja tai jopa itse kehittymisen lähteen! Ne kehittävät meitä!
+0x0000002b Troopa: Vau! Tosi makeeta! Noh, mitä me odottelemme? Matkaan!
+0x0000002c Odotas vähän! Vanhempani sanovat, että on nyt liian myöhä, että voisimme lähteä matkalle. Odotetaan sitten huomisaamuun.
+0x0000002d Troopa: Noh, ei siinä mitään. Öitä, Pesäpielus!
+
+
+0x0000002e Nestling Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000002f Nest Small
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000030 lajin Troopa alfaotus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000031 Bollywood
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000032 Troopan vanhempi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000033 Troopa
+
+# Chatter for Act 1
+0x00000034 Kuulitko? Nuori Troopa lähtee matkalle.
+0x00000035 Niinkö? En kuullut.
+0x00000036 Toivottavasti hänelle ei satu mitään.
+0x00000037 Ovatpa nuo poikaset ihania!
+0x00000038 Jaaha...
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000039 Kuulitko? Nuori Troopa lähtee matkalle.
+0x0000003a Niinkö? En kuullut.
+0x0000003b Toivottavasti hänelle ei satu mitään.
+0x0000003c Ovatpa nuo poikaset ihania!
+0x0000003d Jaaha...
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000003e Kuulitko? Nuori Troopa lähtee matkalle.
+0x0000003f Niinkö? En kuullut.
+0x00000040 Toivottavasti hänelle ei satu mitään.
+0x00000041 Ovatpa nuo poikaset ihania!
+0x00000042 Jaaha...
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000043 Kuulitko? Nuori Troopa lähtee matkalle.
+0x00000044 Niinkö? En kuullut.
+0x00000045 Toivottavasti hänelle ei satu mitään.
+0x00000046 Ovatpa nuo poikaset ihania!
+0x00000047 Jaaha...
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000048 Kuulitko? Nuori Troopa lähtee matkalle.
+0x00000049 Niinkö? En kuullut.
+0x0000004a Toivottavasti hänelle ei satu mitään.
+0x0000004b Ovatpa nuo poikaset ihania!
+0x0000004c Jaaha...
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000004d Kuulitko? Nuori Troopa lähtee matkalle.
+0x0000004e Niinkö? En kuullut.
+0x0000004f Toivottavasti hänelle ei satu mitään.
+0x00000050 Ovatpa nuo poikaset ihania!
+0x00000051 Jaaha...
+
+# Inspect for Act 6
+
+0x00000052 lajin Troopa poikanen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000053 Egg Groovy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000054 Pesäpielus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000055 Pesäpielusten alfa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000056 Jos hyökkäät poikastemme kimppuun, saat katua tekojasi!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000057 Jos hyökkäät poikastemme kimppuun, saat katua tekojasi!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000058 Jos hyökkäät poikastemme kimppuun, saat katua tekojasi!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000059 Jos hyökkäät poikastemme kimppuun, saat katua tekojasi!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000005a Jos hyökkäät poikastemme kimppuun, saat katua tekojasi!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000005b Jos hyökkäät poikastemme kimppuun, saat katua tekojasi!
+
+0x0000005c lajin Pesäpielus poikanen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000005d Pesäpielus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000005e Egg Happy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000005f Batsu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000060 Ashonas
+
+# Chatter for Act 1
+0x00000061 Hei! Häivy meidän reviiriltä! NYT!
+0x00000062 Hei, sinä! Pois meidän reviiriltä!
+0x00000063 Etkö tiedä, mikä reviiri on? Reviiri on yksityisalue ja tämä on MEIDÄN yksityisalue!
+0x00000064 Tämä on ashonasten reviiri! Ei troopien!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000065 Hei! Häivy meidän reviiriltä! NYT!
+0x00000066 Hei, sinä! Pois meidän reviiriltä!
+0x00000067 Etkö tiedä, mikä reviiri on? Reviiri on yksityisalue ja tämä on MEIDÄN yksityisalue!
+0x00000068 Tämä on ashonasten reviiri! Ei troopien!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000069 Hei! Häivy meidän reviiriltä! NYT!
+0x0000006a Hei, sinä! Pois meidän reviiriltä!
+0x0000006b Etkö tiedä, mikä reviiri on? Reviiri on yksityisalue ja tämä on MEIDÄN yksityisalue!
+0x0000006c Tämä on ashonasten reviiri! Ei troopien!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000006d Hei! Häivy meidän reviiriltä! NYT!
+0x0000006e Hei, sinä! Pois meidän reviiriltä!
+0x0000006f Etkö tiedä, mikä reviiri on? Reviiri on yksityisalue ja tämä on MEIDÄN yksityisalue!
+0x00000070 Tämä on ashonasten reviiri! Ei troopien!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000071 Hei! Häivy meidän reviiriltä! NYT!
+0x00000072 Hei, sinä! Pois meidän reviiriltä!
+0x00000073 Etkö tiedä, mikä reviiri on? Reviiri on yksityisalue ja tämä on MEIDÄN yksityisalue!
+0x00000074 Tämä on ashonasten reviiri! Ei troopien!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000075 Hei! Häivy meidän reviiriltä! NYT!
+0x00000076 Hei, sinä! Pois meidän reviiriltä!
+0x00000077 Etkö tiedä, mikä reviiri on? Reviiri on yksityisalue ja tämä on MEIDÄN yksityisalue!
+0x00000078 Tämä on ashonasten reviiri! Ei troopien!
+
+# Inspect for Act 6
+
+0x00000079 Birds Ambience 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000007a Klezmer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000007b Bluegrass
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000007c Bäämylä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000007d Tämä bäämylä eksyi pesäpielusten luokse ja pesäpielukset päättivät liittoutua sen kanssa.
+0x0000007e Troopa: Morjens, kamu!
+0x0000007f Bää?
+0x00000080 Troopa: ...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000081 Tämä bäämylä eksyi pesäpielusten luokse ja pesäpielukset päättivät liittoutua sen kanssa.
+0x00000082 Troopa: Morjens, kamu!
+0x00000083 Bää?
+0x00000084 Troopa: ...
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000085 Tämä bäämylä eksyi pesäpielusten luokse ja pesäpielukset päättivät liittoutua sen kanssa.
+0x00000086 Troopa: Morjens, kamu!
+0x00000087 Bää?
+0x00000088 Troopa: ...
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000089 Tämä bäämylä eksyi pesäpielusten luokse ja pesäpielukset päättivät liittoutua sen kanssa.
+0x0000008a Troopa: Morjens, kamu!
+0x0000008b Bää?
+0x0000008c Troopa: ...
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000008d Tämä bäämylä eksyi pesäpielusten luokse ja pesäpielukset päättivät liittoutua sen kanssa.
+0x0000008e Troopa: Morjens, kamu!
+0x0000008f Bää?
+0x00000090 Troopa: ...
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000091 Tämä bäämylä eksyi pesäpielusten luokse ja pesäpielukset päättivät liittoutua sen kanssa.
+0x00000092 Troopa: Morjens, kamu!
+0x00000093 Bää?
+0x00000094 Troopa: ...
+

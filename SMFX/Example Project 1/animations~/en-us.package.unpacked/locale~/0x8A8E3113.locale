@@ -1,0 +1,670 @@
+0x00000001 Trooba Localization Test
+0x00000002 Trooba & Hivehat ~br~ Part 1 ~br~ ~br~Trooba has dreamt of leaving his nest and exploring the world ever since he was a child. Now he's old enough to do so, but he still needs his parents' permission...
+
+# Intro text
+0x00000003 Trooba is a trooba named after his species. He has dreamt of exploring the world and is now old enough to do so, but he still needs his caretakers' permission to leave...
+
+# Win text
+0x00000004 And so began Trooba's and Hivehat's adventures together. Their deeds will soon effect the whole galaxy... ~br~ To be continued...
+
+# Lose text
+0x00000005 And so ended Trooba's adventures even before they truly began. Do you want to try again?
+
+# Act 1
+0x00000006 Seeking a permission...
+0x00000007 Trooba needs a permission before he can leave the nest. Talk to the Alpha. If that doesn't work, try asking your parents.
+
+# Goal 1
+0x00000008 Aah, it's our little Trooba! How are you doing, sonny?
+0x00000009 Trooba: I was planning to go on a journey, but I still need your permission. Can I go?
+0x0000000a Well, uhm... You should ask your parents for that. These things aren't exactly my thing, you see? 
+0x0000000b Trooba: So I just need to ask my parents, right? No need for your permission?
+0x0000000c Well, that could also be seen like that. Good luck on your journey, Trooba! May fate be with you!
+
+# Goal 2
+0x0000000d Well, if it isn't our firstborn son, Trooba! You're grown so much during all these years! We still remember how you hatched from your egg! We were so happy! 
+0x0000000e By the way, what was it you wanted to say?
+0x0000000f Trooba: Alpha said that I need your permission to leave the nest to explore the world. Can I do it, please?
+0x00000010 Hmm, we need to negotiate this a bit... Wait right there...
+0x00000011 All right! We decided that you can go! Good luck on your journey! We're counting on you, our little Trooba!
+
+
+# Act 2
+0x00000012 Let's go!
+0x00000013 Trooba: I can't believe that they just let me go! They must understand me pretty well! Well, there must be some other creatures nearby. Let's befriend those!
+
+# Goal 1
+0x00000014 A new creature! It looks like it just came from the water! Let's befriend it!
+
+# Goal 2
+
+
+# Act 3
+0x00000015 The Journey goes on...
+0x00000016 Trooba: I got DNA points! Now I can go on! Maybe I could go to that nearby forest. There must be lots of creatures there!
+
+# Goal 1
+0x00000017 This species doesn't look friendly at all! Better run away!
+0x00000018 Hey, you! Get out of our forest! NOW!
+0x00000019 Trooba: All right, all right, I'll go! (Sheesh, how rude!)
+
+
+# Act 4
+0x0000001a Run away!
+0x0000001b Ashonases don't like strangers in their forest! Better run away from them! Maybe there's some more species downriver...
+
+# Goal 1
+0x0000001c Hmm... Who are you then?
+0x0000001d Trooba? One of those species from the mountain valleys inland? You want to ally with us?
+0x0000001e All right! Impress us with your social skills, so we can judge if you are worthy allies!
+0x0000001f BUT! If you attack us, you will regret it for the rest of your life! For your information, we Hivehats are fierce battle-hardened fighters! We won't give up easily!
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 5
+0x00000020 A Cheerful Boy
+0x00000021 The alphas' firstborn son wants to go with you! His name is Hivehat, as he was also named after his species! Talk to him and add him to your posse!
+
+# Goal 1
+0x00000022 Hello, my name is Hivehat! You must be that Trooba that came to our nest, right? I would want to go with you on your journey! Is that okay for you?
+0x00000023 Trooba: Of course! I welcome every species to my adventure! You're welcome too, Hivehat!
+0x00000024 Thank you! Pa, Ma, can I go with Trooba on his adventure?
+0x00000025 Hivehat's parents: Yes, you can. You're now old enough that you can take care of yourself. 
+0x00000026 Thank you! I love you both! You're the best! Trooba! Add me to your posse so that we can leave!
+
+# Goal 2
+
+
+# Act 6
+0x00000027 The Beginning of a New Adventure
+0x00000028 You've made best friends with Hivehat, the son of the alphas! Talk to him before you leave the nest!
+
+# Goal 1
+0x00000029 Trooba, think about the possibilities! We could find almost anything!
+0x0000002a Lots of new locations, new races, epics, those smart people, or even monoliths! The world is at our next footstep!
+0x0000002b Trooba: Wow, that's really cool! Well, what are we waiting for? Let's go!
+0x0000002c Wait a moment! My parents say that it's too late in the night to go anywhere. We should wait until tomorrow morning. Is it alright to you?
+0x0000002d Trooba: Well, it's alright. We can wait until tomorrow. I also feel a bit tired. Good night, Hivehat!
+
+
+0x0000002e Nestling Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000002f Nest Small
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000030 Alpha Trooba
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000031 Bollywood
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000032 Trooba's parents
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000033 Trooba
+
+# Chatter for Act 1
+0x00000034 Did you hear? The young Trooba is leaving home
+0x00000035 Oh, really? I wish him good luck, then!
+0x00000036 I hope nothing happens to him...
+0x00000037 Aren't those babies adorable?
+0x00000038 Is that so? Trooba is really leaving to fulfill his dreams?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000039 Did you hear? The young Trooba is leaving home
+0x0000003a Oh, really? I wish him good luck, then!
+0x0000003b I hope nothing happens to him...
+0x0000003c Aren't those babies adorable?
+0x0000003d Is that so? Trooba is really leaving to fulfill his dreams?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000003e Did you hear? The young Trooba is leaving home
+0x0000003f Oh, really? I wish him good luck, then!
+0x00000040 I hope nothing happens to him...
+0x00000041 Aren't those babies adorable?
+0x00000042 Is that so? Trooba is really leaving to fulfill his dreams?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000043 Did you hear? The young Trooba is leaving home
+0x00000044 Oh, really? I wish him good luck, then!
+0x00000045 I hope nothing happens to him...
+0x00000046 Aren't those babies adorable?
+0x00000047 Is that so? Trooba is really leaving to fulfill his dreams?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000048 Did you hear? The young Trooba is leaving home
+0x00000049 Oh, really? I wish him good luck, then!
+0x0000004a I hope nothing happens to him...
+0x0000004b Aren't those babies adorable?
+0x0000004c Is that so? Trooba is really leaving to fulfill his dreams?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000004d Did you hear? The young Trooba is leaving home
+0x0000004e Oh, really? I wish him good luck, then!
+0x0000004f I hope nothing happens to him...
+0x00000050 Aren't those babies adorable?
+0x00000051 Is that so? Trooba is really leaving to fulfill his dreams?
+
+# Inspect for Act 6
+
+0x00000052 Baby Trooba
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000053 Egg Groovy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000054 Hivehat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000055 Alpha Hivehat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000056 If you attack our children, you will regret it!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000057 If you attack our children, you will regret it!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000058 If you attack our children, you will regret it!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000059 If you attack our children, you will regret it!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000005a If you attack our children, you will regret it!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000005b If you attack our children, you will regret it!
+
+0x0000005c Baby Hivehat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000005d Hivehat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000005e Egg Happy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000005f Batzu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x00000060 Ashonas
+
+# Chatter for Act 1
+0x00000061 Hey, get out of our territory, NOW!
+0x00000062 Hey, you! Get out of our territory!
+0x00000063 This is our forest, and we don't like trespassers!
+0x00000064 Did you not read our sign? "Trespassers will be eaten!"
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000065 Hey, get out of our territory, NOW!
+0x00000066 Hey, you! Get out of our territory!
+0x00000067 This is our forest, and we don't like trespassers!
+0x00000068 Did you not read our sign? "Trespassers will be eaten!"
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000069 Hey, get out of our territory, NOW!
+0x0000006a Hey, you! Get out of our territory!
+0x0000006b This is our forest, and we don't like trespassers!
+0x0000006c Did you not read our sign? "Trespassers will be eaten!"
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000006d Hey, get out of our territory, NOW!
+0x0000006e Hey, you! Get out of our territory!
+0x0000006f This is our forest, and we don't like trespassers!
+0x00000070 Did you not read our sign? "Trespassers will be eaten!"
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000071 Hey, get out of our territory, NOW!
+0x00000072 Hey, you! Get out of our territory!
+0x00000073 This is our forest, and we don't like trespassers!
+0x00000074 Did you not read our sign? "Trespassers will be eaten!"
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000075 Hey, get out of our territory, NOW!
+0x00000076 Hey, you! Get out of our territory!
+0x00000077 This is our forest, and we don't like trespassers!
+0x00000078 Did you not read our sign? "Trespassers will be eaten!"
+
+# Inspect for Act 6
+
+0x00000079 Birds Ambience 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000007a Klezmer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000007b Bluegrass
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+0x0000007c Spoffit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000007d This spoffit got lost here and the Hivehats decided to ally with it.
+0x0000007e Trooba: Hello there, buddy!
+0x0000007f Baa?
+0x00000080 Trooba: ...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000081 This spoffit got lost here and the Hivehats decided to ally with it.
+0x00000082 Trooba: Hello there, buddy!
+0x00000083 Baa?
+0x00000084 Trooba: ...
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000085 This spoffit got lost here and the Hivehats decided to ally with it.
+0x00000086 Trooba: Hello there, buddy!
+0x00000087 Baa?
+0x00000088 Trooba: ...
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000089 This spoffit got lost here and the Hivehats decided to ally with it.
+0x0000008a Trooba: Hello there, buddy!
+0x0000008b Baa?
+0x0000008c Trooba: ...
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000008d This spoffit got lost here and the Hivehats decided to ally with it.
+0x0000008e Trooba: Hello there, buddy!
+0x0000008f Baa?
+0x00000090 Trooba: ...
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000091 This spoffit got lost here and the Hivehats decided to ally with it.
+0x00000092 Trooba: Hello there, buddy!
+0x00000093 Baa?
+0x00000094 Trooba: ...
+
