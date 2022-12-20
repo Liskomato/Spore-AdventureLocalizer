@@ -95,9 +95,9 @@ void UnLocalizeAdventure::ParseLine(const ArgScript::Line& line)
 const char* UnLocalizeAdventure::GetDescription(ArgScript::DescriptionMode mode) const
 {
 	if (mode == ArgScript::DescriptionMode::Basic) {
-		return "This cheat does something.";
+		return "Unlocalizes adventure text.";
 	}
 	else {
-		return "UnLocalizeAdventure: Elaborate description of what this cheat does.";
+		return "UnLocalizeAdventure: Converts a localized adventure into an unlocalized one. Text is based on current game locale. Requires saving the adventure afterwards.";
 	}
 }

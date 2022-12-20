@@ -23,7 +23,7 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 
 		// Get the filepath
 		string16 path = Resource::Paths::GetDirFromID(Resource::PathID::Creations);
-		string16 folder = u"\\Locales\\";
+		string16 folder = u"Locales/";
 
 		path += folder;
 
@@ -32,15 +32,22 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 		}
 
 		// Get name and description of the adventure
-		string16 name = ScenarioMode.GetData()->mName, description = ScenarioMode.GetData()->mDescription;
-
+		string16 name, description;
+		if (ScenarioMode.GetData()->mName != u"")
+			name = ScenarioMode.GetData()->mName, description = ScenarioMode.GetData()->mDescription;
+		else {
+			App::ConsolePrintF("The adventure requires a name first.");
+			return;
+		}
 		// Final filepath
 		string16 filename = path + name + u".locale";
 
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
-		data.append_sprintf(u"%#010x %ls\n", stringCount, name);
+		data.append_sprintf(u"# Auto-generated localization file for: %ls (ID: %#X)\n", name.c_str(), id(name.c_str()));
+
+		data.append_sprintf(u"# Adventure name\n%#010x %ls\n\n", stringCount, name);
 		stringCount++;
-		data.append_sprintf(u"%#010x %ls\n\n", stringCount, description);
+		data.append_sprintf(u"# Adventure description\n%#010x %ls\n\n", stringCount, description);
 		stringCount++;
 
 		data.append_sprintf(u"# Intro text\n");
@@ -95,22 +102,22 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 		for (auto& classObject : classes) {
 			// Object name
 			if (classObject.second.mCastName.mNonLocalizedString != u"")
-				data.append_sprintf(u"%#010x %ls\n\n", stringCount, classObject.second.mCastName.mNonLocalizedString);
+				data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, classObject.second.mCastName.mNonLocalizedString.c_str(), stringCount, classObject.second.mCastName.mNonLocalizedString.c_str());
 			else {
 				cAssetMetadataPtr metadata;
 				PropertyListPtr propList;
 				LocalizedString str;
 				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, metadata))
-					data.append_sprintf(u"%#010x %ls\n\n", stringCount, metadata->GetName());
+					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, metadata->GetName().c_str(), stringCount, metadata->GetName().c_str());
 
 				else if (PropManager.GetPropertyList(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, propList)
 					&& App::Property::GetText(propList.get(), 0x071E9BD1, str))
 				{
-					data.append_sprintf(u"%#010x %ls\n\n", stringCount, str.GetText());
+					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, str.GetText(), stringCount, str.GetText());;
 				}
 				else {
 					App::ConsolePrintF("Name data for asset %#010x could not be found - Leaving name blank.", stringCount);
-					data.append_sprintf(u"%#010x \n\n", stringCount);
+					data.append_sprintf(u"# Prop #%u\n%#010x \n\n", stringCount, stringCount);
 				}
 			}
 			stringCount++;
@@ -142,11 +149,13 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 			}
 		}
 
+		
+
 		FileStreamPtr stream = new IO::FileStream(filename.c_str());
 		if (stream->Open(IO::AccessFlags::ReadWrite, IO::CD::CreateAlways)) {
-			stream->Write(data.c_str(), data.size() * 2);
+			stream->Write(data.c_str(), data.size()*2);
 			stream->Close();
-			App::ConsolePrintF("Data written successfully.");
+			App::ConsolePrintF("Locale file written successfully. It can be found at %ls\nID: %#X", path.c_str(), id(name.c_str()));
 		}
 	}
 }
@@ -154,9 +163,9 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 const char* SaveAdventureLocale::GetDescription(ArgScript::DescriptionMode mode) const
 {
 	if (mode == ArgScript::DescriptionMode::Basic) {
-		return "This cheat does something.";
+		return "Prints out locale file for adventure.";
 	}
 	else {
-		return "SaveAdventureLocale: Elaborate description of what this cheat does.";
+		return "SaveAdventureLocale: Saves a locale file (formatted UTF-16) containing the adventure text. Does not localize the adventure, unlike localizeAdventure";
 	}
 }

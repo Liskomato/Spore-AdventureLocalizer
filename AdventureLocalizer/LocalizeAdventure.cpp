@@ -30,7 +30,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		// Get the filepath
 		string16 path = Resource::Paths::GetDirFromID(Resource::PathID::Creations);
-		string16 folder = u"\\Locales\\";
+		string16 folder = u"Locales/";
 
 		path += folder;
 
@@ -41,15 +41,22 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		
 
 		// Get name and description of the adventure
-		string16 name = ScenarioMode.GetData()->mName, description = ScenarioMode.GetData()->mDescription;
-		
+		string16 name, description;
+		if (ScenarioMode.GetData()->mName != u"")
+		name = ScenarioMode.GetData()->mName, description = ScenarioMode.GetData()->mDescription;
+		else {
+			App::ConsolePrintF("The adventure requires a name first.");
+			return;
+		}
 		// Final filepath
 		string16 filename = path + name + u".locale";
 
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
-		data.append_sprintf(u"%#010x %ls\n",stringCount,name);
+		data.append_sprintf(u"# Auto-generated localization file for: %ls (ID: %#X)\n",name.c_str(), id(name.c_str()));
+
+		data.append_sprintf(u"# Adventure name\n%#010x %ls\n\n",stringCount,name);
 		stringCount++;
-		data.append_sprintf(u"%#010x %ls\n\n", stringCount, description);
+		data.append_sprintf(u"# Adventure description\n%#010x %ls\n\n", stringCount, description);
 		stringCount++;
 
 		data.append_sprintf(u"# Intro text\n");
@@ -122,7 +129,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		for (auto& classObject : classes) {
 			// Object name
 			if (classObject.second.mCastName.mNonLocalizedString != u"") {
-				data.append_sprintf(u"%#010x %ls\n\n", stringCount, classObject.second.mCastName.mNonLocalizedString);
+				data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, classObject.second.mCastName.mNonLocalizedString.c_str(), stringCount, classObject.second.mCastName.mNonLocalizedString.c_str());
 				classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 				classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				classObject.second.mCastName.mNonLocalizedString = u"";
@@ -132,20 +139,20 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				PropertyListPtr propList;
 				LocalizedString str;
 				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, metadata)) {
-					data.append_sprintf(u"%#010x %ls\n\n", stringCount, metadata->GetName());
+					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, metadata->GetName().c_str(), stringCount, metadata->GetName().c_str());
 					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
 				else if (PropManager.GetPropertyList(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, propList)
 					&& App::Property::GetText(propList.get(), 0x071E9BD1, str))
 				{
-					data.append_sprintf(u"%#010x %ls\n\n", stringCount, str.GetText());
+					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, str.GetText(),stringCount, str.GetText());
 					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
 				else {
 					App::ConsolePrintF("Name data for asset %#010x could not be found - Leaving name blank.",stringCount);
-					data.append_sprintf(u"%#010x \n\n",stringCount);
+					data.append_sprintf(u"# Prop #%u\n%#010x \n\n",stringCount,stringCount);
 					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
@@ -186,14 +193,16 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		}
 
 		ScenarioMode.GetData()->CommitHistoryEntry();
+		
 
 		FileStreamPtr stream = new IO::FileStream(filename.c_str());
 		if (stream->Open(IO::AccessFlags::ReadWrite,IO::CD::CreateAlways)) {
 			stream->Write(data.c_str(),data.size()*2);
 			stream->Close();
-			App::ConsolePrintF("Data written successfully.");
+			App::ConsolePrintF("Locale file written successfully. It can be found at %ls\nID: %#X", path.c_str(), id(name.c_str()));
+			App::ConsolePrintF("Save the adventure, quit the game, find the resulted locale file, convert it to UTF-8 and pack it into a mod with SporeModder FX for the localization to take effect.\nNOTE: MAKE SURE the locale file has the same name or ID as the adventure!");
 		}
-		App::ConsolePrintF("Adventure localized successfully. Save the adventure, quit the game and pack the resulted locale file (found in %ls) into a mod for the localization to take effect.",path.c_str());
+		
 	}
 	else App::ConsolePrintF("You have to be in adventure edit mode to use this cheat.");
 }
@@ -201,10 +210,10 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 const char* LocalizeAdventure::GetDescription(ArgScript::DescriptionMode mode) const
 {
 	if (mode == ArgScript::DescriptionMode::Basic) {
-		return "This cheat does something.";
+		return "Converts an adventure into a localized version.";
 	}
 	else {
-		return "LocalizeAdventure: Elaborate description of what this cheat does.";
+		return "LocalizeAdventure: Converts adventure's text into a localized version, and saves a locale file (formatted UTF-16) containing the text to the hard drive. Requires saving the adventure afterwards.";
 	}
 }
 
