@@ -33,7 +33,7 @@ Get Spore ModAPI Launcher Kit from here: http://davoonline.com/sporemodder/rob55
         (`en-us` and `fi-fi` correspond to language locales Spore uses, check which language code your game uses and adjust accordingly)
         ![](MultilingualAdventureProject.png)
     * If you no plans regarding translation, having this project layout is also fine (though not recommended in terms of compatibility):
-        ![](OldschoolLocale.png)
+    ![](OldschoolLocale.png)
 5. Once you've done setting up your project in SporeModder FX, pack the mod and run the game again. Make sure the package has enough priority so it doesn't get overridden by other mods. If needed, set the package signature to `GA Patch 5.1` in the project settings inside SporeModder FX. 
     * Load the adventure you localized. It should display the new contents of your locale file inside the adventure, depending on the game's language.
 6. Currently localized adventures cannot be shared to the official Spore servers. I mean, you *could* try, but all your players would see are a bunch of `***` characters, as they would need the mod you just created to view and play the adventure correctly.
