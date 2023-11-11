@@ -4,6 +4,8 @@
 #include "LocalizeAdventure.h"
 #include <string>
 #include <sstream>
+#include <locale>
+#include <codecvt>
 #include <Spore/Resource/Paths.h>
 #include <Spore\Properties.h>
 
@@ -40,10 +42,15 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 		
 
-		// Get name and description of the adventure
-		string16 name, description;
-		if (ScenarioMode.GetData()->mName != u"")
-		name = ScenarioMode.GetData()->mName, description = ScenarioMode.GetData()->mDescription;
+		// Get name, author, tags and description of the adventure
+		string16 name, description, tags, author = u"";
+		cAssetMetadataPtr metadata;
+		if (ScenarioMode.GetData()->mName != u"") {
+			name = ScenarioMode.GetData()->mName, description = ScenarioMode.GetData()->mDescription, tags = ScenarioMode.GetData()->mTags;
+			if (Pollinator::GetMetadata(resource->GetResourceKey().instanceID, resource->GetResourceKey().groupID, metadata)) {
+				author = metadata->GetAuthor();
+			}
+		}
 		else {
 			App::ConsolePrintF("The adventure requires a name first.");
 			return;
@@ -54,32 +61,39 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
 		data.append_sprintf(u"# Auto-generated localization file for: %ls (ID: %#X)\n",name.c_str(), id(name.c_str()));
 
+		data.append_sprintf(u"# Author\n%#010x %ls\n\n", stringCount, author);
+		stringCount++;
 		data.append_sprintf(u"# Adventure name\n%#010x %ls\n\n",stringCount,name);
 		stringCount++;
 		data.append_sprintf(u"# Adventure description\n%#010x %ls\n\n", stringCount, description);
 		stringCount++;
-
-		data.append_sprintf(u"# Intro text\n");
-		data.append_sprintf(u"%#010x %ls\n\n",stringCount, resource->mIntroText.mNonLocalizedString);
-		resource->mIntroText.mLocalizedStringInstanceID = stringCount;
-		resource->mIntroText.mLocalizedStringTableID = id(name.c_str());
-		resource->mIntroText.mNonLocalizedString = u"";
+		data.append_sprintf(u"# Adventure tags\n%#010x %ls\n\n", stringCount, tags);
 		stringCount++;
 
-		data.append_sprintf(u"# Win text\n");
-		data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString);
-		resource->mWinText.mLocalizedStringInstanceID = stringCount;
-		resource->mWinText.mLocalizedStringTableID = id(name.c_str());
-		resource->mWinText.mNonLocalizedString = u"";
-		stringCount++;
-
-		data.append_sprintf(u"# Lose text\n");
-		data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
-		resource->mLoseText.mLocalizedStringInstanceID = stringCount;
-		resource->mLoseText.mLocalizedStringTableID = id(name.c_str());
-		resource->mLoseText.mNonLocalizedString = u"";
-		stringCount++;
-
+		if (resource->mIntroText.mNonLocalizedString != u"") {
+			data.append_sprintf(u"# Intro text\n");
+			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mIntroText.mNonLocalizedString);
+			resource->mIntroText.mLocalizedStringInstanceID = stringCount;
+			resource->mIntroText.mLocalizedStringTableID = id(name.c_str());
+			resource->mIntroText.mNonLocalizedString = u"";
+			stringCount++;
+		}
+		if (resource->mWinText.mNonLocalizedString != u"") {
+			data.append_sprintf(u"# Win text\n");
+			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString);
+			resource->mWinText.mLocalizedStringInstanceID = stringCount;
+			resource->mWinText.mLocalizedStringTableID = id(name.c_str());
+			resource->mWinText.mNonLocalizedString = u"";
+			stringCount++;
+		}
+		if (resource->mLoseText.mNonLocalizedString != u"") {
+			data.append_sprintf(u"# Lose text\n");
+			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
+			resource->mLoseText.mLocalizedStringInstanceID = stringCount;
+			resource->mLoseText.mLocalizedStringTableID = id(name.c_str());
+			resource->mLoseText.mNonLocalizedString = u"";
+			stringCount++;
+		}
 		auto& acts = resource->mActs;
 		auto& classes = resource->mClasses;
 		uint32_t actCount = 1;
@@ -90,35 +104,40 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			data.append_sprintf(u"# Act %d\n",actCount);
 
 			// Act name
-			data.append_sprintf(u"%#010x %ls\n",stringCount,act.mName.mNonLocalizedString);
-			act.mName.mLocalizedStringInstanceID = stringCount;
-			act.mName.mLocalizedStringTableID = id(name.c_str());
-			act.mName.mNonLocalizedString = u"";
-			stringCount++;
+			if (act.mName.mNonLocalizedString != u"") {
+				data.append_sprintf(u"%#010x %ls\n", stringCount, act.mName.mNonLocalizedString);
+				act.mName.mLocalizedStringInstanceID = stringCount;
+				act.mName.mLocalizedStringTableID = id(name.c_str());
+				act.mName.mNonLocalizedString = u"";
+				stringCount++;
+			}
 
 			// Act description
-			data.append_sprintf(u"%#010x %ls\n\n",stringCount, act.mDescription.mNonLocalizedString);
-			act.mDescription.mLocalizedStringInstanceID = stringCount;
-			act.mDescription.mLocalizedStringTableID = id(name.c_str());
-			act.mDescription.mNonLocalizedString = u"";
-			stringCount++;
+			if (act.mDescription.mNonLocalizedString != u"") {
+				data.append_sprintf(u"%#010x %ls\n\n", stringCount, act.mDescription.mNonLocalizedString);
+				act.mDescription.mLocalizedStringInstanceID = stringCount;
+				act.mDescription.mLocalizedStringTableID = id(name.c_str());
+				act.mDescription.mNonLocalizedString = u"";
+				stringCount++;
+			}
 
 			// Act goals
 			goalCount = 1;
 
 			for (auto& goal : act.mGoals) {
-				
-				data.append_sprintf(u"# Goal %d\n",goalCount);
-				for (auto& dialog : goal.mDialogs) {
-					if (dialog.mText.mNonLocalizedString != u"") {
-						data.append_sprintf(u"%#010x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
-						dialog.mText.mLocalizedStringInstanceID = stringCount;
-						dialog.mText.mLocalizedStringTableID = id(name.c_str());
-						dialog.mText.mNonLocalizedString = u"";
-						stringCount++;
+				if (goal.mType == Simulator::ScenarioGoalType::TalkTo) {
+					data.append_sprintf(u"# Goal %d\n", goalCount);
+					for (auto& dialog : goal.mDialogs) {
+						if (dialog.mText.mNonLocalizedString != u"") {
+							data.append_sprintf(u"%#010x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
+							dialog.mText.mLocalizedStringInstanceID = stringCount;
+							dialog.mText.mLocalizedStringTableID = id(name.c_str());
+							dialog.mText.mNonLocalizedString = u"";
+							stringCount++;
+						}
 					}
+					data.append_sprintf(u"\n");
 				}
-				data.append_sprintf(u"\n");
 				goalCount++;
 			}
 			data.append_sprintf(u"\n");
@@ -126,10 +145,12 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			actCount++;
 		}
 
+		uint32_t classCount = 1;
+
 		for (auto& classObject : classes) {
 			// Object name
 			if (classObject.second.mCastName.mNonLocalizedString != u"") {
-				data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, classObject.second.mCastName.mNonLocalizedString.c_str(), stringCount, classObject.second.mCastName.mNonLocalizedString.c_str());
+				data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", classCount, classObject.second.mCastName.mNonLocalizedString.c_str(), stringCount, classObject.second.mCastName.mNonLocalizedString.c_str());
 				classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 				classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				classObject.second.mCastName.mNonLocalizedString = u"";
@@ -139,20 +160,20 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				PropertyListPtr propList;
 				LocalizedString str;
 				if (Pollinator::GetMetadata(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, metadata)) {
-					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, metadata->GetName().c_str(), stringCount, metadata->GetName().c_str());
+					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", classCount, metadata->GetName().c_str(), stringCount, metadata->GetName().c_str());
 					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
 				else if (PropManager.GetPropertyList(classObject.second.mAsset.mKey.instanceID, classObject.second.mAsset.mKey.groupID, propList)
 					&& App::Property::GetText(propList.get(), 0x071E9BD1, str))
 				{
-					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", stringCount, str.GetText(),stringCount, str.GetText());
+					data.append_sprintf(u"# Prop #%u - %ls\n%#010x %ls\n\n", classCount, str.GetText(),stringCount, str.GetText());
 					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
 				else {
-					App::ConsolePrintF("Name data for asset %#010x could not be found - Leaving name blank.",stringCount);
-					data.append_sprintf(u"# Prop #%u\n%#010x \n\n",stringCount,stringCount);
+					App::ConsolePrintF("Name data for asset %u could not be found - Leaving name blank.", classCount);
+					data.append_sprintf(u"# Prop #%u\n%#010x \n\n", classCount,stringCount);
 					classObject.second.mCastName.mLocalizedStringInstanceID = stringCount;
 					classObject.second.mCastName.mLocalizedStringTableID = id(name.c_str());
 				}
@@ -162,45 +183,54 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 			for (auto& act : classObject.second.mActs) {
 				// Object chatter
-				data.append_sprintf(u"# Chatter for Act %d\n",actCount);
+				if (act.mDialogsChatter.size() != 0) {
+					data.append_sprintf(u"# Chatter for Act %d\n", actCount);
 
-				for (auto& chatter : act.mDialogsChatter) {
-					if (chatter.mText.mNonLocalizedString != u"") {
-						data.append_sprintf(u"%#010x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
-						chatter.mText.mLocalizedStringInstanceID = stringCount;
-						chatter.mText.mLocalizedStringTableID = id(name.c_str());
-						chatter.mText.mNonLocalizedString = u"";
-						stringCount++;
+					for (auto& chatter : act.mDialogsChatter) {
+						if (chatter.mText.mNonLocalizedString != u"") {
+							data.append_sprintf(u"%#010x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
+							chatter.mText.mLocalizedStringInstanceID = stringCount;
+							chatter.mText.mLocalizedStringTableID = id(name.c_str());
+							chatter.mText.mNonLocalizedString = u"";
+							stringCount++;
+						}
 					}
+					data.append_sprintf(u"\n");
 				}
-				data.append_sprintf(u"\n");
 
 				// Object inspect
-				data.append_sprintf(u"# Inspect for Act %d\n", actCount);
+				if (act.mDialogsInspect.size() != 0) {
+					data.append_sprintf(u"# Inspect for Act %d\n", actCount);
 
-				for (auto& inspect : act.mDialogsInspect) {
-					if (inspect.mText.mNonLocalizedString != u"") {
-						data.append_sprintf(u"%#010x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
-						inspect.mText.mLocalizedStringInstanceID = stringCount;
-						inspect.mText.mLocalizedStringTableID = id(name.c_str());
-						inspect.mText.mNonLocalizedString = u"";
-						stringCount++;
+					for (auto& inspect : act.mDialogsInspect) {
+						if (inspect.mText.mNonLocalizedString != u"") {
+							data.append_sprintf(u"%#010x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
+							inspect.mText.mLocalizedStringInstanceID = stringCount;
+							inspect.mText.mLocalizedStringTableID = id(name.c_str());
+							inspect.mText.mNonLocalizedString = u"";
+							stringCount++;
+						}
 					}
+					data.append_sprintf(u"\n");
 				}
-				data.append_sprintf(u"\n");
 				actCount++;
 			}
+			classCount++;
 		}
 
 		ScenarioMode.GetData()->CommitHistoryEntry();
 		
+		// The following two lines of code change our script into UTF-8 encoding, which Spore can read later when it is loaded into a database file.
+		std::wstring_convert<std::codecvt_utf8_utf16<char16_t>, char16_t> conv;
+		std::string utf8string = conv.to_bytes(data.c_str());
+
 
 		FileStreamPtr stream = new IO::FileStream(filename.c_str());
 		if (stream->Open(IO::AccessFlags::ReadWrite,IO::CD::CreateAlways)) {
-			stream->Write(data.c_str(),data.size()*2);
+			stream->Write(utf8string.c_str(),utf8string.size());
 			stream->Close();
 			App::ConsolePrintF("Locale file written successfully. It can be found at %ls\nID: %#X", path.c_str(), id(name.c_str()));
-			App::ConsolePrintF("Save the adventure, quit the game, find the resulted locale file, convert it to UTF-8 and pack it into a mod with SporeModder FX for the localization to take effect.\nNOTE: MAKE SURE the locale file has the same name or ID as the adventure!");
+			App::ConsolePrintF("Save the adventure, quit the game, find the resulted locale file and pack it into a mod with SporeModder FX for the localization to take effect.\nNOTE: MAKE SURE to NOT change the locale file name unless to its FNV hash!");
 		}
 		
 	}
