@@ -182,8 +182,25 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			actCount = 1;
 
 			for (auto& act : classObject.second.mActs) {
+				bool foundChatter = false, foundInspect = false;
+				
+				// Check if chatter and inspect bubbles are filled.
+				for (auto& chatter : act.mDialogsChatter) {
+					if (chatter.mText.mNonLocalizedString != u"") {
+						foundChatter = true;
+						break;
+					}
+				}
+
+				for (auto& inspect : act.mDialogsInspect) {
+					if (inspect.mText.mNonLocalizedString != u"") {
+						foundInspect = true;
+						break;
+					}
+				}
+
 				// Object chatter
-				if (act.mDialogsChatter.size() != 0) {
+				if (foundChatter) {
 					data.append_sprintf(u"# Chatter for Act %d\n", actCount);
 
 					for (auto& chatter : act.mDialogsChatter) {
@@ -199,7 +216,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 				}
 
 				// Object inspect
-				if (act.mDialogsInspect.size() != 0) {
+				if (foundInspect) {
 					data.append_sprintf(u"# Inspect for Act %d\n", actCount);
 
 					for (auto& inspect : act.mDialogsInspect) {
