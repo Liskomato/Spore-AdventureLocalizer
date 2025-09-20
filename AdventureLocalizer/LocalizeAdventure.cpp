@@ -254,6 +254,23 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 	else App::ConsolePrintF("You have to be in adventure edit mode to use this cheat.");
 }
 
+string16 LocalizeAdventure::RemoveNewLines(string16 string) {
+	//string.replace(string.begin(),string.end(),u"\n",u"~br~");
+	
+	for (size_t i = 0; i < string.length(); i++) {
+		if (string.substr(i, 1) == u"\n") {
+			string.erase(i,1);
+			string.insert(i,u"~br~");
+		}
+		else if (string.substr(i,2) == u"\r\n") {
+			string.erase(i,2);
+			string.insert(i, u"~br~");
+		}
+	}
+
+	return string;
+}
+
 const char* LocalizeAdventure::GetDescription(ArgScript::DescriptionMode mode) const
 {
 	if (mode == ArgScript::DescriptionMode::Basic) {

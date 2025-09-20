@@ -206,6 +206,22 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 		}
 	}
 }
+string16 SaveAdventureLocale::RemoveNewLines(string16 string) {
+	//string.replace(string.begin(),string.end(),u"\n",u"~br~");
+
+	for (size_t i = 0; i < string.length(); i++) {
+		if (string.substr(i, 1) == u"\n") {
+			string.erase(i, 1);
+			string.insert(i, u"~br~");
+		}
+		else if (string.substr(i, 2) == u"\r\n") {
+			string.erase(i, 2);
+			string.insert(i, u"~br~");
+		}
+	}
+
+	return string;
+}
 
 const char* SaveAdventureLocale::GetDescription(ArgScript::DescriptionMode mode) const
 {
