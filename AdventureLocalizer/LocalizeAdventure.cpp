@@ -58,6 +58,8 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		// Final filepath
 		string16 filename = path + name + u".locale";
 
+		RemoveNewLines(description);
+
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
 		data.append_sprintf(u"# Auto-generated localization file for: %ls (ID: %#X)\n",name.c_str(), id(name.c_str()));
 
@@ -71,6 +73,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 		stringCount++;
 
 		if (resource->mIntroText.mNonLocalizedString != u"") {
+			RemoveNewLines(resource->mIntroText.mNonLocalizedString);
 			data.append_sprintf(u"# Intro text\n");
 			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mIntroText.mNonLocalizedString);
 			resource->mIntroText.mLocalizedStringInstanceID = stringCount;
@@ -79,6 +82,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			stringCount++;
 		}
 		if (resource->mWinText.mNonLocalizedString != u"") {
+			RemoveNewLines(resource->mWinText.mNonLocalizedString);
 			data.append_sprintf(u"# Win text\n");
 			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString);
 			resource->mWinText.mLocalizedStringInstanceID = stringCount;
@@ -87,6 +91,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			stringCount++;
 		}
 		if (resource->mLoseText.mNonLocalizedString != u"") {
+			RemoveNewLines(resource->mWinText.mNonLocalizedString);
 			data.append_sprintf(u"# Lose text\n");
 			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
 			resource->mLoseText.mLocalizedStringInstanceID = stringCount;
@@ -114,6 +119,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 			// Act description
 			if (act.mDescription.mNonLocalizedString != u"") {
+				RemoveNewLines(act.mDescription.mNonLocalizedString);
 				data.append_sprintf(u"%#010x %ls\n\n", stringCount, act.mDescription.mNonLocalizedString);
 				act.mDescription.mLocalizedStringInstanceID = stringCount;
 				act.mDescription.mLocalizedStringTableID = id(name.c_str());
@@ -129,6 +135,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 					data.append_sprintf(u"# Goal %d\n", goalCount);
 					for (auto& dialog : goal.mDialogs) {
 						if (dialog.mText.mNonLocalizedString != u"") {
+							RemoveNewLines(dialog.mText.mNonLocalizedString);
 							data.append_sprintf(u"%#010x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
 							dialog.mText.mLocalizedStringInstanceID = stringCount;
 							dialog.mText.mLocalizedStringTableID = id(name.c_str());
@@ -180,10 +187,18 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			}
 			stringCount++;
 			actCount = 1;
+			Simulator::cScenarioClassAct previousAct = classObject.second.mActs[0];
+			Simulator::cScenarioClassAct currentAct = previousAct;
+			Simulator::cScenarioClassAct previousActAfterLocalization;
 
 			for (auto& act : classObject.second.mActs) {
 				bool foundChatter = false, foundInspect = false;
-				
+
+				if (actCount > 1) {
+					previousAct = currentAct;
+					currentAct = act;
+				}
+
 				// Check if chatter and inspect bubbles are filled.
 				for (auto& chatter : act.mDialogsChatter) {
 					if (chatter.mText.mNonLocalizedString != u"") {
@@ -199,21 +214,35 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 					}
 				}
 
+				int dialogueIndex = 0;
+
 				// Object chatter
 				if (foundChatter) {
 					data.append_sprintf(u"# Chatter for Act %d\n", actCount);
 
 					for (auto& chatter : act.mDialogsChatter) {
 						if (chatter.mText.mNonLocalizedString != u"") {
-							data.append_sprintf(u"%#010x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
-							chatter.mText.mLocalizedStringInstanceID = stringCount;
-							chatter.mText.mLocalizedStringTableID = id(name.c_str());
-							chatter.mText.mNonLocalizedString = u"";
-							stringCount++;
+							if (actCount > 1 && chatter.mText.mNonLocalizedString == previousAct.mDialogsChatter[dialogueIndex].mText.mNonLocalizedString) {
+								chatter.mText.mLocalizedStringInstanceID = previousActAfterLocalization.mDialogsChatter[dialogueIndex].mText.mLocalizedStringInstanceID;
+								chatter.mText.mLocalizedStringTableID = id(name.c_str());
+								chatter.mText.mNonLocalizedString = u"";
+							}
+							else {
+								RemoveNewLines(chatter.mText.mNonLocalizedString);
+								data.append_sprintf(u"%#010x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
+								chatter.mText.mLocalizedStringInstanceID = stringCount;
+								chatter.mText.mLocalizedStringTableID = id(name.c_str());
+								chatter.mText.mNonLocalizedString = u"";
+								stringCount++;
+							}
+							
 						}
+						dialogueIndex++;
 					}
 					data.append_sprintf(u"\n");
 				}
+
+				dialogueIndex = 0;
 
 				// Object inspect
 				if (foundInspect) {
@@ -221,15 +250,25 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 
 					for (auto& inspect : act.mDialogsInspect) {
 						if (inspect.mText.mNonLocalizedString != u"") {
-							data.append_sprintf(u"%#010x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
-							inspect.mText.mLocalizedStringInstanceID = stringCount;
-							inspect.mText.mLocalizedStringTableID = id(name.c_str());
-							inspect.mText.mNonLocalizedString = u"";
-							stringCount++;
+							if (actCount > 1 && inspect.mText.mNonLocalizedString == previousAct.mDialogsInspect[dialogueIndex].mText.mNonLocalizedString) {
+								inspect.mText.mLocalizedStringInstanceID = previousActAfterLocalization.mDialogsInspect[dialogueIndex].mText.mLocalizedStringInstanceID;
+								inspect.mText.mLocalizedStringTableID = id(name.c_str());
+								inspect.mText.mNonLocalizedString = u"";
+							}
+							else {
+								RemoveNewLines(inspect.mText.mNonLocalizedString);
+								data.append_sprintf(u"%#010x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
+								inspect.mText.mLocalizedStringInstanceID = stringCount;
+								inspect.mText.mLocalizedStringTableID = id(name.c_str());
+								inspect.mText.mNonLocalizedString = u"";
+								stringCount++;
+							}
 						}
+						dialogueIndex++;
 					}
 					data.append_sprintf(u"\n");
 				}
+				previousActAfterLocalization = act;
 				actCount++;
 			}
 			classCount++;
@@ -254,7 +293,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 	else App::ConsolePrintF("You have to be in adventure edit mode to use this cheat.");
 }
 
-string16 LocalizeAdventure::RemoveNewLines(string16 string) {
+void LocalizeAdventure::RemoveNewLines(string16& string) {
 	//string.replace(string.begin(),string.end(),u"\n",u"~br~");
 	
 	for (size_t i = 0; i < string.length(); i++) {
@@ -267,8 +306,6 @@ string16 LocalizeAdventure::RemoveNewLines(string16 string) {
 			string.insert(i, u"~br~");
 		}
 	}
-
-	return string;
 }
 
 const char* LocalizeAdventure::GetDescription(ArgScript::DescriptionMode mode) const

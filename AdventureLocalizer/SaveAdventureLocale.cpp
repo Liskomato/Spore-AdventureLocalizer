@@ -49,6 +49,8 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 		// Final filepath
 		string16 filename = path + name + u".locale";
 
+		RemoveNewLines(description);
+
 		// Written data goes to string16 data. Starts with adventure name as first instance ID.
 		data.append_sprintf(u"# Auto-generated localization file for: %ls (ID: %#X)\n", name.c_str(), id(name.c_str()));
 
@@ -62,18 +64,24 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 		stringCount++;
 
 		if (resource->mIntroText.mNonLocalizedString != u"") {
+			string16 introText = resource->mIntroText.mNonLocalizedString;
+			RemoveNewLines(introText);
 			data.append_sprintf(u"# Intro text\n");
-			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mIntroText.mNonLocalizedString);
+			data.append_sprintf(u"%#010x %ls\n\n", stringCount, introText);
 			stringCount++;
 		}
 		if (resource->mWinText.mNonLocalizedString != u"") {
+			string16 winText = resource->mWinText.mNonLocalizedString;
+			RemoveNewLines(resource->mWinText.mNonLocalizedString);
 			data.append_sprintf(u"# Win text\n");
-			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mWinText.mNonLocalizedString);
+			data.append_sprintf(u"%#010x %ls\n\n", stringCount, winText);
 			stringCount++;
 		}
 		if (resource->mLoseText.mNonLocalizedString != u"") {
+			string16 loseText = resource->mLoseText.mNonLocalizedString;
+			RemoveNewLines(loseText);
 			data.append_sprintf(u"# Lose text\n");
-			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
+			data.append_sprintf(u"%#010x %ls\n\n", stringCount, loseText);
 			stringCount++;
 		}
 		auto& acts = resource->mActs;
@@ -93,7 +101,9 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 
 			// Act description
 			if (act.mDescription.mNonLocalizedString != u"") {
-				data.append_sprintf(u"%#010x %ls\n\n", stringCount, act.mDescription.mNonLocalizedString);
+				string16 actDescription = act.mDescription.mNonLocalizedString;
+				RemoveNewLines(actDescription);
+				data.append_sprintf(u"%#010x %ls\n\n", stringCount, actDescription);
 				stringCount++;
 			}
 
@@ -105,7 +115,9 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 					data.append_sprintf(u"# Goal %d\n", goalCount);
 					for (auto& dialog : goal.mDialogs) {
 						if (dialog.mText.mNonLocalizedString != u"") {
-							data.append_sprintf(u"%#010x %ls\n", stringCount, dialog.mText.mNonLocalizedString);
+							string16 dialogText = dialog.mText.mNonLocalizedString;
+							RemoveNewLines(dialogText);
+							data.append_sprintf(u"%#010x %ls\n", stringCount, dialogText);
 							stringCount++;
 						}
 					}
@@ -144,9 +156,16 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 			}
 			stringCount++;
 			actCount = 1;
+			Simulator::cScenarioClassAct previousAct = classObject.second.mActs[0];
+			Simulator::cScenarioClassAct currentAct = previousAct;
 
 			for (auto& act : classObject.second.mActs) {
 				bool foundChatter = false, foundInspect = false;
+
+				if (actCount > 1) {
+					previousAct = currentAct;
+					currentAct = act;
+				}
 
 				// Check if chatter and inspect bubbles are filled.
 				for (auto& chatter : act.mDialogsChatter) {
@@ -162,18 +181,32 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 						break;
 					}
 				}
+
+				int dialogueIndex = 0;
+
 				// Object chatter
 				if (foundChatter) {
 					data.append_sprintf(u"# Chatter for Act %d\n", actCount);
 
 					for (auto& chatter : act.mDialogsChatter) {
 						if (chatter.mText.mNonLocalizedString != u"") {
-							data.append_sprintf(u"%#010x %ls\n", stringCount, chatter.mText.mNonLocalizedString);
+							if (actCount > 1 && chatter.mText.mNonLocalizedString == previousAct.mDialogsChatter[dialogueIndex].mText.mNonLocalizedString) {
+								dialogueIndex++;
+								continue;
+							}
+							else {
+								string16 chatterText = chatter.mText.mNonLocalizedString;
+								RemoveNewLines(chatterText);
+								data.append_sprintf(u"%#010x %ls\n", stringCount, chatterText);
+							}
 							stringCount++;
 						}
+						dialogueIndex++;
 					}
 					data.append_sprintf(u"\n");
 				}
+
+				dialogueIndex = 0;
 
 				// Object inspect
 				if (foundInspect) {
@@ -181,9 +214,18 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 
 					for (auto& inspect : act.mDialogsInspect) {
 						if (inspect.mText.mNonLocalizedString != u"") {
-							data.append_sprintf(u"%#010x %ls\n", stringCount, inspect.mText.mNonLocalizedString);
+							if (actCount > 1 && inspect.mText.mNonLocalizedString == previousAct.mDialogsInspect[dialogueIndex].mText.mNonLocalizedString) {
+								dialogueIndex++;
+								continue;
+							}
+							else {
+								string16 inspectText = inspect.mText.mNonLocalizedString;
+								RemoveNewLines(inspectText);
+								data.append_sprintf(u"%#010x %ls\n", stringCount, inspectText);
+							}
 							stringCount++;
 						}
+						dialogueIndex++;
 					}
 					data.append_sprintf(u"\n");
 				}
@@ -206,7 +248,7 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 		}
 	}
 }
-string16 SaveAdventureLocale::RemoveNewLines(string16 string) {
+void SaveAdventureLocale::RemoveNewLines(string16& string) {
 	//string.replace(string.begin(),string.end(),u"\n",u"~br~");
 
 	for (size_t i = 0; i < string.length(); i++) {
@@ -219,8 +261,6 @@ string16 SaveAdventureLocale::RemoveNewLines(string16 string) {
 			string.insert(i, u"~br~");
 		}
 	}
-
-	return string;
 }
 
 const char* SaveAdventureLocale::GetDescription(ArgScript::DescriptionMode mode) const
