@@ -72,7 +72,7 @@ void SaveAdventureLocale::ParseLine(const ArgScript::Line& line)
 		}
 		if (resource->mWinText.mNonLocalizedString != u"") {
 			string16 winText = resource->mWinText.mNonLocalizedString;
-			RemoveNewLines(resource->mWinText.mNonLocalizedString);
+			RemoveNewLines(winText);
 			data.append_sprintf(u"# Win text\n");
 			data.append_sprintf(u"%#010x %ls\n\n", stringCount, winText);
 			stringCount++;
