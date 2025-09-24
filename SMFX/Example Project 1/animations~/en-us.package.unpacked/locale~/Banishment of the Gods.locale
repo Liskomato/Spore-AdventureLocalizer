@@ -1,0 +1,783 @@
+# Auto-generated localization file for: Banishment of the Gods (ID: 0X25C09A8F)
+# Author
+0x00000001 Liskomato
+
+# Adventure name
+0x00000002 Banishment of the Gods
+
+# Adventure description
+0x00000003 The Grox Wars~br~Part 9~br~Knowing now where he has to go to end the God War, Hivehat travels alone to planet Solum, to awaken the god of balance Sporix so together they can banish the warring ring gods...
+
+# Adventure tags
+0x00000004 hivehat,sporix,saradostrich,zamolate,sporid,ring of fate,grox wars 9, three staves,tscanon
+
+# Intro text
+0x00000005 Hivehat has arrived to planet Solum, where Sporix is said to rest. He has noticed a ritual site that he thinks was mentioned in Xeno's books. Go there. 
+
+# Win text
+0x00000006 And thus ended the First God War. Hivehat would one day return to Solum permanently, but that is another story entirely.~br~And I believe we have a few other stories to tell too...
+
+# Lose text
+0x00000007 And thus Hivehat fell in the Battle of Solum, and the gods would fight on forever. The galaxy would no longer be what it once was...
+
+# Act 1
+0x00000008 Solum
+0x00000009 You have arrived on Solum, where Sporix is said to sleep. Go to the nearby ritual site so you can begin awakening Him...
+
+# Goal 1
+0x0000000a Hivehat: "This must be it! I'd better start right away. Staff of Life, I beseech you, guide my hands!~br~Staff of Life: (With thy pleasure.)
+0x0000000b You let the Staff of Life guide your hands as you begin to perform an ancient Masaari ritual, that they used to awaken Sporix in times of crisis.  
+0x0000000c But unfortunately, you have uninvited guests: Saradostrich and Zamolate have arrived to try and stop your plans!
+
+
+# Act 2
+0x0000000d Gods of the Ring
+0x0000000e Saradostrich and Zamolate managed to surprise you! Speak with them in order from top to bottom. 
+
+# Goal 1
+0x0000000f Haa! We got you! Now you will not escape!
+0x00000010 We already know your plans! You plan to awaken the Sleeper of Solum and banish us from the material realm! I cannot allow you to continue, not as long as I haven't beaten Zamolate!
+0x00000011 Zamolate: "Hah hah! We seem to think alike, Sarado! I was also here to stop Hivehat from awakening this 'machine of fate' that his dear friend and my father Urgus so gladly told him about, BEFORE I KILLED HIM! HAH!"
+0x00000012 Your cruelty knows no bounds, Zamolate! You destroy planets with your staff of life as if they were toys! Once I have destroyed you, I shall found an eternal kingdom, one where bastards like you are snubbed before they even know it!
+
+# Goal 2
+0x00000013 How does it feel, Hivehat, to see Urgus die to my meteor spell before your very eyes, as the Three Staves were the ones to cause it happen? Oh! But now, they're about to strike each other again! Funny. I wonder what will happen to this world once that happens? 
+0x00000014 Saradostrich: "That is enough! Zamolate! Your chaos ends HERE!"
+0x00000015 Alright, let's fight fire with fire! Saradostrich! You shall regret those words, as they will be your *last*! Azag Fúrina Rifira!
+0x00000016 The gods begin to charge their respective attacks. You realize the Three Staves are about to hit each other like they did on Plutonia, so you generate a shield for yourself with the Staff of Life.
+
+
+# Act 3
+0x00000017 A World in Ruin
+0x00000018 The blast of the Three Staves clashing with each other destroyed half of Solum and flinged you across the planet. Once you have finished landing, speak with the local creatures.
+
+# Goal 1
+0x00000019 Clk? Clkna! Clkakls, kelon!
+0x0000001a Hivehat: "Sorry, I don't speak your language either. I would really use an universal translator now..." ~br~Suddenly you realize you can actually understand what they're saying... Although it's just telepathically.
+0x0000001b Greetings, staff bearer. What brings you to Our planet?
+0x0000001c Hivehat: "The Grox were defeated and we were about to destroy their ring... But we failed and now there are these 'ring gods' fighting for it. I'm sorry for the mess."
+0x0000001d I thought so. Xeno... His revenge is here. Come to me, young creature, so we can talk further.
+
+# Goal 2
+0x0000001e As you might have already guessed, I am Sporix. One of the Three Creators. The destruction of the ritual stone is what awakened me. I didn't realize what I would see once I got outside...
+0x0000001f Hivehat: "What can we do stop the ring gods that are now fighting over there?" ~br~(You point at the former ritual site, where Saradostrich and Zamolate are still fighting one another.)
+0x00000020 My powers exceed that of the Three Staves multiplefold, but the Ring is another story. We already know it can only be destroyed in one place alone, Mount Ruin on planet Mortar, but unfortunately neither of us cannot bear the Ring there due to the power both of us hold. It would corrupt us both. 
+0x00000021 However, I can seal the ring into myself by ripping its shards from those usurpers, reforge it and then transport it to my core. This should allow us to regulate its hold over the gods, the staves and the galaxy itself. We still have to one day take it to Mount Ruin to be destroyed, however, as this the only way to defeat Xenolate's plots for good besides destroying his mortal vessel. 
+0x00000022 I see you have met the Recusant yourself. I don't understand why he sent you here, but I won't ask it for now. We have to help my Sporids! They are prisoners in that valley down there.
+
+
+# Act 4
+0x00000023 Save the Sporids!
+0x00000024 Join forces with Sporix and help him free his Sporids from Zamolate's minions. Your target is a nearby Zamolatian encampment, where they have set up a mine. 
+
+# Goal 3
+0x00000025 Well well, if it isn't the Lifebearer Hivehat! I won't allow you to banish our Lord Darkest!
+0x00000026 How do you feel as He has burned and given rebirth to THREE of your dearest planets? Does it hurt that so many innocent beings died in this meaningless slaughter? Well, if it does, it doesn't hurt if you joined our side and fixed your mistakes in allowing that god of light Saradostrich live and letting him keep your dear friend Trooba's staff!
+0x00000027 Hivehat: "I won't join your cause for ANY reason, after your god of chaos destroyed Plutonia and warped millions into mindless beasts!". ~br~Sporix: "You're just a tool, a pawn in greater forces' games. Do you not realize what you are doing, child of the Masaari?"
+0x00000028 The God of Balance Sporix! How glad am I to see you awake! But never mind that, you yourself do not understand the Truth of our Chaos. We have done what the People have always wanted! We destroyed the Grox and claimed their power for ourselves! The Ring, once our God has ripped it from Saradostrich, shall be the weapon that shall make us all greater – Greater than the People had even hoped!
+0x00000029 Sporix: "Still so blind. Do you not realize the true nature and desires of the Ring? It desires our destruction and oblivion before anything else. But enough talk, let's deal with this heretic, Hivehat." 
+
+
+# Act 5
+0x0000002a Your ship is in Danger!
+0x0000002b You saved the Sporids trapped in the mine, but now they are telling that your ship is at risk! Speak with the leader of the Spiky McSporoids and lead them to your ship. 
+
+# Goal 1
+0x0000002c (Good thing you arrived, Sporix! This is an emergency! Our scouts tell that this hiveraider's ship is under siege!)
+0x0000002d (The forces of Saradostrich are responsible for it! What are our orders, my lord?)
+0x0000002e Hivehat: "We have to get there no question! I have no other ships so if the Explorer is gone, I would be trapped here! I would make a poor hero of Oculus if I were to allow my ship to be harmed."
+0x0000002f Sporix: "Alright. Lead the way, Hivehat."
+
+# Goal 3
+0x00000030 (Hurray, we have reinforcements! Sporix is also with them! Long live Sporix!)
+0x00000031 (We would like to tell you that the people behind this destruction are still at it! They are still fighting like crazy over at that nearby crater! Sporix, please stop them!)
+0x00000032 Sporix: "You have done well. Thank you, my dear Sporids. Follow me so we can stop these false gods for good."
+0x00000033 (Roger roger! Soldiers! Follow Sporix!)
+
+
+# Act 6
+0x00000034 Banishment of the Gods
+0x00000035 Follow and aid Sporix in banishing the gods created by the Ring.
+
+# Goal 1
+0x00000036 You and Sporix arrive at the middle of the former ritual site. Now it is a battleground for the gods. Sporix's voice echoes across the whole planet...
+0x00000037 You have chosen the wrong place to battle! You claim to be bearers of Light, but in truth you are but servants of Darkness! 
+0x00000038 All of your power came from Darkness, so to Darkness your fates shall be consigned to! Begone from our worlds! AND NEVER RETURN TO OUR GALAXY!
+0x00000039 Sporix's seven holy eyes flare as with His divine power, he drags the shards of the Ring from Saradostrich and Zamolate and banishes them from our universe. The Ring of Fate is thus reforged and sealed inside Sporix.
+0x0000003a And as the gods of the Ring vanish from reality, their followers and minions are awash with despair, allowing them to be slowly picked apart and assimilated by the Sporids. Some time later...
+
+
+# Act 7
+0x0000003b Aftermath
+0x0000003c Sporix has banished Saradostrich and Zamolate to their own dimensions, away from our galaxy. Now it is time to clean up their mess. Speak with Sporix to begin using the Staff of Life...
+
+# Goal 1
+0x0000003d Thank you, Hivehat, for allowing me to see the threat facing the galaxy. You did a good service as the Staff of Life's chosen bearer. I should bear a message to Steve to thank him as well. 
+0x0000003e Hivehat: "What will now happen to the Ring and the gods it created? Where did the latter end up to?"
+0x0000003f The ring is safely sealed inside me, as harmless as I can make that accursed object. As for the "ring" gods, I banished each of them to their own dimensions so they can't cause further destruction by fighting one another. Unfortunately, the other Two of the Three Staves might've gone with them. That could cause problems in the long run, if we don't do something about it that is. 
+0x00000040 But let us not worry about that for now, as we should attempt to restore Solum, shouldn't we? Use the true Staff of Life while I send these other fighters away on their ships, away from this planet while it recovers. 
+0x00000041 Hivehat: "Alright. Let's see how this worked, again..." ~br~You start use the real Staff of Life for its intended purpose: terraforming worlds to terrascore 3. You restore Solum to what it once was.
+
+
+# Act 8
+0x00000042 A Planet Restored
+0x00000043 You brought Solum back to terrascore 3 with the Staff of Life. Speak with Sporix once more and then return to your ship.
+
+# Goal 1
+0x00000044 The ritual site is unfortunately not able to be restored. It was built by the People and I doubt you would be able to replicate their craft. However, I don't see a need for the ritual site anymore. Its job has been done.
+0x00000045 Before you leave, Hivehat, I would like to warn you about Xenolate. He will do anything in order to reach his goals. He either keeps his promises or betrays them. He cannot be trusted.
+0x00000046 And I just now have realized truth of his violation. He has marked you with his Sigil. You've seen it in your dreams, haven't you? As you, I would be extremely careful. Xenolate has yet to claim his part in the "deal" he made with you for Solum's coordinates. 
+0x00000047 Hivehat: "I never told you that."~br~ I can read your mind, you know. I am a god, after all. In any case, if you ever feel like your home is abandoning you (perhaps due to Xeno's actions), you are always welcome here on Solum. I might need more guardians now since I have a feeling the mortal followers of the ring gods will not be happy about their masters' banishment.
+0x00000048 Farewell, Hivehat. With the blessings of my brothers and I, may the Source guide you safely to your home!
+
+
+# Prop #1 - Ancient Sporehenge
+0x00000049 Ancient Sporehenge
+
+# Prop #2 - Saradostrich
+0x0000004a Saradostrich
+
+# Prop #3 - Rituaalikivimuodostelma
+0x0000004b Ritual Site
+
+# Prop #4 - Troopan avaruusalus
+0x0000004c The Explorer
+
+# Prop #5 - Wand
+0x0000004d Wand
+
+# Prop #6 - Zamolate
+0x0000004e Zamolate
+
+# Prop #7 - It's ALIVE!!!
+0x0000004f It's ALIVE!!!
+
+# Prop #8 - Peaceful Universe
+0x00000050 Peaceful Universe
+
+# Prop #9 - Water Blast Once
+0x00000051 Water Blast Once
+
+# Prop #10 - Shrapnel Bomb Once
+0x00000052 Shrapnel Bomb Once
+
+# Prop #11 - Luolan suu
+0x00000053 Cave Entrance
+
+# Prop #12 - Musta muuri
+0x00000054 Black Wall
+
+# Prop #13 - Sandstone Stack
+0x00000055 Sandstone Stack
+
+# Prop #14 - Sting Vertigo
+0x00000056 Sting Vertigo
+
+# Prop #15 - Sting Villain
+0x00000057 Sting Villain
+
+# Prop #16 - Cluster Bomb Once
+0x00000058 Cluster Bomb Once
+
+# Prop #17 - Mushroom Cloud Once
+0x00000059 Mushroom Cloud Once
+
+# Prop #18 - Jump Pad 
+0x0000005a Jump Pad 
+
+# Prop #19 - Teleporter
+0x0000005b Teleporter
+
+# Prop #20 - Battlefield Classic
+0x0000005c Battlefield Classic
+
+# Prop #21 - Sporix
+0x0000005d Sporix
+
+# Prop #22 - Sporenoidi
+0x0000005e Sporenoid
+
+# Prop #23 - Sporenoidi
+0x0000005f Sporenoid
+
+# Prop #24 - Saradostrutsin saarnaaja
+0x00000060 Preacher of Saradostrich
+
+# Chatter for Act 1
+0x00000061 Repent, ye sinful! Repent yer chaos!
+0x00000062 Chaos is destruction and death! Repent so you will be redeemed!
+0x00000063 Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x00000064 Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Chatter for Act 2
+0x00000065 Repent, ye sinful! Repent yer chaos!
+0x00000066 Chaos is destruction and death! Repent so you will be redeemed!
+0x00000067 Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x00000068 Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Chatter for Act 3
+0x00000069 Repent, ye sinful! Repent yer chaos!
+0x0000006a Chaos is destruction and death! Repent so you will be redeemed!
+0x0000006b Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x0000006c Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Chatter for Act 4
+0x0000006d Repent, ye sinful! Repent yer chaos!
+0x0000006e Chaos is destruction and death! Repent so you will be redeemed!
+0x0000006f Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x00000070 Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Chatter for Act 5
+0x00000071 Repent, ye sinful! Repent yer chaos!
+0x00000072 Chaos is destruction and death! Repent so you will be redeemed!
+0x00000073 Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x00000074 Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Chatter for Act 6
+0x00000075 Repent, ye sinful! Repent yer chaos!
+0x00000076 Chaos is destruction and death! Repent so you will be redeemed!
+0x00000077 Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x00000078 Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Chatter for Act 7
+0x00000079 Repent, ye sinful! Repent yer chaos!
+0x0000007a Chaos is destruction and death! Repent so you will be redeemed!
+0x0000007b Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x0000007c Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Chatter for Act 8
+0x0000007d Repent, ye sinful! Repent yer chaos!
+0x0000007e Chaos is destruction and death! Repent so you will be redeemed!
+0x0000007f Saradostrich welcomes all with regrets to His Holy Kingdom!
+0x00000080 Saradostrich shall smite all the wicked worshippers of death! Repent, so you shall be freed from the chains of chaos!  
+
+# Prop #25 - Saradostrutsin hovivelho
+0x00000081 Court Wizard of Saradostrich
+
+# Chatter for Act 1
+0x00000082 Demon worshippers! Leave our galaxy alone!
+0x00000083 You will condemn us all to death! Die, demon worshippers!
+0x00000084 Death to all worshippers of demons and devils!
+0x00000085 I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Chatter for Act 2
+0x00000086 Demon worshippers! Leave our galaxy alone!
+0x00000087 You will condemn us all to death! Die, demon worshippers!
+0x00000088 Death to all worshippers of demons and devils!
+0x00000089 I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Chatter for Act 3
+0x0000008a Demon worshippers! Leave our galaxy alone!
+0x0000008b You will condemn us all to death! Die, demon worshippers!
+0x0000008c Death to all worshippers of demons and devils!
+0x0000008d I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Chatter for Act 4
+0x0000008e Demon worshippers! Leave our galaxy alone!
+0x0000008f You will condemn us all to death! Die, demon worshippers!
+0x00000090 Death to all worshippers of demons and devils!
+0x00000091 I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Chatter for Act 5
+0x00000092 Demon worshippers! Leave our galaxy alone!
+0x00000093 You will condemn us all to death! Die, demon worshippers!
+0x00000094 Death to all worshippers of demons and devils!
+0x00000095 I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Chatter for Act 6
+0x00000096 Demon worshippers! Leave our galaxy alone!
+0x00000097 You will condemn us all to death! Die, demon worshippers!
+0x00000098 Death to all worshippers of demons and devils!
+0x00000099 I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Chatter for Act 7
+0x0000009a Demon worshippers! Leave our galaxy alone!
+0x0000009b You will condemn us all to death! Die, demon worshippers!
+0x0000009c Death to all worshippers of demons and devils!
+0x0000009d I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Chatter for Act 8
+0x0000009e Demon worshippers! Leave our galaxy alone!
+0x0000009f You will condemn us all to death! Die, demon worshippers!
+0x000000a0 Death to all worshippers of demons and devils!
+0x000000a1 I can't stand these servants of chaos! Saradostrich, I beseech you! Smite these heathens!
+
+# Prop #26 - Envoy of Saradostrich
+0x000000a2 Envoy of Saradostrich
+
+# Chatter for Act 1
+0x000000a3 Forwards! No mercy to the demon worshippers!
+0x000000a4 All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000a5 Death to Zamolate and his forces!
+0x000000a6 Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Chatter for Act 2
+0x000000a7 Forwards! No mercy to the demon worshippers!
+0x000000a8 All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000a9 Death to Zamolate and his forces!
+0x000000aa Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Chatter for Act 3
+0x000000ab Forwards! No mercy to the demon worshippers!
+0x000000ac All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000ad Death to Zamolate and his forces!
+0x000000ae Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Chatter for Act 4
+0x000000af Forwards! No mercy to the demon worshippers!
+0x000000b0 All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000b1 Death to Zamolate and his forces!
+0x000000b2 Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Chatter for Act 5
+0x000000b3 Forwards! No mercy to the demon worshippers!
+0x000000b4 All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000b5 Death to Zamolate and his forces!
+0x000000b6 Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Chatter for Act 6
+0x000000b7 Forwards! No mercy to the demon worshippers!
+0x000000b8 All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000b9 Death to Zamolate and his forces!
+0x000000ba Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Chatter for Act 7
+0x000000bb Forwards! No mercy to the demon worshippers!
+0x000000bc All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000bd Death to Zamolate and his forces!
+0x000000be Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Chatter for Act 8
+0x000000bf Forwards! No mercy to the demon worshippers!
+0x000000c0 All Zamolatians are heathen worshippers of death! They must die in their own damnation!
+0x000000c1 Death to Zamolate and his forces!
+0x000000c2 Do not fear, comrades! All martyrs shall have access to Saradostrich's paradise!
+
+# Prop #27 - Sting Inspiring
+0x000000c3 Sting Inspiring
+
+# Prop #28 - Chaos Urgulate Warrior
+0x000000c4 Chaos Urgulate Warrior
+
+# Chatter for Act 1
+0x000000c5 Brothers, onwards! Strength through chaos!
+0x000000c6 Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000c7 Join us, so you shall be free from eternal slavery!
+0x000000c8 Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000c9 Chaos is power! Strength through chaos!
+
+# Chatter for Act 2
+0x000000ca Brothers, onwards! Strength through chaos!
+0x000000cb Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000cc Join us, so you shall be free from eternal slavery!
+0x000000cd Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000ce Chaos is power! Strength through chaos!
+
+# Chatter for Act 3
+0x000000cf Brothers, onwards! Strength through chaos!
+0x000000d0 Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000d1 Join us, so you shall be free from eternal slavery!
+0x000000d2 Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000d3 Chaos is power! Strength through chaos!
+
+# Chatter for Act 4
+0x000000d4 Brothers, onwards! Strength through chaos!
+0x000000d5 Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000d6 Join us, so you shall be free from eternal slavery!
+0x000000d7 Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000d8 Chaos is power! Strength through chaos!
+
+# Chatter for Act 5
+0x000000d9 Brothers, onwards! Strength through chaos!
+0x000000da Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000db Join us, so you shall be free from eternal slavery!
+0x000000dc Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000dd Chaos is power! Strength through chaos!
+
+# Chatter for Act 6
+0x000000de Brothers, onwards! Strength through chaos!
+0x000000df Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000e0 Join us, so you shall be free from eternal slavery!
+0x000000e1 Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000e2 Chaos is power! Strength through chaos!
+
+# Chatter for Act 7
+0x000000e3 Brothers, onwards! Strength through chaos!
+0x000000e4 Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000e5 Join us, so you shall be free from eternal slavery!
+0x000000e6 Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000e7 Chaos is power! Strength through chaos!
+
+# Chatter for Act 8
+0x000000e8 Brothers, onwards! Strength through chaos!
+0x000000e9 Saradostrich threw Zamolate into the crater! He is not to be trusted!
+0x000000ea Join us, so you shall be free from eternal slavery!
+0x000000eb Saradostrich's "order" is divine slavery! Join with the forces of chaos to resist him!
+0x000000ec Chaos is power! Strength through chaos!
+
+# Prop #29 - Controller of Time
+0x000000ed Chaos Wizard
+
+# Chatter for Act 1
+0x000000ee Death to Saradostrich! Strength through chaos! 
+0x000000ef Saradostrich is a slaver! Get yourselves rid of his grasp! 
+0x000000f0 Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x000000f1 We do not need Saradostrich! Long live chaos!
+0x000000f2 Strength through chaos, brothers! Chaos is power!
+
+# Chatter for Act 2
+0x000000f3 Death to Saradostrich! Strength through chaos!
+0x000000f4 Saradostrich is a slaver! Get yourselves rid of his grasp!  
+0x000000f5 Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x000000f6 We do not need Saradostrich! Long live chaos!
+0x000000f7 Strength through chaos, brothers! Chaos is power!
+
+# Chatter for Act 3
+0x000000f8 Death to Saradostrich! Strength through chaos!
+0x000000f9 Saradostrich is a slaver! Get yourselves rid of his grasp!  
+0x000000fa Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x000000fb We do not need Saradostrich! Long live chaos!
+0x000000fc Strength through chaos, brothers! Chaos is power!
+
+# Chatter for Act 4
+0x000000fd Death to Saradostrich! Strength through chaos!
+0x000000fe Saradostrich is a slaver! Get yourselves rid of his grasp!  
+0x000000ff Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x00000100 We do not need Saradostrich! Long live chaos!
+0x00000101 Strength through chaos, brothers! Chaos is power!
+
+# Chatter for Act 5
+0x00000102 Death to Saradostrich! Strength through chaos!
+0x00000103 Saradostrich is a slaver! Get yourselves rid of his grasp!  
+0x00000104 Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x00000105 We do not need Saradostrich! Long live chaos!
+0x00000106 Strength through chaos, brothers! Chaos is power!
+
+# Chatter for Act 6
+0x00000107 Death to Saradostrich! Strength through chaos!
+0x00000108 Saradostrich is a slaver! Get yourselves rid of his grasp!  
+0x00000109 Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x0000010a We do not need Saradostrich! Long live chaos!
+0x0000010b Strength through chaos, brothers! Chaos is power!
+
+# Chatter for Act 7
+0x0000010c Death to Saradostrich! Strength through chaos!
+0x0000010d Saradostrich is a slaver! Get yourselves rid of his grasp!  
+0x0000010e Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x0000010f We do not need Saradostrich! Long live chaos!
+0x00000110 Strength through chaos, brothers! Chaos is power!
+
+# Chatter for Act 8
+0x00000111 Death to Saradostrich! Strength through chaos!
+0x00000112 Saradostrich is a slaver! Get yourselves rid of his grasp!  
+0x00000113 Saradostrich will lead us all into stagnation! Join the forces of chaos!
+0x00000114 We do not need Saradostrich! Long live chaos!
+0x00000115 Strength through chaos, brothers! Chaos is power!
+
+# Prop #30 - Kaaosvelho
+0x00000116 Controller of Time
+
+# Chatter for Act 1
+0x00000117 Forward, brothers! Avenge the Controllers of Time!
+0x00000118 Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x00000119 What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x0000011a I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Chatter for Act 2
+0x0000011b Forward, brothers! Avenge the Controllers of Time!
+0x0000011c Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x0000011d What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x0000011e I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Chatter for Act 3
+0x0000011f Forward, brothers! Avenge the Controllers of Time!
+0x00000120 Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x00000121 What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x00000122 I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Chatter for Act 4
+0x00000123 Forward, brothers! Avenge the Controllers of Time!
+0x00000124 Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x00000125 What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x00000126 I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Chatter for Act 5
+0x00000127 Forward, brothers! Avenge the Controllers of Time!
+0x00000128 Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x00000129 What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x0000012a I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Chatter for Act 6
+0x0000012b Forward, brothers! Avenge the Controllers of Time!
+0x0000012c Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x0000012d What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x0000012e I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Chatter for Act 7
+0x0000012f Forward, brothers! Avenge the Controllers of Time!
+0x00000130 Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x00000131 What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x00000132 I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Chatter for Act 8
+0x00000133 Forward, brothers! Avenge the Controllers of Time!
+0x00000134 Saradostrich is a slaver and a traitor! He even abandoned his own brother to the volcano!
+0x00000135 What Saradostrich really leads us into with his "light" is eternal darkness! Death to Saradostrich and his converts!
+0x00000136 I'd rather have fire and chaos than water and slavery! Long live chaos!
+
+# Prop #31 - Creepy Action 2
+0x00000137 Creepy Action 2
+
+# Prop #32 - Urleg Factory
+0x00000138 Urleg Factory
+
+# Prop #33 - Urleg Apartments
+0x00000139 Urleg Apartments
+
+# Prop #34 - Kaaosvelho
+0x0000013a Chaos Wizard
+
+# Prop #35 - Ambassador of Chaos
+0x0000013b Ambassador of Chaos
+
+# Prop #36 - Chaos Dwarflate Destructor
+0x0000013c Chaos Dwarflate Destructor
+
+# Prop #37 - Conglomerate Stack
+0x0000013d Conglomerate Stack
+
+# Prop #38 - Marshmallow Rock
+0x0000013e Marshmallow Rock
+
+# Prop #39 - Luolan portti
+0x0000013f Cave Entrance Gate
+
+# Prop #40 - Chief Wizard Pargas
+0x00000140 Chief Wizard Pargas
+
+# Prop #41 - Piikkisporoidi
+0x00000141 Spikey McSporoid
+
+# Prop #42 - Spoideri
+0x00000142 Spoider
+
+# Prop #43 - Sporid Wizard
+0x00000143 Sporid Wizard
+
+# Inspect for Act 1
+0x00000144 Hivehat: "What happened to these palgulates?!"
+0x00000145 Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x00000146 Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x00000147 Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass." 
+0x00000148 Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task." 
+
+# Inspect for Act 2
+0x00000149 Hivehat: "What happened to these palgulates?!"
+0x0000014a Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x0000014b Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x0000014c Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass."  
+0x0000014d Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task."  
+
+# Inspect for Act 3
+0x0000014e Hivehat: "What happened to these palgulates?!"
+0x0000014f Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x00000150 Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x00000151 Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass."  
+0x00000152 Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task."  
+
+# Inspect for Act 4
+0x00000153 Hivehat: "What happened to these palgulates?!"
+0x00000154 Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x00000155 Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x00000156 Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass."  
+0x00000157 Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task."  
+
+# Inspect for Act 5
+0x00000158 Hivehat: "What happened to these palgulates?!"
+0x00000159 Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x0000015a Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x0000015b Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass."  
+0x0000015c Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task."  
+
+# Inspect for Act 6
+0x0000015d Hivehat: "What happened to these palgulates?!"
+0x0000015e Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x0000015f Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x00000160 Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass."  
+0x00000161 Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task."  
+
+# Inspect for Act 7
+0x00000162 Hivehat: "What happened to these palgulates?!"
+0x00000163 Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x00000164 Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x00000165 Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass."  
+0x00000166 Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task."  
+
+# Inspect for Act 8
+0x00000167 Hivehat: "What happened to these palgulates?!"
+0x00000168 Sporix: "I have made them Sporids for their aggression against our world AND our kind. Surely you'd understand this is fitting punishment for them, no?"
+0x00000169 Hivehat: "Well no! That is outright cruel! How could you? I thought you were a benevolent deity!"
+0x0000016a Sporix: "Well, I am. But to allow these servants to sin by following their own dark god to death would be worse, wouldn't it? Balance must be set somehow, even if the actions I took violated your moral compass."  
+0x0000016b Hivehat: "I am extremely uncomfortable with the idea of assimilation over death, as I do value my freedom. But I get your point about fanaticism, at least. Let's move on with our task."  
+
+# Prop #44 - Tommi
+0x0000016c Voo
+
+# Inspect for Act 1
+0x0000016d Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Inspect for Act 2
+0x0000016e Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Inspect for Act 3
+0x0000016f Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Inspect for Act 4
+0x00000170 Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Inspect for Act 5
+0x00000171 Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Inspect for Act 6
+0x00000172 Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Inspect for Act 7
+0x00000173 Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Chatter for Act 8
+0x00000174 (Farewell, Hivehat. 'Twas an honour to fight with you.)
+
+# Inspect for Act 8
+0x00000175 Sporix: "Voo is one of my most faithful Spikey McSporoids. He was thus promoted to be their leader."
+
+# Prop #45 - Ambush!
+0x00000176 Ambush!
+
+# Prop #46 - Piikkisporoidi
+0x00000177 Spikey McSporoid
+
+# Prop #47 - Troopan avaruusalus
+0x00000178 The Explorer
+
+# Prop #48 - Warrior of Saradostrich
+0x00000179 Warrior of Saradostrich
+
+# Prop #49 - Fanatic of Saradostrich
+0x0000017a Fanatic of Saradostrich
+
+# Prop #50 - Guardian of Saradostrich
+0x0000017b Guardian of Saradostrich
+
+# Prop #51 - Redbird Warrior (Zamolate)
+0x0000017c Redbird Warrior
+
+# Prop #52 - Sauroneye Warrior
+0x0000017d Sauroneye Warrior
+
+# Prop #53 - Chaos Urgulate Warrior
+0x0000017e Chaos Urgulate Warrior
+
+# Chatter for Act 6
+0x0000017f Death to Saradostrich's minions!
+0x00000180 Strength through chaos! Death to all pretenders!
+0x00000181 What is that ball doing? It doesn't look good!
+0x00000182 Chaos is power! No metal ball will stop what we are doing!
+
+# Chatter for Act 7
+0x00000183 Master, where did you vanish to? MASTER!
+0x00000184 Oh damn! Saradostrich self-destructed and killed both himself and Zamolate! What are we doing now?
+0x00000185 That metal ball destroyed our master! It must be annihilated!
+0x00000186 Down with Sporix! Long live chaos!
+
+# Chatter for Act 8
+0x00000187 Master, where did you vanish to? MASTER!
+0x00000188 Oh damn! Saradostrich self-destructed and killed both himself and Zamolate! What are we doing now?
+0x00000189 That metal ball destroyed our master! It must be annihilated!
+0x0000018a Down with Sporix! Long live chaos!
+
+# Prop #54 - Teleporter
+0x0000018b Teleporter
+
+# Prop #55 - Laser Battle
+0x0000018c Laser Battle
+
+# Prop #56 - Epic Adventure
+0x0000018d Epic Adventure
+
+# Prop #57 - Sporix
+0x0000018e Sporix
+
+# Prop #58 - Rituaalikraatteri
+0x0000018f Ritual Site Crater
+
+# Prop #59 - Warrior of Saradostrich
+0x00000190 Warrior of Saradostrich
+
+# Chatter for Act 6
+0x00000191 What IS that thing? Some ally of Zamolate's? It has no place in Saradostrich's heaven, I'm sure of it!
+0x00000192 No forces of nature can stop our God from reaching His goals!
+0x00000193 Down with the metal thing! It is an affront to life for being such a... perfect mix of machine and nature! Only Spode can be allowed to do that! False god! Get lost!
+0x00000194 No sorts of false gods can stop Spode from destroying the God That Has Come here and now!
+
+# Chatter for Act 7
+0x00000195 My lord, where did you vanish to? MY LORD!
+0x00000196 Zamolate has killed our lord along with himself! HELP! WE ARE DOOMED! 
+0x00000197 That metal ball killed our God! It must itself die as well for its sin!
+0x00000198 My lord, I beseech you! COME BACK!
+0x00000199 Our lord and saviour Saradostrich, where are you?!
+
+# Chatter for Act 8
+0x0000019a My lord, where did you vanish to? MY LORD!
+0x0000019b Zamolate has killed our lord along with himself! HELP! WE ARE DOOMED! 
+0x0000019c That metal ball killed our God! It must itself die as well for its sin!
+0x0000019d My lord, I beseech you! COME BACK!
+0x0000019e Our lord and saviour Saradostrich, where are you?!
+
+# Prop #60 - Spotlight Blue
+0x0000019f Spotlight Blue
+
+# Prop #61 - Spotlight Pink
+0x000001a0 Spotlight Pink
+
+# Prop #62 - Sporix
+0x000001a1 Sporix
+
+# Prop #63 - Will'o'wisps
+0x000001a2 Will'o'wisps
+
+# Prop #64 - Angelic Dream
+0x000001a3 Angelic Dream
+
+# Prop #65 - Fireflies
+0x000001a4 Fireflies
+
+# Prop #66 - Poof Black
+0x000001a5 Poof Black
+
+# Prop #67 - Pixies
+0x000001a6 Pixies
+
+# Prop #68 - Toronado
+0x000001a7 Toronado
+
+# Prop #69 - Lightning
+0x000001a8 Lightning
+
+# Prop #70 - Sporix
+0x000001a9 Sporix
+
+# Prop #71 - Teleporter
+0x000001aa Teleporter
+
+# Prop #72 - Psychedelic Moongarden
+0x000001ab Psychedelic Moongarden
+
+# Prop #73 - Blue Gate
+0x000001ac Blue Gate
+
+# Prop #74 - Blue Gate
+0x000001ad Blue Gate
+
+# Prop #75 - Blue Gate
+0x000001ae Blue Gate
+

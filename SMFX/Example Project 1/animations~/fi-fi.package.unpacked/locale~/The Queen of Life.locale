@@ -1,0 +1,2996 @@
+# Auto-generated localization file for: The Queen of Life (ID: 0X9A88223)
+# Author
+0x00000001 Liskomato
+
+# Adventure name
+0x00000002 SporeScape - Elämän valtiatar
+
+# Adventure description
+0x00000003 SporeScape~br~Osa 6~br~Spode is dead. With the galaxy spiraling ever further into a galaxy-wide war, Hato and company arrive to planet Clearhum, where they hope meet a good friend of Argutix at Castle Bleur on top of the Bleur Hill... Queen Soumadis VI.~br~~br~[This is an open world adventure in the likes of Mundus, Motel of Melora and Those Who Remain. Reading every dialogue carefully and taking notes is highly recommended for the optimal gameplay experience. Be sure to reserve at least one hour for this adventure, as it can take a very long time to get through the city and its streets.]
+
+# Adventure tags
+0x00000004 hato,sini,cyborcus,argutix,soumadis,saradostrutsi,zamolatti,kolme sauvaa,tscanon,sporescape,sinnelijalka,clearhum,the queen of life
+
+# Intro text
+0x00000005 Sankarimme ovat saapuneet Sinnelin vanhaankaupunkiin, tavoitteenaan päästä kukkulan huipulla sijaitsevaan Sinnelilinnaan. Ensiksi he kuitenkin ryhmittyvät.
+
+# Win text
+0x00000006 Jossain sisimmässään Sormus myhäili, kun se sai edettyä suunnitelmissaan Sinin menehdyttyä...~br~...mutta mitä se oikein tarkoittaa?~br~Jatkuu ensi seikkailussa...
+
+# Lose text
+0x00000007 Hato menetti sormuksen jumalille, ja galaksi oli tuhon oma.~br~Haluatko yrittää uudestaan?
+
+# Act 1
+0x00000008 Clearhum
+0x00000009 Perinteikäs Sinneli sijaitsee Clearhumin planeetalla, joka kuuluu Sinnelijalkojen kuningaskuntaan. Kysy Argutixilta ketä te olette menossa tapaamaan, jonka jälkeen liitä kaikki ystäväsi miehistöön. Lopuksi tutki Holosanomia ja lähde sitten katsomaan Sinnelilinnaa, jonka siluetti ulottuu koko kaupungin ylle...
+
+# Goal 1
+0x0000000a Hato: "Argutix, kerro vähän siitä ystävästäsi."~br~Sini: "Niin, minkälainen hän on? Kuka hän mahtaa olla?"
+0x0000000b Niin, joo... Kyllä. Hän sattuu olemaan erittäin tärkeää sorttia, sillä hän on tämän planeetan ja sen valtakunnan kuningatar!
+0x0000000c Hato: "Eihän?!"~br~Sini: "Oikea kuningatar?!"~br~Cyborcus: "Mutta miten me sitten pääsemme Hänen Majesteettinsa luokse?"
+0x0000000d Älkää huoliko, me argulaatit ja sinnelijalat olemme solmineet liiton keskenämme jo kauan sitten, joten olemme kyllä tervetulleita! Sitä paitsi olen myös hyvissä väleissä Hänen Ylhäisyytensä kanssa.
+0x0000000e Cyborcus: "Jaaha. Miksi minulla on kuitenkin sellainen tunne, että tästä ei tule niin helppoa kuin luulemme?"~br~Sini: "Näen että meidän vieressä on jokin kuuluisa taverna. Voimme mennä sinne piiloon, jos koemme vastoinkäymisiä."~br~Hato: "Liittoudutaan nyt keskenämme, jotta päästään menemään, kaikki!"
+
+# Goal 2
+0x0000000f MUINAINEN KALMARIJUMALA HERÄSI - SARADOSTRUTSI KUKISTI HERÄNNEEN HIRVIÖN!
+0x00000010 Juuri saamamme tiedon mukaan Valkoiselta kaasujättiläiseltä Pateon järjestelmästä oli herännyt muinainen peto, joka lähteidemme mukaan oli Xenolaatin luoma otus galaksin tuhoamiseksi.
+0x00000011 Se olisi tietojemme mukaan tuhonnut koko galaksin, ellei Saradostrutsi olisi urhoollisesti kukistanut sitä Kehittymisen sauvalla! 
+0x00000012 Zamolaatin joukot yrittivät häiritä Saradostrutsia, mutta sillä ei ollut vaikutusta lopputulokseen.~br~"Joko nyt uskotte, että olen itse Pate?" Saradostrutsi myhäili. Ehkä hän on oikeassa!
+0x00000013 Sini: "Kuvottavaa!"~br~Cyborcus: "Suorastaan röyhkeää, miten saradistit vedättävät mediaa tuolla lailla ja salaavat totuuden!"~br~Argutix: "Jatketaan nyt matkaa. Ei meillä ole aikaa murehtia totuuden paljastamista muille."
+
+# Goal 3
+0x00000014 SEIS!~br~Kukaan ei saa astua sisään palatsiin sillä välin, kun herramme Saradostrutsi neuvottelee Elämän valtiattaren kanssa!
+0x00000015 Argutix: "Mitä tämä tarkoittaa? Mistä on kyse? Ettekö tiedä, kuka olen?!"
+0x00000016 Herramme Saradostrutsi on neuvottelemasta uudesta liitosta Elämän valtiattaren, Hänen Majesteettinsa Soumadiksen kanssa! Hän toivoo suuria!~br~Ja, hyvä herra, olette kapteeni Argutix!
+0x00000017 Hetkinen...? Nuohan näyttävät tutuilta! Taisinkohan nähdä ne etsintäkuulutuksessa tai parissa?~br~Odota...! Nuohan ovat-
+0x00000018 VARTIJAT, HÄLYTYS! VIEJÄ YSTÄVINEEN ON TÄÄLLÄ! NAPATKAA HÄNET JA TUOKAA HÄNET HERRAMME TYKÖ, ELÄVÄNÄ TAI KUOLLEENA!
+
+
+# Act 2
+0x00000019 Pako
+0x0000001a Saradostrutsin joukot ovat miehittäneet lähes koko kaupungin! Pakene heitä Sinin mainitsemaan majataloon, ja mieti sitten seuraavia liikkeitäsi!
+
+# Goal 2
+0x0000001b No niin, kertokaapas nyt kaikki! Miksi Saradostrutsin joukot jahtasivat teitä kuin kuumaa kanaa?
+0x0000001c Cyborcus: (Pitäisikö meidän kertoa?)~br~Argutix: (Olisi varmaan parasta...)~br~Kerrotte majatalon omistajalle tehtävästänne, mitä teille on tapahtunut, ja mitä te aiotte seuraavaksi.
+0x0000001d Hetkinen, siis joku ennestäänkuulumaton jumala joka kuoli antoi teille jonkin taikasormuksen, jota Saradostrutsi ja Zamolaatti nyt jahtaavat voittaakseen toisensa? Mitä ihmeen hölönpölöä tämä oikein on? Miksi itse JUMALAT jahtaisivat teitä neljää, tuhlaten kaiket varansa prosessissa? Mikä tässä on oikein jujuna?
+0x0000001e Hato: "Totta se on, kaikki tyynni." ~br~Argutix: "Me näimme Okuluksen taistelun, joka käynnisti tämän uuden jumalsodan, omin silmin. Ja me tahtoisimme okuluslaisten ja argulaattien vanhan liittolaisen, kuningatar Soumadiksen, tuen tähän tehtävään. Tiedän että Hänen Majesteettinsa tietää salaisen reitin galaksin keskustaan!"
+0x0000001f Mutta uskotteko todella, että serkkuni muka suostuisi siihen?~br~. . .~br~Kyllä, olen Hänen Majesteettinsa Soumadiksen serkku. Kaikki ovat jo kuulleet tuon huhun joskus. Minun pitäisi kai selittää.
+
+# Goal 3
+0x00000020 Mario: "Nyt siis tiedätte myös, että olen kuningattaren serkku. Siis miksen ole tällöin hovissa, vaan täällä rahvaiden keskellä?"
+0x00000021 Mario: "Sanotaanpa nyt näin - En ole ikinä ollut kiinnostunut kuninkaallisen hovin hienoudesta ja protokollasta. Häivyin hovista ja luovuin titteleistäni, koska en halunnut kaikkea sitä vastuuta mitä kunnollisella Sinnelillä pitäisi olla perinteen mukaan. Halusin mieluummin pitää tavernaa täällä vanhankaupungin laitamilla, olla lähettyvillä kansaa ja elää heidän keskellään kuten he itse."
+0x00000022 Mario: "Sinä aikana olen seurannut, miten meidän kuninkaallinen perheemme, ja varsinkin itse kuningatar, ovat vieraantuneet kansastamme yhä enemmän ja enemmän. Me olemme päästäneet valtakuntaamme kaikenlaista väkeä, ja jättäneet sen loisten varaan."
+0x00000023 Mario: "Saatoittehan nähdä miten Saradostrutsin kannattajat ovat käytännössä alistaneet lähes koko kaupungin oman hirmuvaltansa alle? Miten he hirttävät viattomia otuksia vain heidän lajinsa edustuksen tähden? Kyseistä tilannetta ei olisi edes päässyt tapahtumaan, jos me rikkaat siniveriset emme olisi jättäneet rahvaita heidän oman onnensa nojaan!"
+0x00000024 Mario: "Ja mitä arvon Majesteetti on yrittänyt tehdä pysäyttääkseen tämän kriisin? Ei mitään. Antaa vaan järjestyksen jumala Saradostrutsin talloa kaikkien oikeuksia kenenkään estelemättä!"
+
+
+# Act 3
+0x00000025 Avoin kaupunki
+0x00000026 Mario on selittänyt teille että kaupunki pyörii sille ainutlaatuisten "sinnelien" varassa. Kerää niitä tarpeeksi maksaaksesi tullit, tai löydä joku toinen reitti takaisin kuningattaren linnaan!~br~~br~VINKKI:~br~- Voit antaa tavaroita miehistön jäsenille säilytykseen. Jos sinun tarvitsee poimia ne heiltä takaisin, poista heidät väliaikaisesti miehistöstäsi.
+
+# Goal 1
+0x00000027 Mario: "Ja nyt sitten tiedätte myös, mitä mieltä minä olen tästä kaikesta. Jos haluatte vielä välttämättä serkkuni luo, teidän olisi ensin hyvä tuntea kaupunki itse."
+0x00000028 Mario: "Luulen, että tähän mennessä nuo tyhmät saradistivartijat ovat jo unohtaneet teidät, ja pystyttäneet jälleen omat tullinsa. Heille ei kelpaa mikään muu kuin kaupungin oma raha: kultaiset sinnelikolikot."
+0x00000029 Mario: "Tämä kaupunki on jaettu suunnilleen kolmeen vyöhykkeeseen tullimaksujen perusteella. Ensimmäinen on se missä me juuri olemme: Avaratori."
+0x0000002a Mario: "Vieraat yleensä pääsevät vain tänne. Toinen vyöhyke on Kauppala. Täällä sijaitsee suurin osa kaupunkimme kaupoista, onhan se meidän kauppavyöhyke. Kolmas vyöhyke on ylämystöaluetta. Sinne pääsee vain harva."
+0x0000002b Mario: "Kuningattaren palatsille on oma tullimaksunsa, ja se on paljon kalliimpi kuin vyöhykkeiden 2 ja 3 maksut. Jos kysytte minulta, mikä olisi paras tapa ansaita sinneleitä, olisi se kaupunkilaisten itsensä auttaminen! Tekisitte meille kaikille palveluksen näinä rankkoina aikoina."
+
+
+# Act 4
+0x0000002c Kuningatar
+0x0000002d Pääsitte sisälle Sinnelin linnaan! Näette Saradostrutsin ja kuningatar Soumadis VI:n keskustelemassa keskenään, ja päätätte paljastaa kuningattarelle totuuden Saradostrutsin synneistä...
+
+# Goal 1
+0x0000002e Hato: "Saradostrutsi! Seis siihen paikkaan!"~br~Sini: "Valheesi loppuvat nyt tähän!"
+0x0000002f Ei nyt, Sormuksen kantajat! Minulla on nyt menossa erittäin tärkeät neuvottelut Elämän valtiatar Soumadis VI:n kanssa! Hän johtaa nyt Vapaiden liittoumaa, kun se Zamolaatin mokoma meni tappamaan Okuluksen presidentin! Tarvitsen heidän tukeaan, sillä vain yhdessä heidän kanssaan voimme lopullisesti kukistaa Zamolaatin!
+0x00000030 Sini: "Eikö Paten tappaminen ollut sinulle tarpeeksi?!"~br~Argutix: "Tai kätyriesi miehitys Sinnelissä?"~br~Cyborcus: "Tai miten he hirttävät viattomia urgulaatteja?"
+0x00000031 Miksi te kaikki otatte nuo merkityksettömät ja sitä paitsi kuulumattomat asiat tähän keskusteluun? Se mitä te kutsuitte "Pateksi" oli vain mitätön kalmariotus, joka väitti itseään Galaksin herraksi vaikka vain jekutti itse masareja heidän aikanaan!
+0x00000032 Soumadis VI: "Odota, Teidän Jumaluutenne. Olen kuullut Sormuksen kantajista, he ansaitsevat tämän puheenvuoron kun ovat tulleet niin kauas, olettaen he ovat täällä siitä syystä mistä epäilen heidän olevan täällä. Puhukaa."
+
+# Goal 2
+0x00000033 Otatte tämän tilaisuuden kertoa Soumadikselle kaiken teidän näkökulmasta, Saradostrutsin pahitteeksi.~br~~br~Hän miettii hetken asioita, ja ottaa sitten puheenvuoron.
+0x00000034 Te haluatte siis tuhota kropokeisarin sormuksen. Jalo tehtävä. Mutta mitä te olette suunnitelleet siltä varalta, että galaksia kohtaisi loppu tehtävänne jälkeen? Jos Pate, ja sen lisäksi vielä Sporix kaiken kertomanne mukaan, ovat kuolleet, galaksin henkinen tasapaino on erittäin todennäköisesti vaakalaudalla.
+0x00000035 Hato: "Sitä emme ole varsinaisesti ajatelleet, mutta uskon että galaksin väestö selviää kuten se on tehnyt aina. Voimmehan aina asuttaa uuden galaksin jos omamme tuhoutuu!"~br~Cyborcus: "Sormuksen jumalat ovat rehellisesti sanottuna paljon suurempi uhka kuin meidän oman galaksimme loppu. Troopastrutsi C, ennen surullista poismenoaan, sanoi että heillä riittää energiaa sotia keskenään universumin lämpökuolemaan asti, jos heistä siltä tuntuu. Siksi meidän on tuhottava sormus hetimiten heittämällä se Tuhonvuoreen. Se on ainoa tapa saada universumiimme pysyvä rauha. ~br~Joten pyydämme teitä, armon Majesteetti: Miten me pääsemme Morttelin planeetalle turvallisesti?"
+0x00000036 Saradostrutsi: "Älä sinä noita Viejiä kuules kuuntele, Majesteetti! Sormus tulee kuitenkin lopulta viemään heidän mielensä, ja sitten meillä kahdella on neljä lisää vihollisjumalaa tuhottavana!"
+0x00000037 Sini: "No niin, sain tarpeekseni! NYT SAI RIITTÄÄ!"
+
+# Goal 3
+0x00000038 Hato: "Sini, älä!"~br~Argutix: "Älä pillastuta tuota äkäpulua yhtään enempää!"~br~Cyborcus: "Mieti sanojasi tarkkaan!"
+0x00000039 En nyt kuuntele teitä, valitan.~br~~br~Kuulepas nyt, Saradostrutsi! Mikä oikeuttaa kaiken sen mitä olet tehnyt tähän mennessä? Mikä vimma sinulla oikein on saada Zamolaatti tuhotuksi? Mikä sinua vaivaa?
+0x0000003a Saradostrutsi: "Kehtaatkin kysyä...!"~br~Äläpäs sinä vielä sano siinä mitään! En ole lopettanut!~br~~br~Oletko ikinä itse tullut ajatelleeksi, miten Sormus ja sauvat ovat oikein vaikuttaneet mieleesi? Olen lukenut Troopan kirjoja, kuuluisa sankari kun hän on. Ja hänen paras ystävänsä oli meidän otto-isän esi-isä Pesäpielus! Olet kai tavannutkin hänet, kuolevaisena siis? Mitä tarinoita heillä oikein oli kerrottavanaan elämästään, sekä hyviä että pahoja!
+0x0000003b Miksi siis tahraat heidän (ja teidän yhteisten sukupolvien) maineen, heittämällä kaiken mihin he uskoivat menemään tuhoamisen ja sotimisen tieltä? Sinulle ei riittänyt vain pelkästään että riistit kehittymisen sauvan heiltä, tuhosit myös monia muita galaktisia sivilisaatioita juuri niin kuin heidän pahin vihollisensa teki, vieläpä jopa samoilla tempuilla!~br~~br~Sanoit siis olevasi "järjestyksen jumala"? Pyh, et sinä mikään järjestyksen esikuva tai edes "jumala" ole! Olet vain esittävinäsi yhtä, kun todellisuudessa olet vain yhtä paha KAAOKSEN jumala kuin Zamolaatti... Ei, EPÄJUMALA!
+0x0000003c Saradostrutsi: "MIKSI sinä oikein sanoit MINUA?! ...KAAOKSEN... EPÄJUMALA?! MINÄPÄ NÄYTÄN SINULLE, TYTTÖNEN...!"
+
+
+# Act 5
+0x0000003d Jumalan viha
+0x0000003e Saradostrutsi tappoi Sinin silmänräpäyksessä salamaloitsulla! Kauheaa! Mitä hän aikoo seuraavaksi?!~br~VINKKI: Tee kaikki tavoitteet ennen kuin aika loppuu!
+
+# Goal 1
+0x0000003f LEIKIT ON NYT LEIKITTY! Hato, nyt annat sen sormuksen tänne, tai minä henkilökohtaisesti tuhoan kaiken sinulle rakkaan!
+0x00000040 Tuhoan sinun rakkaan kotiplaneettasi, Solumin! Ei, tuhoan koko Okuluksen tasavallan ja heidän pikku projektinsa! Ei, TUHOAN KOKO OKULIAANISEN SIIVEN JOS MINUN TÄYTYY!
+0x00000041 MINUA EI KIELLÄ KUKAAN! EI TULEVA JUMALA! EI SPORIX! EI VALITTU! EI ZAMOLAATTI! EI KUKAAN! MINÄ OLEN KAIKKIEN LISKIAANIEN JUMALA! OLEN ITSE PATE, GALAKSIN HERRA JA YKSINVALTIAS!
+0x00000042 Saradostrutsi alkaa käyttää kaikkia voimiaan ja vetää kropokeisarin sormusta itseensä.~br~Hato: "APUA! Kaverit, AUTTAKAA! En pysty vastustamaan häntä!"~br~Cyborcus: "Nyt jos ei koskaan! Saradostrutsi on heikoimmillaan, ja yhdessä voimme pysäyttää hänet!"~br~Argutix: "Totta vie! SININ PUOLESTA!"
+0x00000043 Soumadis: "Hovini ja minä autamme teitä, Viejät! Emme hyväksy murhia linnassamme!"~br~[Liittoudu Argutixin kanssa! Hato on tällä hetkellä toimintakyvytön sormuksen vuoksi. Se heikentää häntä!]
+
+
+# Act 6
+0x00000044 Jumalan raivo
+0x00000045 Saradostrutsi yrittää vetää Sormusta Hatolta itselleen! Pysäytä hänet lyömällä hänet nurin!
+
+
+# Act 7
+0x00000046 Jumalan väsymys
+0x00000047 Pysäytit Saradostrutsin... Tällä kertaa. Ensi kerrasta ei koskaan tiedä, mutta puhu nyt väliaikaisesti hänen kanssaan.
+
+# Goal 1
+0x00000048 Grrr.... Hrrrg... Voitit tämän erän, Viejä. Ystäväsi ovat sangen kiusallista sorttia...
+0x00000049 Hato: "Murhasit Sinin! BARBAARI!"
+0x0000004a Ystäväsi-mikä-lie ansaitsi sen! Moukka meni ja herjasi minua tuolla lailla! Mutta SINÄ!~br~[Saradostrutsin katse kääntyy kuningattareen.]~br~Hyökkäsit kimppuuni! Ja vielä mafian kera! Visiirini olivat oikeassa, näihin niin-sanottuihin "vapaisiin" valtakuntiin ei ole luottamista! Kaaoksen pesäkkeitä nekin ovat, näköjään!
+0x0000004b Soumadis: "Murhattuasi yhden Viejistä näytit todelliset sävysi. Sormus tosiaan on turmellut sinut täysin. Näyttää siltä, ettei Pohjantähden valtakunta tule ratkaisemaan tätä sotaa niin kauan kuin sinä olet elossa, Saradostrutsi. Sormus on tuhottava, niin kuin viejät sen sanoivat!"
+0x0000004c Vai niin!~br~Tulen muistamaan tämän petoksen niin kauan kuin olet elossa!~br~Saat sitten selittää Viejille, miksi olet liitossa Sinnelin mafian kanssa sillä välin, kun itse poistun kunniallisesti hovistasi. Hyvästi!
+
+
+# Act 8
+0x0000004d Menetys
+0x0000004e Koko saattue sekä Sinnelin hovi surevat Sinin kuolemaa... Mutta emme voi jäädä istua laakereillemme, emmehän pelaaja? Puhu kuningatar Soumadiksen, Argutixin ja sitten Haton kanssa jatkaaksesi matkaa seuraavaan seikkailuun.
+
+# Goal 1
+0x0000004f Suokaa minulta anteeksi.~br~Minun ja hovini epäonnistumisten takia teillä oli erittäin vaikea pääsy tänne, ja kaiken kukkuraksi menetitte yhden saattueestanne...
+0x00000050 Cyborcus: "Sini..." [Katseesi painuu maahan, ja Siniin.]~br~Hato: "Ei se sinun vikasi ollut, majesteetti. Sini, hän..."
+0x00000051 Tiedän. Sini oli urhoollinen nuori nainen, joka pani kaikkensa kekoon kertoakseen totuuden tuosta 'järjestyksen'... epäjumalasta.
+0x00000052 Mutta kuten eräs serkkuni tahtoi aina sanoa, vika oli myös minun, koska en tehnyt kaikkeani auttaakseeni teitä.~br~...Kyllä, sain viestisi kapteeni Argutix. En vain saanut vastaustani teille perille koska Saradostrutsi valvoi kaikkea verkkoliikennettä planeetalla. Hän varmasti sensuroi viestejämme, koska ei halunnut teidän tulevan meidän väliin kuten te lopulta teitte. Pyydän anteeksi vielä kerran.
+0x00000053 Ja tiedän jo että olette uteliaisia minun mafia... -kytköksistäni. Se oli ainoa tapa, jolla pystyin auttamaan kansalaisiani tämän miehitysvallan alla. En ole pystynyt suojelemaan tätä valtakuntaa haluamallani tavalla, joten on parasta että luovun kruunusta pikkusiskoni Outin hyväksi. Hän on hyvä tyttö, osaa hallita kuningaskuntaa jo yhtä hyvin kuin minä... Jos siis siitä on lopulta mitään jäljellä.
+
+# Goal 2
+0x00000054 Majesteetti, luovut kruunustasi?! Miksi?
+0x00000055 Soumadis: "Näin on parasta. Saattueenne on menettänyt tärkeän jäsenen, ja on parasta että minä tulen mukaan suorittamaan tehtävänne loppuun."
+0x00000056 Älä ota tätä väärin, olen imarreltu, mutta... Onkohan se ihan viisasta? Sini kuules... Oli Haton adoptiosisko ja kaikkea. Mahtaako hän nykyisessä mielentilassaan hyväksyä sinua mukaasi?
+0x00000057 Soumadis: "Me voimme järjestää Sinille hautajaiset ennen kuin lähdemme täältä."~br~Cyborcus: "Emme voi jäädä tänne odottelemaan ja hoitamaan hautajaisia. Hatoa ei saa jättää märehtimään tätä suurta menetystä, varsinkin kun hän vielä kantaa tuota kaiken pahuuden sormusta. Meidän on mentävä Mortteliin NYT."
+0x00000058 Niin, ja olisi varmaan myös fiksua jos sinä hoidat myös perämiehen hommat tällä kertaa, peltipurkki. Hato? Oletko kunnossa?
+
+# Goal 3
+0x00000059 Sini! En voi uskoa tätä, hän...
+0x0000005a Cyborcus lähestyy Hatoa ja halaa tätä.~br~Cyborcus: "Ei hätää Hato. Me ollaan tässä ja nyt. Me selvisimme. Sinä selvisit. Olit rohkea."
+0x0000005b Niin kun mutta Sini ei selvinnyt! Miksi hän ei selvinnyt tästä seikkailusta kuten me? MIKSI ME EIKÄ HÄN?!~br~Cyborcus: "Ota rauhassa. Hengitä syvään. Rauhoitu."~br~EI SE OLE REILUA!
+0x0000005c Cyborcus: "Meidän on lähdettävä heti, sen näkee sensoreittakin. Ties vaikka mitä Sormus suunnittelee seuraavaksi."~br~Argutix: "Majesteetti, mi-"~br~Soumadis: "Kutsukaa vain minua Soumadikseksi."~br~Argutix: "Selvä. Soumadis, tiesit siis sen reitin galaksin keskustaan, eikö niin?"
+0x0000005d Soumadis: "Kyllä. Sen nimi on Suruksen väylä. Vanha hyperavaruusreitti joka kulkee täältä Azedin vyöhykkeeltä galaksin keskustaan. Sen rakensivat L-Surisimet aikoinaan välttääksen Kaaoksen valtakunnan planeetat , mutta me voimme käyttää sitä koska sitä ei käytetä yhtä usein kuin ennen. Lähdetään. Perheeni voi hoitaa Sinin hautajaiset meidän poissaollessa. Suojelkoon Lähde hänen sieluaan seuraavalla matkallaan..."
+
+
+# Prop #1 - Hato
+0x0000005e Hato
+
+# Inspect for Act 1
+0x0000005f Cyborcus: Noh, miltä tuntuu, mestari Hato? Onko sormus ollut taakaksi?
+0x00000060 En tiedä... Jotenkin se tuntuu hieman painavalta, mutta pystyn vielä kantamaan sitä ihan hyvin!
+0x00000061 Mutta... On kuin pystyisin aistimaan jumalten sijainnin. En tiedä mistä se johtuu, mutta se voi olla vain yksi sormuksen sivuvaikutuksista.
+0x00000062 Cyborcus: Pystyt aistimaan jumalten... Hato, et kai vaan tarkoita, että...?
+0x00000063 Pelkään pahoin, ja toivon sen olevan väärin, mutta... Saradostrutsi vaikuttaa olevan täällä... Ja en pidä hänen aikomuksistaan...
+
+# Chatter for Act 2
+0x00000064 Apua! Meitä jahdataan!
+0x00000065 Paetaan sinne majataloon, jonka Sini mainitsi!~br~Cyborcus: "Joo, mestari Hato. Mennään!"
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000066 Siis sinneleitä etsimään! Mennään, kaikki!
+0x00000067 Keitä luulette, että tulemme kohtaamaan matkamme aikana?~br~Cyborcus: "Ei harmainta aavistustakaan, mestari Hato."
+0x00000068 Tulee sääliksi näitä kaupunkilaisia, mutta meillä on oma tehtävämme hoidettavana.
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #2 - Sini
+0x00000069 Sini
+
+# Inspect for Act 1
+0x0000006a On mukavaa, että päästiin viimein ihmisten ilmoille! Olo kävi hiukan yksinäiseksi siinä Falconissa! Mutta yksi juttu, jota EN siedä, on...
+0x0000006b Cyborcus: Niin, Sini? Mikä se on? Mikä sinua vaivaa?
+0x0000006c HE! Saradostrutsin seuraajat! Miten he muka voivat vielä seurata häntä, kun he... heidän jumalansa surmasi Paten, itse galaksin herran!
+0x0000006d Cyborcus: Eivät he sitä voi tietää, Sini. Kun se murha tapahtui, paikalla oli meidän lisäksi vain Saradostrutsin ja Zamolaatin laivastot. Me olemme ainoat puoleettomat silminnäkijät!
+0x0000006e Mutta mitä me muka voimme tehdä muuttaakseen heidän mielensä? Heittää sormus Tuhonvuoreen? Emme edes vielä tiedä, miten sinne päästään! Mennäänkö muuten katsomaan Holosanomia?
+
+# Chatter for Act 2
+0x0000006f Nyt olisi oiva aika mennä siihen majataloon, jonka näin! Eteenpäin!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000070 Kamalaa, minkälaisen otteen saradistit ovat ottaneet kaupungista ja sen väestä! Mitä me voimme oikein tehdä?
+0x00000071 Ymmärrän nyt, miksi säälit urgulaatteja Cyborcus. Paitsi että kuulut heidän alalajeihinsa, saradistit keskittävät melkein kaikki sortotoimensa pahiten teihin.
+0x00000072 En olisi uskonut, mihin kaikkeen pahaan sormusjumalat oikein kykenevät! Ei riitä että vanhat jumalat tapetaan, myös kuolevaisia pitää sortaa kertatolkulla!~br~Cyborcus: "Älä muuta sano, mestari Sini."
+0x00000073 Olin väärässä kyseenalaistaen sinua nähdessämme sen urgulaatin teloituksen Kauppalassa. Me kaikki olemme samanarvoisia luonnon edessä, emmekä me voi antaa jumalten tai sosiaalisten hierarkioiden päättää, keitä me olemme!~br~Cyborcus: "Totta sanot, mestari Sini! Annan sinulle anteeksi. Et voinut tietää tarpeeksi, kiitos saradistipropagandan. Ei ole oikein että urgulaatit tunnetaan ainoastaan kaaoksen kätyreinä!"
+0x00000074 Mennään nyt! Kerätään nuo sinnelikolikot ja maksetaan pääsymme palatsiin!
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #3 - Argutix
+0x00000075 Argutix
+
+# Inspect for Act 1
+0x00000076 Cyborcus: Oletteko muuten huomanneet, että täällä on tavallista enemmän Saradostrutsin joukkoja? Mistäköhän se johtuu?
+0x00000077 Ääh, ei kai se mitään merkitse! Tämä siipi on kuitenkin Saradostrutsin protektoraatin alainen, joten ei ole ihme, jos ne ovat täällä pitämässä "järjestystä"!
+0x00000078 Hato: Protektoraatti? Mikä se on?
+0x00000079 Etkö sinä muka tiennyt? Koska suurin osa Saradostrutsin nykyisistä pääplaneetoista sijaitsee tässä siivessä, saradistit pitävät naapurijärjestelmiään tiukassa kurissa!
+0x0000007a Sillä lailla he tekevät varmaksi, ettei heidän lähistöllään ole Zamolaatille ystävällisiä joukkoja. Mutta nyt jatketaan matkaa. Kuningatar odottaa!
+
+# Chatter for Act 2
+0x0000007b Ei kurjuus, taas sitä joudutaan pakenemaan noita Saradostrutsin seuraajia!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000007c Annan sinun hoitaa kaikki raha-asiat ja puhumisen, kyborgiveikkoseni.
+0x0000007d Tunnut aina olleen porukastasi kaikkein sosiaalisin, peltiveikko. Et kai muuten olisi löytänyt tietäsi Solumiin sieltä, mistä olit alunperin kotoisin?~br~Cyborcus: "En niin. Olisin muussa tapauksessa menehtynyt jo aikoja sitten."
+0x0000007e Kamalaa, mihin tilaan Sinneli on mennyt viime käyntini jälkeen! Saradostrutsin miehityksestä on tehtävä loppu, ja siitä syystä meidän on oitis mentävä kuningattaren puheille!
+0x0000007f Kuules Cyborcus, ovatko Hato ja Sini olleet hankalia sinulle jo lapsuudestaan asti?~br~Cyborcus: "Totisesti. Aina karkailivat kotoa metsään kun pääsivät."~br~Hato ja Sini: "HEI! Ei ole reilua juoruilla tuolla tavalla!"~br~Cyborcus: "Siitäs saitte."
+0x00000080 Meidän ei kannattaisi tuhlata liikaa aikaa kaupungissa, mutta Sinnelihän on aina ollut erittäin sokkeloinen paikka...~br~Cyborcus: "Kyllä me neljä tiemme löydämme aika helposti!"
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #4 - House of the Mankind
+0x00000081 House of the Mankind
+
+# Prop #5 - Mankind Workshops
+0x00000082 Mankind Workshops
+
+# Prop #6 - Mankind Market
+0x00000083 Mankind Market
+
+# Prop #7 - Mankind Prop
+0x00000084 Mankind Prop
+
+# Prop #8 - Tonkiva Tonkeri-pubi
+0x00000085 Tonkiva Tonkeri-pubi
+
+# Chatter for Act 1
+0x00000086 "TONKIVA TONKERI - Majatalo jonka isäntänä toimii Mario"
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #9 - Valkoinen portti
+0x00000087 Valkoinen portti
+
+# Chatter for Act 2
+0x00000088 Sini: "Tätä kautta ei pääse pakoon!"~br~Cyborcus: "Meidän on keksittävä joku toinen pakoreitti!"
+
+# Prop #10 - Valkoinen portti
+0x00000089 Valkoinen portti
+
+# Prop #11 - Valkoinen portti
+0x0000008a Valkoinen portti
+
+# Prop #12 - Valkoinen portti
+0x0000008b Valkoinen portti
+
+# Prop #13 - Valkoinen portti
+0x0000008c Valkoinen portti
+
+# Prop #14 - Holosanomat
+0x0000008d Holosanomat
+
+# Chatter for Act 1
+0x0000008e Holosanomista on tulossa erikoislähetys. Parasta katsoa sitä...
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #15 - Sinnelijalka
+0x0000008f Sinnelijalka
+
+# Prop #16 - Sinnelijalka
+0x00000090 Sinnelijalka
+
+# Prop #17 - Hautahirmu
+0x00000091 Hautahirmu
+
+# Chatter for Act 1
+0x00000092 On kyllä oikein, että se hirmuinen kalmari lyötiin. Ties mitä se olisi tehnyt galaksillemme, jos se olisi päässyt rellestämään mielensä mukaan!
+0x00000093 Taidan nyt pitää Saradostrutsista...
+0x00000094 Mitä hyvää Zamolaatti muka tarjoaa meille? Tuhoaa kotimme vain "edistääksemme" meitä? Mitä hän edes tarkoittaa sillä "kaaos"-jutulla?
+0x00000095 Kunhan vaan se sormus löytyy, niin Saradostrutsi voi vihdoin lyödä sen Zamolaatti-ilkiön! Silloin galaksissamme vallitsee ikuinen rauha!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #18 - Keltasaku
+0x00000096 Keltasaku
+
+# Chatter for Act 1
+0x00000097 Toivottavasti ystäväni Solumilla ovat turvassa! Toivon hartaasti, että Zamolaatin joukot eivät satuttaneet heitä kun ne tappoivat Sporixin!
+0x00000098 Saradostrutsi vaikuttaisi olevan ainoa toivomme... Mutta voimmeko oikeasti luottaa häneen? Entä jos hän hyväksyy paratiisiinsa vain tietyt lajit?
+0x00000099 Saradostrutsi on Pate, kommentit väittävät että se kalmari-otus oli Pate... Keneen minä voin oikein luottaa tässä maailmassa?!
+0x0000009a Älkää kertoko kenellekkään, mutta olen eksynyt pimeihin paikkoihin matkoillani galaksin halki. Olen oppinut asioita, joista valtamedia ja eliitti eivät piiskahdakaan!
+0x0000009b Jos tarinat kohtalon runosta ovat totta... Maailmanloppu on käsillä! Keneen minun pitäisi uskoa, jotta pääsen turvaan?
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #19 - Minilaatti
+0x0000009c Minilaatti
+
+# Chatter for Act 1
+0x0000009d Saradostrutsi valehtelee! Hän tappoi sen kalmarihirviön ihan itsekkäistä syistä, ei mistään muusta!
+0x0000009e Saradostrutsi halusi vain tappaa sen kalmarijumalan saadakseen sen voimat itselleen! Mitään muuta syytä ei ole!
+0x0000009f Mitä vahinkoja Saradostrutsi ja Zamolaatti ovat saaneet aikaan tähän asti sodillaan? Kuolemaa, kärsimystä, taloudellisia lamoja... Ihan kaikkea!
+0x000000a0 Ei Saradostrutsi sen parempi ole kuin hänen kilpailijansa Zamolaatti. Yhtä lailla hakevat pelkkää voimaa ideologisilla tekosyillä!
+0x000000a1 Mistä tämä kaikki sai alkunsa? Noh, oli eräs sormus, jonka... Ääh, se on liian pitkä tarina selitettäväksi täällä.
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #20 - Kulkuri
+0x000000a2 Kulkuri
+
+# Chatter for Act 1
+0x000000a3 Tämä vaikuttaa huolestuttavalta...
+0x000000a4 Tuleva jumala soikoon, edes oikea Pate ei mahtanut mitään Saradostrutsin mahdille! Onko tämän galaksin toivo jo menetetty?
+0x000000a5 Pitäisikö minun palata Miikka64:n galaksiin...? Mutta onko siitäkään enää mitään jäljellä?
+0x000000a6 Karussa kuulemma rakennetaan jotain salaista asetta... Sen pitäisi tuhota nuo "sormusjumalat", kun se on viimein valmis...
+0x000000a7 Tällaista sekasortoa ei ole tapahtunut sitten Libuz Suruksen aikojen! Onko Liskus-galaksin loppu nyt käsillä?
+
+# Inspect for Act 1
+0x000000a8 Psst! Älkää huoliko, olen puolellanne!
+0x000000a9 Lajini saattaa olla hajallaan, mutta silti teemme kaikkemme, että sormusjumalat ja Xenolaatti saavat kuulla kunniansa!
+0x000000aa Vannon tulevan jumalan nimeen, että te saatte sormuksen vietyä Mortteliin ja Tuhonvuorelle tuhottavaksi!
+0x000000ab Miten tiedän teistä? Sanotaan vain, että minulla on "lähteeni". Teillä on oma faniklubi, tiesittekö sitä?
+0x000000ac Mutta nyt teidän kannattaisi kiirehtiä. En haluaisi, että minut yhdistettäisiin teihin. Minulla on omat huoleni, sillä minuakin jahdataan!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #21 - Intialainen
+0x000000ad Intialainen
+
+# Prop #22 - Kynivä Kissapeto -majatalo
+0x000000ae Kynivä Kissapeto -majatalo
+
+# Chatter for Act 1
+0x000000af "KYNIVÄ KISSAPETO - Majatalo jonka isäntä on Luigi"
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #23 - Se on elossa!
+0x000000b0 Se on elossa!
+
+# Prop #24 - Sinnelilinna
+0x000000b1 Sinnelilinna
+
+# Prop #25 - Peurastrutsi
+0x000000b2 Peurastrutsi
+
+# Prop #26 - Valkoinen portti
+0x000000b3 Valkoinen portti
+
+# Prop #27 - Sinnelitalo
+0x000000b4 Sinnelitalo
+
+# Prop #28 - Sinnelimylly
+0x000000b5 Sinnelimylly
+
+# Prop #29 - Sinnelin kaupungintalo
+0x000000b6 Sinnelin kaupungintalo
+
+# Prop #30 - Verkkoaita
+0x000000b7 Verkkoaita
+
+# Prop #31 - Piikkilanka
+0x000000b8 Piikkilanka
+
+# Prop #32 - Hyppypatja
+0x000000b9 Hyppypatja
+
+# Chatter for Act 1
+0x000000ba INFO: Käytä tätä, jos jäät jumiin täällä!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #33 - Keltainen portti
+0x000000bb Keltainen portti
+
+# Prop #34 - Perinteinen laatikko
+0x000000bc Perinteinen laatikko
+
+# Prop #35 - Hedelmätori
+0x000000bd Hedelmätori
+
+# Prop #36 - Puulaatikkopino 2
+0x000000be Puulaatikkopino 2
+
+# Prop #37 - Rautakoriste
+0x000000bf Rautakoriste
+
+# Prop #38 - Lihakauppa
+0x000000c0 Lihakauppa
+
+# Prop #39 - Sataman lyhty
+0x000000c1 Sataman lyhty
+
+# Prop #40 - Kalatori
+0x000000c2 Kalatori
+
+# Prop #41 - The Gallows
+0x000000c3 The Gallows
+
+# Prop #42 - Valkoinen portti
+0x000000c4 Valkoinen portti
+
+# Inspect for Act 1
+0x000000c5 Cyborcus: Voi tuota poloista! Hänet on suorastaaan hirtetty!
+0x000000c6 Sini: Cyborcus, miksi sympatisoit tuon urgulaatin kanssa? Eikös hän kuulunut Zamolaatin joukkoihin?
+0x000000c7 Cyborcus: Ei hän silti ansainnut noin julmaa kuolemaa! Hän oli vain osa isompaa peliä galaksin hallinnasta jumalten välillä.
+0x000000c8 Cyborcus: Me kuolevaiset emme saa vain tyytyä pelinappuloiden rooliin. Meidän on pantava kampoihin ja näytettävä heille kaapin paikka!
+0x000000c9 Argutix: Olet oikeassa, Cyborcus. - Hato: Olen samaa mieltä kanssasi. Kunhan vain pääsemme Mortteliin, niin silloin tämä kaikki on ohi!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #43 - Inkvisiittori
+0x000000ca Inkvisiittori
+
+# Chatter for Act 1
+0x000000cb ...Ja tämä olkoon varoituksena teille, jotka seuraatte pakanajumalia! Katukaa ja kääntykää Paten puoleen, niin hän säästää teidät!
+0x000000cc Pate tulee rankaisemaan kaikkia niitä, jotka tahtovat häiritä luonnollista järjestystä! Hänen maailmassaan ei ole tilaa muille jumalille!
+0x000000cd Teuvo, Sporix, Xenolaatti, tuleva jumala, Zamolaatti, ne ovat kaikki epäjumalia! Vain itse Pate on oikea jumala näiden joukosta! Kääntykää heti hänen puoleen, kansalaiset!
+0x000000ce Hei, sinä! Näen tuon vastustavan ilmeesi! Odotas vain kun sulatan sen aikanaan kasvoiltasi, kunhan vain herramme viimein tappaa Zamolaatin ja saa sormuksensa!
+0x000000cf Näettekö tuon urgulaatin tuossa? Hän seurasi Zamolaattia, joten hän on AUTOMAATTISESTI SYNTINEN! Hän ei ansaitse mitään muuta kuin kadotusta olemattomiin!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #44 - Henkivartija
+0x000000d0 Henkivartija
+
+# Chatter for Act 1
+0x000000d1 Pysykää kiltteinä!
+0x000000d2 Älkää häiritkö yleistä järjestystä, kiitos!
+0x000000d3 Jos te pysytte rauhallisina ettekä häirikö, emme häiriköi teitäkään! Lupaan sen, Saradostrutsin nimeen!
+0x000000d4 Me Herramme joukot olemme täällä siihen saakka, kunnes Hän on saanut viimeisteltyä neuvottelunsa Elämän valtiattaren kanssa. Sitten vasta lähdemme täältä!
+
+# Inspect for Act 1
+0x000000d5 Cyborcus: Hän vaikuttaa vahvalta. Parasta olla riitelemättä tämän tyypin kanssa...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #45 - Näkymätön alusta
+0x000000d6 Näkymätön alusta
+
+# Prop #46 - Multilaatti
+0x000000d7 Multilaatti
+
+# Prop #47 - Valkoinen portti
+0x000000d8 Valkoinen portti
+
+# Inspect for Act 1
+0x000000d9 Tämä osio kaupungista on tällä hetkellä SULJETTU.
+0x000000da Pääsy tänne osioon palautuu, kun tilanne palaa NORMAALIKSI.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #48 - Nosel
+0x000000db Nosel
+
+# Prop #49 - Purlean
+0x000000dc Purlean
+
+# Prop #50 - Pesäpielijä
+0x000000dd Pesäpielijä
+
+# Prop #51 - Gigantulaatti
+0x000000de Gigantulaatti
+
+# Prop #52 - Flirkku
+0x000000df Flirkku
+
+# Prop #53 - Linnan portinvartija
+0x000000e0 Linnan portinvartija
+
+# Chatter for Act 1
+0x000000e1 Pysykää kiltteinä!
+0x000000e2 Älkää häiritkö yleistä järjestystä, kiitos!
+0x000000e3 Jos te pysytte rauhallisina ettekä häirikö, emme häiriköi teitäkään! Lupaan sen, Saradostrutsin nimeen!
+0x000000e4 Me Herramme joukot olemme täällä siihen saakka, kunnes Hän on saanut viimeisteltyä neuvottelunsa Elämän valtiattaren kanssa. Sitten vasta lähdemme täältä!
+
+# Inspect for Act 1
+0x000000e5 Cyborcus: Hän vaikuttaa vahvalta. Parasta olla riitelemättä tämän tyypin kanssa...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000e6 Siitä vain, menkää. Älkää sitten häiritkö meitä enää!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #54 - Nosel
+0x000000e7 Nosel
+
+# Prop #55 - Mario
+0x000000e8 Mario
+
+# Inspect for Act 1
+0x000000e9 Tervetuloa Tonkivan Tonkerin majataloon! Valitettavasti kaikki huoneemme ovat varattuja, mutta voitte silti tulla juomaan, jos tahdotte!
+0x000000ea Meillä on mehua, vettä, nektaria, maitoa, ihan aitoa viiniäkin! Valitettavasti paikallinen oluemme on loppunut, mutta sitä pitäisi tulla lisää ensi viikolla!
+0x000000eb Eikö kiinnosta? Noh, majapaikkani on aina vapaana teille kun tahdotte taas tulla käymään! Tarkoitan siis, kun huoneita on vapaana...
+
+# Inspect for Act 2
+0x000000ec Ter- Mitä ihmettä?! Teitähän jahdataan!
+0x000000ed Mitä väliä sillä on, keitä te olette? Tulkaa äkkiä sisälle, niin pääsette turvaan!
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #56 - Väijytys!
+0x000000ee Väijytys!
+
+# Prop #57 - Mellakoiva yleisö
+0x000000ef Mellakoiva yleisö
+
+# Prop #58 - Rakuuna
+0x000000f0 Rakuuna
+
+# Prop #59 - Nuoli
+0x000000f1 Nuoli
+
+# Prop #60 - Yleisö - sisällä
+0x000000f2 Yleisö - sisällä
+
+# Prop #61 - Bluegrass
+0x000000f3 Bluegrass
+
+# Prop #62 - prancing pony interior
+0x000000f4 prancing pony interior
+
+# Prop #63 - prancing pony interior
+0x000000f5 prancing pony interior
+
+# Prop #64 - Valkoinen portti
+0x000000f6 Valkoinen portti
+
+# Prop #65 - Mario
+0x000000f7 Mario
+
+# Inspect for Act 1
+0x000000f8 Tervetuloa Tonkivan Tonkerin majataloon! Valitettavasti kaikki huoneemme ovat varattuja, mutta voitte silti tulla juomaan, jos tahdotte!
+0x000000f9 Meillä on mehua, vettä, nektaria, maitoa, ihan aitoa viiniäkin! Valitettavasti paikallinen oluemme on loppunut, mutta sitä pitäisi tulla lisää ensi viikolla!
+0x000000fa Eikö kiinnosta? Noh, majapaikkani on aina vapaana teille kun tahdotte taas tulla käymään! Tarkoitan siis, kun huoneita on vapaana...
+
+# Chatter for Act 2
+0x000000fb Ottakaa rauhallisesti, näytän teille turvapaikan tälläisen tilanteen varalle. Seuratkaa minua.
+
+# Inspect for Act 2
+0x000000fc  Ei sitä ole harvinaista nähdä väkeä karkaamassa peurastrutseilta, mutta silti, jotain omituista teissä on. Eivät he tuolla joukolla jahtaa jotain taskuvarasta!
+0x000000fd Cyborcus: "Ei se mitään... Kyllä sitä ollaan tultu saradistien jahtaamaksi ennenkin. Tuttua bisnestä."
+0x000000fe Jaaha. Ovatko he jahtaneet teitä muillakin planeetoilla? Oi joi... Oletteko kenties rikollisia, vai...
+0x000000ff Hato: "Noh, katsos kun me..."~br~Sini: "Hys, Hato, ei täällä! Täällä on liikaa väkeä!"
+0x00000100 Ymmärrän, ette halua puhua siitä tässä väkijoukossa. Seuratkaa sitten minua. Ohjaan teidät huoneeseen, jossa voimme rauhassa keskustella. 
+
+# Inspect for Act 3
+0x00000101 Pyydän anteeksi saamaanne kohtelua. Yleensä kaupungissamme on paljon rauhallisempaa!
+0x00000102 Cyborcus: Ei se mitään... Kyllä sitä ollaan tultu saradistien jahtaamaksi ennenkin. Ei tämä ole mitään uutta...
+0x00000103 Jaaha. Mutta miksi sitten he jahtasivat teitä? Oletteko kenties rikollisia, vai...
+0x00000104 Hato: Noh, katsos kun me... - Sini: Hys, Hato, ei täällä! Täällä on liikaa väkeä!
+0x00000105 Jaa, ette halua kertoa sitä täällä. Seuratkaa sitten minua. Ohjaan teidät huoneeseen, jossa voimme rauhassa keskustella. 
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #66 - Valkoinen avain
+0x00000106 Valkoinen avain
+
+# Prop #67 - Tavern Table
+0x00000107 Tavern Table
+
+# Prop #68 - Card Table
+0x00000108 Card Table
+
+# Prop #69 - Bar
+0x00000109 Bar
+
+# Prop #70 - Baarimikko
+0x0000010a Baarimikko
+
+# Inspect for Act 1
+0x0000010b Mario palkkasi minut hoitamaan baaria päivisin. Hän itse hoitaa tavernan majoituspalvelut.
+0x0000010c Hän maksaa minulle hyvää palkkaa, paljon parempaa kuin se Luigin ketale maksoi minulle Kauppalassa, Kynivän Kissapedon baarissa.
+0x0000010d Ethän kuitenkaan kerro eteenpäin, että meidän kahden baareilla on tällainen kilpasuhde, ethän?
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #71 - Tarjoilijabotti
+0x0000010e Tarjoilijabotti
+
+# Chatter for Act 1
+0x0000010f RUOKANNE, OLKAA HYVÄT. *piip*
+0x00000110 HYVÄT HERRAT, TÄSSÄ RUOKANNE. *boop*
+0x00000111 MITÄ SAISI OLLA? *piip*
+0x00000112 LÄHETÄN TILAUKSENNE KEITTIÖLLE... *boop*
+0x00000113 MITÄ JUOMIA HALUAISITTE, HYVÄT HERRAT?
+
+# Inspect for Act 1
+0x00000114 Mario: Sain tämän robotin lahjaksi Benjimus-galaksista. Tilanne siellä näyttää rauhoittuneen hyvin paljon viime aikoina.
+0x00000115 Mario: Se on toiminut hyvin työssään, mutta jotenkin hiukan epäilen sitä. Aivan kuin se juonittelisi selkäni takana...
+0x00000116 *Bzz* ƘíҽӀԵäվԵվյäղ ԹɑӀմմ օղ ӀäհҽӀӀä. *Bzz*
+0x00000117 *Bzz* ķåȋķķȋ ķȋ£ȑțÿÿ ÿȟț££ñ קȋ§ț££§££ñ. *Bzz*
+0x00000118 ჰპῆ ῆἶოἶ õῆ... 01000111 01010101 01000001 01010100 01010100, ནმἶ... 47 55 41 54 54... *Bzz* Suoritetaan prosessia: Tarjoilu.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #72 - Oven sulkeminen
+0x00000119 Oven sulkeminen
+
+# Prop #73 - Siirrin
+0x0000011a Siirrin
+
+# Prop #74 - Turvapaikka!
+0x0000011b Turvapaikka!
+
+# Prop #75 - Mario
+0x0000011c Mario
+
+# Inspect for Act 1
+0x0000011d No niin, istukaapas nyt ja kuunnelkaa. Tämä tulee olemaan pitkä tarina, joten lyhennän sitä tarpeen mukaan.
+0x0000011e Olen Mario, uljas Sinnelin suvun jäsen. Sukuni on hallinnut tätä valtakuntaa ja sen järjestelmiä jo tuhansia vuosia, aina Melorsian liittouman ajoista lähtien.
+0x0000011f Kun ensimmäinen jumalsota päättyi ja vanhat galaktiset liittoumat hajosivat, valtakuntamme itsenäisyys ja kansamme päättäväisyys takasivat sen, ettei planeettamme vajautunut diktatuuriin kuten monet muut sen ajan valtiot. Meidän valtiostamme tuli yksi suurista vapauden turvasatamista, joihin myös entinen Solumin federaatio kuului.
+0x00000120 Meidän arvovaltamme kasvoi sitä mukaa kun me vastustimme jumalten valtakuntien kasvua ja hyökkäyksiä, ja lopulta meistä kasvoi niin vaikutusvaltaisia, että hallitsijaamme alettiin kutsua Elämän valtiaaksi (tai valtiattareksi jos hän oli naaras). Tuosta nimestä on ehkä kiittämistä sitä, että olimme ennen vanhaan Todellisen Elämänsauvan kantajien vahvoja liittolaisia.
+0x00000121 Syy, miksi ette ole ehkä kuulleet meistä ennen, on mahdollisesti Suuren Sopimuksen syytä. Me olimme tärkeä osa kyseisen sopimuksen alkuunpanossa, mutta me itse emme olleet mukana siinä koska sen tarkoitus oli lähinnä sen ajan rauhanteossa, Okuluksen tasavallan yhdistämisessä ja jumalten valtakuntien välisen aselevon sopimisessa ennemmin kuin galaksin yhdistämisestä.~br~~br~Mutta nyt koska jumalat itse ovat palanneet, rikkoneet Sopimusta taistelemalla jälleen keskenään ja nyt myös miehittämällä oman rakkaan kaupunkimme, meidän sinnelijalkojen vaikutusvalta on vähäisintä kuin mitä se on ollut vuosituhansiin.~br~~br~[Mario katsoo haikeana takkaa, tuli loimottaen siinä kuin kaipaava morsian.]
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000122 Laitoin seinälle kartan kaupungista ja sen vyöhykkeistä. Toivottavasti siitä on apua teille kaikille.
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #76 - Bunk Bed
+0x00000123 Bunk Bed
+
+# Prop #77 - Wooden Table
+0x00000124 Wooden Table
+
+# Prop #78 - Takka
+0x00000125 Takka
+
+# Inspect for Act 1
+0x00000126 Hato: "Tilanne kaupungissa vaikuttaa vakavalta."~br~ Sini: "Älä muuta sano, Hato! Hirvittää ajatella kaikkien niiden otusten puolesta!"
+0x00000127 Argutix: "Onko sinulla muuten vinkkejä siihen, mitä muuta kaupungissa kannattaisi tehdä, Mario?"~br~Mario: "Kysykää kaupunkilaisilta, onko heillä pulmia."
+0x00000128 Mario: "Jos heillä on jotain huolia, he varmasti palkitsevat teidät sinneleillä, jos ratkaisette ne heidän puolestaan. Heitä on paljon enemmän kuin luulettekaan!"
+0x00000129 Mario: "Jos jäätte jumiin jossain tehtävässä, tai rahat menevät hukkaan, 3. vyöhykkeellä on salainen taisteluareena. Sieltä saatte ainakin rahaa, jos muut jutut eivät onnistu".
+0x0000012a Hato: "Ääh, miksi aina pitää taistella?" ~br~Sini: "Ei meidän ole pakko mennä sinne, Hato." ~br~Cyborcus: "Niinpä. Se voi olla viimeinen oljenkortemme, jos jokin menee mönkään. Mennään nyt."
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #79 - Rauhaisa universumi
+0x0000012b Rauhaisa universumi
+
+# Prop #80 - Peruskivi
+0x0000012c Peruskivi
+
+# Prop #81 - Bonus - kunto
+0x0000012d Bonus - kunto
+
+# Inspect for Act 1
+0x0000012e Palautumisaika: 1 min
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #82 - Bonus - energia
+0x0000012f Bonus - energia
+
+# Inspect for Act 1
+0x00000130 Palautumisaika: 1 min
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #83 - Soittajan laulu
+0x00000131 Soittajan laulu
+
+# Prop #84 - Psykedeliapuutarha
+0x00000132 Psykedeliapuutarha
+
+# Prop #85 - Renessanssijuhlat
+0x00000133 Renessanssijuhlat
+
+# Prop #86 - Portin tullivartija
+0x00000134 Portin tullivartija
+
+# Inspect for Act 1
+0x00000135 Herramme on asettanut nämä tullimaksut tähän tästä hetkestä lähtien. Joudutte maksamaan pääsystä syvemmälle kaupunkiin.
+0x00000136 Ensimmäinen tullimaksu on: 2 sinneliä. Sillä pääsette kakkosvyöhykkeelle.
+0x00000137 Toinen tullimaksu on: 3 sinneliä. Sillä pääsette kolmannelle vyöhykkeelle ja merisatamaan.
+0x00000138 Kolmas ja viimeinen tullimaksu on: 4 sinneliä. Sillä pääsette kuninkaalliseen palatsiin, jos niin tahdotte. (Mutta en ymmärrä, miksi.)
+0x00000139 "Miksei Spore-taaleri käy?" Sillä ei ole arvoa tässä kaupungissa, valitettavasti. Joudutte etsimään jonkun muun tavan kerätä kahisevaa tässä kaupungissa!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #87 - Zoranivelkoja
+0x0000013a Zoranivelkoja
+
+# Inspect for Act 1
+0x0000013b Argutix: Varo, tuo on yksi zoranien velkojista. Heidät tunnetaan epärehellisistä lainoista joita he myöntävät erittäin suurilla koroilla hyväuskoisille poloille.
+0x0000013c Hei, sinä! Niin, juuri sinä peltiveikkoseni! Voisitko tehdä minulle palveluksen?
+0x0000013d Cyborcus: Ööh, toki? Mitä sinä haluat?
+0x0000013e Voisitko viedä nämä karhukirj- tarkoitan velkakirjat asiakkailleni? Saat kolmesta kerätystä velasta yhden sinnelin palkkioksesi!
+0x0000013f Cyborcus: Noh, ei kai tässä muuta? Jotenkin minulle tulee paha olo tästä hommasta...
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #88 - Yksi sinneli
+0x00000140 Yksi sinneli
+
+# Chatter for Act 1
+0x00000141 1 sinneli
+
+# Inspect for Act 1
+0x00000142 Tämä kolikko on arvoltaan yhden sinnelin. Sillä voi ostaa kaikenlaista tässä kaupungissa.
+0x00000143 Sen pääarvo sinulle on kuitenkin tullimaksuissa, jotta pääsisit syvemmälle kaupunkiin.
+0x00000144 Tarvitset 2. vyöhykkeelle 2 sinneliä, 3. vyöhykkeelle 3 sinneliä, ja palatsiin 4 sinneliä.
+0x00000145 Joten hihat ylös ja hommiin! Etsi lisää sinneleitä edistyäksesi tässä seikkailussa!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #89 - Velkakirja
+0x00000146 Velkakirja
+
+# Inspect for Act 1
+0x00000147 Vie tämä zoranin velallisille. Saat kolmesta viedystä kääröstä yhden sinnelin.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #90 - Muinainen arkku
+0x00000148 Muinainen arkku
+
+# Prop #91 - Rahasäkki
+0x00000149 Rahasäkki
+
+# Inspect for Act 1
+0x0000014a Tämä rahasäkki kuului zoranin velalliselle. Vie se takaisin zoranin luo, niin saat yhden velan hoidettua palkkaasi varten!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #92 - Sininen portti
+0x0000014b Sininen portti
+
+# Inspect for Act 1
+0x0000014c Tuo zoranivelkojalle kolme rahasäkkiä hänen asiakkailtaan, niin saat palkaksi yhden sinnelin.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #93 - Nuori troopatinaaras
+0x0000014d Nuori troopatinaaras
+
+# Chatter for Act 1
+0x0000014e Rakas simpukkani...
+0x0000014f Tällä troopatilla on huolia. Jos autatte häntä, saatte yhden sinnelin!
+
+# Inspect for Act 1
+0x00000150 Voi hyvä nuori mies, voitko auttaa minua?
+0x00000151 Cyborcus: Toki. Miten voin olla avuksi?
+0x00000152 Tuo pahuksen peurastrutsi varasti arvokkaan simpukkani! Sanoi sen olevan jokin vero Patelle tai jotain. Toisitko sen takaisin, olisitko niin kiltti?
+0x00000153 Hato: Tietysti! Ainahan me troopatia voimme auttaa!
+0x00000154 Voi, kiitos nuorukaiset! Kyseinen peurastrutsi on juuri nyt avaruussatamaan vievän portin laidalla. Voisitteko mennä hänen luokseen ja pyytä sitä kiltisti takaisin, jooko? 
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #94 - Elävä kotilo
+0x00000155 Elävä kotilo
+
+# Prop #95 - Rakuuna
+0x00000156 Rakuuna
+
+# Chatter for Act 1
+0x00000157 Tällä peurastrutsilla on tehtäväesine. Jos et tiedä, mitä varten se on, ÄLÄ koske siihen!
+
+# Inspect for Act 1
+0x00000158 Seis! Mitä te haluatte?
+0x00000159 Hato: Voisitko kertoa, mistä sait tuon hienon simpukan?
+0x0000015a Se ei kuulu teille! Löysin tämän simpukan rannalta, ja aion viedä sen Paten temppeliin pyhitettäväksi! Uskonasiani eivät kuulu teille!
+0x0000015b Cyborcus: (Hmm, tämä peurastrutsi ilmiselvästi valehtelee! Näinköhän jossain jonkun, joka valitteli "simpukastaan"?)
+0x0000015c Jos teillä ei ole asiaa, antaa heittää! Vai oletteko sittenkin se "Viejä" ja hänen kätyrinsä? Siinä tapauksessa täältä pesee!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #96 - Sinnelijalka
+0x0000015d Sinnelijalka
+
+# Prop #97 - Äkäinen purlean
+0x0000015e Äkäinen purlean
+
+# Inspect for Act 1
+0x0000015f Grr, mitä sinä haluat?
+0x00000160 Cyborcus: (Hän vaikuttaa aika äkäiseltä... Jospa pikkuinen jutustelu piristäisi häntä?)
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #98 - Valkoinen portti
+0x00000161 Valkoinen portti
+
+# Prop #99 - Emoalus – rakettitorni 1
+0x00000162 Emoalus – rakettitorni 1
+
+# Prop #100 - Kukka
+0x00000163 Kukka
+
+# Prop #101 - Flirkku
+0x00000164 Flirkku
+
+# Chatter for Act 1
+0x00000165 Voih! Kuka veisi tämän lastin perille? En voi lähteäkään täältä, joten...
+
+# Inspect for Act 1
+0x00000166 Hei, sinä siellä! Voisitko tehdä minulle palveluksen?
+0x00000167 Cyborcus: Toki. Mitä tarvitsette?
+0x00000168 Voisitteko viedä tämän vihanneserän Etelärannan ruokatorille? He ovat jo kaivanneet sitä jonkin aikaa, mutta en ole vielä löytänyt sopivia kuriireja tähän hommaan.
+0x00000169 Argutix: Kyllä se käy! Luota vain meihin!
+0x0000016a Oih, kiitoksia, muukalaiset! Olkaa sitten varovaisia tämän kanssa. Vihannekset kyllä kestävät kolhuja, mutta en haluaisi niiden likaantuvan!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #102 - Vihannespaketti
+0x0000016b Vihannespaketti
+
+# Inspect for Act 1
+0x0000016c Tämä lasti odottaa viemistä Etelärannan ruokatorille. Se on 2. vyöhykkeellä, etelään pääkadusta.
+0x0000016d Jos viet onnistuneesti tämän lastin, saat yhden sinnelin.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #103 - Sinnelijalka
+0x0000016e Sinnelijalka
+
+# Chatter for Act 1
+0x0000016f Onko kukaan sattunut näkemään odottamaani vihanneslähetystä? Sen olisi pitänyt jo tulla Kukkaistorilta!
+
+# Inspect for Act 1
+0x00000170 Tämä sinnelijalkakauppias odottaa selvästi jotain lähetystä. Jos tuot sen hänelle, saat yhden sinnelin.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #104 - Lucia
+0x00000171 Lucia
+
+# Chatter for Act 1
+0x00000172 Pyydän, olkaa kilttejä! Auttakaa minua!
+0x00000173 Rakas Liljani... Pyydä, auttakaa!
+0x00000174 Pystyykö kukaan auttamaan vanhaa tätirouvaa näinä aikoina?
+
+# Inspect for Act 1
+0x00000175 Rakas Liljani! Rosvot ovat kidnapanneet hänet! Rakas lapseni!
+0x00000176 Sini: Voi ei! Kuka on syyllinen?
+0x00000177 En minä sitä voi tietää! Sain tänä aamuna uhkakirjeen, jossa minua vaadittiin luovuttamaan 500 sinneliä iltaan mennessä, muuten en enää ikinä näkisi tytärtäni!
+0x00000178 Argutix: Tuohan on raivostuttava summa! Mekin hädin tuskin pärjäämme keräämillämme sinneleillä! Älä huoli, rouva, kyllä me hoidamme tämän!
+0x00000179 Niinkö? Suuret kiitokset tarjoamastanne avusta, muukalaiset. Näytättekin siltä, että pystyisitte päihittämään mitkä-liekään rosvot! Jos tuotte tyttäreni tänne elävänä, saatte yhden sinnelin!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #105 - Alamäki
+0x0000017a Alamäki
+
+# Prop #106 - Lilja
+0x0000017b Lilja
+
+# Inspect for Act 1
+0x0000017c Apua! Voisiko joku auttaa minua?
+0x0000017d Tämä pikkuvasa on pulassa! Jos autat hänet tästä tilanteesta ja viet hänet vanhempiensa luo, saat yhden sinnelin!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #107 - Rosvo
+0x0000017e Rosvo
+
+# Prop #108 - Rosvojen johtaja
+0x0000017f Rosvojen johtaja
+
+# Chatter for Act 1
+0x00000180 Voi pojat, meistä tulee NIIN rikkaita tämän jälkeen... Häh, kuka siellä?
+
+# Inspect for Act 1
+0x00000181 Hei, voisitteko kiltisti häipyä täältä? Meillä on vähän bisnekset tässä kesken!
+0x00000182 Cyborcus: Jos siihen kuulu tuon pikkuvasan kiusaaminen, se ei käy meille!
+0x00000183 Jaa, haluatteko sitten tappelua, vai? Meillä on käytössämme tämän ajan huippuaseet, viimeisintä laatua galaksin parhailta asemarkkinoilta!
+0x00000184 Cyborcus: (Voi hitsi! He näyttävät vahvoilta... Meidän pitäisi olla varuillaan...)
+0x00000185 Noh, mitäs odotatte? Antaa heittää, tai saatte maistaa ohjusta!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #109 - Hurrausta
+0x00000186 Hurrausta
+
+# Prop #110 - Inkvisiittori
+0x00000187 Inkvisiittori
+
+# Inspect for Act 1
+0x00000188 Seis! Tämä alue on eristetty ulkopuolisilta!
+0x00000189 Argutix: Mitäs täällä on meneillään?
+0x0000018a Sisällä on menossa baaritappelu. Emme voi juuri nyt mennä sisälle, koska se olisi liian vaarallista. Olen jo menettänyt tarpeeksi miehiä mellakoiden pidättelyssä!
+0x0000018b Argutix: Kyllä me voimme tappelun tai pari pysäyttää. On siitä jo kokemusta minullakin!
+0x0000018c Mutta... Sehän... Hyvä on. Olette sitten omillanne, ettäs tiedätte. Baarin omistaja voi kyllä palkita teidät, jos te jostain syystä pystytte hillitsemään sisällä olevan mellakan!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #111 - Siirrin
+0x0000018d Siirrin
+
+# Prop #112 - Luigi
+0x0000018e Luigi
+
+# Inspect for Act 1
+0x0000018f Voi hyvä sylvi, mikä sekamelska täällä onkaan! Kohta koko talo menee nurin!
+0x00000190 Sini: Hei, me tulimme auttamaan! Me voimme häätää nuo huligaanit puolestasi!
+0x00000191 Voi, sepä hyvä, nuorukaiset! Mutta olkaa varovaisia! Nämä kaverit ovat hyvin vahvoja. Saatatte saada itsekin köniin!
+0x00000192 Sini: Äh, ei ne ole vastus eikä mikään! Me olemme taistelleet kokonaisia armeijoita vastaan, ettäs tiedätte!
+0x00000193 Siis olette ammattitaistelijoita? Oi joi... Älkää sitten rikotko enempää tavaroita, jooko? Annan sitten palkkioksenne yhden sinnelin kun tilanne rauhoittuu!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #113 - Klezmer
+0x00000194 Klezmer
+
+# Prop #114 - Baaritappelija
+0x00000195 Baaritappelija
+
+# Prop #115 - Baaritappelija
+0x00000196 Baaritappelija
+
+# Inspect for Act 1
+0x00000197 Täällä on menossa baaritappelu. Jos onnistut rauhoittamaan sen, saat baarin omistajalta yhden sinnelin. 
+0x00000198 Hei, mitä sinä haluat?
+0x00000199 Älä puutu tähän! Tämä on meidänvälinen asia, joka ei kuulu ulkopuolisille kuten te!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #116 - Flipped Table
+0x0000019a Flipped Table
+
+# Prop #117 - Sininen portti
+0x0000019b Sininen portti
+
+# Inspect for Act 1
+0x0000019c Cyborcus: Lisää zoranivelkoja kerättäväksi... Varmaankin toimii samalla lailla kuin 1. vyöhykkeellä.
+0x0000019d Zorani: Aivan! Tuo kolme velkasummaa, niin saat yhden sinnelin! Eikö olekin reilua, eihän?
+0x0000019e Tuo täkäläiselle zoranille kolme rahasäkkiä hänen asiakkailtaan, niin saat palkaksi yhden sinnelin.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #118 - Valkoinen portti
+0x0000019f Valkoinen portti
+
+# Prop #119 - Turhautunut kauppias
+0x000001a0 Turhautunut kauppias
+
+# Chatter for Act 1
+0x000001a1 Ääh. Missähän hän mahtaa olla?
+0x000001a2 Hänen olisi pitänyt tulla maksamaan velkansa jo aikoja sitten! Missä hän oikein vetkuttelee?
+
+# Inspect for Act 1
+0x000001a3 Missä hän oikein viipyy? Hänen velkansa erääntyi jo eilen, eikä hän ole VIELÄKÄÄN tullut maksamaan sitä!
+0x000001a4 Cyborcus: Mikä hätänä?
+0x000001a5 Eräs nuori pesäpielijäherra jolle satuin lainaamaan muutama sata spaaleria ei ole tullut palauttamaan lainaansa niin kuin sovimme. 
+0x000001a6 Kuulin, että hän on juuri nyt Pohjoissatamassa, mutta en voi jättää omaa tiskiäni yksin. Joku voi vielä tulla varastamaan jotain! Näin kävi viime viikolla, enkä anna saman tapahtua uudestaan!
+0x000001a7 Hei, te näytätte kovin kyvykkäiltä nuorilta. Jos te saisitte tämän pesäpielijän maksamaan lainansa, saatte minulta palkaksi yhden sinnelin! Minulle ei ole juuri niille enää käyttöä.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #120 - Kaupungin laiturit
+0x000001a8 Kaupungin laiturit
+
+# Prop #121 - Medieval Wagon
+0x000001a9 Medieval Wagon
+
+# Prop #122 - Pesäpielijäsoturi
+0x000001aa Pesäpielijäsoturi
+
+# Chatter for Act 1
+0x000001ab Tämä hahmo kuuluu erääseen tehtävään. ÄLÄ PUHU HÄNELLE ellei joku erikseen pyydä sitä sinulta!
+
+# Inspect for Act 1
+0x000001ac Hei, olisitteko sattumoisin nähnyt miekkaani missään?
+0x000001ad Hato: Oletko sinä se pesäpielijä, joka lainasi eräältä flirkkukauppiaalta rahaa? Hän tarvitsisi varansa nyt takaisin.
+0x000001ae Ai niin. Se juttu. Kylläpä teillä on tarkat korvat tämän kaupungin näillä kolkilla. Se vanha ketku sai varmaan taas jonkun uhkakirjeen mafialta tai jotain.
+0x000001af Voin käydä hänen luonaan pian, kunhan löydän sen miekkani! Missähän se olikaan... Ai niin! Unohdin sen Hirviöareenalle!
+0x000001b0 Ääh, mutta se on niin kaukana! Hei, te siellä! Voisitteko tehdä minulle palveluksen? Jos pystytte tuomaan miekkani luokse, voin käydä heti maksamassa velkani! Käykö? Hyvä!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #123 - Kylän laituri – portaat
+0x000001b1 Kylän laituri – portaat
+
+# Prop #124 - Avaruussoturit
+0x000001b2 Avaruussoturit
+
+# Prop #125 - Areena – tunnelinseinä
+0x000001b3 Areena – tunnelinseinä
+
+# Prop #126 - Punainen portti
+0x000001b4 Punainen portti
+
+# Inspect for Act 1
+0x000001b5 Portinvartija: Jos satutte löytämään Mustan passin, voitte kokeilla taitojanne erityishaasteessa.
+0x000001b6 Portinvartija: Valitettavasti Musta passi sattuu olemaan harvinaisuus tässä galaktisessa siivessä. 
+0x000001b7 Portinvartija: Olen kuitenkin kuullut juoruja, että jollakulla tässä kaupungissa sattuu olemaan Musta passi käsissään. Jos satutte jotenkuten hankkimaan sen, lykkyä tykö!
+0x000001b8 Ajattelette, että tämän portin takana saattaa olla erittäin vaikea haaste, mutta jolla voisi olla erityisen kova palkkio.
+0x000001b9 On oma päätöksesi, johdatko sankareimme tänne vai laitatko heidät keräämään sinneleitä tavalliseen tapaan.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #127 - Hirviöareenan sisäänkäynti
+0x000001ba Hirviöareenan sisäänkäynti
+
+# Prop #128 - Temple Exit
+0x000001bb Temple Exit
+
+# Prop #129 - Stadion – yleisö
+0x000001bc Stadion – yleisö
+
+# Prop #130 - Areena – portti
+0x000001bd Areena – portti
+
+# Prop #131 - White Wall
+0x000001be White Wall
+
+# Prop #132 - Temple Roof
+0x000001bf Temple Roof
+
+# Prop #133 - Temple Archway
+0x000001c0 Temple Archway
+
+# Prop #134 - Portinvartija
+0x000001c1 Portinvartija
+
+# Chatter for Act 1
+0x000001c2 Tervetuloa Hirviöareenalle! Jokaisesta voitetusta joukkotaistelusta saatte yhden sinnelin!
+
+# Inspect for Act 1
+0x000001c3 Argutix: Minkäslaista porukkaa täältä on odotettavissa?
+0x000001c4 No katsotaas... Teidän lisäksi on tänään ilmoittautunut kolme muuta porukkaa taistelemaan.
+0x000001c5 Ensimmäinen heistä kaatui aseistetulle krankorille jota satumme pitämään "lemmikkinä". Joten tulette ensin taistelemaan sitä vastaan.
+0x000001c6 Toinen ilmoittautuja tulee itse Saradostrutsin pyhästä armeijasta - oikea huippugladiaattori, kuulemma, ajaen herransa kunniaa.
+0x000001c7 Jo kolmas... Mikäs heidän nimensä olikaan... Noh, he taisivat olla jostain edesmenneestä valtakunnasta vuosituhansien takaa, kuka tietää.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #135 - Miekka
+0x000001c8 Miekka
+
+# Prop #136 - Pesäpielijän miekka
+0x000001c9 Pesäpielijän miekka
+
+# Chatter for Act 1
+0x000001ca Tämä on tehtäväesine. Jos et tiedä sen tarkoitusta, ÄLÄ koske siihen!
+
+# Inspect for Act 1
+0x000001cb Tämä saattaa olla se miekka, jonka se pesäpielijätaistelija hukkasi.
+0x000001cc Jos palautat sen hänelle, hän saattaa palata turhautuneelle kauppiaalle hoitamaan hänen velkansa.
+0x000001cd Ja ansaiten samalla teille yhden sinnelin!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #137 - Monster Sign
+0x000001ce Monster Sign
+
+# Chatter for Act 1
+0x000001cf HIRVIÖAREENALLE
+
+# Inspect for Act 1
+0x000001d0 Hato: Hirviöareena? En tiennytkään... ~br~Argutix: Että sinnelijalat tykkäävät taistelujen katselemisesta?~br~Cyborcus: Käy järkeen?
+0x000001d1 Sini: Miksi meidän tuonne pitäisi mennä? En itse asiassa haluaisi mennä tuonne. Se tuntuu jotenkin... epämääräiseltä.
+0x000001d2 Argutix: Äh, älä huoli Sini-tyttö! Kyllä areenataisteluihin osallistuminen on hyvä lähde sinnelien hankkimiseen!
+0x000001d3 Cyborcus: Taatusti. Mutta meidän pitää varoa, ettemme itse kuole siinä prosessissa. Tai menetä sormusta jollekulle.
+0x000001d4 Hato: Kiitos tuostakin varoituksesta, Cyborcus...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #138 - Kaivoksen sisäänkäynti
+0x000001d5 Kaivoksen sisäänkäynti
+
+# Prop #139 - Pesäheljä
+0x000001d6 Pesäheljä
+
+# Chatter for Act 1
+0x000001d7 Voi, missä minun pikku lemmikkini on? Tule takaisin, Heino!
+0x000001d8 Heinoo! Missä ooleet?
+0x000001d9 Heino, tule takaisin!
+0x000001da Toivon, että lemmikkini tulee pian takaisin...
+
+# Inspect for Act 1
+0x000001db Hato: Hei neiti. Näytät olevan pulassa, mikä hätänä?
+0x000001dc Lemmikkipesäflonkkuni Heino on hukassa! En ole nähnyt häntä moneen päivään!
+0x000001dd Argutix: Kyllä yhden lemmikin pitäisi löytyä tuossa tuokiossa! Olisiko mitään neuvoja saadaksemme hänet takaisin?
+0x000001de Autatteko te? Voi kiitos! Olen kyllä pyytänyt kirkon väkeä auttamaan, mutta ei heillä mikään kiire ole auttaa ketään, kas kun politiikka on tärkeämpää!
+0x000001df Heinon pitäisi olla jossain päin tällä vyöhykkeellä. Hän ei yleensä eksy Kauppalaan tai Avaratoriin. Jos hän ei suostu tulemaan, antakaa hänelle kala tai jotain.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #140 - Pesäflonkku
+0x000001e0 Pesäflonkku
+
+# Chatter for Act 1
+0x000001e1 Tämä näyttäisi olevan jonkun lemmikki. Älä koske häneen ellet tiedä mitä olet tekemässä.
+
+# Inspect for Act 1
+0x000001e2 Hato: Tuo taitaa olla Heino.~br~Cyborcus: Niinpäs onkin.~br~Sini: Hei pikkuinen!
+0x000001e3 Hsss!
+0x000001e4 Heino sähisee teille ankarasti. Ette uskalla tulla lähemmäksi ilman jotain, josta hän pitäisi.
+0x000001e5 Cyborcus: Hänellä taitaa olla nälkä. Ei ihme, että hän katselee noita lihatiskejä noin ahneesti.
+0x000001e6 Hato: Meidän pitäisi ehkä löytää se kala, josta Pesäheljä puhui.~br~Argutix: Totisesti. Kalanetsintähommiin!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #141 - Kalalautanen
+0x000001e7 Kalalautanen
+
+# Prop #142 - Kalakauppias
+0x000001e8 Kalakauppias
+
+# Chatter for Act 1
+0x000001e9 Kalaa! Ilmaista kalaa tarjolla! Ilmainen näyte ensimmäiselle asiakkaalle!
+
+# Inspect for Act 1
+0x000001ea Kas, terve! Tarvitsetteko tuoretta kalaa merestä? Vastapyydettyä!
+0x000001eb Nyt on onnenpäivänne, koska te olette tämän päivän ensimmäiset asiakkaat torillani! Siitä hyvästä saatte tämän kalalautasen täysin ilmaiseksi!
+0x000001ec Hato: Kiitos! Saatammekin tarvita tätä jossain!~br~Cyborcus: Voimmeko jättää astian tähän, jos emme tarvitse sitä nyt?
+0x000001ed Siitä vain! Minulla ei ole kiire, tämä hulabaloo suluista ja muusta on muutenkin jo tehnyt hallaa viikon tuotoilleni.
+0x000001ee Toivon vain, että mafia ei käy kylässä lähiaikoina. Heidänkin pitäisi ymmärtää, mitä on nyt oikein meneillään!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #143 - Sinnelimafioso
+0x000001ef Sinnelimafioso
+
+# Inspect for Act 1
+0x000001f0 Kas, terve, "kaveri". Voisitkohan tehdä meille palveluksen?
+0x000001f1 Sini: (Psst, kaverit, en luota noihin tyyppeihin. Pysytään heistä erossa!)~br~Cyborcus: (Alan olla samaa mieltä, Sini. Mennään-)
+0x000001f2 Hmm, näköjään te näytätte ihan ulkolaisilta. Teidän kaltaisianne ei yleensä näy näillä kulmilla, kun ottaa huomioon saradistien tullit ja yleisen otteen kaupunkiin.
+0x000001f3 Älkää huoliko, emme juorua teistä heille. Siis, jos suostutte tekemään tämän palveluksen.
+0x000001f4 Kuningattaren linnan lähellä on otus, joka ei ole hoitanut velkojaan kunnolla. Tuokaa hänen rahasäkkinsä tänne, niin saatte palkaksi sinnelin.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001f5 Arvon rouva, tulimme auttamaan!
+0x000001f6 Ei hätää, tulimme auttamaan!
+0x000001f7 Ei sitä joka päivä näe mafiaa kuningattaren seurassa, mutta nyt on tosi kyseessä! Punainen hälytys hovissa ja kaikki... Ajatella, että 'järjestyksen' jumala suorittaa murhia!
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+0x000001f8 Jos meitä ei enää tarvitse, voimme poistua pyynnöstäsi, majesteetti.
+0x000001f9 Voimmeko vielä auttaa jotenkin, teidän korkeutenne?
+
+# Prop #144 - Mafian velkasaatavat
+0x000001fa Mafian velkasaatavat
+
+# Inspect for Act 1
+0x000001fb Tämä rahamäärä ei taida olla zoranien velkakirjoissa. Se on varmaan jotain muuta tarkoitusta varten...
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #145 - Gigantulaatti
+0x000001fc Gigantulaatti
+
+# Chatter for Act 1
+0x000001fd Tämä hahmo kuuluu erääseen tehtävään. ÄLÄ PUHU HÄNELLE ellei joku erikseen pyydä sitä sinulta!
+
+# Inspect for Act 1
+0x000001fe Mitä te haluatte?!
+0x000001ff Cyborcus: Öh...~br~Argutix: (Hei kaverit, meidän ei ole pakko tappaa tätä tyyppiä jos ei ole pakko!)
+0x00000200 Argutix: (Oletukseltaan hän näyttäisi siltä, että jos hänet vaan lyö henkihieveriin, niin hän kyllä menee itse hoitamaan velkansa.)
+0x00000201 Cyborcus: (Inhoan tätä muutenkin, mutta olet oikeassa, kapteeni Argutix.)
+0x00000202 Kutsuiko mafia teidät hakkaamaan minut?! Kakistakaa ulos!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #146 - Valkoinen portti
+0x00000203 Valkoinen portti
+
+# Prop #147 - Kauhu
+0x00000204 Kauhu
+
+# Prop #148 - Valkoinen portti
+0x00000205 Valkoinen portti
+
+# Prop #149 - Areenan portti (uusiutuva)
+0x00000206 Areenan portti (uusiutuva)
+
+# Prop #150 - Areenan portti
+0x00000207 Areenan portti
+
+# Prop #151 - Arena Warden Path Point - 2
+0x00000208 Arena Warden Path Point - 2
+
+# Prop #152 - Arena Warden Path Point - 3
+0x00000209 Arena Warden Path Point - 3
+
+# Prop #153 - Areenan avain
+0x0000020a Areenan avain
+
+# Prop #154 - Portinvartija
+0x0000020b Portinvartija
+
+# Prop #155 - Aseistettu krankori
+0x0000020c Aseistettu krankori
+
+# Chatter for Act 1
+0x0000020d Graaaagh!
+0x0000020e Grrrr.....
+0x0000020f GRRRRR.... KRAAAAAGH!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #156 - Uusiutuva sinneli
+0x00000210 Uusiutuva sinneli
+
+# Chatter for Act 1
+0x00000211 1 sinneli
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #157 - Atsuurirakuuna
+0x00000212 Atsuurirakuuna
+
+# Chatter for Act 1
+0x00000213 Saradostrutsin puolesta!
+0x00000214 Maistakaa keihästäni!
+0x00000215 Karju, Nidhogg, keihääni!
+0x00000216 Saanko luvan tanssia kanssanne, Viejät?
+
+# Inspect for Act 1
+0x00000217 Argutix: "Atsuurirakuuna, yksi Saradostrutsin vahvimmista sotureista! Nyt kyllä ollaan pulassa!"
+0x00000218 Aah, Sormuksen viejät! Olen kuullut teistä! Voitettuani teidät areenalla vien teidät mestarini luo!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #158 - Unohdettu sankari
+0x00000219 Unohdettu sankari
+
+# Chatter for Act 1
+0x0000021a Oi pojat, uusi vastus!
+0x0000021b Minkälainen vastus te neljä tulette olemaan?
+0x0000021c Tulevan jumalan nimiin! (Ei, se ei ole Zamolaatti eikä Saradostrutsi!)
+0x0000021d Kadonneen kaupunkini ja sukuni nimeen!
+0x0000021e Kunhan saan tarpeeksi varoja, hyppään ensimmäiseen Mikhokseen lentävään alukseen!
+
+# Inspect for Act 1
+0x0000021f Argutix: "Jaa, porukka L-Surisimia. Hyviä tyyppejä, mutta ollaan varovaisia silti!"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #159 - Unohdettu palkkasoturi
+0x00000220 Unohdettu palkkasoturi
+
+# Chatter for Act 1
+0x00000221 Oi pojat, uusi vastus!
+0x00000222 Minkälainen vastus te neljä tulette olemaan?
+0x00000223 Tulevan jumalan nimiin! (Ei, se ei ole Zamolaatti eikä Saradostrutsi!)
+0x00000224 Kadonneen kaupunkimme ja sukumme nimeen!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #160 - Nihil
+0x00000225 Nihil
+
+# Chatter for Act 1
+0x00000226 . . .
+
+# Inspect for Act 1
+0x00000227 ...olen Nihil. Kolmen Sauvan unohdettu pimeys.
+0x00000228 Sormus tahtoo teidän tuhoa... Ja hyväksyn oitis sen pyynnön!
+0x00000229 Viimeinen varoitus! Olen erittäin vahva! Jos tahdotte säästää henkenne, häipykää täältä!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #161 - Baarin kovistelija
+0x0000022a Baarin kovistelija
+
+# Inspect for Act 1
+0x0000022b Tämä kaveri ei tunnu olevan moksiskaan meneillään olleesta baaritappelusta. Aika kovis!
+0x0000022c Hei, aika kova meininki, eikö olekin?
+0x0000022d Cyborcus: Mikäs sinulla on tuossa kädessä?
+0x0000022e Ai, tämä? Ihka oikea Musta passi! Saat Hirviöareenalla kunnon erikoistaistelun jos annat tämän heille!
+0x0000022f ...Ai haluatteko tämän passin itsellenne? Ei käy, minun pitää käyttää se itse! ...No okei, saatte sen itsellenne jos tuotte minulle Sinnelimafian hätävarat. Noin kolme säkkiä pitäisi riittää minulle pitkäksi aikaa. Saatte sinnelin koko hommasta sitten myös bonuksena, plus ne kolikot mitkä mafia pitää itsellään.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #162 - Kovistelija
+0x00000230 Kovistelija
+
+# Inspect for Act 1
+0x00000231 ...Minä valvon teitä neljää, ettette tee mitään tyhmää tällä alueella.
+0x00000232 Hän näyttää valvovan, ettei kukaan vie mafian rahoja.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #163 - Musta passi
+0x00000233 Musta passi
+
+# Inspect for Act 1
+0x00000234 Tämä on Musta passi. Se oikeuttaa sinut joko ohittamaan jonkun taistelun tai avaamaan pääsyn erikoistaisteluun 3. vyöhykkeen Hirviöareenalla.
+0x00000235 Kyseinen erityistaistelu on erittäin vaikea, mutta palkinnot ovat sen arvoisia: Pääsy salaiselle alueelle, sekä oikotie suoraan kuningattaren palatsiin!
+0x00000236 On oma valintasi jos päätät ottaa tämän vaihtoehdon. Lykkyä tykö!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #164 - Sinnelimafian rahasäkit
+0x00000237 Sinnelimafian rahasäkit
+
+# Inspect for Act 1
+0x00000238 Sinnelimafian hätävarat. Olisi erittäin typerää yrittää ryöstää niitä...
+0x00000239 ...Paitsi jos joku kysyi sinua näpistämään ne.
+0x0000023a Ajattele tarkkaan, mitä olet oikein juuri tekemässä! Tästä ei ole sitten paluuta!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #165 - Kovistelijan apuri
+0x0000023b Kovistelijan apuri
+
+# Prop #166 - Siirrin - Areenat
+0x0000023c Siirrin - Areenat
+
+# Prop #167 - Keltainen portti
+0x0000023d Keltainen portti
+
+# Inspect for Act 1
+0x0000023e Hirviöareenan pääsymaksu on 1 sinneli.
+0x0000023f Jos voitat sisällä odottavan turnauksen, voit voittaa yhteensä kolme sinneliä ja ilmaisen kunnon- ja energianpalautukset joka taistelun jälkeen.
+0x00000240 Voit paeta taisteluista milloin vain, mutta et välttämättä pääse takaisin samalle areenalle, ja luovutat samalla pääsymaksussa luovuttamasi sinnelin.
+0x00000241 Ole varovainen jotta et menetä turhaan sinneleitäsi areenalla!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #168 - Kulta-Xeno
+0x00000242 Kulta-Xeno
+
+# Chatter for Act 1
+0x00000243 Onneksi olkoon salaisen alueen löytämisestä, Viejät! Olkoon nippelitiedon tietämys palkkionne (ja oikotie palatsiin)!
+
+# Inspect for Act 1
+0x00000244 Voi pojat, tämän seikkailun teko vei aikansa! Moni asia ehti muuttua maailmassa ja elämässä tuona aikana. Kymmenen vuottako siitä oli kun ensimmäisen kerran Lisko kirjoitti ideoitansa tätä seikkailua varten?
+0x00000245 Kohtaaminen kuningattaren ja Saradostrutsin kanssa kuului aina tämän seikkailun konseptiin. Avoin maailma -osio Motel of Melora -tyyliin tuli vähän vahingossa mukaan kun Lisko huomasi ettei tuosta loppukohtauksesta ollut tarpeeksi materiaalia kokonaista seikkailua varten. Vähän takaperin suunniteltu jos minulta kysytään.
+0x00000246 En kerro loppukohtauksesta enempää, se olisi juonipaljastuksia minun puolelta! Mutta voin sanoa että porukkasi ei tule olemaan entisensä sen jälkeen.
+0x00000247 Ja sitten vielä Lisko pyytäisi teiltä palautetta seikkailua kohtaan. Mikä oli lempikohtanne? Missä kohtaa olisi parasta parantaa tulevia seikkailuja varten? Sen sellaista.
+0x00000248 Voi olla että Clearhum ja Sinnelin kaupunki tulevat esiintymään myös tulevissa seikkailuissa, mutta varmaan silloin kohtaamasi tapahtumat ja otukset tulevat olemaan hyvin erilaisia tähän seikkailuun verrattuna. Mitähän tulette kohtaaman seuraavaksi, Viejät? Saatte nähdä!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - Oikotie loppuun
+0x00000249 Oikotie loppuun
+
+# Chatter for Act 1
+0x0000024a Tämä siirrin vie suoraan Sinnelilinnaan, ilman tullimaksuja!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #170 - Oikotie salaiselle alueelle
+0x0000024b Oikotie salaiselle alueelle
+
+# Chatter for Act 1
+0x0000024c Tämä siirrin vie Sinnelilinnan taakse, salaiselle alueelle!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #171 - Hyppypatja
+0x0000024d Hyppypatja
+
+# Chatter for Act 1
+0x0000024e Pääset tällä hyppypatjalla minne päin tahansa kaupungissa!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #172 - Leili
+0x0000024f Leili
+
+# Prop #173 - Valkoinen portti
+0x00000250 Valkoinen portti
+
+# Prop #174 - Sinnelilinna
+0x00000251 Sinnelilinna
+
+# Prop #175 - Sinnelin valtaistuin
+0x00000252 Sinnelin valtaistuin
+
+# Prop #176 - Soumadis VI
+0x00000253 Soumadis VI
+
+# Chatter for Act 5
+0x00000254 Oi joi, murha hovissa! Tätä en voi sallia!
+
+# Prop #177 - Saradostrutsi
+0x00000255 Saradostrutsi
+
+# Chatter for Act 5
+0x00000256 MINÄ MAKSAN TEILLE... KAIKILLE!
+0x00000257 MINÄ VIELÄ NÄYTÄN.... KUKAAN EI VASTUSTA MINUA!
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #178 - Hato
+0x00000258 Hato
+
+# Chatter for Act 4
+0x00000259 Voi pojat, tässä sitä mennään!
+0x0000025a Ollaan varovaisia, jooko?
+0x0000025b Sormus on taas ihan hulluna! Miksi?!
+
+# Chatter for Act 5
+0x0000025c SINIIIII!
+0x0000025d Voi ei, SINI! EI!
+0x0000025e SINI, EI!
+
+# Chatter for Act 6
+0x0000025f APUA! En pysty pidättelemään hänen mahtiaan!
+
+# Chatter for Act 7
+0x00000260 Sini, ei...
+
+# Chatter for Act 8
+0x00000261 Sini...
+0x00000262 Hato on mielestä mykkä. Häntä painaa suuri suru...
+
+# Prop #179 - Sini
+0x00000263 Sini
+
+# Chatter for Act 4
+0x00000264 No niin, nyt puhalletaan peli poikki! Saradostrutsi! Valheesi päättyvät tähän!
+
+# Chatter for Act 8
+0x00000265 Cyborcus: (...Lepää rauhassa, Sini.)~br~[Jossain Cyborcuksen kypärän alla, hänen silmänsä ovat kyynelissä.]
+
+# Prop #180 - Argutix
+0x00000266 Argutix
+
+# Chatter for Act 4
+0x00000267 Huh, päästiinpäs me kaikkien niiden tullien läpi! En olisi halunnut menettää enää yhtään sinneliä; ties vaikka ne ovat keräilyharvinaisuus planeetan ulkopuolella!
+
+# Chatter for Act 5
+0x00000268 Voi hyvänen aika, tuollainen hullu meitä on vastassa?! Liittoudutaan nyt heti, Cyborcus, kun vielä voimme!
+
+# Chatter for Act 6
+0x00000269 Sinin puolesta!
+0x0000026a Murhaaja! Barbaari!
+0x0000026b En voi antaa tätä IKINÄ anteeksi!
+0x0000026c Voitetaan tämä taisto, Cyborcus! Sinin puolesta!
+
+# Chatter for Act 7
+0x0000026d Tämäkin vielä. Jumala voitettiin mutta ei saatu se kuin voimaan pahoin! Mutta sekin kai on tarpeeksi tässä tilanteessa...
+
+# Chatter for Act 8
+0x0000026e . . .
+0x0000026f Argutix on syvissä mietteissään... Mahdollisesti Sinin menetyksen takia...
+
+# Prop #181 - Yksi sirpalepommi
+0x00000270 Yksi sirpalepommi
+
+# Prop #182 - Yksi salama
+0x00000271 Yksi salama
+
+# Prop #183 - Tunnelma - huimaus
+0x00000272 Tunnelma - huimaus
+
+# Prop #184 - Tunnelma – pahis
+0x00000273 Tunnelma – pahis
+
+# Prop #185 - Naaras – huuto
+0x00000274 Naaras – huuto
+
+# Prop #186 - Jättiseikkailu
+0x00000275 Jättiseikkailu
+
+# Prop #187 - Saradostrutsi
+0x00000276 Saradostrutsi
+
+# Chatter for Act 5
+0x00000277 MINÄ MAKSAN TEILLE... KAIKILLE!
+0x00000278 MINÄ VIELÄ NÄYTÄN.... KUKAAN EI VASTUSTA MINUA!
+
+# Chatter for Act 6
+0x00000279 SORMUS ON MINUN, ETTÄS TIEDÄTTE!
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #188 - Sininen portti
+0x0000027a Sininen portti
+
+# Prop #189 - Perinteinen laatikko
+0x0000027b Perinteinen laatikko
+
+# Prop #190 - Oraakkeli
+0x0000027c Oraakkeli
+
+# Prop #191 - Taikalinkki
+0x0000027d Taikalinkki
+
+# Prop #192 - Taikapylväs
+0x0000027e Taikapylväs
+
+# Prop #193 - Tunnelma – turvapaikka
+0x0000027f Tunnelma – turvapaikka
+
+# Prop #194 - Vanha luuttu
+0x00000280 Vanha luuttu
+
+# Prop #195 - Pehmus – valkoinen
+0x00000281 Pehmus – valkoinen
+
+# Prop #196 - Ilotulitus – yksi keijupaukku
+0x00000282 Ilotulitus – yksi keijupaukku
+
+# Prop #197 - Valkoinen portti
+0x00000283 Valkoinen portti
+
+# Prop #198 - Valkoinen portti
+0x00000284 Valkoinen portti
+
+# Prop #199 - Valkoinen portti
+0x00000285 Valkoinen portti
+
+# Prop #200 - Valkoinen portti
+0x00000286 Valkoinen portti
+
+# Prop #201 - Valkoinen portti
+0x00000287 Valkoinen portti
+
+# Prop #202 - Valkoinen portti
+0x00000288 Valkoinen portti
+
+# Prop #203 - Pumppubiitti
+0x00000289 Pumppubiitti
+
+# Prop #204 - Diskolattia
+0x0000028a Diskolattia
+
+# Prop #205 - Peilipallo
+0x0000028b Peilipallo
+
+# Prop #206 - Onnenlähde
+0x0000028c Onnenlähde
+
+# Chatter for Act 1
+0x0000028d "Tässä on Onnenlähde! Heitä sinneli tähän muiden joukkoon, niin onnesi kääntyy!"
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #207 - Onnensinneli
+0x0000028e Onnensinneli
+
+# Chatter for Act 1
+0x0000028f 1 (onnen)sinneli. Uusiutuu 15 minuutin jälkeen käytöstä.
+
+# Inspect for Act 1
+0x00000290 Cyborcus: "Kas, joku on jättänyt tähän sinnelikolikon."~br~Hato: "Meille kävi onnea!"
+0x00000291 Sini: "Tuskinpa, joku vain pudotti sinnelinsä tuohon suihkulähteeseen muttei ollut tarkka heittonsa suhteen."
+0x00000292 Argutix: "Voimmehan aina käyttää sen itse! Ties vaikka joku heittää tänne samaan paikkaan kohta uuden sinnelin!"
+0x00000293 Tämä yhden sinnelin arvoinen onnenlantti uusiutuu tähän samaan kohtaan 15 minuutin jälkeen käytöstä.
+0x00000294 Se voi olla hyvä hätävara jos sinnelit loppuvat omalta kohdaltasi jostain syystä!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #208 - Kuntolaatikko
+0x00000295 Kuntolaatikko
+
+# Chatter for Act 1
+0x00000296 Tämä laatikko sisältää kunnonpalautuspaketin. Maksu: 1 sinneli
+
+# Inspect for Act 1
+0x00000297 Cyborcus: "On valittava tarkkaan, käytämmekö sinnelimme tähän vai säästämmekö ne vain tullimaksuihin."
+0x00000298 Cyborcus: "En usko että tämä laatikko tulee uusiutumaan vaikka palaisimme tänne myöhemmin."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #209 - Energialaatikko
+0x00000299 Energialaatikko
+
+# Chatter for Act 1
+0x0000029a Tämä laatikko sisältää joukon paristoja jotka palauttavat energiasi. Maksu: 1 sinneli
+
+# Inspect for Act 1
+0x0000029b Cyborcus: "On valittava tarkkaan, käytämmekö sinnelimme tähän vai säästämmekö ne vain tullimaksuihin."
+0x0000029c Cyborcus: "En usko että tämä laatikko tulee uusiutumaan vaikka palaisimme tänne myöhemmin."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #210 - Tehtäväosoitin
+0x0000029d Tehtäväosoitin
+
+# Prop #211 - Areenan vara-avain
+0x0000029e Areenan vara-avain
+
+# Prop #212 - Bonus - nopeus
+0x0000029f Bonus - nopeus
+
+# Chatter for Act 1
+0x000002a0 Sporiumtynnyri (Toimii nopeusbonuksena)
+
+# Inspect for Act 1
+0x000002a1 Cyborcus: (Hmm, voisin "lainata" tätä sporiumtynnyriä, jotta saisin omiin jalkamoottoreihin vähän lisää vauhtia...)
+0x000002a2 Palautumisaika: 15 sec
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #213 - Church of Saradostrich
+0x000002a3 Church of Saradostrich
+
+# Prop #214 - Saradostrutsin pappi
+0x000002a4 Saradostrutsin pappi
+
+# Inspect for Act 1
+0x000002a5 Ylistetty olkoon Pate korkeuksissa! Tulitteko kenties antamaan almuja köyhille?
+0x000002a6 Cyborcus: "Emme. Satuimme vain kävelemään ohitse."
+0x000002a7 Jaaha. Rakensimme tämän kirkon Sinnelin 3. vyöhykkeelle siinä toivossa, että paikalliset aateliset kääntyisivät uskoomme, mutta tähän mennessä kävijämäärät ovat olleet paljon alhaisempia kuin me toivoimme.
+0x000002a8 Sini: "No ei ihme! Teidän uskontonne on rakentunut–"~br~Cyborcus: "Mepäs jatkamme tästä nyt matkaa, tulehan Sini."~br~[Sini tajuaa heti, että riidan haastaminen täällä olisi virhe, joten hän sulkee suunsa.]
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #215 - Hohtiini
+0x000002a9 Hohtiini
+
+# Prop #216 - Avainvahti
+0x000002aa Avainvahti
+
+# Prop #217 - Eläinhäkki
+0x000002ab Eläinhäkki
+
+# Chatter for Act 1
+0x000002ac Tämä laatikko sisältää liittolaisotuksen. Hinta on 1 sinneli.
+
+# Inspect for Act 1
+0x000002ad Cyborcus: "Mitäs täällä on sisällä?"
+0x000002ae Zorani: "Ah, siinä on yksi meidän geenimanipuloiduista otuksista! Saat sen omaksi yhdellä sinnelillä!"
+0x000002af Cyborcus: "Mitä se tekee?"
+0x000002b0 Zorani: "Se kantaa tavaroita puolestasi, taistelee ja tottelee muutenkin kaikkia käskyjäsi! Todella kätevä, voin sanoa itse!"
+0x000002b1 Sini: "Cyborcus, en tykkää eläinten orjuuttamisesta. Jätetään se ostamatta."~br~Cyborcus: "Se menee hyvään tarkoitukseen, mutta jos ostamme tämän ja liitän sen miehistöömme, jonkun teistä täytyy jäädä jälkeen. Kai se on okei?"~br~Muut: "Kai me silti tavataan palatsilla jälkeen päin?"~br~Cyborcus: "Toki."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #218 - Handlerbeest
+0x000002b2 Handlerbeest
+
+# Inspect for Act 1
+0x000002b3 Tämä otus on Handlerbeest. Se voi kantaa miehistössäsi ollessaan 6 eri esinettä.
+0x000002b4 Se pudottaa esineensä poistaessasi sen miehistöstä, ja pysyy passiivisena kun se ei ole miehistössä.
+0x000002b5 Jos se kuolee, Zoranien vakuutuspalvelut korvaavat sen nopeasti uudella paikassa, josta alunperin ostit ne.
+0x000002b6 Voit myös ottaa sen mukaan kuningattaren palatsiin, jos haluat. Sinnelissä se kuitenkin joutuu jakamaan miehistöpaikkoja kumppaniesi kanssa.
+0x000002b7 On sinun päätöksesi, mitä teet rajatuilla miehistöpaikoillasi.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #219 - Kovistelijan sinneli
+0x000002b8 Kovistelijan sinneli
+
+# Chatter for Act 1
+0x000002b9 1 sinneli
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #220 - Valkoinen portti
+0x000002ba Valkoinen portti
+
+# Prop #221 - Perinteinen laatikko
+0x000002bb Perinteinen laatikko
+

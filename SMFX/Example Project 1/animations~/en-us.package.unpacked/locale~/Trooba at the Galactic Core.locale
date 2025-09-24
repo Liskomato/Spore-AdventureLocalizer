@@ -1,0 +1,802 @@
+# Auto-generated localization file for: Trooba at the Galactic Core (ID: 0XF1B0C1B9)
+# Author
+0x00000001 Liskomato
+
+# Adventure name
+0x00000002 Trooba at the Galactic Core
+
+# Adventure description
+0x00000003 The Grox Wars~br~Part 4~br~The Grox have been beaten, and now Trooba and his friends head down to the Galactic Core to learn of its secrets. Meeting with its resident will change our heroes' fates forever...
+
+# Adventure tags
+0x00000004 trooba,hivehat,grox wars 4,tscanon,three staves,steve,staff of life,42,earth
+
+# Intro text
+0x00000005 After defeating the Grox Imperial Guard on planet Necrolania, the TCFS heads over to the center of the galaxy. At the Galactic Core, our heroes admire this majestic source of energy...
+
+# Win text
+0x00000006 Hivehat: "And so we ended up on planet Earth, where my adventures with Trooba would end..."~br~To be continued...
+
+# Lose text
+0x00000007 The TCFS was destroyed on a collision course with the Galactic Core. Perhaps you should drive it a little bit better next time?
+
+# Act 1
+0x00000008 The Galactic Core
+0x00000009 After some travel time the flagship has arrived to the galactic core. Speak with Trobba so he will maneuver the ship inside the black hole.
+
+# Goal 1
+0x0000000a Gentlecreatures, we have arrived to the center of our galaxy! This is the first time in history that our Republic's ship has reached this point.
+0x0000000b Many shall remember this as the moment when we discovered the meaning of life! Now we just need to enter it and unlock its secrets like a key opens a chest!
+0x0000000c Trooba: "Boooriiing! Let's move already!"
+0x0000000d Alright alright! Don't rush it! Let's see how I will maneuver us there safely...
+0x0000000e Trobba pilots the flagship through the supermassive black hole's event horizon. Soon after begins a lightshow unlike any our heroes have ever seen in their lives.
+
+
+# Act 2
+0x0000000f The Wonders of Infinity
+0x00000010 As you entered the Core, a mighty voice began to echo all around the TCFS! Speak with your friends to hear it yourself!
+
+# Goal 1
+0x00000011 As your ship enters the black hole, an otherwordly voice begins to echo around the vessel...
+0x00000012 Greetings my friends!~br~You have traveled very far and overcome many obstacles.~br~Along the way you have encountered many of your diverse, far-flung siblings –~br~Precious few of them will make it this far.
+0x00000013 Excuse me, mister voice, but may I correct you? 'Tis true that getting this far before has been difficult due to the Grox, but now they are gone! Everyone can now come visit this place at their leisure!
+0x00000014 Ah, so that's why I've received more visitors than usual lately? My brothers and I would want to thank you for your efforts. You certainly have earned your badges, congratulations!
+0x00000015 No problem! Just continue that speech of yours where you left off, okay? You certainly have practiced it with the amount of visitors you've had and are going to have!
+
+# Goal 2
+0x00000016 Hmm... Now, where I was... Ah, right! ~br~Your heroic efforts have proven you deserving,~br~worthy of advancement to the next level of your existence.
+0x00000017 The universe you inhabit is but one of many ~br~countless worlds, unseen but yet connected. ~br~Your heroic efforts have not gone unnoticed, Trooba.
+0x00000018 Huh?! Really?! How'd you know? Who even told you my name???
+0x00000019 You shall hear in time. ~br~As I just said, the multiverse has noticed your heroics. ~br~Indeed, they have spilled into these other, unseen worlds, –
+0x0000001a just as your world has been enriched by them: ~br~The world where scavengers try to strive in a dying landscape. ~br~The world where sword and staff fight for peace and light. 
+
+# Goal 3
+0x0000001b The world where everything is formed out of cubes. ~br~The world where the elders created 12 artefacts.~br~The world where the realm was reborn and dawn's light shines yet again.~br~All of these are one.
+0x0000001c It is now time for you to join us –~br~Join us! Mwahahahaha!!
+0x0000001d No, just kidding. It's not scary.~br~Indeed. The times ahead, they are good.~br~Really, really good.~br~Some of you may ask–
+0x0000001e Stop fooling around! Tell us your name! Who are you?
+0x0000001f Of course. Who is this mysterious voice who knows so much and possesses such great powers? ~br~I'm glad you asked...
+
+
+# Act 3
+0x00000020 Steve
+0x00000021 You have met with Steve. Good job! He wants to talk to you via your ship's radio, so go respond to him!
+
+# Goal 1
+0x00000022 With your computing skills you open contact with the flying saucer before you. Soon afterwards its speaker starts broadcasting a voice...
+0x00000023 I'm Steve! ~br~You are now to be given the power.~br~Yes, that's right, THE POWER.~br~The power to create and spread life, intelligence and understanding throughout the cosmos. ~br~Use this power wisely.
+0x00000024 Use this power so that we may one day become AS ONE... ~br~that is... I mean... ~br~in a metaphorical sense.
+0x00000025 Trooba: "That sounds awfully lot like a Staff of Creation, doesn't it?"
+0x00000026 *Steves gasps for his breath*~br~You know about the Lifely Hallows?! How is that possible? ~br~Tell me everything you know about the staves, great sages!
+
+# Goal 2
+0x00000027 Trooba and Hivehat detail everything about their journey so far, the good and the bad, without leaving a single detail out.
+0x00000028 Steve: "I see. So you are the chosen wielders of the Three Staves that fate ordained would come visit me someday. So Amicus's journey was not for naught, after all."
+0x00000029 Uh, I mean, I don't know about Hivehat but I myself was chosen by the Staff of Evolution. I don't know whom the Staff of Birth chose. It seems we never even came across them in the first place.
+0x0000002a Steve: "Hmmm... I still sense you have the same potential as your friend, Hivehat. ~br~Perhaps you should be the one to have THE POWER.~br~And this POWER will be different from the one I usually gift to people coming here."
+0x0000002b I should now send this power to you, shouldn't I? I have now beamed it to your cargo bay. Go check it out!
+
+
+# Act 4
+0x0000002c The Staff of Life
+0x0000002d Steve has sent his gift to you: The Staff of Life, the third and last of the Three Staves. Go fetch it from the cargo bay and then return to the bridge.
+
+# Goal 1
+0x0000002e As you touch the Staff of Life, you feel its power coursing through you as if it was your own.~br~It seems you have been chosen as its wielder! Congratulations!
+0x0000002f Steve: "Remember what I said before: Use this power WISELY. Do not betray the staff's trust – it's particularly keen on that specifically."
+0x00000030 Trooba: "I've been wondering... Is there more than one Staff of Life? I've heard rumours that you gift this 'power' to everyone to comes to visit you. And why is Hivehat's staff different from the rest?"
+0x00000031 Steve: "The others are just copies of the REAL thing I just gave to you. That's why they break apart after 42 uses, and can only be used from spaceships. Your staff works just like the other two Staves of Creation, as it's the REAL thing, baby!"
+0x00000032 Steve: "I would like you to return to the bridge next. I have one more thing to say to you before we separate our own ways."
+
+# Goal 3
+0x00000033 Steve: "Okay, one last thing. We are nearly sold out on the last phase of a wonderful time-share opportunity on one of our larger stars – and a rare planet in its orbit.~br~And Trooba, there's one time-share reserved JUST for you!"
+0x00000034 Oh, really? Who reserved it for me?
+0x00000035 Oh, a couple of people. One of them is Captain Urgus, obviously. An old friend of mine. The other guy is a more special case. An author he is, likes writing epic science fantasy novels. Some even say he is writing a book just about you and your undertakings." 
+0x00000036 Surely you jest... Are you talking of Liskomato? The urgulate who appeared to us in our pivotal historic moments? THAT Liskomato?
+0x00000037 But of course! He lives on that planet I was just talking about! ~br~Just look for the third rock from Sol!
+
+
+# Act 5
+0x00000038 The Day After Enlightenment
+0x00000039 As with everything in life, you had to say goodbye to Steve as you left the Galactic Core, and start heading for the "third rock from Sol". 
+
+# Goal 1
+0x0000003a It's over! A shame! There was so much I wanted to ask from Steve before our departure... Such as his relation with the Masaari...
+0x0000003b Hivehat: "Relation? What's this about? Is HE a Masaari himself?"
+0x0000003c Ah, I haven't explained it to you yet, have I? It's said that Steve was one of the three main gods in the Masaari's religious pantheon, besides Spode and Sporix. He was a masaari that was given godhood for his role in the creation of the MAXIS project and the Three Staves.
+0x0000003d Hivehat: "That same project that created the Grox?"~br~Yeah. I hope you read that report I made after our last battle with Groxiton. What I saw and heard in the Metaphysical Realm.~br~Hivehat: "I have. It's a shame that the Grox were manipulated into that ancient war with their makers. But I have one question: Who was that 'first' MAXIS creation if the Grox were the last?"
+0x0000003e Unfortunately I do not know the answer to that either. I would've asked Steve if we were given more time. But I am sure we will learn at some point.
+
+# Goal 2
+0x0000003f I still can't believe we met with Steve himself! The guy known for his time-shares and the staves of life he gifts! ...Granted, we were gifted the REAL deal, but still. Not something just ANY creature can boast about!
+0x00000040 Hivehat: "I suppose you could navigate us to that 'Sol' star, Trobba? And to the third planet from it?"
+0x00000041 I suppose we could navigate there next. It's peace now so we are in no rush to return home. According to interstellar charts the planet's name is Earth, by the way. What a mundane name, but I like it. It's simple!
+0x00000042 A few days later, with the help of wormholes, the TCFS arrives to the Sol system.
+0x00000043 Wake up, children! We're here! Come and go look at that majestic blue marble!
+
+
+# Act 6
+0x00000044 Earth!
+0x00000045 You have arrived on Earth's orbit. Speak with Trobba and make your way to the communications station to respond to Earth's traffic control station.
+
+# Goal 1
+0x00000046 Oh, how beautiful that planet looks! It's just like Oculus with a moon just like Barren!
+0x00000047 Let's make the Explore ready for landing, shall we–
+0x00000048 Hold up, we are getting a call from the surface! Let's put it up in a moment...
+0x00000049 This is Earth's space control calling starship designated TCFS. This is Earth's space control. Respond!
+0x0000004a Ah, now I remember! The Sol system is part of the Melorsia Alliance these days. Could you please respond to our friends, eh Hivehat?
+
+# Goal 2
+0x0000004b Earth to TCFS! Come in!
+0x0000004c Hivehat: "This is Hivehat from TCFS, I'm listening. We request permission to land a space shuttle to your surface. We are here for a time-share reserved by the name 'Trooba'."
+0x0000004d Ah, Steve matters isn't it? Welcome to Earth, Oculians! We will prepare a landing ceremony for you on our surface spaceport Antarctica. We will gladly receive the representatives of your republic and its great heroes!
+0x0000004e Hivehat: "Good to hear! See you soon!"
+0x0000004f Trobba: "So we have clearance to land? Excellent! Vice-Captain Hivepiece, I leave the ship to your hands. Take good care of her while we visit the Earth, okay?"
+
+
+# Act 7
+0x00000050 Towards Earth!
+0x00000051 It's time to land on the surface of Earth! Go to the Explorer in order to begin your journey there at once! 
+
+
+# Prop #1 - RE-Spaceship-Ground
+0x00000052 RE-Spaceship-Ground
+
+# Prop #2 - RE-Spaceship-Wall 01
+0x00000053 RE-Spaceship-Wall 01
+
+# Prop #3 - RE-Spaceship-Wall 02
+0x00000054 RE-Spaceship-Wall 02
+
+# Prop #4 - RE-Spaceship-Wall 03
+0x00000055 RE-Spaceship-Wall 03
+
+# Prop #5 - RE-Spaceship-Wall 04
+0x00000056 RE-Spaceship-Wall 04
+
+# Prop #6 - RE-Spaceship-Wall 05
+0x00000057 RE-Spaceship-Wall 05
+
+# Prop #7 - RE-Spaceship-Wall 01 door
+0x00000058 RE-Spaceship-Wall 01 door
+
+# Prop #8 - RE-Spaceship-technic 01
+0x00000059 RE-Spaceship-technic 01
+
+# Prop #9 - Valvomon tietokone
+0x0000005a Valvomon tietokone
+
+# Prop #10 - RE-Starship-Computer02
+0x0000005b RE-Starship-Computer02
+
+# Prop #11 - RE-Starship-Computer-06
+0x0000005c RE-Starship-Computer-06
+
+# Prop #12 - Tietokone nro. 4
+0x0000005d Tietokone nro. 4
+
+# Prop #13 - RE-Starship-Computer03
+0x0000005e RE-Starship-Computer03
+
+# Prop #14 - RE-Starship-Computer 05
+0x0000005f RE-Starship-Computer 05
+
+# Prop #15 - RE-Starshi-technic 02
+0x00000060 RE-Starshi-technic 02
+
+# Prop #16 - RE-Starship-technic 04
+0x00000061 RE-Starship-technic 04
+
+# Prop #17 - Light Yellow
+0x00000062 Light Yellow
+
+# Prop #18 - RE-Spaceship-technic 04
+0x00000063 RE-Spaceship-technic 04
+
+# Prop #19 - Static 1
+0x00000064 Static 1
+
+# Prop #20 - Static 2
+0x00000065 Static 2
+
+# Prop #21 - Self Destruct
+0x00000066 Self Destruct
+
+# Prop #22 - Siirrin
+0x00000067 Siirrin
+
+# Prop #23 - RE-Starship-Corridor_lamps 01
+0x00000068 RE-Starship-Corridor_lamps 01
+
+# Prop #24 - RE-Spaceship-Corridor 01
+0x00000069 RE-Spaceship-Corridor 01
+
+# Prop #25 - RE-Starship-Captainbed 01
+0x0000006a RE-Starship-Captainbed 01
+
+# Prop #26 - RE-Spaceship-Fluchtkapsel
+0x0000006b RE-Spaceship-Fluchtkapsel
+
+# Prop #27 - RE-Spaceship-kittchen 01
+0x0000006c RE-Spaceship-kittchen 01
+
+# Prop #28 - RE-Starship-bigtable 01
+0x0000006d RE-Starship-bigtable 01
+
+# Prop #29 - RE-Spaceship-Window 01
+0x0000006e RE-Spaceship-Window 01
+
+# Prop #30 - RE-Spaceship-Wall inside 01
+0x0000006f RE-Spaceship-Wall inside 01
+
+# Prop #31 - RE-Starship-mannshaftsbetten 01
+0x00000070 RE-Starship-mannshaftsbetten 01
+
+# Prop #32 - RE-Starship-Captainquartier 01
+0x00000071 RE-Starship-Captainquartier 01
+
+# Prop #33 - RE-Starship-Bridge
+0x00000072 RE-Starship-Bridge
+
+# Prop #34 - RE-Starship-Elevator 01
+0x00000073 RE-Starship-Elevator 01
+
+# Prop #35 - RE-Spaceship-Wall 02
+0x00000074 RE-Spaceship-Wall 02
+
+# Prop #36 - RE-Spaceship-Corridor 02
+0x00000075 RE-Spaceship-Corridor 02
+
+# Prop #37 - RE-Spaceship-Room 01
+0x00000076 RE-Spaceship-Room 01
+
+# Prop #38 - RE-Spaceship-Room 02
+0x00000077 RE-Spaceship-Room 02
+
+# Prop #39 - RE-Spaceship-Room03
+0x00000078 RE-Spaceship-Room03
+
+# Prop #40 - RE-Starship-Corridor 04
+0x00000079 RE-Starship-Corridor 04
+
+# Prop #41 - RE-Starship-emptyroom 01
+0x0000007a RE-Starship-emptyroom 01
+
+# Prop #42 - RE-Spaceship-aussenmauer01
+0x0000007b RE-Spaceship-aussenmauer01
+
+# Prop #43 - RE-Spaceship-Wall 03
+0x0000007c RE-Spaceship-Wall 03
+
+# Prop #44 - RE-Spaceship-Brückendecke 01
+0x0000007d RE-Spaceship-Brückendecke 01
+
+# Prop #45 - RE-Starship-Corridor 05
+0x0000007e RE-Starship-Corridor 05
+
+# Prop #46 - RE-Starship-roompart 01
+0x0000007f RE-Starship-roompart 01
+
+# Prop #47 - White Gate
+0x00000080 White Gate
+
+# Prop #48 - Explosive Barrel
+0x00000081 Explosive Barrel
+
+# Prop #49 - Sunbeams
+0x00000082 Sunbeams
+
+# Prop #50 - RE-Spaceship-Blackwall 01
+0x00000083 RE-Spaceship-Blackwall 01
+
+# Prop #51 - Galaxy
+0x00000084 Galaxy
+
+# Prop #52 - Waterfall
+0x00000085 Waterfall
+
+# Prop #53 - RE-Starship-zaun 01
+0x00000086 RE-Starship-zaun 01
+
+# Prop #54 - RE-Starship-Hangardoor 01
+0x00000087 RE-Starship-Hangardoor 01
+
+# Prop #55 - Red Gate
+0x00000088 Red Gate
+
+# Inspect for Act 1
+0x00000089 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Hivepeter sanoi, että sinne pääsyyn tarvitaan salasana.
+0x0000008a Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x0000008b Pesäpielus: Tuossa näyttää lukevan jotain...
+0x0000008c Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x0000008d Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 2
+0x0000008e Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Hivepeter sanoi, että sinne pääsyyn tarvitaan salasana.
+0x0000008f Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x00000090 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x00000091 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x00000092 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 3
+0x00000093 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Hivepeter sanoi, että sinne pääsyyn tarvitaan salasana.
+0x00000094 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x00000095 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x00000096 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x00000097 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 4
+0x00000098 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Hivepeter sanoi, että sinne pääsyyn tarvitaan salasana.
+0x00000099 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x0000009a Pesäpielus: Tuossa näyttää lukevan jotain...
+0x0000009b Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x0000009c Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 5
+0x0000009d Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Hivepeter sanoi, että sinne pääsyyn tarvitaan salasana.
+0x0000009e Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x0000009f Pesäpielus: Tuossa näyttää lukevan jotain...
+0x000000a0 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x000000a1 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 6
+0x000000a2 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Hivepeter sanoi, että sinne pääsyyn tarvitaan salasana.
+0x000000a3 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x000000a4 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x000000a5 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x000000a6 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 7
+0x000000a7 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Hivepeter sanoi, että sinne pääsyyn tarvitaan salasana.
+0x000000a8 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x000000a9 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x000000aa Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x000000ab Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Prop #56 - Container Square
+0x000000ac Container Square
+
+# Prop #57 - Container Long
+0x000000ad Container Long
+
+# Prop #58 - Stacked Crates
+0x000000ae Stacked Crates
+
+# Prop #59 - Wood Crate Stacks
+0x000000af Wood Crate Stacks
+
+# Prop #60 - Hex Crates Stack 2
+0x000000b0 Hex Crates Stack 2
+
+# Prop #61 - Siirrin
+0x000000b1 Siirrin
+
+# Prop #62 - RE-Starship-ladder 01
+0x000000b2 RE-Starship-ladder 01
+
+# Prop #63 - Jump Pad 
+0x000000b3 Jump Pad 
+
+# Prop #64 - Explosive Barrel
+0x000000b4 Explosive Barrel
+
+# Prop #65 - Fog White
+0x000000b5 Fog White
+
+# Prop #66 - Marquee
+0x000000b6 Marquee
+
+# Prop #67 - Troppa
+0x000000b7 Trobba
+
+# Chatter for Act 3
+0x000000b8 The ship before us would like to contact us. Would please go receive them, Hivehat?
+
+# Prop #68 - Troopan avaruusalus
+0x000000b9 The Explorer
+
+# Prop #69 - Troppa
+0x000000ba Trobba
+
+# Prop #70 - Trooba
+0x000000bb Trooba
+
+# Inspect for Act 1
+0x000000bc The Staff of Life is over there. Go get it, Hivehat!
+
+# Inspect for Act 2
+0x000000bd The Staff of Life is over there. Go get it, Hivehat!
+
+# Inspect for Act 3
+0x000000be The Staff of Life is over there. Go get it, Hivehat!
+
+# Inspect for Act 4
+0x000000bf The Staff of Life is over there. Go get it, Hivehat!
+
+# Inspect for Act 5
+0x000000c0 The Staff of Life is over there. Go get it, Hivehat!
+
+# Inspect for Act 6
+0x000000c1 The Staff of Life is over there. Go get it, Hivehat!
+
+# Inspect for Act 7
+0x000000c2 The Staff of Life is over there. Go get it, Hivehat!
+
+# Prop #71 - Hivepeter
+0x000000c3 Hivepeter
+
+# Prop #72 - Poof White
+0x000000c4 Poof White
+
+# Prop #73 - Hiveraider
+0x000000c5 Hiveraider
+
+# Prop #74 - Troobatit Fleet Engineer
+0x000000c6 Troobatit Fleet Engineer
+
+# Prop #75 - Gigantulaatti
+0x000000c7 Gigantulate
+
+# Prop #76 - Nukkuva Hiveraider
+0x000000c8 Sleeping Hiveraider
+
+# Chatter for Act 1
+0x000000c9 ZZZzzzzz....
+0x000000ca <snore>
+
+# Inspect for Act 1
+0x000000cb He seems fast asleep...
+0x000000cc Better not to disturb him...
+
+# Chatter for Act 2
+0x000000cd ZZZzzzzz....
+0x000000ce <snore>
+
+# Inspect for Act 2
+0x000000cf He seems fast asleep...
+0x000000d0 Better not to disturb him...
+
+# Chatter for Act 3
+0x000000d1 ZZZzzzzz....
+0x000000d2 <snore>
+
+# Inspect for Act 3
+0x000000d3 He seems fast asleep...
+0x000000d4 Better not to disturb him...
+
+# Chatter for Act 4
+0x000000d5 ZZZzzzzz....
+0x000000d6 <snore>
+
+# Inspect for Act 4
+0x000000d7 He seems fast asleep...
+0x000000d8 Better not to disturb him...
+
+# Chatter for Act 5
+0x000000d9 ZZZzzzzz....
+0x000000da <snore>
+
+# Inspect for Act 5
+0x000000db He seems fast asleep...
+0x000000dc Better not to disturb him...
+
+# Chatter for Act 6
+0x000000dd ZZZzzzzz....
+0x000000de <snore>
+
+# Inspect for Act 6
+0x000000df He seems fast asleep...
+0x000000e0 Better not to disturb him...
+
+# Chatter for Act 7
+0x000000e1 ZZZzzzzz....
+0x000000e2 <snore>
+
+# Inspect for Act 7
+0x000000e3 He seems fast asleep...
+0x000000e4 Better not to disturb him...
+
+# Prop #77 - Glitter Sphere
+0x000000e5 Glitter Sphere
+
+# Prop #78 - Poof White
+0x000000e6 Poof White
+
+# Prop #79 - Poof White
+0x000000e7 Poof White
+
+# Prop #80 - Poof White
+0x000000e8 Poof White
+
+# Prop #81 - Johtava mekaanikko
+0x000000e9 Leading Engineer
+
+# Prop #82 - Power Generator
+0x000000ea Power Generator
+
+# Prop #83 - Poof White
+0x000000eb Poof White
+
+# Prop #84 - Trooba
+0x000000ec Trooba
+
+# Inspect for Act 1
+0x000000ed Look at that, Hivehat! Isn't it beautiful?
+0x000000ee Hivehat: "Yeah, maybe..."
+0x000000ef Soon we shall see it in full! Yeah!
+0x000000f0 Hivehat: "You're pretty excited about this, aren't you?"
+0x000000f1 Yes! Before this point only the selected few have been able to get this far and come back alive! Isn't that exciting, buddy?
+
+# Inspect for Act 2
+0x000000f2 Look at that, Hivehat! Isn't it beautiful?
+0x000000f3 Hivehat: "Yeah, maybe..."
+0x000000f4 Soon we shall see it in full! Yeah!
+0x000000f5 Hivehat: "You're pretty excited about this, aren't you?"
+0x000000f6 Yes! Before this point only the selected few have been able to get this far and come back alive! Isn't that exciting, buddy?
+
+# Inspect for Act 3
+0x000000f7 Look at that, Hivehat! Isn't it beautiful?
+0x000000f8 Hivehat: "Yeah, maybe..."
+0x000000f9 Soon we shall see it in full! Yeah!
+0x000000fa Hivehat: "You're pretty excited about this, aren't you?"
+0x000000fb Yes! Before this point only the selected few have been able to get this far and come back alive! Isn't that exciting, buddy?
+
+# Inspect for Act 4
+0x000000fc Look at that, Hivehat! Isn't it beautiful?
+0x000000fd Hivehat: "Yeah, maybe..."
+0x000000fe Soon we shall see it in full! Yeah!
+0x000000ff Hivehat: "You're pretty excited about this, aren't you?"
+0x00000100 Yes! Before this point only the selected few have been able to get this far and come back alive! Isn't that exciting, buddy?
+
+# Inspect for Act 5
+0x00000101 Look at that, Hivehat! Isn't it beautiful?
+0x00000102 Hivehat: "Yeah, maybe..."
+0x00000103 Soon we shall see it in full! Yeah!
+0x00000104 Hivehat: "You're pretty excited about this, aren't you?"
+0x00000105 Yes! Before this point only the selected few have been able to get this far and come back alive! Isn't that exciting, buddy?
+
+# Inspect for Act 6
+0x00000106 Look at that, Hivehat! Isn't it beautiful?
+0x00000107 Hivehat: "Yeah, maybe..."
+0x00000108 Soon we shall see it in full! Yeah!
+0x00000109 Hivehat: "You're pretty excited about this, aren't you?"
+0x0000010a Yes! Before this point only the selected few have been able to get this far and come back alive! Isn't that exciting, buddy?
+
+# Inspect for Act 7
+0x0000010b Look at that, Hivehat! Isn't it beautiful?
+0x0000010c Hivehat: "Yeah, maybe..."
+0x0000010d Soon we shall see it in full! Yeah!
+0x0000010e Hivehat: "You're pretty excited about this, aren't you?"
+0x0000010f Yes! Before this point only the selected few have been able to get this far and come back alive! Isn't that exciting, buddy?
+
+# Prop #85 - Hivepeter
+0x00000110 Hivepeter
+
+# Prop #86 - Krookusten kartta
+0x00000111 The Krokus Map
+
+# Inspect for Act 1
+0x00000112 The Maa system
+0x00000113 This map was laid out by the Krokus of Barren.
+
+# Inspect for Act 2
+0x00000114 The Maa system
+0x00000115 This map was laid out by the Krokus of Barren.
+
+# Inspect for Act 3
+0x00000116 The Maa system
+0x00000117 This map was laid out by the Krokus of Barren.
+
+# Inspect for Act 4
+0x00000118 The Maa system
+0x00000119 This map was laid out by the Krokus of Barren.
+
+# Inspect for Act 5
+0x0000011a The Maa system
+0x0000011b This map was laid out by the Krokus of Barren.
+
+# Inspect for Act 6
+0x0000011c The Maa system
+0x0000011d This map was laid out by the Krokus of Barren.
+
+# Inspect for Act 7
+0x0000011e The Maa system
+0x0000011f This map was laid out by the Krokus of Barren.
+
+# Prop #87 - Maa
+0x00000120 Earth
+
+# Prop #88 - Troobatit Fleet Engineer
+0x00000121 Troobatit Fleet Engineer
+
+# Chatter for Act 7
+0x00000122 Great to see Earth's surface!
+0x00000123 I wonder what we'll find from Earth?
+0x00000124 I can't WAIT to see what awaits us on Earth!
+
+# Prop #89 - Hiveraider
+0x00000125 Hiveraider
+
+# Prop #90 - Trooba
+0x00000126 Trooba
+
+# Prop #91 - Troopa
+0x00000127 Trooba
+
+# Prop #92 - Kooka
+0x00000128 Kook
+
+# Prop #93 - Deerstrich
+0x00000129 Deerstrich
+
+# Prop #94 - Graxilainen
+0x0000012a Knot the Grawx
+
+# Chatter for Act 1
+0x0000012b I would like to know how everything works here.
+0x0000012c May I follow your work, comrade?
+
+# Chatter for Act 2
+0x0000012d I would like to know how everything works here.
+0x0000012e May I follow your work, comrade?
+
+# Chatter for Act 3
+0x0000012f I would like to know how everything works here.
+0x00000130 May I follow your work, comrade?
+
+# Chatter for Act 4
+0x00000131 I would like to know how everything works here.
+0x00000132 May I follow your work, comrade?
+
+# Chatter for Act 5
+0x00000133 I would like to know how everything works here.
+0x00000134 May I follow your work, comrade?
+
+# Chatter for Act 6
+0x00000135 I would like to know how everything works here.
+0x00000136 May I follow your work, comrade?
+
+# Chatter for Act 7
+0x00000137 I would like to know how everything works here.
+0x00000138 May I follow your work, comrade?
+
+# Prop #95 - Päätettä valvova silmikkä
+0x00000139 Eyelung
+
+# Prop #96 - Maa
+0x0000013a Earth
+
+# Prop #97 - Troopaton
+0x0000013b Troobaton
+
+# Inspect for Act 1
+0x0000013c Don't be startled, I'm just here as a guest.
+0x0000013d I wanted to see the galactic core with you not as an ally, but as a friend.
+0x0000013e We have gone a long way and soon we'll be there! Hard to believe that civilization would experience these wonders in my lifetime.
+
+# Inspect for Act 2
+0x0000013f Don't be startled, I'm just here as a guest.
+0x00000140 I wanted to see the galactic core with you not as an ally, but as a friend.
+0x00000141 We have gone a long way and soon we'll be there! Hard to believe that civilization would experience these wonders in my lifetime.
+
+# Inspect for Act 3
+0x00000142 Don't be startled, I'm just here as a guest.
+0x00000143 I wanted to see the galactic core with you not as an ally, but as a friend.
+0x00000144 We have gone a long way and soon we'll be there! Hard to believe that civilization would experience these wonders in my lifetime.
+
+# Inspect for Act 4
+0x00000145 Don't be startled, I'm just here as a guest.
+0x00000146 I wanted to see the galactic core with you not as an ally, but as a friend.
+0x00000147 We have gone a long way and soon we'll be there! Hard to believe that civilization would experience these wonders in my lifetime.
+
+# Inspect for Act 5
+0x00000148 Don't be startled, I'm just here as a guest.
+0x00000149 I wanted to see the galactic core with you not as an ally, but as a friend.
+0x0000014a We have gone a long way and soon we'll be there! Hard to believe that civilization would experience these wonders in my lifetime.
+
+# Inspect for Act 6
+0x0000014b Don't be startled, I'm just here as a guest.
+0x0000014c I wanted to see the galactic core with you not as an ally, but as a friend.
+0x0000014d We have gone a long way and soon we'll be there! Hard to believe that civilization would experience these wonders in my lifetime.
+
+# Inspect for Act 7
+0x0000014e Don't be startled, I'm just here as a guest.
+0x0000014f I wanted to see the galactic core with you not as an ally, but as a friend.
+0x00000150 We have gone a long way and soon we'll be there! Hard to believe that civilization would experience these wonders in my lifetime.
+
+# Prop #98 - Hivepeter
+0x00000151 Hivepeter
+
+# Prop #99 - Troppa
+0x00000152 Trobba
+
+# Prop #100 - Rockabilly
+0x00000153 Rockabilly
+
+# Prop #101 - RE-Spaceship-Teleport
+0x00000154 RE-Spaceship-Teleport
+
+# Prop #102 - Water Blast Once
+0x00000155 Water Blast Once
+
+# Prop #103 - PSPn logo
+0x00000156 SSN Logo
+
+# Prop #104 - Teleporter
+0x00000157 Teleporter
+
+# Prop #105 - Tools
+0x00000158 Tools
+
+# Prop #106 - Tarvikelaatikko
+0x00000159 Tarvikelaatikko
+
+# Prop #107 - Sting Ever After
+0x0000015a Sting Ever After
+
+# Prop #108 - Kassakaapin ovi
+0x0000015b Safe Door
+
+# Prop #109 - Sting Inspiring
+0x0000015c Sting Inspiring
+
+# Prop #110 - The Show
+0x0000015d The Show
+
+# Prop #111 - Echoes Underwater
+0x0000015e Echoes Underwater
+
+# Prop #112 - Teuvo
+0x0000015f Steve
+
+# Prop #113 - Black Hole
+0x00000160 Black Hole
+
+# Prop #114 - Spotlight Pink
+0x00000161 Spotlight Pink
+
+# Prop #115 - Blue Gate
+0x00000162 Blue Gate
+
+# Prop #116 - Teuvo
+0x00000163 Steve
+
+# Prop #117 - Spotlight Pink
+0x00000164 Spotlight Pink
+
+# Prop #118 - Magic Link
+0x00000165 Magic Link
+
+# Prop #119 - Evil Whispers
+0x00000166 Evil Whispers
+
+# Prop #120 - Fog Magic
+0x00000167 Fog Magic
+
+# Prop #121 - Elämänsauva
+0x00000168 The Staff of Life
+
+# Inspect for Act 1
+0x00000169 Hivehat: "Isn't it time to grab this for myself? Come to daddy!"
+
+# Inspect for Act 2
+0x0000016a Hivehat: "Isn't it time to grab this for myself? Come to daddy!"
+
+# Inspect for Act 3
+0x0000016b Hivehat: "Isn't it time to grab this for myself? Come to daddy!"
+
+# Inspect for Act 4
+0x0000016c Hivehat: "Isn't it time to grab this for myself? Come to daddy!"
+
+# Inspect for Act 5
+0x0000016d Hivehat: "Isn't it time to grab this for myself? Come to daddy!"
+
+# Inspect for Act 6
+0x0000016e Hivehat: "Isn't it time to grab this for myself? Come to daddy!"
+
+# Inspect for Act 7
+0x0000016f Hivehat: "Isn't it time to grab this for myself? Come to daddy!"
+
+# Prop #122 - Evil Whispers
+0x00000170 Evil Whispers
+

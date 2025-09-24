@@ -1,0 +1,2995 @@
+# Auto-generated localization file for: The Queen of Life (ID: 0X9A88223)
+# Author
+0x00000001 Liskomato
+
+# Adventure name
+0x00000002 The Queen of Life
+
+# Adventure description
+0x00000003 SporeScape~br~Part 6~br~Spode is dead. With the galaxy spiraling ever further into a galaxy-wide war, Hato and company arrive to planet Clearhum, where they hope meet a good friend of Argutix at Castle Bleur on top of the Bleur Hill... Queen Soumadis VI.~br~~br~[This is an open world adventure in the likes of Mundus, Motel of Melora and Those Who Remain. Reading every dialogue carefully and taking notes is highly recommended for the optimal gameplay experience. Be sure to reserve at least one hour for this adventure, as it can take a very long time to get through the city and its streets.]
+
+# Adventure tags
+0x00000004 hato,bleu,cyborcus,argutix,soumadis,saradostrich,zamolate,three staves,tscanon,sporescape,bleurfeet,clearhum,elämän valtiatar
+
+# Intro text
+0x00000005 Our heroes have arrived to the old town of Bleur, their goal being to reach the Bleur Castle on top of the hill. First, however, they group up.
+
+# Win text
+0x00000006 Somewhere deep within, the Ring hums in satisfaction, as it successfully manipulated events to kill Bleu...~br~...but what does that mean, exactly?~br~To be continued...
+
+# Lose text
+0x00000007 Hato lost the Ring to the gods, and thus the galaxy was doomed.~br~Do you want to try again?
+
+# Act 1
+0x00000008 Clearhum
+0x00000009 The traditional city of Bleur is located on planet Clearhum, which is the capital planet of the Bleurfeet Kingdom. Ask Argutix who you are going to see, exactly, after which add everyone in your group to your crew. Finally, read the Holo-Times and then start making your way to Bleur Castle itself...
+
+# Goal 1
+0x0000000a Hato: "Argutix, tell us a bit about your friend."~br~Bleu: "Yeah, who are they? What could they possibly be doing at the royal castle?"
+0x0000000b Ah, right... Yeah. You see, she happens to be really, really important, as she happens to be the very queen of this kingdom, actually!
+0x0000000c Hato: "Don't tell me!"~br~Bleu: "THE Queen?!"~br~Cyborcus: "But how can then we get to Her Majesty?"
+0x0000000d Don't worry, we argulates and Bleurfeets have had an alliance between each other for a long time now. The queen knows me personally, and we've been on good terms with each other ever since I became a captain.
+0x0000000e Cyborcus: "Right. Still, why do I have this feeling that this is not going to be as easy as we think?"~br~Bleu: "If we encounter trouble, we can always go hide in that bar. I've heard it's a really famous tavern around these parts!"~br~Hato: "Let's group up, everyone! Cyborcus, please initiate the allying dance for all of us."~br~[Add your friends to your crew.]
+
+# Goal 2
+0x0000000f AN ANCIENT ENTITY AWOKE - AND SARADOSTRICH DEFEATED IT!
+0x00000010 We just received news that tell us that an ancient monster from the times of the Masaari awoke from the white gas giant in the star system Spodeon.
+0x00000011 It would've unleashed a terrible calamity upon the entire galaxy, were it not for the forces of the North Star Kingdom and their recently-returned deity Saradostrich, who personally vanquished the squid beast with the legendary Staff of Evolution! 
+0x00000012 The forces of the Empire of Chaos tried to interfere with the god of order and his forces, as is their wont, but their interference did not affect the battle with the squid-like entity that much.~br~"Do you know believe that I am Spode Incarnate?" Saradostrich smiled as we interviewed him for this event. Perhaps he might be right!
+0x00000013 Bleu: "Disgusting!"~br~Cyborcus: "How awful that the Saradists can distort the truth to the media like this!"~br~Argutix: "Let's move on. We can't deal with this matter right now, revealing the truth I mean."
+
+# Goal 3
+0x00000014 STOP!~br~No one can enter the castle while our lord and saviour, Saradostrich Philemon, son of Barnabas, discusses matters with the Queen of Life!
+0x00000015 Argutix: "What is the meaning of this?! Don't you know who I am? I am the Queen's old friend, let us through!"
+0x00000016 Our Lord Saradostrich is discussing the matters of an alliance with Her Majesty, Queen Soumadis VI! He hopes this alliance goes through so united we can throw out the forces of chaos!~br~And no, Captain Argutix, I'm sorry but even an esteemed person such as you can not enter. Yes, we know about you already thanks to the royal court.
+0x00000017 Wait a second...? Captain Argutix? Wasn't he in a wanted poster I saw once? That's strange...~br~Wait! I remember now. He's part of the... Then those must be...!
+0x00000018 ALERT! ALERT! The ringbearers are here! Capture them and bring them to our Lord, alive or dead!
+
+
+# Act 2
+0x00000019 Escape!
+0x0000001a Saradostrich's armies have occupied almost the entire city! Escape them to the bar Bleu mentioned, and then think about your next moves!
+
+# Goal 2
+0x0000001b Alright, tell me everything! Why did Saradostrich's troops chase you like some hot chicken?
+0x0000001c Cyborcus: (Should we tell him?)~br~Argutix: (It probably is for the best...)~br~You tell the tavern owner about your mission, what has happened to you, and what you are aiming to do next.
+0x0000001d Wait wait wait, so some never-before-heard-of god who died gave you a magic ring, which just happens to be THE artefact that both Saradostrich AND Zamolate are after? What sort of nonsense is this? What do they see in that ring of yours that makes it so special to them? What's the catch?
+0x0000001e Cyborcus:"They were part of the original ringbearer crew who failed in their mission 3000 years ago, and thus ascended to godhood because of it. They each believe they could kill the other if they just had the whole Ring."~br~Hato: "That's why we're wanting to see Queen Soumadis, as we've been told she knows of a secret hyperlane to the Galactic Core." ~br~Argutix: "I told them about it. I am an old friend of Her Majesty, so I know she has the keycodes and coordinates to access the lane continue our way."
+0x0000001f But what makes you think my cousin will agree to help you?~br~. . .~br~Yes, I am the cousin of Her Majesty. My full name is Mario Bleur. I'm sure you've heard the rumours of the disowned noble who owns a tavern here, Captain? That is me. I should probably explain...
+
+# Goal 3
+0x00000020 Mario: "So, on to me being the Queen's cousin. So why am I not over at the Hill, among the royal court, but down here among the peasants?"
+0x00000021 Mario: "Let's say it nicely - I was never interested in royal protocol and manners. I was disowned and stripped of my titles because of my disagreements with the royal family over their politics."
+0x00000022 Mario: "Over time I have seen how they, and especially Her Majesty herself, have distanced themselves from the common people more and more. It allowed for the power vacuum where the Kingdom of the North Star managed to strip our kingdom from its sovereignty."
+0x00000023 Mario: "You have seen how much the Saradists have suppressed the citizens under their own tyranny, yes? How they hang people even for minor transgressions, and unfortunately for our Urlegian citizens, even for their very existence? This situation wouldn't have happened if we bluebloods actually kept in touch with the people!"
+0x00000024 Mario: "And what has Her Dear Majesty done to stop this? Nothing. She just lets Saradostrich stomp all over her and our human rights!"
+
+
+# Act 3
+0x00000025 The Open City
+0x00000026 Mario has explained to you that the city runs on a currency unique to the Bleur Kingdom: the golden bleur coins. Collect enough of them to pay all of the gate tolls, or otherwise find an alternative way to the castle!~br~~br~HINT:~br~- This is the open world act!~br~- You can store items by giving them to your crew, and get them back by removing your crew members from the crew.
+
+# Goal 1
+0x00000027 Mario: "And now you know how I feel about all of this. If you necessarily still want to get to my cousin atop the Hill, you'd be best to know the city itself first."
+0x00000028 Mario: "I think that at this point, those dumb Saradist guards have given up the search for you (or given orders to stop), and set up their toll gates again. They only accept the city's local coins as the currency. Your sporebucks won't work here, I'm afraid."
+0x00000029 Mario: "This city is divided roughly into three districts based on the toll gates. The first of them is where we are at now: the Broad Square. Foreigners usually only get here with their money."
+0x0000002a Mario: "The second district is the Tradery. This is where most of the city's marketplaces are located, it is our commercial district after all. The third district is the Foothills. It is where the most of us nobles live daily."
+0x0000002b Mario: "The royal palace has its very own toll gate, and its prices are more expensive than those of the Tradery and Foothills. If you ask me, what the best way to earn Bleur's coins is, it would be to help the citizens! You would do us all a service in these dark times."
+
+
+# Act 4
+0x0000002c The Queen
+0x0000002d You got inside the Bleur palace! You see Queen Soumadis VI discussing and debating with Saradostrich, and you all decide to interfere...
+
+# Goal 1
+0x0000002e Hato: "Saradostrich! Stop right there!"~br~Bleu: "Your lies will end here!"
+0x0000002f Not now, Bearers! I have extremely important business to discuss with the Her Royal Highness here! She currently leads the Free Alliance, after that devil Zamolate went and killed the president of Oculus! I need the support of the free empires so that together, we can defeat Zamolate and his Empire of Chaos once and for all!
+0x00000030 Bleu: "Is killing Spode really not enough for you?!"~br~Argutix: "Or your lackeys' occupation of Bleur City?"~br~Cyborcus: "Or how they hang innocent people?"
+0x00000031 Why are you taking those off-topic and meaningless things to the table? What is your game here Bearers? That which you called "Spode" was just a collective delusion, a squid monster that was summoned by the Source Herself to dominate the Masaari!
+0x00000032 Soumadis VI: "Wait, Your Divinity. I have heard of the Ringbearers, they all deserve this turn to speak, assuming they are here for the reason I suspect them to be. Speak."
+
+# Goal 2
+0x00000033 You take this chance to tell everything from your point of view, much to the chagrin of Saradostritch.~br~~br~She ponders things for a moment, and then takes her turn to speak.
+0x00000034 So, you want to destroy the Ring of Fate, by casting it to the magma of Mount Ruin. A noble task. But what have you planned for the chance that our galaxy faces destruction after your mission?~br~Hato: "Wh-what do you mean?"~br~It is said in the prophecy of SporeScape, which has so far correctly predicted the return of the ring gods after 3000 years of banishment, that were all of the gods in our galaxy to die, Liskus would face its "final days", or "the disappearances" which is how the prophet Novecosanas has put it in his texts.
+0x00000035 Hato: "That's... kind of bad, if you asked me, but I believe we the people of the galaxy will survive whatever comes after the Ring's fall! We can always move to another galaxy if our own faces destruction!"~br~Cyborcus: "Good Hato, think about the implications of that! But the massive logistic issue behind moving an entire galactic society besides, the warring ring gods are honestly a far greater threat to the universe than the destruction of our galaxy. Mr. Thorus Ostrillon C, before his sad passing, said that they have enough energy to battle each other until the heat death of the universe, if they felt like it. That is why we must destroy the Ring soon enough by throwing it to Mount Ruin. It is the only way to bring our universe lasting please. ~br~So please, dear Majesty: Let us into your secret hyperlane to the Galactic Core that our good friend Captain Argutix told us about!"
+0x00000036 Saradostrich: "Don't you dare listen to those foolish Bearers, Your Majesty! The Ring will soon enough break all of their minds, and then it is not only Zamolate we have to worry about, but FOUR more opposing deities!"
+0x00000037 Bleu: "Alright, I've heard enough! I'VE HAD IT WITH YOU!"
+
+# Goal 3
+0x00000038 Hato: "Bleu, don't!"~br~Argutix: "Don't anger that angry bird any further!"~br~Cyborcus: "Think your next words with care!"
+0x00000039 Sorry guys, not listening right now.~br~~br~Listen up now, Saradostrich! What justifies everything wrong that you have done so far? What sort of madness do you have that demands you to destroy Zamolate and the other gods right away? What exactly is wrong with you?
+0x0000003a Saradostrich: "You dare...!"~br~Don't say anything yet! I haven't yet finished!~br~~br~Have you ever thought how the Ring and the Staves could be affecting your mind right now? Have you ever read on their side effects or something? I certainly have, there's a lot to read about it on Trooba and Hivehat's books. I've had the great honor to have been adopted by Hivehat's distant descendant Dr. Hivepah, and I believe that should give me right enough to warn you to stop while you still can!
+0x0000003b So why you, Professor Sarado Philemon, son of Barnabas, have to spoil your generation's fame, by engaging in war and destruction like a lunatic? Yes, I am calling you a lunatic! And I have the right to call you that for your murder of Spode! Of course Zamolate is also guilty, and you sometimes do right in opposing him, but that doesn't absolve you of ANY of your very own sins! You and your followers destroyed worlds, committed genocides, and did a lot of far worse things in the years following that fateful day you went on your mission with Zamo! In fact, your brother even went so far in your madness that he married the WIDOW of Barry Ostrichfeet!~br~~br~All of these things I've read about, it makes me despise you with my every gut! You tell yourself and your followers that you're a "god of order"? Bah, you're not one! You're just acting like you were one, while in reality you're just another god of chaos like Zamolate... No, A FALSE GOD!
+0x0000003c Saradostrich: "WHAT. Did. You. Just. Call. ME?! ...A CHAOS... FALSE GOD?! I'LL SHOW YOU, FILTHY GIRL...!"
+
+
+# Act 5
+0x0000003d God's Anger
+0x0000003e With a mighty lightning bolt, Saradostrich smited Bleu, killing her instantly! Horrible! What will he plan next in his angered state?!~br~HINT: Complete all goals before time runs out!
+
+# Goal 1
+0x0000003f PLAYTIME IS OVER! Hato, now you shall give me the ring for your sister's transgressions, or I will personally destroy all that is dear to you!
+0x00000040 I will blow the world of life itself, Solum! Your very own dear homeworld! No, I will destroy Oculus and their little pet project to kill us! No, I WILL DESTROY THE WHOLE URANIAN ARM IF I MUST!
+0x00000041 NO ONE DEFIES ME! NO ONE! I AM THE GOD OF ALL LISKIANS! I AM SPODE, LORD OF LISKUS, AND ITS SUPREME RULER!
+0x00000042 Saradostrich unleashes his full Might and starts choking Hato, attempting to force the Ring out of his hands.~br~Hato: "HELP! <cough> Guys, help...! I can't... defy him! <cough> <cough>"~br~Cyborcus: "Now more than ever! We must break Saradostrich's concentration while his defenses are low!"~br~Argutix: "But of course! FOR BLEU!"
+0x00000043 Soumadis: "My court and I will help you, Ringbearers! We cannot let this murder of an innocent girl go unanswered!"~br~[Ally with Argutix, and quickly! Hato is currently defenceless because of Saradostrich's mental onslaught on him!]
+
+
+# Act 6
+0x00000044 God's Wrath
+0x00000045 Saradostrich is trying to force the Ring from Hato's hands! Stop him be reducing his HP to 0!
+
+
+# Act 7
+0x00000046 God's Exhaustion
+0x00000047 You have stopped Saradostrich's onslaught for now... Now, demand that he leaves by speaking to him.
+
+# Goal 1
+0x00000048 Grrr.... Hrrrg... You have won this round, Bearer of the Ring. Those of your friends that remain in the mortal coil are rather troublesome...
+0x00000049 Hato: "You... You killed Bleu! My sister! MURDERER!"
+0x0000004a SHE DESERVED IT! The way that she insulted and slandered me, SHE HAD TO GO! ...But now, YOU!~br~[His icy glare turns to the queen.]~br~You attacked me! The beloved-by-all Queen of Life, resorting to VIOLENCE?! And with the Bleur Mafia on her toes, too! My viziers were right, it was a mistake to come here! You and your alliance is not to be trusted, it is another hive of chaos like Zamolate's!
+0x0000004b Soumadis: "You murdered one of the Ringbearers, and thus showed your true colours. You truly are a wretched and pathetic being. The ring has made a shadow of the once-good professor Sarado, son of Barnabas. It is clear that the Kingdom of the North Star cannot peacefully solve this war as long as you are alive, Saradostrich. The Ringbearers are correct, the Ring must be destroyed on Mount Ruin!"
+0x0000004c I see!~br~So you have chosen the final days of our galaxy by blowing up the Ring, instead of doing the obviously correct choice and giving it to ME! I shall remember this treason for as long as you all live!~br~Now, I shall make my leave then in the disgrace you prefer for me. Soumadis, you shall have the honor of explaining your mafia connections to the Bearers, I shall not be here then to hear it! Goodbye.
+
+
+# Act 8
+0x0000004d Sorrow
+0x0000004e Your entire fellowship, along with the royal court, grieve Bleu's passing... But everyone also knows that they cannot linger here for long. It is only a matter of time until Saradostrich returns, this time with force. Speak with Queen Soumadis, Argutix and then finally Hato to move on with the quest.
+
+# Goal 1
+0x0000004f Please forgive me deeply.~br~[She bows deeply to you all.]~br~Because of my and my court's failings, you all had an incredibly hard time to get here, forced to pay the illegal tolls of the Saradist regime, and by the end of it all, lost your dear friend and sister, Bleu Hive. I am so, so, so sorry for it all... I don't know if I can ever forgive myself for failing to save an innocent life like hers.
+0x00000050 Cyborcus: "Bleu..." [Your gaze turns to the ground, and the lifeless remains of Bleu.]~br~Hato: "It is not your fault, Your Highness. I know in my heart that it isn't. Bleu, she... Perhaps she knew this would be her end..."
+0x00000051 And she faced her end with dignity. I know. She was a brave young woman, who put everything in line to say her word, and the truth. I don't know if I can ever be as brave as she.
+0x00000052 And as a certain cousin always liked to se, the fault lies in me too. I did not do my best to help you out, as I should've.~br~...Yes, I got your message Captain Argutix. You can access the Suruz Lane by my blessings. I wasn't able to get my response to you in time because the Saradists were observing all network traffic on the planet. The censorship isn't something even I can control. I have far less power in my hands than you've been led up to believe thus far.
+0x00000053 In truth, there was no way I could say no to Saradostrich before you four arrived. He has the true power over the Bleurfeet Kingdom and our capital at this point of time. Thus, I had to rely on the Bleur Mafia in order to protect myself, my court and my citizens. It was the only way we've been able to express at least some form of sovereignty, exploiting corruption within Saradist clergy and armies to rule over where they don't dare to look. It is honestly a disgrace in Bleur culture that the Queen of Life herself has had to resort to organized crime like this. Once the occupation is over and the truth comes out, I will never hear the end of it in the press. Thus, while my fame is still good among the commonfolk, I will need to step down from my throne for the sake of my younger sister, Princess Outi. She is a good girl, and extremely sharp. I'm sure she will rule over the Bleur Kingdom far better than I ever could. 
+
+# Goal 2
+0x00000054 Your Majesty, you're stepping down?! Why?
+0x00000055 Soumadis: "This is for the best. Your fellowship has lost an important member, and it is best that I come to replace her for the mission."
+0x00000056 Don't get me wrong, I'm flattered, but... Is that really a wise decision? Bleu, you see... she was Hato's adoptive sister and all that. Would he accept you as a member of our group in his current condition?
+0x00000057 Soumadis: "If it's about not being able to move on, we can hold a funeral for her."~br~Cyborcus: "We can't stay here to handle and hold funerals. The most efficient way Hato can recover, is to get him moving and thinking of other things, especially since he's still carrying that ring of all evil. We have to go to Mortar NOW."
+0x00000058 Yeah, and I think it is best if you handle the job of co-pilot for now, my tin friend. ...And Hato? Are you alright? Are you good to go now?
+
+# Goal 3
+0x00000059 Bleu! I can't believe it, she's...
+0x0000005a Cyborcus approaches Hato and hugs him to comfort.~br~Cyborcus: "Don't worry Hato. We are here and now. We survived. YOU survived. That is all that matters now."
+0x0000005b Yeah, but Bleu didn't make it! Why did she have to die while WE survived?? WHY US AND NOT HER?!~br~Cyborcus: "Take it easy. Breathe deep. Relax."~br~IT'S NOT FAIR!
+0x0000005c You turn to the others next.~br~Cyborcus: "Hato is certainly not taking it well at all, one can see it even without a visor. We have to get going now to keep his mind occupied with other things."~br~Argutix: "So, Your Majesty..."~br~Soumadis: "Call me just Soumadis for now."~br~Argutix: "Alright, Soumadis. Tell us about the Suruz Lane if you can?"
+0x0000005d Soumadis: "Very well. It is a very old hyperspace lane that goes from here in the edge of Azedi Belt in the Maridian Arm, to the Deep Core in the very center of the galaxy. It was built by LiSur, Incorporated to transfer supplies and men to that area, but later it was abandoned as the company could not sustain their colonies there any longer. Let us head to its end on this side now. My family can handle Bleu's funeral in our abscence. May the Source protect Bleu's soul on her next great journey..."
+
+
+# Prop #1 - Hato
+0x0000005e Hato
+
+# Inspect for Act 1
+0x0000005f Cyborcus: "Well, how you're feeling mister Hato? Has the ring been too much of a burden to carry? I noticed now you took my advice regarding where to hold it."
+0x00000060 I don't know... When we took that big blast to the face on Oculus, I realized the ring became heavier as a result. So I took it on myself to carry it on a chain around my neck as you advised.
+0x00000061 But... There was another thing I realized as well. I don't know why, but I can sense where the Ring Gods are at any given moment. It could be the Ring wants me to know where they are now.
+0x00000062 Cyborcus: "You can sense the gods...? Hato, don't tell me..."
+0x00000063 I'm afraid so, and I so hope it's wrong, but Saradostrich seems to be here, on this same planet. He arrived here before us like he did elsewhere, and I don't like what he's planning...
+
+# Chatter for Act 2
+0x00000064 Help! We are being chased!
+0x00000065 Let's flee to that tavern Bleu mentioned!~br~Cyborcus: "Yes, master Hato. Let's go!"
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000066 So to find those Bleurese coins, we just have to look for people in need! Let's go, everyone!
+0x00000067 Who do you think we'll meet during our sojourn through the city?~br~Cyborcus: "No idea, master Hato."
+0x00000068 I feel pity for these citizens, but we have our own mission to carry.
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #2 - Bleu
+0x00000069 Bleu
+
+# Inspect for Act 1
+0x0000006a It's so nice to be back to civilization! I started to get a little lonely among our books aboard the Explorer! But, there's one thing here that I CANNOT stand!
+0x0000006b Cyborcus: "What's wrong?"
+0x0000006c THEM! The followers of Saradostrich, the pretender! How can they still claim to follow him, when he... their god killed Spode Himself!
+0x0000006d Cyborcus: "They can't possibly know that Bleu. And even if they did, they'd still follow their blue deerstrich as the one true god. You know better than that Bleu, I know it. Besides, we were the only 'neutral' witnesses there to see the Fall of Spode."
+0x0000006e Yeah but what can we really do then? What can we do to change their minds? Throw the ring to Mount Ruin? We don't even know how to get there! Can we go see the Holo-Times by the way?~br~[Ally with her]
+
+# Chatter for Act 2
+0x0000006f Now it would be a good time to go to that tavern I saw! Onward!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000070 How horrible, to see the stranglehold the Saradists have on the citizens! What can we do to liberate them?~br~Cyborcus: "First, we need to get to the castle first."~br~Hato: "Pay the tolls!"~br~Argutix: "And have a nice little chat with Saradostrich and my old friend the queen!"~br~Yeah but that doesn't solve the issue I presented!~br~Cyborcus: "There isn't honestly we can do to help them besides doing errands for them."~br~<sigh> Damn, it was never gonna be easy, was it?
+0x00000071 I understand now why you pity the Urgulates, Cyborcus. Besides the fact that you're one (or a subspecies, I couldn't possibly know), the Saradists focus most of their oppressive actions on your kind.
+0x00000072 Back at Solum I couldn't have possibly known all the atrocities the ring gods were capable of doing! It's not enough that the old gods are killed, us mortals have to be dominated as well!~br~Cyborcus: "Amen, mistress Bleu."
+0x00000073 I was wrong doubting you about pitying the hanged urgulate at the Tradery. Ultimately we are all equals under nature, and we can't let gods or social hierarchies decide what we are!~br~Cyborcus: "Exactly, mistress Bleu! I'll forgive you. You couldn't have known all of it on your own, thanks to Saradist propaganda. It is not right that the Urlegians are only known as servants of chaos!"~br~Argutix: "We did see some Urlegian Saradist convertees at Blahara so we know they're not a monolith!"~br~Cyborcus: "None of the species are, Captain. That's the point!"~br~Argutix: "Yeah, exactly!"
+0x00000074 Let's go now! Let's get those Bleurese coins and pay our way into the royal palace!
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #3 - Argutix
+0x00000075 Argutix
+
+# Inspect for Act 1
+0x00000076 Cyborcus: "By the way, has anyone else noticed there's far more Saradist troops than is the norm in this area of the galaxy? Why is that?"
+0x00000077 Ah, I've heard news that this planet was but recently annexed to one of the North Star's protectorate states, which is highly unnusual because this happens to be the capital of the Bleurfeet Kingdom also! It shouldn't work like that, galactic laws forbid sharing star systems between multiple interstellar states! 
+0x00000078 Hato: "What is a protectorate, if I may ask?"
+0x00000079 Didn't you know? A protectorate is a state under supervision by another, larger state, where the latter has complete control over the former in foreign relations and possibly other matters also. With the Kingdom of the North Star, how they work is that there is the main regime which the grand viziers (and now Saradostrich as well since he's back) rule, then there's the protectorates which follow the guidelines of the grand viziers (and the god of order), and then there's protectorates OF the protectorate states, which is now where Clearhum seems to land.
+0x0000007a It is a pyramid-like structure which has allowed Saradostrich's church to rule over vast swatches of the galaxy for centuries now. But here I am now again, educating young'uns about galactic history once more. Let's head out, the queen's waiting!~br~[Ally with him.]
+
+# Chatter for Act 2
+0x0000007b Well shoot, here we are again, escaping the Saradists like we've now done many times before!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000007c I'll let you handle all the money and people matters, my cyborg friend.
+0x0000007d You always felt like the most sociable of your family, tin guy. You possibly couldn't have found your way to Solum otherwise, eh?~br~Cyborcus: "Nope. I would've been long dead now otherwise."
+0x0000007e Man, what a mess Bleur has gotten herself into after my last visit! Saradostrich's occupation must be ended, and for that reason we must get those coins and get to the Queen!
+0x0000007f Listen Cyborcus, have Hato and Bleu always been that troublesome for you? Ever since their childhoods I mean?~br~Cyborcus: "Of course. Always running into the forest from home they were."~br~Hato and Bleu: "HEY! Not fair to gossip around like that!"~br~Cyborcus: "Take that."
+0x00000080 We shouldn't dally around town for too long, but then again, Bleur has always been a pretty mazy place...~br~Cyborcus: "I think we four can navigate ourselves around town well enough!"
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #4 - House of the Mankind
+0x00000081 House of the Mankind
+
+# Prop #5 - Mankind Workshops
+0x00000082 Mankind Workshops
+
+# Prop #6 - Mankind Market
+0x00000083 Mankind Market
+
+# Prop #7 - Mankind Prop
+0x00000084 Mankind Prop
+
+# Prop #8 - Tonkiva Tonkeri-pubi
+0x00000085 The Digging Blowfly Tavern
+
+# Chatter for Act 1
+0x00000086 "DIGGING BLOWFLY - The tavern hosted by Mario"
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #9 - Valkoinen portti
+0x00000087 Valkoinen portti
+
+# Chatter for Act 2
+0x00000088 Bleu: "We can't get away this way!"~br~Cyborcus: "We have to find another way out!"
+
+# Prop #10 - Valkoinen portti
+0x00000089 Valkoinen portti
+
+# Prop #11 - Valkoinen portti
+0x0000008a Valkoinen portti
+
+# Prop #12 - Valkoinen portti
+0x0000008b Valkoinen portti
+
+# Prop #13 - Valkoinen portti
+0x0000008c Valkoinen portti
+
+# Prop #14 - Holosanomat
+0x0000008d Holo-Times
+
+# Chatter for Act 1
+0x0000008e There is a special news report coming from the Holo-Times board. Better to watch it...
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #15 - Bleurfeet
+0x0000008f Bleurfeet
+
+# Prop #16 - Bleurfeet
+0x00000090 Bleurfeet
+
+# Prop #17 - Hautahirmu
+0x00000091 Tomb Hog
+
+# Chatter for Act 1
+0x00000092 It is right that the big monstrous squid was beaten! Who knows what it would've done to our galaxy if we let it roam free!
+0x00000093 I think I'm starting to like Saradostrich now!
+0x00000094 What good has Zamolate ever brought us? He brought us chaos rot, destroyed our homes, and blew up our planets with meteors! There's nothing good from taking his teachings into heart!
+0x00000095 Once that ring is found, and the alliance between the free states and North Star is formed, then finally can Saradostrich kick that Zamolate-meanie into the curb! Then shall our galaxy see eternal peace!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #18 - Keltasaku
+0x00000096 Goltoad
+
+# Chatter for Act 1
+0x00000097 I hope my friends over at Solum are alright! I so hope that the war hasn't reached their planet yet!
+0x00000098 Saradostrich at first glance seems to be our only hope... But can we really trust him? What if someone stubs his toe and he retaliates by smiting them? What if he only accepts certain "pure" species to his paradise?
+0x00000099 "Saradostrich is Spode", "the Squid is Spode Himself", "Saradostrich killed the Squid to usurp him"... The comments on this article are going crazy! Who can I really trust at this point in the galaxy?!
+0x0000009a Don't tell anyone, I've recently found myself in dark places around the galaxy. I've seen and heard things that the mainstream media and the elites don't want to tell us about!
+0x0000009b If the tales about the prophecy are right... The end of days are nigh! Whom should I believe in to receive salvation?
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #19 - Minilaatti
+0x0000009c Minilate
+
+# Chatter for Act 1
+0x0000009d Saradostrich is lying! He killed that squid monster for selfish reasons, nothing else!
+0x0000009e Saradostrich only wanted to kill the giant squid creature to gain its powers for himself! There is no other logical reason!
+0x0000009f How much damage have Saradostrich and Zamolate already caused with their current war? There's already so much death, disappearances, economical depression and much more going about in our galaxy right now! I hope someone does the right thing, finds the ring and throws it in the fires it was made in at the galactic core!
+0x000000a0 Saradostrich is no better than his rival Zamolate. They both seek only power with ideological excuses!
+0x000000a1 How did this all begin, you ask? Well, there was this ring made by the Grox... Which is the root cause of all of our troubles after the galactic society wiped those damned cyborgs out.
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #20 - Kulkuri
+0x000000a2 Wanderer
+
+# Chatter for Act 1
+0x000000a3 This looks worrying...
+0x000000a4 Damn, the "gods that came" of Liskus certainly seem nastier than any other gods I know! Liskus' Spode was no match for Saradostrich with his navies and the Staff of Evolution at his side!
+0x000000a5 Should I really try and return to Mikhos at this point...? But would they really accept an altered Surisin like me?
+0x000000a6 There's apparently some secret weapon being built over at Barren... It can apparently destroy the "ring gods" and the Ring itself once it is ready...
+0x000000a7 This kind of disorder hasn't happened here since the time we arrived! What exactly is going on over here at the Liskus galaxy?
+
+# Inspect for Act 1
+0x000000a8 Psst! Don't worry, I'm on your side! I'm part of the Society of Wills you know. You can say I'm here to check you're alright. Turgon and Hivebah send their regards over from Oculus. Things have calmed a lot since you four left.
+0x000000a9 While us L-Surisins' government might be long gone, there's still enough of us all over that we will try our everything to help you ringbearers out!
+0x000000aa I swear by the God That Will Come (of Mikhos) that you will succeed in your mission, bring the Ring to Mount Ruin over at Mortar and destroy it for good!
+0x000000ab Cyborcus: "Why don't you tell us about the secret hyperlane route then?"~br~~br~Ah, no, I'm not authorized for that, for operational security reasons. You see the Saradists occupying this city all over us, yeah? You'll have to go to the Queen for the hyperlane access codes I'm afraid. I'm sorry.
+0x000000ac And I think you should try hurrying up now. I don't want the Saradists around here to know I'm associated with you Bearers. I already have enough troubles as is, being the Wills' spy and all!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #21 - Intialainen
+0x000000ad Raj Raga
+
+# Prop #22 - Kynivä Kissapeto -majatalo
+0x000000ae The Clawing Cat Tavern
+
+# Chatter for Act 1
+0x000000af "THE CLAWING CAT - The tavern hosted by Luigi"
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #23 - Se on elossa!
+0x000000b0 It's ALIVE!
+
+# Prop #24 - Sinnelilinna
+0x000000b1 Bleur Castle
+
+# Prop #25 - Peurastrutsi
+0x000000b2 Deerstrich
+
+# Prop #26 - Valkoinen portti
+0x000000b3 White Gate
+
+# Prop #27 - Sinnelitalo
+0x000000b4 Bleur House
+
+# Prop #28 - Sinnelimylly
+0x000000b5 Bleur Mill
+
+# Prop #29 - Sinnelin kaupungintalo
+0x000000b6 Bleur Town Hall
+
+# Prop #30 - Verkkoaita
+0x000000b7 Verkkoaita
+
+# Prop #31 - Piikkilanka
+0x000000b8 Piikkilanka
+
+# Prop #32 - Hyppypatja
+0x000000b9 Jump Pad
+
+# Chatter for Act 1
+0x000000ba INFO: Use this if you get stuck here!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #33 - Keltainen portti
+0x000000bb Yellow Gate
+
+# Prop #34 - Perinteinen laatikko
+0x000000bc Perinteinen laatikko
+
+# Prop #35 - Hedelmätori
+0x000000bd Fruit Market
+
+# Prop #36 - Puulaatikkopino 2
+0x000000be Puulaatikkopino 2
+
+# Prop #37 - Rautakoriste
+0x000000bf Rautakoriste
+
+# Prop #38 - Lihakauppa
+0x000000c0 Meat Market
+
+# Prop #39 - Sataman lyhty
+0x000000c1 Sataman lyhty
+
+# Prop #40 - Kalatori
+0x000000c2 Fish Market
+
+# Prop #41 - The Gallows
+0x000000c3 The Gallows
+
+# Prop #42 - Valkoinen portti
+0x000000c4 White Gate
+
+# Inspect for Act 1
+0x000000c5 Cyborcus: "Oh, bless that poor urgulate! He has been hanged!"
+0x000000c6 Bleu: "Cyborcus, why are you symphatizing with that urgulate? Didn't he belong to Zamolate's forces, judging by his uniform?"
+0x000000c7 Cyborcus: "He still didn't deserve such a cruel death and execution at all! He was just a pawn in a bigger game of war between the gods."
+0x000000c8 Cyborcus: "We mortals cannot allow ourselves to just be pawns to the gods! We have to resist them with all of our strength, and show them the door out of our existence!"
+0x000000c9 Argutix: "You're right, Cyborcus!"~br~Hato: "I agree with you all. Once the ring is out in Mortar and inside Mount Ruin's crater, then all of this is finally over!"
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #43 - Inkvisiittori
+0x000000ca Inquisitor of Saradostrich
+
+# Chatter for Act 1
+0x000000cb ...And let this be a warning to all who serve the heathen gods! Repent and convert to Spode's faithful, and He shall spare you all!
+0x000000cc Spode shall punish all they, who defy natural order! His world has no space for other gods! He IS the only True God!
+0x000000cd Steve, Sporix, Xenolate, the other "gods that will come" such as Zamolate, they are all FALSE! Only Spode Himself is the True God among them! Turn to Him now, citizens! Turn while you can still repent!
+0x000000ce Hey, you! I see your resistant grit! I shall have the favour of melting it from your face, once our Lord and Saviour finally kills Zamolate and claims the One Ring for Himself!
+0x000000cf You see this Urgulate over here? He followed Zamolate, so he is AUTOMATICALLY DAMNED! His soul has been damned to Hell, where he truly belongs alongside his chaotic ilk!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #44 - Henkivartija
+0x000000d0 Bodyguard
+
+# Chatter for Act 1
+0x000000d1 Stay nice!
+0x000000d2 Don't disturb the public order, thank you!
+0x000000d3 If you stay calm and don't disturb the peace, we won't disturb you as well! I swear it by Spode's name!
+0x000000d4 We, the forces of our Lord and Saviour, are for the time being until He finishes negotiations with the Queen of Life. Then we shall depart from this planet to the next!
+
+# Inspect for Act 1
+0x000000d5 Cyborcus: "He looks strong. I'd better not pick a fight with him..."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #45 - Näkymätön alusta
+0x000000d6 Invisible Platform
+
+# Prop #46 - Multilaatti
+0x000000d7 Multilate
+
+# Prop #47 - Valkoinen portti
+0x000000d8 White Gate
+
+# Inspect for Act 1
+0x000000d9 This section of the city is currently CLOSED.
+0x000000da Access to this section is returned, once the situation returns to NORMAL.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #48 - Nosel
+0x000000db Nosel
+
+# Prop #49 - Purlean
+0x000000dc Purlean
+
+# Prop #50 - Pesäpielijä
+0x000000dd Hiveraider
+
+# Prop #51 - Gigantulaatti
+0x000000de Gigantulate
+
+# Prop #52 - Flirkku
+0x000000df Flirgle
+
+# Prop #53 - Linnan portinvartija
+0x000000e0 Castle Guard
+
+# Chatter for Act 1
+0x000000e1 Stay nice!
+0x000000e2 Don't disturb the public order, thank you!
+0x000000e3 If you stay calm and don't disturb the peace, we won't disturb you as well! I swear it by Spode's name!
+0x000000e4 We, the forces of our Lord and Saviour, are for the time being until He finishes negotiations with the Queen of Life. Then we shall depart from this planet to the next!
+
+# Inspect for Act 1
+0x000000e5 Cyborcus: "Damn it! The castle is guarded by Saradists themselves! We have no course but to RUN!"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000e6 There, off you go. Our High Command has approved your entrance to the castle now!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #54 - Nosel
+0x000000e7 Nosel
+
+# Prop #55 - Mario
+0x000000e8 Mario
+
+# Inspect for Act 1
+0x000000e9 Welcome to the Digging Blowfly, travelers! Unfortunately our tavern is already full, but you can still come visit our bar, if you so wish!
+0x000000ea We have alcoholic as well as non-alcoholic beverages on offer, depending on your tastes! We have water, nectar, milk, various fruit juices, even our local vintage wine! Unfortunately our local beer has run out, but there should be more coming next week from our brewery!
+0x000000eb Not interested? Well, our house is always free to visit whenever you like it! I mean, when we have rooms available that is...
+
+# Inspect for Act 2
+0x000000ec Wel- What the heck?! You're being chased!?
+0x000000ed No matter who you are, I'll protect you! Come quickly inside, I'll offer you an emergency room free of charge!
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #56 - Väijytys!
+0x000000ee Ambush!
+
+# Prop #57 - Mellakoiva yleisö
+0x000000ef Mellakoiva yleisö
+
+# Prop #58 - Rakuuna
+0x000000f0 Dragoon
+
+# Prop #59 - Nuoli
+0x000000f1 Arrow
+
+# Prop #60 - Yleisö - sisällä
+0x000000f2 Yleisö - sisällä
+
+# Prop #61 - Bluegrass
+0x000000f3 Bluegrass
+
+# Prop #62 - prancing pony interior
+0x000000f4 prancing pony interior
+
+# Prop #63 - prancing pony interior
+0x000000f5 prancing pony interior
+
+# Prop #64 - Valkoinen portti
+0x000000f6 White Gate
+
+# Prop #65 - Mario
+0x000000f7 Mario
+
+# Inspect for Act 1
+0x000000f8 Welcome to the Digging Blowfly, travelers! Unfortunately our tavern is already full, but you can still come visit our bar, if you so wish!
+0x000000f9 We have alcoholic as well as non-alcoholic beverages on offer, depending on your tastes! We have water, nectar, milk, various fruit juices, even our local vintage wine! Unfortunately our local beer has run out, but there should be more coming next week from our brewery!
+0x000000fa Not interested? Well, our house is always free to visit whenever you like it! I mean, when we have rooms available that is...
+
+# Chatter for Act 2
+0x000000fb Take it easy, you all, I'll show you to our emergency room. Follow me.
+
+# Inspect for Act 2
+0x000000fc It isn't unusual to see people being chased by our Saradist occupiers, but still, there's something odd about you folk. They wouldn't chase some ordinary pickpockets like that!
+0x000000fd Cyborcus: "It's alright... We've been here before. This is usual business for our group."
+0x000000fe I see. Have they chased you on other planets as well? Oh dear... Are you perhaps serial criminals, or...?
+0x000000ff Hato: "Well, you see, we..."~br~Bleu: "Hush, Hato, not here! There are too many people listening to us!"
+0x00000100 I understand, you don't want to talk about it in public. Follow me then. I'll lead you to our emergency room, where you can freely talk in peace. 
+
+# Inspect for Act 3
+0x00000101 It isn't unusual to see people being chased by our Saradist occupiers, but still, there's something odd about you folk. They wouldn't chase some ordinary pickpockets like that!
+0x00000102 Cyborcus: "It's alright... We've been here before. This is usual business for our group."
+0x00000103 I see. Have they chased you on other planets as well? Oh dear... Are you perhaps serial criminals, or...?
+0x00000104 Hato: "Well, you see, we..."~br~Bleu: "Hush, Hato, not here! There are too many people listening to us!"
+0x00000105 I understand, you don't want to talk about it in public. Follow me then. I'll lead you to our emergency room, where you can freely talk in peace.
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #66 - Valkoinen avain
+0x00000106 White Key
+
+# Prop #67 - Tavern Table
+0x00000107 Tavern Table
+
+# Prop #68 - Card Table
+0x00000108 Card Table
+
+# Prop #69 - Bar
+0x00000109 Bar
+
+# Prop #70 - Baarimikko
+0x0000010a Bartender
+
+# Inspect for Act 1
+0x0000010b Mario hired me to handle the bar during the day. He himself handles the tavern's accommodations.
+0x0000010c He pays me very well, much better wages than that darned Luigi paid me in the Tradery, in that dreaded Clawing Cat bar.
+0x0000010d But please don't tell anyone that the two bars have a rivalry like that, okay?
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #71 - Tarjoilijabotti
+0x0000010e Servant Bot
+
+# Chatter for Act 1
+0x0000010f HERE YOU GO, HAVE YOUR FOOD. *piip*
+0x00000110 DEAR GENTLEMEN, YOUR FOOD IS READY. *boop*
+0x00000111 CAN I TAKE YOUR ORDERS NOW? *piip*
+0x00000112 I'LL SEND YOUR ORDER TO THE KITCHEN, ONE MOMENT... *boop*
+0x00000113 WHAT WOULD YOU LIKE TO DRINK, GENTLEMEN?
+
+# Inspect for Act 1
+0x00000114 Mario: "I bought this serving robot from the Benjimus galaxy. A peculiar machine it is, sometimes it spouts cryptic things about the future or something."
+0x00000115 Mario: "It does its job well, however. But sometimes, I feel like it is plotting something behind my back with its cryptic words or such..."
+0x00000116 *Bzz* 𒆜ȶɦɛ ʀɛƈʊֆǟռȶ'ֆ ʀɛȶʊʀռ ɨֆ ǟȶ ɦǟռɖ. 𒆜 *Bzz*
+0x00000117 *Bzz* 𒆜ɛʋɛʀʏȶɦɨռɢ ɛʋɛռȶʊǟʟʟʏ ʄօƈʊֆɛֆ ɨռȶօ ǟ ֆɨռɢʟɛ քօɨռȶ. 𒆜 *Bzz*
+0x00000118 𒆜ɨȶ'ֆ ռǟʍɛ ɨֆ... 01000111 01010101 01000001 01010100 01010100, օʀ... 47 55 41 54 54... *Bzz* Continuing process: Serving.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #72 - Oven sulkeminen
+0x00000119 Oven sulkeminen
+
+# Prop #73 - Siirrin
+0x0000011a Siirrin
+
+# Prop #74 - Turvapaikka!
+0x0000011b safety!
+
+# Prop #75 - Mario
+0x0000011c Mario
+
+# Inspect for Act 1
+0x0000011d Alright, take a seat and listen. Before I tell you about my relationship with the Queen and why I think about her the way I do, it'd be best to start with our nation's history first.
+0x0000011e Our family, the Bleurs, have ruled this kingdom ever since it was founded, from the beginning of our space traveling days and first contact with other spacefarers, which dates fifty years before the Awakening of Sporix 3000 years ago. So 3050 years from our present day, in the era where Melorsia Alliance was still the dominant force around the galaxy.
+0x0000011f When the first god war ended and the old galactic alliances broke down in its chaotic after years, our kingdom's independent policies and the determination of our peoples ensured that neither of the Divine Empires, none of their protectorates nor the independent authoritarian states managed to successfully conquer and colonize us. Our nation became one of the great havens of freedom, becoming equal with the likes of the Free Federation of Solum which was the largest of them by and large.
+0x00000120 Our power and influence grew as we defied the Divine Empires and their offences, and ultimately we grew so influential that our ruling monarchs started be called by the title "King/Queen of Life", given we were protecting life itself from corruption by the likes of Xenolate and Peregrin Philemon, the first grand vizier of the North Star Kingdom. It helped that we were allies with the Solumians and especially the rightful bearers of the Three Staves. ~br~Hato: "Trooba and Hivehat and their families..."~br~I see you've heard of them. Good. I needn't explain further their importance to galactic history on their own.
+0x00000121 The reason why you might've never heard of the Bleurs' importance to galactic history before, might be the result of the Great Treaty. We were originally signatories in the treaty itself, but resigned as its purpose became more and more about Oculian reunification than galactic peace.~br~~br~But that is old news at this point. With the gods returned, the Great Treaty might as well now be the empty paper it was in our forebears' eyes...~br~~br~[Mario looks at the fireplace with somber eyes, the flames flickering like a longing maiden.]
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000122 I put on the wall a map of the city, its districts and the toll prices themselves. I hope it will be of help to you all.
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #76 - Bunk Bed
+0x00000123 Bunk Bed
+
+# Prop #77 - Wooden Table
+0x00000124 Wooden Table
+
+# Prop #78 - Takka
+0x00000125 Takka
+
+# Inspect for Act 1
+0x00000126 Hato: "The situation in the city looks dire."~br~ Bleu: "Say it again, Hato! Horrifying to think about it all like this!"
+0x00000127 Argutix: "Do you have any other hints about what can be done in the city, Mr. Mario?"~br~Mario: "You can also buy other things with Bleurs than pay the tolls."
+0x00000128 Mario: "Things such as health kits, batteries for your equipment, even some battle animals or so I've heard from some. If your morals can stand it, you can collect debts for the Zorans."~br~Hato: "Who are they?"~br~Mario: "Creditors who have given loans to citizens and Saradists alike. Taking a loan from them is a mistake in my eyes, so anyone taking those have all earned it."
+0x00000129 Mario: "If you get stuck in some mission, or somehow wasted all of your money, there is an underground coliseum you can visit at the Foothills' beaches. With an entry fee of 1 bleur, you can triple that money if you finish the entire tournament, and you can repeat that process for as many time as you like, provided you spend your earnings first elsewhere."
+0x0000012a Hato: "Ugh, why do we always have to fight?" ~br~Bleu: "Hato, we don't have to. We might not even need to go there in the first place." ~br~Cyborcus: "Yeah, it's just one of the options we have available to earn some of those coins. Let's go now."
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #79 - Rauhaisa universumi
+0x0000012b Peaceful Universe
+
+# Prop #80 - Peruskivi
+0x0000012c Peruskivi
+
+# Prop #81 - Bonus - kunto
+0x0000012d Bonus - Health
+
+# Inspect for Act 1
+0x0000012e Respawn time: 1 min
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #82 - Bonus - energia
+0x0000012f Bonus - Energy
+
+# Inspect for Act 1
+0x00000130 Respawn time: 1 min
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #83 - Soittajan laulu
+0x00000131 Bard's Song
+
+# Prop #84 - Psykedeliapuutarha
+0x00000132 Psychedelic Moongarden
+
+# Prop #85 - Renessanssijuhlat
+0x00000133 Renaissance Fair
+
+# Prop #86 - Portin tullivartija
+0x00000134 Toll Guard
+
+# Inspect for Act 1
+0x00000135 Our Lord has set these toll gates from here on out. You will have to pay to get further access into the city.
+0x00000136 The first toll is 2 bleurs. You will gain access to Zone 2: the Tradery.
+0x00000137 The second toll is 3 bleurs. That will grant you access to Zone 3: the Foothills and its ports.
+0x00000138 The third and final toll is 4 bleurs. You will gain access to the royal palace, if you wish to enter it. (But I don't know why you would do that.)
+0x00000139 "Why don't we accept Sporebuck?" It has no value in this city, unfortunately. You will have to find those glorious Bleurese coins for us, or you will gain no further access into the city proper!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #87 - Zoranivelkoja
+0x0000013a Zoran Creditor
+
+# Inspect for Act 1
+0x0000013b Argutix: "That must be one of the Zoran Network's creditors. It seems they have debts they want to collect in this city."
+0x0000013c Hey, you! Yes, you there, the cyborg! Would you like to do us a service?
+0x0000013d Cyborcus: "Uh, sure? What do you want?"
+0x0000013e Would you like to take these bear scrolls- I mean payment reminders for our clients? Pardon my wording, my translator is hiccuping today. ~br~~br~You will gain 1 bleur for every 3 payments you bring back! Just place them to the chest and take the bleur once you have all three payments there.
+0x0000013f Cyborcus: "Well I guess we are going on debt collection duty then. I feel pity for the debtors I'll have to visit..."
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #88 - Yksi sinneli
+0x00000140 One bleur
+
+# Chatter for Act 1
+0x00000141 1 bleur
+
+# Inspect for Act 1
+0x00000142 This coin is worth 1 bleur. You can buy various things with it in the city.
+0x00000143 Its main worth for you, however, is in paying the tolls at the gates dividing the city. You will gain further access into the city that way.
+0x00000144 You will need 2 bleurs to enter the Tradery, 3 bleurs to enter the Foothills, and 4 bleurs to visit the palace itself.
+0x00000145 So get up and going! Gather more bleurs in order to advance in this adventure!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #89 - Velkakirja
+0x00000146 Debt Reminder Scroll
+
+# Inspect for Act 1
+0x00000147 Bring this scroll to one of the Zorans' debtors. You will gain 1 bleur for every 3 payments you bring back.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #90 - Muinainen arkku
+0x00000148 Ancient Chest
+
+# Prop #91 - Rahasäkki
+0x00000149 Money Bag
+
+# Inspect for Act 1
+0x0000014a This bag containing Sporebucks belonged to one of the Zorans' debtors. Bring it back to the Zorans' payment chest to get 1/3 of the way to be paid 1 bleur.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #92 - Bleunen portti
+0x0000014b Zoran Network Payment Chest
+
+# Inspect for Act 1
+0x0000014c Bring three of the sporebuck bags belonging to the Zorans' debtors here to be paid 1 bleur in return.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #93 - Nuori troopatinaaras
+0x0000014d Troobatit
+
+# Chatter for Act 1
+0x0000014e My precious clamshell...
+0x0000014f This troobatit seems to be longing for something. If you find the item she's missing, you will earn 1 bleur!
+
+# Inspect for Act 1
+0x00000150 Oh, good sirs and madam, can you please help me?
+0x00000151 Cyborcus: "Of course. How can we help you?"
+0x00000152 That darned deerstrich dragoon stole my precious clamshell! It is a family heirloom from my father in Oculus! Could you please get it back for me?
+0x00000153 Hato: "Of course! We'll always help out a fellow Oculian in need!"
+0x00000154 Oh, thank you so much young ones! The dragoon is currently loitering around the gate to the spaceport. Could you please be kind and ask it back for me, nicely? 
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #94 - Elävä kotilo
+0x00000155 Clamshell
+
+# Prop #95 - Rakuuna
+0x00000156 Dragoon
+
+# Chatter for Act 1
+0x00000157 This deerstrich dragoon has a quest object. If you don't know what it's for, DON'T TALK TO HIM!
+
+# Inspect for Act 1
+0x00000158 Stop! What do you want?
+0x00000159 Hato: "Could you tell us where you got such a nice clamshell?"~br~Bleu: "Robbed from some young maiden, perhaps?"
+0x0000015a 'Tis none of your beeswax! I found this clamshell from the beach, and I plan to bring to the Temple of Spode to be sanctified! Mind your own business!
+0x0000015b Cyborcus: (Hmm, he's definitely not telling the truth! I think he definitely took it from that crying troobatit over there, across the plaza!)
+0x0000015c If you have no other business with me, let it go! Or, are you perhaps the Bearer and his minions? You are, aren't you?! Die in the name of Saradostrich!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #96 - Bleurfeet
+0x0000015d Bleurfeet
+
+# Prop #97 - Äkäinen purlean
+0x0000015e Grumpy Purlean
+
+# Inspect for Act 1
+0x0000015f Grr, what do you want?
+0x00000160 Cyborcus: (He looks a bit grumpy, but otherwise means no harm... Let me chat with him for a bit...) ~br~[Befriend the grumpy purlean and he will gift you 1 bleur.]
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #98 - Valkoinen portti
+0x00000161 White Gate
+
+# Prop #99 - Emoalus – rakettitorni 1
+0x00000162 Emoalus – rakettitorni 1
+
+# Prop #100 - Kukka
+0x00000163 Flower
+
+# Prop #101 - Flirkku
+0x00000164 Flirgle
+
+# Chatter for Act 1
+0x00000165 Oh dear! Who could send this vegetable shipment to the shop? I can't leave my post, so...
+
+# Inspect for Act 1
+0x00000166 Hey, you there! Could you do me a service?
+0x00000167 Cyborcus: "Sure. What do you need?"
+0x00000168 Could you bring this vegetable shipment to the grocery store southwest of here, at the southern beach? They've been waiting for it a while now, but I haven't been able to find any good couriers for this task yet.
+0x00000169 Argutix: "Yeah we can do this easily! Count on us!"
+0x0000016a Oh, thank you so much strangers! Be careful while carrying it then. The shipment box can take bruises but I don't want it to get wet!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #102 - Vihannespaketti
+0x0000016b Vegetable Shipment
+
+# Inspect for Act 1
+0x0000016c This shipment is awaiting transport to the food market southwest of here, near the southern beach.
+0x0000016d If you ship it there successfully, you will gain 1 bleur.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #103 - Bleurfeet
+0x0000016e Bleurfeet Trader
+
+# Chatter for Act 1
+0x0000016f Has anyone seen vegetable shipment? It should've already been here from the Flower Plaza!
+
+# Inspect for Act 1
+0x00000170 This bleurfeet salesperson is obviously looking for a shipment they are expecting. If you bring it to them, you will earn 1 bleur as a result.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #104 - Lucia
+0x00000171 Lucia
+
+# Chatter for Act 1
+0x00000172 Please, someone! Help me!
+0x00000173 My dear Lily... Please, help us!
+0x00000174 Can someone please help out a poor mother?
+
+# Inspect for Act 1
+0x00000175 My dear Lily! Bandits have kidnapped her! My dear child!
+0x00000176 Bleu: "Oh no! Who is to blame for this travesty!?"
+0x00000177 I couldn't possibly know! I received a ransom note this morning demanding 500 bleurs to be delivered to Broad Square this evening, or I would never see my daughter again!
+0x00000178 Argutix: "That is an absurd amount! Even the royal palace's toll is only 7 bleurs in total from here, and even that is a lot! Don't worry madam, we'll help you out with only just 1!"
+0x00000179 Oh, thank you so much strangers. You definitely look you can beat those bandits up easily! Giving up just 1 bleur for you should be fine, if you bring my daughter back safe and sound!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #105 - Alamäki
+0x0000017a Downhill
+
+# Prop #106 - Lilja
+0x0000017b Lily
+
+# Inspect for Act 1
+0x0000017c Help! Could someone help me?
+0x0000017d This little foal is in danger! If you save her and bring her back to her parents, you will earn 1 bleur!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #107 - Rosvo
+0x0000017e Bandit
+
+# Prop #108 - Rosvojen johtaja
+0x0000017f Bandit Boss
+
+# Chatter for Act 1
+0x00000180 Oh boy, we're gonna be SO rich after this... Wha- Who's there?
+
+# Inspect for Act 1
+0x00000181 Hey, would you be so kind as to leave? We have a little business going right now, so scram!
+0x00000182 Cyborcus: "If it includes bullying that little foal, then that is a no-go!"
+0x00000183 Ha, you wanna fight then? We have the best weapons of this age, latest brands from the galactic weapons market!
+0x00000184 Cyborcus: (Well shoot! They look strong... But we have the numbers advantage!)
+0x00000185 Well, what are you waitin' for? Get lost, or taste missile!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #109 - Hurrausta
+0x00000186 Hurrausta
+
+# Prop #110 - Inkvisiittori
+0x00000187 Inquisitor
+# Inspect for Act 1
+0x00000188 Halt! This zone is restricted from outsiders!
+0x00000189 Argutix: "What's going on inside that bar?"
+0x0000018a A tavern brawl. One we cannot control, because it would put our holy soldiers at risk of death. I've already lost enough men as is!
+0x0000018b Argutix: "Yeah, we can handle this brawl on our own. No need to put good old Saradists at risk, eh?"
+0x0000018c Besides your vulgar terminology, you're free to go, as you are armed. However, you will be on your own. The tavern owner can reward you, if you somehow manage to stop this riot!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #111 - Siirrin
+0x0000018d Teleporter
+
+# Prop #112 - Luigi
+0x0000018e Luigi
+
+# Inspect for Act 1
+0x0000018f Oh good brother, what a mess this is! Soon the whole house will collapse!
+0x00000190 Bleu: "Hey, we came to help! We can banish these hooligans for you easily!"
+0x00000191 Oh, that's good, younglings! But be careful! These brutes are part of two of the most dangerous criminal gangs in the area. This is a territorial battle that the two gangs have selected my tavern for as a battleground! You might get yourselves killed, too!
+0x00000192 Bleu: "Ah, these guys are no match for us! We have faced both of the Divine Empires' armies head-on, just so you know! So we're battle-hardened veterans!"
+0x00000193 Battle-hardened...? Oh no... Don't then break any more stuff than those brutes, okay? I'll reward you with 1 bleur once the dust settles!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #113 - Klezmer
+0x00000194 Klezmer
+
+# Prop #114 - Baaritappelija
+0x00000195 Tavern Brawler
+
+# Prop #115 - Baaritappelija
+0x00000196 Tavern Brawler
+
+# Inspect for Act 1
+0x00000197 There is a tavern brawl going around here. If you can calm it by beating every brawler up, you can earn 1 bleur from the tavern's owner. 
+0x00000198 'Ey, wha' do ye want?
+0x00000199 Don't mess with us! 'dis is company business, see, an' we don' wan' any outsiders involved!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #116 - Flipped Table
+0x0000019a Flipped Table
+
+# Prop #117 - Bleunen portti
+0x0000019b Blue Gate
+
+# Inspect for Act 1
+0x0000019c Cyborcus: "More debts for the Zorans to be collected, I see."
+0x0000019d Zoran: "Exactly! Bring three payments for us, and you'll be paid one bleur! Fair, eh?"
+0x0000019e Bring the local zoran three payments from their debtors, and you will earn one bleur as a wage.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #118 - Valkoinen portti
+0x0000019f White Gate
+
+# Prop #119 - Turhautunut kauppias
+0x000001a0 Frustrated Trader
+
+# Chatter for Act 1
+0x000001a1 Ugh, where he might be?
+0x000001a2 He should've been here, repaying his debts, bells ago! Where exactly might he be loitering, again?
+
+# Inspect for Act 1
+0x000001a3 Where could he be? His loan expired yesterday, and he STILL hasn't come back here to repay it!
+0x000001a4 Cyborcus: "What's wrong?"
+0x000001a5 A certain young Hiveraider lad whom I happened to loan a bleur and some hundred spucks to hasn't yet come back to repay his debts, as we agreed to today. 
+0x000001a6 I've heard he's loitering around the North Port riight now, but I can't leave my post here to check on him. Someone else has to go in my stead.~br~[He takes a quick look at you, seeing something in you.]
+0x000001a7 Hey, you four look quite healthy and well. If you could get that hiveraider come here to repay his debts, I can give you up one bleur! I've already paid my tolls for several weeks in advance, so I don't need any excess ones right now.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #120 - Kaupungin laiturit
+0x000001a8 City Docks
+
+# Prop #121 - Medieval Wagon
+0x000001a9 Medieval Wagon
+
+# Prop #122 - Pesäpielijäsoturi
+0x000001aa Hiveraider Warrior
+
+# Chatter for Act 1
+0x000001ab This character belongs to a quest. DON'T TALK TO HIM unless otherwise asked!
+
+# Inspect for Act 1
+0x000001ac Hey, has someone seen my sword?
+0x000001ad Hato: "Are you the hiveraider lad who borrowed a bleur and some sporebucks from a flirgle creditor/trader? He would like his money back."
+0x000001ae Ah, yeah. That thing. You have sharp ears around these parts it seems. The old loon must've gotten another protection payment reminder from the mafia or something.
+0x000001af I can go visit him soon, as long as I find my sword! Where could have I placed it... Oh yeah! I forgot it to the coliseum!
+0x000001b0 Agh, but it's so far away! Hey, you guys! Could you do me a service? If you can get my sword back from the coliseum at the other side of Foothills, I can go repay my debts right away! Sound good? That's great!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #123 - Kylän laituri – portaat
+0x000001b1 Kylän laituri – portaat
+
+# Prop #124 - Avaruussoturit
+0x000001b2 Space Warriors
+
+# Prop #125 - Areena – tunnelinseinä
+0x000001b3 Areena – tunnelinseinä
+
+# Prop #126 - Punainen portti
+0x000001b4 Red Gate
+
+# Inspect for Act 1
+0x000001b5 Gate Warden: "If you happen to find a Black Pass, you can try your luck at our special challenge."
+0x000001b6 Gate Warden: "Unfortunately the Black Pass also happens to be a rarity in our galactic arm." 
+0x000001b7 Gate Warden: "I've heard rumours, however, that someone in this city happens to own a Black Pass themself. If you can somehow get your hands on it, good luck with the challenge!"
+0x000001b8 You imagine with your group that this challenge is going to be extremely hard. Without a good strategy on hand, death is assured. However, the reward might very well be worth the risk.
+0x000001b9 It is your own decision, dear player, if you take the Ringbearers to this challenge, or if you will go gather the bleurs to pay the tolls the normal way.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #127 - Hirviöareenan sisäänkäynti
+0x000001ba Coliseum Entrance
+
+# Prop #128 - Temple Exit
+0x000001bb Temple Exit
+
+# Prop #129 - Stadion – yleisö
+0x000001bc Stadion – yleisö
+
+# Prop #130 - Areena – portti
+0x000001bd Areena – portti
+
+# Prop #131 - White Wall
+0x000001be White Wall
+
+# Prop #132 - Temple Roof
+0x000001bf Temple Roof
+
+# Prop #133 - Temple Archway
+0x000001c0 Temple Archway
+
+# Prop #134 - Portinvartija
+0x000001c1 Gate Warden
+
+# Chatter for Act 1
+0x000001c2 Welcome to the coliseum! For each battle fought, you will earn 1 bleur!
+
+# Inspect for Act 1
+0x000001c3 Argutix: "What sort of people can we expect to fight in the arena?"
+0x000001c4 Well, let's see... There are three other groups besides yours that have signed up for battles today.
+0x000001c5 First of them fell to the armed Grankor we keep as a "pet". So you will fight them first.
+0x000001c6 The second group is a lone soldier from the Holy Army of the North Star – a real top-tier gladiator if all I've heard about him is correct.
+0x000001c7 And the third group... What were they named again? Oh well, who knows. You'll see them if you can reach them.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #135 - Miekka
+0x000001c8 Sword
+
+# Prop #136 - Pesäpielijän miekka
+0x000001c9 Hiveraider's sword
+
+# Chatter for Act 1
+0x000001ca This is a quest object. If you don't know its purpose, DON'T touch it!
+
+# Inspect for Act 1
+0x000001cb This must be the sword that the hiveraider fighter had lost.
+0x000001cc If you can bring it back to him, he can come back to the frustrated trader to repay his debts.
+0x000001cd And earning you that way 1 bleur!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #137 - Monster Sign
+0x000001ce Monster Sign
+
+# Chatter for Act 1
+0x000001cf TO THE COLISEUM
+
+# Inspect for Act 1
+0x000001d0 Hato: "The coliseum? I didn't know..." ~br~Argutix: "That bleurfeets like watching gladiators fight?"~br~Cyborcus: "I guess?"
+0x000001d1 Bleu: "Why do we have to go there? I actually wouldn't like it, it feels... fishy."
+0x000001d2 Argutix: "Ah, don't you worry Bleu-girl! The coliseum fights are a sure way to earn bleurs, don't you all agree?"
+0x000001d3 Cyborcus: "Of course. But, we must make sure we don't die in the process. Or lose the Ring in the process."
+0x000001d4 Hato: "Thanks for that warning too, Cyborcus..."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #138 - Kaivoksen sisäänkäynti
+0x000001d5 Mine Entrance
+
+# Prop #139 - Pesäheljä
+0x000001d6 Hivetender
+
+# Chatter for Act 1
+0x000001d7 Oh, where my little pet might be? Come back, Heino!
+0x000001d8 Heinoo! Whereee aaare youuuu?
+0x000001d9 Heino, come back!
+0x000001da I so wish my pet will come back soon...
+
+# Inspect for Act 1
+0x000001db Hato: "Hey miss. You look sad, what's wrong?"
+0x000001dc "My pet hiveflonk Heino is missing. I haven't seen him in days."
+0x000001dd Argutix: "Finding one pet shouldn't prove much trouble for us, eh guys? Would you have any advice in order to get your pet back home, miss?"
+0x000001de You would help me? Oh, thank you! I have asked the local church for help earlier, but they have no interest helping a lonely maiden like me. Preaching about "Spode" or something was much more important to them than finding Heino!
+0x000001df Heino should be somewhere here, around the Foothills. He usually knows not to stray into Tradery or even the Broad Square. If he refuses to come, give him a fish or something.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #140 - Pesäflonkku
+0x000001e0 Hiveflonk
+
+# Chatter for Act 1
+0x000001e1 This must be someone's pet. Don't touch him unless you know what you are doing.
+
+# Inspect for Act 1
+0x000001e2 Hato: "That must be Heino"~br~Cyborcus: "It must be. I don't know any other hiveflonks around here."~br~Bleu: "Come here, kitty kitty!"
+0x000001e3 Hsss!
+0x000001e4 Heino hisses to you furiously. You don't dare to come any closer without something he likes.
+0x000001e5 Cyborcus: "He must be hungry. No wonder he's looking at those meat markets so greedily."
+0x000001e6 Hato: "We should find those fish that Miss Hivetender talked about."~br~Argutix: "But of course! To fish-finding business!"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #141 - Kalalautanen
+0x000001e7 Fish Plate
+
+# Prop #142 - Kalakauppias
+0x000001e8 Fishmonger
+
+# Chatter for Act 1
+0x000001e9 Fiish! Free fish on offer! Free sample available for the first customer!
+
+# Inspect for Act 1
+0x000001ea Ah, hello! Do you need fresh fish from the sea? It's freshly caught!
+0x000001eb Today's your lucky day, as you're the first customers of the day! For that reason, you can have this plate of fish completely free! No catches, of the scam kind I mean!
+0x000001ec Hato: "Thank you! We might just need this somewhere!"~br~Cyborcus: "Can we come later to pick it up, if we don't need it right now?"
+0x000001ed Go ahead! I have no rush, this hulabaloo about closures and tolls has already done enough damage to profits this week as is.
+0x000001ee I just hope the mafia doesn't come visit anytime soon. They should also understand the dire straits all of us are in right now!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #143 - Sinnelimafioso
+0x000001ef Bleur Mafioso
+
+# Inspect for Act 1
+0x000001f0 Ah, hello there, "friend". Could you perhaps do us a service?
+0x000001f1 Bleu: (Psst, guys, I don't trust these folks. Let's stay away from them!)~br~Cyborcus: (I agree for once, Bleu. Let's go-)
+0x000001f2 Hmm, I see you are foreigners to these lands. Your kind doesn't often come this far into the city, given the matter of Saradist tolls and their general stranglehold on the city.
+0x000001f3 Don't worry, we don't gossip to them about you. That is, if you agree to do this service for us.
+0x000001f4 Near the toll gate to the queen's castle, there is a gigantulate who hasn't paid their due. Bring his bags of money here, and you shall earn 1 bleur as a reward.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001f5 Good madam, we've come to help!
+0x000001f6 Have no fear, we are here!
+0x000001f7 It isn't every day one can see the mafia next to the Queen of Life herself, but now the situation is dire! Red alert in the court and all that... Hard to believe the 'god of order' would resort to such a lowly crime as murder!
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+0x000001f8 If we are of no need any longer, then we shall take our leave at your request, Your Majesty.
+0x000001f9 Do you still need help, Your Highness?
+
+# Prop #144 - Mafian velkasaatavat
+0x000001fa Mafia's debts
+
+# Inspect for Act 1
+0x000001fb This amount of money doesn't seem to be in the Zorans' records. It might be for some other purpose, or for some other creditor perhaps...
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #145 - Gigantulaatti
+0x000001fc Gigantulate
+
+# Chatter for Act 1
+0x000001fd This character is part of a quest. DON'T TALK TO HIM unless you've been instructed to!
+
+# Inspect for Act 1
+0x000001fe Wh-what do you want?!
+0x000001ff Cyborcus: "Uh..."~br~Argutix: (Hey guys, we don't have to kill this guy necessarily! There are other ways!)
+0x00000200 Argutix: (My assumption is that if we beat him to, say, 50% health, he will come back to repay his debts to the mafia by his own accord.)
+0x00000201 Cyborcus: (I hate to say this or even do it, but you are right, Captain.)
+0x00000202 Did the mafia call you to beat me up?! Spit it out!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #146 - Valkoinen portti
+0x00000203 White Gate
+
+# Prop #147 - Kauhu
+0x00000204 Horror
+
+# Prop #148 - Valkoinen portti
+0x00000205 White Gate
+
+# Prop #149 - Areenan portti (uusiutuva)
+0x00000206 Arena Gate (respawning)
+
+# Prop #150 - Areenan portti
+0x00000207 Arena Gate
+
+# Prop #151 - Arena Warden Path Point - 2
+0x00000208 Arena Warden Path Point - 2
+
+# Prop #152 - Arena Warden Path Point - 3
+0x00000209 Arena Warden Path Point - 3
+
+# Prop #153 - Areenan avain
+0x0000020a Arena Key
+
+# Prop #154 - Portinvartija
+0x0000020b Arena Warden
+
+# Prop #155 - Aseistettu krankori
+0x0000020c Armed Grankor
+
+# Chatter for Act 1
+0x0000020d Graaaagh!
+0x0000020e Grrrr.....
+0x0000020f GRRRRR.... KRAAAAAGH!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #156 - Uusiutuva sinneli
+0x00000210 Renewable Bleurese coin
+
+# Chatter for Act 1
+0x00000211 1 bleur
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #157 - Atsuurirakuuna
+0x00000212 Azure Dragoon
+
+# Chatter for Act 1
+0x00000213 In the name of Saradostrich!
+0x00000214 Taste my spear!
+0x00000215 Roar, Nidhogg, my spear!
+0x00000216 May I have this dance with you, Bearers?
+
+# Inspect for Act 1
+0x00000217 Argutix: "The Azure Dragoon?! One of the most powerful warriors of Saradostrich's armies?! Now we are in DEEP trouble!"
+0x00000218 Aah, the Ringbearers! I've heard of you! Once I have beaten you in the arena, I shall bring you to our master!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #158 - Unohdettu sankari
+0x00000219 Forgotten Champion
+
+# Chatter for Act 1
+0x0000021a Oh boy, a new challenger! Four of them? Even better!
+0x0000021b I wonder what sort of challenge you four will bring us?
+0x0000021c For the God That Will Come! (No, not Zamolate NOR Saradostrich!)
+0x0000021d For my forgotten city and for my family's honour!
+0x0000021e Once I have enough funds, I shall jump into the first ship heading for Mikhos!
+
+# Inspect for Act 1
+0x0000021f Argutix: "Ah, a group of L-Surisins. Good people, but we must still be careful!"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #159 - Unohdettu palkkasoturi
+0x00000220 Forgotten Mercenary
+
+# Chatter for Act 1
+0x00000221 Oh boy, a new challenge!
+0x00000222 Taste our plasma!
+0x00000223 For the Vorozan family!
+0x00000224 For our forgotten cities and the fallen Omni-Empire!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #160 - Nihil
+0x00000225 Nihil
+
+# Chatter for Act 1
+0x00000226 . . .
+
+# Inspect for Act 1
+0x00000227 ...I am Nihil. The forgotten Darkness of the Three Staves.
+0x00000228 The Ring desires your destruction... And I shall gladly accept its request!
+0x00000229 Final warning! I am extremely powerful! If you desire to spare your own lives, leave this place now!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #161 - Baarin kovistelija
+0x0000022a Bar Toughie
+
+# Inspect for Act 1
+0x0000022b This guy and his friend don't seem to care for the bar brawl at all. Quite toughies!
+0x0000022c Hey, what a fine moment isn't it? A finer bar brawl I haven't seen in ages!
+0x0000022d Cyborcus: "What have you got in your hand over there?"
+0x0000022e Ah, this? A real Black Pass, let me tell you! You'll gain access to a special battle in the Foothills coliseum if you give this to them!
+0x0000022f ...Ah, so you want the pass for yourselves? No chance, I need to use it myself! ...Well okay, you can have it if you steal the Mafia's emergency funds for me. About three bags of sporebucks should last me long enough in the outer space. You can also have my bleur coin as a bonus, as well as keep any coins you can steal from the mafia yourselves.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #162 - Kovistelija
+0x00000230 Mafia's Bouncer
+
+# Inspect for Act 1
+0x00000231 ...I am watching you four, so you don't do anything stupid while you're here.
+0x00000232 They seem to be watching that no one tries to steal the mafia's money.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #163 - Musta passi
+0x00000233 Black Pass
+
+# Inspect for Act 1
+0x00000234 This is the Black Pass. It allows you to skip a match or gain entry to a special battle at the Foothills coliseum.
+0x00000235 The special battle in question is very hard, but the rewards are worth it: Access to a secret area, as well as a shortcut directly into the palace, bypassing the tolls entirely!
+0x00000236 It's your choice if you decide to take on this battle. Good luck!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #164 - Sinnelimafian rahasäkit
+0x00000237 Bleur Mafia Emergency Funds
+
+# Inspect for Act 1
+0x00000238 The Bleur Mafia's Emergency Funds. It would be a stupid idea to even try stealing them...
+0x00000239 ...Unless someone asked you to do it.
+0x0000023a Think twice about what you're trying to do! You will not be able to work with the mafia anymore if you do this, and the Saradist guards might also try something if they see you with these money bags!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #165 - Kovistelijan apuri
+0x0000023b Toughie's friend
+
+# Prop #166 - Siirrin - Areenat
+0x0000023c Arena Teleporter
+
+# Prop #167 - Keltainen portti
+0x0000023d Yellow Gate
+
+# Inspect for Act 1
+0x0000023e To enter the coliseum, you need to pay 1 bleur.
+0x0000023f If you win the tournament waiting inside, you can win up to 3 bleurs in total, as well as free health and energy restoration after every battle.
+0x00000240 You can escape the battles at any point, but you will forfeit your entrance fee, and be not able to return to the arena you were fighting in.
+0x00000241 So be careful so you don't lose all of your bleur coins in vain at the arena!
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #168 - Kulta-Xeno
+0x00000242 Golden Xeno
+
+# Chatter for Act 1
+0x00000243 Congratulations for finding the secret area, Bearers! Let trivial knowledge (and the shortcut to the palace) be your reward!
+
+# Inspect for Act 1
+0x00000244 Oh boy, developing this adventure took its time! And to think, Liskomato wrote an entire open-world adventure like this in FINNISH? Are they crazy?! And even the idea for this adventure took ten years of real life time to manifest into an adventure like this!
+0x00000245 The encounter with the Queen and Saradostrich has always been a part of this episode, even when this wasn't meant to be an open-world adventure originally. The open-world part came about as Lisko realized the climactic scene at the end wasn't enough to make a proper Liskomato-grade adventure to their liking, and decided to experiment about.
+0x00000246 I won't talk about the climax any further, you have to see it yourself! All I can say for now, is that your group will not be the same after.
+0x00000247 And now Liskomato would like to ask you players' feedback. What was your favourite scene? Your favourite quest? What would you like to see improved in coming adventures? That sort of stuff.
+0x00000248 It could be that Clearhum and this Bleur city will appear in coming adventures too, regardless of which canon they're part of, but I know things will certainly be different in those stories, once their time comes.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - Oikotie loppuun
+0x00000249 Shortcut to the End
+
+# Chatter for Act 1
+0x0000024a This teleporter will take you straight to Bleur Castle, without any toll payments!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #170 - Shortcut to the Secret Area
+0x0000024b Shortcut to the Secret Area
+
+# Chatter for Act 1
+0x0000024c This teleporter will take you behind Bleur Castle, to the secret area!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #171 - Hyppypatja
+0x0000024d Jump Pad
+
+# Chatter for Act 1
+0x0000024e You can use this jump pad to get anywhere in the city!
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #172 - Leili
+0x0000024f Bottle
+
+# Prop #173 - Valkoinen portti
+0x00000250 White Gate
+
+# Prop #174 - Sinnelilinna
+0x00000251 Bleur Castle
+
+# Prop #175 - Sinnelin valtaistuin
+0x00000252 Bleur Throne
+
+# Prop #176 - Soumadis VI
+0x00000253 Queen Soumadis VI
+
+# Chatter for Act 5
+0x00000254 Oh dear, a murder in the court! This I cannot abide!
+
+# Prop #177 - Saradostrutsi
+0x00000255 Saradostrich
+
+# Chatter for Act 5
+0x00000256 I'LL SHOW YOU... ALL OF YOU!
+0x00000257 I'LL SHOW YOU.... NO ONE SHALL RESIST ME!
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #178 - Hato
+0x00000258 Hato
+
+# Chatter for Act 4
+0x00000259 Oh boy, this is it!
+0x0000025a Let's be careful, okay?
+0x0000025b The ring is going absolutely crazy! Why?!
+
+# Chatter for Act 5
+0x0000025c BLEUUUU!
+0x0000025d Oh no, Bleu! NO!
+0x0000025e Bleu, NO!
+
+# Chatter for Act 6
+0x0000025f Help! <cough> I can't <wheeze> resist <cough> his might!
+
+# Chatter for Act 7
+0x00000260 Bleu, no...
+
+# Chatter for Act 8
+0x00000261 Bleu...
+0x00000262 Hato's mind is in the gutter. He is being consumed by his grief...
+
+# Prop #179 - Bleu
+0x00000263 Bleu
+
+# Chatter for Act 4
+0x00000264 Alright, let's end this game! Saradostrich! Your lies end here!
+
+# Chatter for Act 8
+0x00000265 Cyborcus: (...Rest in peace, Bleu.)~br~[Somewhere deep in Cyborcus's helmet, his eyes brim with tears.]
+
+# Prop #180 - Argutix
+0x00000266 Argutix
+
+# Chatter for Act 4
+0x00000267 Phew, we made it! I wouldn't have wanted to lose any more bleurs; Who knows if they are rarities outside the planet!
+
+# Chatter for Act 5
+0x00000268 Oh goodness me, what sort of a lunatic are we against?! Ally with me now, Cyborcus, while we still have time!
+
+# Chatter for Act 6
+0x00000269 For Bleu!
+0x0000026a Murderer! Barbarian!
+0x0000026b I will NEVER forgive you for this, Saradostrich!
+0x0000026c Let's win this fight, Cyborcus! For Bleu!
+
+# Chatter for Act 7
+0x0000026d This, too. The god was beaten but not killed! Only managed to make him vomit, but I guess that's a win regardless.
+
+# Chatter for Act 8
+0x0000026e . . .
+0x0000026f Argutix is lost in his thoughts... Perhaps because of Bleu's death...
+
+# Prop #181 - Yksi sirpalepommi
+0x00000270 Yksi sirpalepommi
+
+# Prop #182 - Yksi salama
+0x00000271 Yksi salama
+
+# Prop #183 - Tunnelma - huimaus
+0x00000272 Tunnelma - huimaus
+
+# Prop #184 - Tunnelma – pahis
+0x00000273 Tunnelma – pahis
+
+# Prop #185 - Naaras – huuto
+0x00000274 Naaras – huuto
+
+# Prop #186 - Jättiseikkailu
+0x00000275 Jättiseikkailu
+
+# Prop #187 - Saradostrutsi
+0x00000276 Saradostrich
+
+# Chatter for Act 5
+0x00000277 I'LL SHOW YOU... ALL OF YOU!
+0x00000278 I'LL SHOW YOU.... NO ONE SHALL RESIST ME!
+
+# Chatter for Act 6
+0x00000279 THE RING IS MINE, YOU KNOW!
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #188 - Bleunen portti
+0x0000027a Blue Gate
+
+# Prop #189 - Perinteinen laatikko
+0x0000027b Perinteinen laatikko
+
+# Prop #190 - Oraakkeli
+0x0000027c Oraakkeli
+
+# Prop #191 - Taikalinkki
+0x0000027d Taikalinkki
+
+# Prop #192 - Taikapylväs
+0x0000027e Taikapylväs
+
+# Prop #193 - Tunnelma – turvapaikka
+0x0000027f Tunnelma – turvapaikka
+
+# Prop #194 - Vanha luuttu
+0x00000280 Vanha luuttu
+
+# Prop #195 - Pehmus – valkoinen
+0x00000281 Pehmus – valkoinen
+
+# Prop #196 - Ilotulitus – yksi keijupaukku
+0x00000282 Ilotulitus – yksi keijupaukku
+
+# Prop #197 - Valkoinen portti
+0x00000283 Valkoinen portti
+
+# Prop #198 - Valkoinen portti
+0x00000284 Valkoinen portti
+
+# Prop #199 - Valkoinen portti
+0x00000285 Valkoinen portti
+
+# Prop #200 - Valkoinen portti
+0x00000286 Valkoinen portti
+
+# Prop #201 - Valkoinen portti
+0x00000287 Valkoinen portti
+
+# Prop #202 - Valkoinen portti
+0x00000288 Valkoinen portti
+
+# Prop #203 - Pumppubiitti
+0x00000289 Pumppubiitti
+
+# Prop #204 - Diskolattia
+0x0000028a Diskolattia
+
+# Prop #205 - Peilipallo
+0x0000028b Peilipallo
+
+# Prop #206 - Onnenlähde
+0x0000028c Lucky Spring
+
+# Chatter for Act 1
+0x0000028d "This is the Lucky Spring! Throw your bleur coin here with others, and your luck shall turn!"
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #207 - Onnensinneli
+0x0000028e Lucky Bleur coin
+
+# Chatter for Act 1
+0x0000028f 1 (lucky) bleur. Respawns 15 minutes after use.
+
+# Inspect for Act 1
+0x00000290 Cyborcus: "Look, someone's dropped their bleur coin here."~br~Hato: "We got lucky!"
+0x00000291 Bleu: "I doubt it. Someone just dropped their coin here because they had a bad aim."
+0x00000292 Argutix: "Well, finders keepers! Maybe someone else will soon drop their own coin here for our sakes!"
+0x00000293 This lucky dime worth 1 bleur will respawn at the Lucky Spring 15 minutes after it is first used.
+0x00000294 It could be useful if you run out of bleurs for some reason or another!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #208 - Kuntolaatikko
+0x00000295 Health Box
+
+# Chatter for Act 1
+0x00000296 This box contains a health restoration kit. Cost: 1 bleur
+
+# Inspect for Act 1
+0x00000297 Cyborcus: "We have to think twice, whether we should try spending our bleurs here, or for the tolls themselves."
+0x00000298 Cyborcus: "However, I don't think we have to pay for this box's contents again if we come back here later after paying now."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #209 - Energialaatikko
+0x00000299 Energy Box
+
+# Chatter for Act 1
+0x0000029a This box contains an energy restoration kit. Cost: 1 bleur
+
+# Inspect for Act 1
+0x0000029b Cyborcus: "We have to think twice, whether we should try spending our bleurs here, or for the tolls themselves."
+0x0000029c Cyborcus: "However, I don't think we have to pay for this box's contents again if we come back here later after paying now."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #210 - Tehtäväosoitin
+0x0000029d Quest Marker
+
+# Prop #211 - Areenan vara-avain
+0x0000029e Arena Spare Key
+
+# Prop #212 - Bonus - nopeus
+0x0000029f Bonus - Speed
+
+# Chatter for Act 1
+0x000002a0 Sporillium Container (Works as a speed boost)
+
+# Inspect for Act 1
+0x000002a1 Cyborcus: (Hmm, I could try "borrowing" this sporillium barrel just for a bit, so I can get some extra speed to my leg motors...)
+0x000002a2 Respawn time: 15 sec
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #213 - Church of Saradostrich
+0x000002a3 Church of Saradostrich
+
+# Prop #214 - Saradostrutsin pappi
+0x000002a4 Priest of Saradostrich
+
+# Inspect for Act 1
+0x000002a5 Praise be to Spode in the heavens! Did you perhaps come to give alms for the poor?
+0x000002a6 Cyborcus: "No. We just happened to pass by."
+0x000002a7 I see. We built this church at the Foothills in the hopes that the locals would turn to our faith, but it seems the visitor count of our church is far lower than we would've hoped.
+0x000002a8 Bleu: "Well geez! No wonder! Your whole religion is built upon–"~br~Cyborcus: "We'll just keep on going from here, come on Bleu."~br~[Bleu realizes that challenging the church here would be pointless, so you all moved on.]
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #215 - Hohtiini
+0x000002a9 Hohtiini
+
+# Prop #216 - Avainvahti
+0x000002aa Key Warden
+
+# Prop #217 - Eläinhäkki
+0x000002ab Animal Cage
+
+# Chatter for Act 1
+0x000002ac This box contains an allied creature. Price is 1 bleur.
+
+# Inspect for Act 1
+0x000002ad Cyborcus: "What's inside here?"
+0x000002ae Zoran: "Ah, that's one of our genetically modified pack animals! It's yours with only just 1 bleur!"
+0x000002af Cyborcus: "What's it capable of?"
+0x000002b0 Zoran: "It carries stuff for you, fights for you, and overall follows your every order! Real handy, I can say from personal experience!"
+0x000002b1 Bleu: "Cyborcus, I don't like enslaving animals. Let's leave it alone."~br~Cyborcus: "It goes for a good cause, but if I buy this and add it to our crew, someone has to stay behind. Is that alright?"~br~Others: "I guess so? We'll still meet up at the castle, right?"~br~Cyborcus: "But of course."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #218 - Handlerbeest
+0x000002b2 Handlerbeest
+
+# Inspect for Act 1
+0x000002b3 This is a Handlerbeest. It can carry six items in total while in your crew.
+0x000002b4 It drops all of its items when you remove it from crew, and stays passive afterwards.
+0x000002b5 If it dies, the Zoran Network Insurance will replace it for free, and bring the replacement over where you first bought it.
+0x000002b6 You can also take it to the royal palace, if you'd like. In Bleur City, however, it must share crew slots with your friends.
+0x000002b7 It's your decisions which of the Bearers has to stay behind, but regardless, they will meet with you at the palace at the end.
+
+# Inspect for Act 2
+
+# Inspect for Act 3
+
+# Inspect for Act 4
+
+# Inspect for Act 5
+
+# Inspect for Act 6
+
+# Inspect for Act 7
+
+# Inspect for Act 8
+
+# Prop #219 - Kovistelijan sinneli
+0x000002b8 Toughie's coin
+
+# Chatter for Act 1
+0x000002b9 1 bleur
+
+# Chatter for Act 2
+
+# Chatter for Act 3
+
+# Chatter for Act 4
+
+# Chatter for Act 5
+
+# Chatter for Act 6
+
+# Chatter for Act 7
+
+# Chatter for Act 8
+
+# Prop #220 - Valkoinen portti
+0x000002ba White Gate
+
+# Prop #221 - Perinteinen laatikko
+0x000002bb Perinteinen laatikko
+

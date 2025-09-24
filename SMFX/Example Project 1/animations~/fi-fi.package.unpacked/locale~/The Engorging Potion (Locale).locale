@@ -1,0 +1,2592 @@
+# Auto-generated localization file for: The Engorging Potion (Locale) (ID: 0X4BE6383C)
+# Adventure name
+0x00000001 The Engorging Potion (Locale)
+
+# Adventure description
+0x00000002 Troopa X~br~Kausi 1, Jakso 3~br~Ihanteellisen planeetan siirtokunnalla on ollut ongelmia eräiden markkinoiden jälkeen. Mene paikan päälle tutkimaan asiaa tarkemmin.~br~[Pelaaja: Troopa]
+
+# Intro text
+0x00000003 On sateinen aamupäivä. Troopa, Pesäpielus ja Troppa ovat saapuneet ihanteellisen planeetan siirtokunnalle selvittämään, mikä siellä on hätänä. He eivät tiedäkään asioiden oikeaa laitaa...
+
+# Win text
+0x00000004 Onnistuit selvittämään "Epic Colan" salaisuuden ja selvittää sen tekijä! Loistavaa! Nyt vain takaisin lippulaivalle kertomaan tästä...
+
+# Lose text
+0x00000005 Troopa ja kumppanit joutuivat Plonkun virittämään ansaan ja kuolivat. Sinun täytyy nyt aloittaa alusta.
+
+# Act 1
+0x00000006 Autio siirtokunta
+0x00000007 Jotain on pielessä... Liitä Pesäpielus ja Troppa miehistöösi ja puhu siirtokunnan johtajalle, Jasarille.
+
+# Goal 1
+
+# Goal 2
+
+# Goal 3
+0x00000008 Troppa! Minä en ole tämän takana! En varmasti!
+0x00000009 Troppa: Minkä takana et ole, Jasari?
+0x0000000a Ka-ka-kaupunkilaiset! He voivat pahoin!
+0x0000000b Se-s-s-se ei ole mitä s-s-s-sinä luulet! Tulkaa ulos, kaikki! Näyttäkää itsenne Tropalle ja muille!
+
+
+# Act 2
+0x0000000c Jättisiirtokunta!
+0x0000000d Suurin osa asukkaista on muuttunut jäteiksi! Mitä tämä tarkoittaa? Ala selvittämään asioiden oikeaa laitaa!
+
+# Goal 1
+0x0000000e Troopa: Apua! JÄTTEJÄ! ~br~*Troopa laittaa aseensa valmiiksi*
+0x0000000f Jasari: EI! He ovat niitä siirtokuntalaisia! He ovat muuttuneet jäteiksi!~br~Troopa: Miten se on sitten mahdollista?~br~Jasari: En minä vain tiedä! Epäilen, että se johtuu niistä markkinoista, mitä meillä oli viime viikolla.
+0x00000010 Troppa: Markkinat?~br~Jasari: Nii-in. Meillä oli markkinat ja sinne tuli väkeä kaikkialta galaksista esittelemään tuotteitaan.
+0x00000011 Jasari: Ehkä jättitauti johtuu yhdestä niistä tuotteista, mitä meille tuotiin. Kyselepä sitä Troopastrutsilta. Hän on meidän kirjurimme. En kuitenkaan tiedä missä hän on. Tietääkö kukaan?
+0x00000012 Öömm... Saanko minä puhua? Lastenhoitajan pitäisi tietää, missä hän on. Hän on tällä hetkellä uimarannalla hoitamassa sairaita lapsia.
+
+# Goal 2
+0x00000013 Kas, hei Troopa, Troppa ja Pesäpielus! Mikäs tuo nyt teidät tänne tänään?
+0x00000014 Pesäpielus: Tiedäthän nämä "jättiongelmat"? Me etsimme siihen ratkaisua ja luulemme, että sinä tiedät, missä Troopastrutsi tällä hetkellä on.
+0x00000015 Joo, en tiedä minäkään, missä hän on. Mutta tiedän kyllä hänen toimistonsa sijainnin. Se on tuolla niemen perukoilla, jossa on pari patsasta hänestä.
+0x00000016 Ja minun on nyt ikävä kyllä nyt pyytää teitä poistumaan. Katsos kun minun pitää hoitaa näitä poikasia! He kun kielloistani huolimatta joivat sitä outoa litkua, jota se pikku possu tyrkytti!
+0x00000017 Ja katsokaa, mitä tapahtui! He saivat vatsanväänteitä ja oksennustaudin!
+
+# Goal 3
+0x00000018 Tervetuloa mainion herra Troopastrutsin toimistolle! Mitä asiaa teillä oli?
+0x00000019 Ai haluatte tavata itse herran? Valitettavasti hän ei ole nyt paikalla.
+0x0000001a Troopa: Missä hän sitten on tällä hetkellä?
+0x0000001b Eräällä yksinäisellä saarella tutkimassa niitä silmäpuita ja niiden siemeniä. Haluatteko lautan sinne?
+0x0000001c Loistavaa! Laitan sen heti valmiiksi! Hypätkää vain kyytiin ja tuhotkaa tolppa, niin pääsette suoraan herran luokse!
+
+
+# Act 3
+0x0000001d Valtakunnan älykkäin henkilö
+0x0000001e Ota lautta ja mene sen kyydissä Troopastrutsin saarelle. Siellä sinun pitäisi saada lisää tietoa tästä "jättiepidemiasta"
+
+# Goal 1
+0x0000001f Kas, sehän on valtakuntamme sankari Troopa ja hänen ystävänsä! Mikäs tuo teidät tänne okuventtien keskelle?
+0x00000020 Troopa: Sinähän olet Troopastrutsi, eikö niin? Tarvitsisimme tilaston siitä, ketkä myivät mitäkin viime viikon markkinoilla.
+0x00000021 Ahaa, sen täytyy varmasti liittyä niihin jättitapauksiin ja lasten ruokamyrkytyksiin. Minä juuri odottelinkin labrastani analyysia heidän juomisistaan. Sen pitäisi valmistua näillä hetkillä...
+0x00000022 Nyt sen pitäisi olla valmis. Te voisitte tulla mukaani. Saisitte sen tilaston samalla.
+0x00000023 Kiva! Palataan tällä siirtimellä takaisin siirtokuntaan ja mennään minun toimistooni! Sen siirtimen pitäisi olla yksi näistä puista...
+
+# Goal 2
+
+# Goal 3
+0x00000024 Kas niin! Tässä nyt olisi kokeeni tulokset! Sen mukaan poikasille oksennustauteja aiheuttaneet ja aikuisia jätiksi suurentaneet juomat ovat yksi ja sama juoma!
+0x00000025 Sen nimi on Epic Cola ja sitä myi viime viikon markkinoilla Sméagol P. Klonkku-niminen henkilö. Tunnetko sinä hänet, Troopa?
+0x00000026 Troopa: En tunne, mutta nimessä on kyllä jotain tuttua...
+0x00000027 Jaa. Minä luulen että hän esiintyy jonain toisena, kuin mitä hän oikeasti on. Minä luulen, että sinun pitäisi pidättää hänet. Sinullahan on oikeus pidättää Okuluksen tasavallan lain nimessä.
+0x00000028 Hänellä on muuten oma mökki täällä siirtokunnassa ja Pie... MINUN tietojeni mukaan hän on nyt siellä. Mene nyt ottamaan hänet kiinni!
+
+
+# Act 4
+0x00000029 Sméagol P. Klonkku
+0x0000002a Tavoitteenasi on nyt tavoittaa Sméagol P. Klonkku. Etsi hänet ja puhu hänen kanssaan.
+
+# Goal 1
+0x0000002b Troopa: Sméagol P. Klonkku, otaksun? Sinähän olit sen Epic Colan takana, eikö niin?
+0x0000002c Nnniinnn? Kylllä.
+0x0000002d Troopa: Siinä on nyt sattunut semmoista, että se sinun "colasi" on saanut aikaan lapsille oksennustaudin ja aikuiset se on suurentanut jäteiksi. Se on nyt niin, että sinut on nyt pidätettävä.
+0x0000002e HHHAHAHAHAHAHAAA! Jjjäit sssuoraan mminunn annsaani, Trroopa!
+0x0000002f Troopa: Tuon äänen minä kyllä tunnistan! Plonkku!
+
+
+# Act 5
+0x00000030 Klonkku olikin Plonkku!
+0x00000031 Plonkku ajoi sinut ansaan! Mutta mikä se ansa on? Kysy häneltä!
+
+# Goal 1
+0x00000032 Pesäpielus: Olisi pitänyt arvata, että juuri PLONKKU, se otus, joka melkein sai meidät murskaantumaan kivivyöryyn, olisi tämän kaiken takana!
+0x00000033 Nniinn jjuuri! Jja nytte saatte kokkeeaa tuhhon!
+0x00000034 Ssannokaa terrve minnun issolle ysstävälleni, Minniiattyyrimaaillman Jätti Mmeggantulaatti!
+0x00000035 Addioos ammiigoos!
+0x00000036 Troopa: Hei, Plonkku, SEIS!
+
+
+# Act 6
+0x00000037 Galaksin suurin jätti
+0x00000038 Plonkun ansa oli suuri jätti! Sinun on päihitettävä se ja pelastaa siirtokunta!
+
+# Goal 1
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 7
+0x00000039 Voitto
+0x0000003a Kaadoit jätin! Seuraavaksi puhu Tropan kanssa. Troopastrutsilla on ehkä myös sinulle asiaa...
+
+# Goal 1
+0x0000003b Jihuu! Me voitimme!
+0x0000003c Tosin Plonkku ehti jo karkuun.
+0x0000003d Nyt kun olemme saaneet selville kuka sitä jättijuomaa teki, olisi aika keksiä vastalääke. Onkohan Troopastrutsi jo tämän asian kimpussa?
+0x0000003e Olenhan minä! Ja tuloksiakin on tullut jo!
+
+# Goal 2
+0x0000003f Terve vaan kaikille! Satuin jo keksimään vastalääkkeen jättijuomaan.
+0x00000040 Tosin tarvittavien lääkemäärien valmistukseen menee ainakin viikko.
+0x00000041 Mutta eiköhän nämä siirtokuntalaiset jaksa odottaa!
+0x00000042 Te voisitte nyt lähteä. Olette saaneet tehtävänne päätökseen ja Okuluksen Tehtäväpalvelu odottaakin jo raporttianne tästä tehtävästä. Heippa!
+0x00000043 Pesäpielus: Huh! Jukra, miten hän on noin älykäs! Olisi varmaankin kiva olla tuollainen, tuollainen... kaikkitietävä tyyppi!
+
+
+# Act 8
+0x00000044 Tehtävä suoritettu!
+0x00000045 On aika palata Troopa Cityn lippulaivalle ja kertoa Okuluksen Tehtäväpalvelulle siitä, mitä siirtokunnassa oikein tapahtui. Palaa ensin omalle aluksellesi.
+
+# Goal 1
+0x00000046 Troopa: Jukra, mikä päivä! Jättejä, niiksi tekeviä juomia, markkinat, huippuälykäs tyyppi, ihan kaikkea! IP-243 yllättää minut aina!
+0x00000047 Pesäpielus: Sanopa muuta! Mutta missä Plonkku mahtaa olla?
+0x00000048 Sillä välin eräässä Troopan aluksen ruuman syrjäisessä nurkassa...
+0x00000049 Plonkku: Hehhehheh... Lähhemmppäänää kuin lluuletkaann, Trrrooopa!
+
+
+# Prop #74 - Leikkialus
+0x0000004a Leikkialus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #75 - Heimorykelmä
+0x0000004b Heimorykelmä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #76 - Troopan avaruusalus
+0x0000004c Troopan avaruusalus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #77 - Troppa
+0x0000004d Troppa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000004e Miksi täällä on niin hiljaista?
+0x0000004f Troopa! Meidän on selvitettävä, mitä täällä on tapahtunut ja pian!
+0x00000050 Liitä minut ja Pesäpielus ensin miehistöösi ja mene sitten puhumaan tämän siirtokunnan johtajalle, Jasarille!
+0x00000051 Pian nyt!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #82 - Pesäpielus
+0x00000052 Pesäpielus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #83 - Troopatialainen pilvenpiirtäjä
+0x00000053 Troopatialainen pilvenpiirtäjä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #84 - Troopatialainen eduskuntatalo
+0x00000054 Troopatialainen eduskuntatalo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #85 - Satama – keskikokoinen varasto
+0x00000055 Satama – keskikokoinen varasto
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #86 - Sataman lyhty
+0x00000056 Sataman lyhty
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #87 - Troopati
+0x00000057 Troopati
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #88 - Talousristeilijä
+0x00000058 Talousristeilijä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #89 - Lentokala
+0x00000059 Lentokala
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #90 - Silmikkä
+0x0000005a Silmikkä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #91 - Batsula
+0x0000005b Batsula
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #92 - Rantakyltti
+0x0000005c Rantakyltti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #93 - Yleisö ulkona
+0x0000005d Yleisö ulkona
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #94 - Rantaääniä
+0x0000005e Rantaääniä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #95 - Rantapallo
+0x0000005f Rantapallo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #96 - Lastenhoitaja
+0x00000060 Lastenhoitaja
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #97 - Jasari
+0x00000061 Jasari
+
+# Chatter for Act 1
+0x00000062 Voi ei! Troppa ja muut! Pelini on niin pelattu nyt!
+0x00000063 Miten minä selitän tämän kaiken hallitukselle?
+0x00000064 Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000065 Voi ei! Troppa ja muut! Pelini on niin pelattu nyt!
+0x00000066 Miten minä selitän tämän kaiken hallitukselle?
+0x00000067 Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000068 Voi ei! Troppa ja muut! Pelini on niin pelattu nyt!
+0x00000069 Miten minä selitän tämän kaiken hallitukselle?
+0x0000006a Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000006b Voi ei! Troppa ja muut! Pelini on niin pelattu nyt!
+0x0000006c Miten minä selitän tämän kaiken hallitukselle?
+0x0000006d Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000006e Voi ei! Troppa ja muut! Pelini on niin pelattu nyt!
+0x0000006f Miten minä selitän tämän kaiken hallitukselle?
+0x00000070 Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000071 Miten minä selitän tämän kaiken hallitukselle?
+0x00000072 Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000073 Miten minä selitän tämän kaiken hallitukselle?
+0x00000074 Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000075 Miten minä selitän tämän kaiken hallitukselle?
+0x00000076 Tasavallan suurneuvosto kynii minut, jos he saavat kuulla tästä!
+
+# Inspect for Act 8
+
+# Prop #119 - Leikkialus
+0x00000077 Leikkialus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #120 - lajin Troopati poikanen
+0x00000078 lajin Troopati poikanen
+
+# Chatter for Act 1
+0x00000079 Oksettaa...
+0x0000007a Voin pahoin, täti!
+0x0000007b Ööörgh...
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000007c Oksettaa...
+0x0000007d Voin pahoin, täti!
+0x0000007e Ööörgh...
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000007f Oksettaa...
+0x00000080 Voin pahoin, täti!
+0x00000081 Ööörgh...
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000082 Oksettaa...
+0x00000083 Voin pahoin, täti!
+0x00000084 Ööörgh...
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000085 Oksettaa...
+0x00000086 Voin pahoin, täti!
+0x00000087 Ööörgh...
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000088 Oksettaa...
+0x00000089 Voin pahoin, täti!
+0x0000008a Ööörgh...
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000008b Oksettaa...
+0x0000008c Voin pahoin, täti!
+0x0000008d Ööörgh...
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000008e Oksettaa...
+0x0000008f Voin pahoin, täti!
+0x00000090 Ööörgh...
+
+# Inspect for Act 8
+
+# Prop #145 - Silmula
+0x00000091 Silmula
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #146 - Buugie
+0x00000092 Buugie
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #147 - Silmikkä
+0x00000093 Silmikkä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #148 - Sadepilvi
+0x00000094 Sadepilvi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #149 - Tunnelma - huimaus
+0x00000095 Tunnelma - huimaus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #150 - Pahasti pihalla
+0x00000096 Pahasti pihalla
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #151 - Troopastrutsi
+0x00000097 Troopastrutsi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #152 - Dictator Statue Stand
+0x00000098 Dictator Statue Stand
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #153 - Patsas
+0x00000099 Patsas
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000009a Patsas kuuluisasta Troopastrutsista.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000009b Patsas kuuluisasta Troopastrutsista.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000009c Patsas kuuluisasta Troopastrutsista.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000009d Patsas kuuluisasta Troopastrutsista.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000009e Patsas kuuluisasta Troopastrutsista.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000009f Patsas kuuluisasta Troopastrutsista.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000a0 Patsas kuuluisasta Troopastrutsista.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000a1 Patsas kuuluisasta Troopastrutsista.
+
+# Prop #162 - Virkailija
+0x000000a2 Virkailija
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #163 - Tolppa
+0x000000a3 Tolppa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #164 - Lautta
+0x000000a4 Lautta
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #165 - Pehmus – valkoinen
+0x000000a5 Pehmus – valkoinen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #166 - Okuventti
+0x000000a6 Okuventti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #167 - Silmikkä
+0x000000a7 Silmikkä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #168 - Okuventti
+0x000000a8 Okuventti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - Vanha luuttu
+0x000000a9 Vanha luuttu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #170 - Troopastrutsi
+0x000000aa Troopastrutsi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #171 - Science Lab wall
+0x000000ab Science Lab wall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #172 - Exit
+0x000000ac Exit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #173 - Science Lab alcove2
+0x000000ad Science Lab alcove2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #174 - Buttressed hallway
+0x000000ae Buttressed hallway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #175 - Emoalus – sisäkatto
+0x000000af Emoalus – sisäkatto
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #176 - Viestiääni
+0x000000b0 Viestiääni
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #177 - Tieteistunnelmaa
+0x000000b1 Tieteistunnelmaa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #178 - DNA
+0x000000b2 DNA
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #179 - Taikalinkki
+0x000000b3 Taikalinkki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #180 - Sähkölinkki
+0x000000b4 Sähkölinkki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #181 - Tulilinkki
+0x000000b5 Tulilinkki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #182 - Laboratorio
+0x000000b6 Laboratorio
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #183 - Oval Office Desk
+0x000000b7 Oval Office Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #184 - Lab Desk
+0x000000b8 Lab Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #185 - Batsula
+0x000000b9 Batsula
+
+# Chatter for Act 1
+0x000000ba Eii! Älkää käyttäkö minua kokeisiin!
+0x000000bb Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000bc Eii! Älkää käyttäkö minua kokeisiin!
+0x000000bd Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000be Eii! Älkää käyttäkö minua kokeisiin!
+0x000000bf Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c0 Eii! Älkää käyttäkö minua kokeisiin!
+0x000000c1 Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000c2 Eii! Älkää käyttäkö minua kokeisiin!
+0x000000c3 Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000c4 Eii! Älkää käyttäkö minua kokeisiin!
+0x000000c5 Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000000c6 Eii! Älkää käyttäkö minua kokeisiin!
+0x000000c7 Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000000c8 Eii! Älkää käyttäkö minua kokeisiin!
+0x000000c9 Älkää tappako minua! Minähän olen yksi teistä!
+
+# Inspect for Act 8
+
+# Prop #202 - Batsulatieteilijä
+0x000000ca Batsulatieteilijä
+
+# Chatter for Act 1
+0x000000cb Mielenkiintoista!
+0x000000cc Entä jos...
+0x000000cd Ei, tuo ei käy.
+0x000000ce Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000cf Mielenkiintoista!
+0x000000d0 Entä jos...
+0x000000d1 Ei, tuo ei käy.
+0x000000d2 Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000d3 Mielenkiintoista!
+0x000000d4 Entä jos...
+0x000000d5 Ei, tuo ei käy.
+0x000000d6 Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000d7 Mielenkiintoista!
+0x000000d8 Entä jos...
+0x000000d9 Ei, tuo ei käy.
+0x000000da Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000db Mielenkiintoista!
+0x000000dc Entä jos...
+0x000000dd Ei, tuo ei käy.
+0x000000de Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000df Mielenkiintoista!
+0x000000e0 Entä jos...
+0x000000e1 Ei, tuo ei käy.
+0x000000e2 Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000000e3 Mielenkiintoista!
+0x000000e4 Entä jos...
+0x000000e5 Ei, tuo ei käy.
+0x000000e6 Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000000e7 Mielenkiintoista!
+0x000000e8 Entä jos...
+0x000000e9 Ei, tuo ei käy.
+0x000000ea Mikäköhän on sen kokeen tulos?
+
+# Inspect for Act 8
+
+# Prop #235 - Siirrin
+0x000000eb Siirrin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #236 - Maja - tukki
+0x000000ec Maja - tukki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #237 - Sméagol P. Klonkku
+0x000000ed Sméagol P. Klonkku
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #238 - Plonkku
+0x000000ee Plonkku
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #239 - Pehmus – valkoinen
+0x000000ef Pehmus – valkoinen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #240 - Jätti Megantulaatti
+0x000000f0 Jätti Megantulaatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #241 - Pehmus – valkoinen
+0x000000f1 Pehmus – valkoinen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #242 - Yksi vesisuihku
+0x000000f2 Yksi vesisuihku
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #243 - Bonus - kunto
+0x000000f3 Bonus - kunto
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #244 - Bonus - energia
+0x000000f4 Bonus - energia
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #245 - Troopastrutsi
+0x000000f5 Troopastrutsi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+

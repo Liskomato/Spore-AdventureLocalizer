@@ -1,0 +1,5834 @@
+# Auto-generated localization file for: Conference Conspiracy (ID: 0X39C8E9A0)
+# Adventure name
+0x00000001 Conference Conspiracy
+
+# Adventure description
+0x00000002 The Grox Wars~br~Part 2~br~After discovering incriminating evidence on the Grox's weakness, Trooba and Hivehat have rushed immediately to New Domino, to the imminent Galactic Conference, where they plan to reveal this information to the rest of the galaxy...
+
+# Intro text
+0x00000003 Troopa ja Pesäpielus ovat saapuneet Uuden Dominon planeetalle, jossa on määrä pitää suurin tähtienvälinen tapahtuma: Galaktinen Konferenssi. Ensin pitää kuitenkin ilmoittautua tulliin...
+
+# Win text
+0x00000004 Troopan onnistui pitää puhe Galaktisessa Konferenssissa, ja se yhdisti galaksin kansat! Kropot eivät tule pitämään tästä...~br~Jatkuu ensi seikkailussa...
+
+# Lose text
+0x00000005 Xenon liiton onnistui hiljentää Troopa, ja kropot eivät ikinä kukistuneet. Haluatko yrittää uudestaan ja tällä kertaa lyödä salaliiton ennen kuin se tappaa Troopan?
+
+# Act 1
+0x00000006 Konferenssin pitopaikka
+0x00000007 Laskeuduitte Uuden Dominon avaruussatamaan. Puhu Troopan kanssa, minkä jälkeen ilmoittaudu rajantarkastukseen. Päästyäsi rajan läpi etsi Hotelli Argole. Tropan pitäisi olla siellä...
+
+# Goal 1
+0x00000008 Okei, me olemme nyt siis saapuneet Uuden Dominon planeetalle, missä meidän oli määrä tavata Troppa ja lippulaivan miehistö. Mutta heitä ei näy missään!
+0x00000009 Pesäpielus: Äh, etkö sinä muistanut, että tällä planeetalla on tiukat turvatoimet. Luulen, että ystävämme TCLL:lla ovat jo rajan tuolla puollen.
+0x0000000a Ai niin, niinhän se olikin! Ihmettelinkin jo, miksi meidän piti ilmoittautua planeetan lennonjohdolle. Täällä pidetään se konferenssi, missä meidän piti esittää löytämämme tiedot kropoista!
+0x0000000b Pesäpielus: Kyllä, mutta nyt mennään ilmoittautumaan rajatarkastukseen.
+0x0000000c Aivan, aivan! Johda tietä, Pesäpielus!
+
+# Goal 2
+0x0000000d Niin? Passinne, olkaa hyvät!
+0x0000000e Troopa ja Pesäpielus antavat galaktiset passinsa rajatarkastajalle. Jonkin ajan kuluttua hän antaa ne takaisin.
+0x0000000f Troopa ja Pesäpielus, oletan? Teilläkö ja valtiollanne oli varattuna puheenvuoro Galaktisessa Konferenssissa, eikö niin?
+0x00000010 Troopa: Kyllä. Miten niin?
+0x00000011 Selvä. Halusin vain varmistaa. Ystävänne odottavatkin teitä jo Hotelli Argolen edessä. Toivotan teille onnea puheeseenne! Ja olkaa varuillanne! Täällä on vaarallista sakkia liikenteessä!
+
+# Goal 3
+0x00000012 Tervehdys, Troopa! Pitkästä aikaa! Miten menee, kamut?
+0x00000013 Troopa ja Pesäpielus selittävät seikkailunsa Lavalibenillä ja mitä he löysivät sieltä. ~br~Troopa: ...ja siksi varasimme holonetistä tasavallallemme vuoron konferenssissa.
+0x00000014 Vautsi, mitä seikkailuja! Tulivuoria, kropokenraaleja ja myyttisiä kirjastoja! Tuota ei välttämättä voi uskoa heti!
+0x00000015 Muuten, minä tein kuten pyysit ja toin mukanani suurneuvoston jäsenet Makulasta. Osa heistä olisi muutenkin tullut tänne Konferenssiin, mutta pyynnöstäni kaikki tulivat.
+0x00000016 Muista puheenollen... Konferenssin aika on pian käsillä! Eri valtakuntien edustajat alkavat ilmestyä paikalle!
+
+
+# Act 2
+0x00000017 Konferenssin aika on käsillä!
+0x00000018 Aika alkaa olla kypsä Galaktiselle Konferenssille, ja muut ystäväsi Okulukselta ovat myös saapuneet paikalle! Puhu Troopa Cityn pormestarille, minkä jälkeen mene ilmoittautumaan konferenssiin.
+
+# Goal 1
+0x00000019 Siitä onkin jo aikaa, Troopa! Miten sujuu Troopa X-tehtävä... Ai niin, nyt ei ole sen aika. Kuulin Tropalta, mitä oli tapahtunut.
+0x0000001a Ja nyt käsitän, mitä se ennustajaeukko kertoi sinusta kuoriutuessasi. Sinä pitelet avainta galaksin yhdistämiseksi.
+0x0000001b  Sinun on pidettävä hyvä puhe ja esitettävä hyvät argumentit, jos haluat tehdä sen ja tuhota ne kirotut kropot! Luotan kuitenkin puhetaitoihisi, Troopa!
+0x0000001c Mutta nyt ei ole aika keskustelulle! Konferenssi odottaa! Se pidetään tuossa korkeassa rakennuksessa hotelliamme vastapäätä!
+
+# Goal 2
+0x0000001d Hei, takaisin jonon hännille siitä!
+0x0000001e Pesäpielus: Mutta emmehän me voinneet tietää, että tässä olisi jono!
+0x0000001f Joo joo, selityksiä, tekosyitä, valheita! Odottakaa vuoroanne! Aivan kuin minulla olisi jo tarpeeksi harmia rauhoitella tätä häirikköä tässä!
+0x00000020 Pesäpielus: Joo joo... Mitäs me nyt tehdään, Troopa?~br~Troopa: Ehkä kannattaisi vain odottaa. Kyllä se jono siitä tuota pikaa kutistuu.
+0x00000021 Troopa: Hei, minulla olisi idea! Sillä välin kun me muut odotamme kiltisti jonossa, sinä ja Pesäpii käytte kaupungilla tutkimassa paikkoja. Siinä voisi kulua sopivasti aikaa!
+
+# Goal 3
+
+
+# Act 3
+0x00000022 Syrjäisiä varjoja
+0x00000023 Pesäpii haluaa sinun tulemaan mukaansa varjostamaan salaperäistä kapteenia. Mene kartalla olevaan kohteeseen ja seuraa sitä.~br~VINKKI: Puhu kapteenille ensin kauempaa, ja sitten mene lähemmäksi.
+
+# Goal 1
+0x00000024 Pesäpii: Hei, Pesäpielus! Tämä on se tyyppi, josta puhuin! Eikö olekin epäilyttävän näköinen?
+0x00000025 Epäilyttävä? Minä sinulle epäilyttävät näytän! Annas kun minä...
+0x00000026 Pesäpielus: Odota! Pyydän anteeksi ystäväni käytöstä. Hänellä on tapana hypätä johtopäätöksiin. Me... taidammekin tästä jatkaakin matkaamme...
+0x00000027 Noh, se on hyvä! Jos nyt suotte anteeksi, minulla on asioita hoidettavana! Näkemiin!
+0x00000028 Pesäpielus: Pesäpii, jos haluat vakoilla jotain, älä hypi sen silmille! Mutta olet kyllä oikeassa. Mies on epäilyttävä. Mutta muistetaan nyt pitää matalaa profiilia ja seurataan häntä.
+
+# Goal 2
+0x00000029 Pesäpielus: Piiloon! Emme saa tulla nähdyiksi!~br~Sinä ja Pesäpii menette piiloon suihkulähteen taakse ja kuuntelette salaa epäilyttävää tapaamista...
+0x0000002a Aakere: Minulla on hyviä uutisia, Mestari! Troopa on saapunut tänne! Voit nyt toteuttaa suunnitelmasi!
+0x0000002b Loistavaa, hyvin tehty numero VI! Xenon liitto tulee palkitsemaan sinut ruhtinaallisesti, kunhan saamme Troopan tapettua.
+0x0000002c Pesäpii: Voi luoja! He aikovat tappaa Troopan! Mitä me teemme?~br~Pesäpielus: Pesäpii, pysy hilj...
+0x0000002d Kuka siellä? Numero VI, hoitele nuo maanvaivat!
+
+# Goal 3
+
+
+# Act 4
+0x0000002e Vaarallinen salaliitto
+0x0000002f Sait selville, että muuan Xenon liitto aikoo murhata Troopan ennen kuin hän ehtii puhua konferenssissa! Pakene heidän käsistään ja varoita ystäviäsi tästä salaliitosta!
+
+# Goal 1
+0x00000030 Pesäpielus ja Pesäpii! Missä te olette olleet? Me odotimme teitä, jotta voisimme ilmoittautua!
+0x00000031 Pesäpielus: Meidän on varoitettava teitä! Jotkut ovat suunnitelleet salaliiton Troopan murhaamiseksi! Meidän on pysäytettävä heidät!
+0x00000032 Joo joo, kuka tuommoisia satuja uskoo? Oletteko te taas juoneet itsenne huppeluksiin jossain baarissa?
+0x00000033 Pesäpielus: Mitä h...~br~Troopa: Kaupunginjohtaja, odota! Anna Pesäpieluksen selittää mitä on tapahtunut.
+0x00000034 Troopa: Pesäpielus, puhu seuraavaksi minulle. Yritä selittää tilanteesi. 
+
+# Goal 2
+0x00000035 Pesäpielus: Okei, siis Pesäpii kertoi minulle jostain salaperäisestä tyypistä, ja päätimme lähteä hänen peräänsä. Saavuimme syrjäiselle niemenkärjelle, jossa oli jokin salainen tapaaminen.
+0x00000036 Pesäpielus: Siellä oli seuraamamme anjurpa, ja pieni, paksusti pukeutunut pikkuotus. He puhuivat jostakin liitosta ja suunnitelmien toteuttamisesta. Epäilen, että se liittyy tähän kokoukseen.
+0x00000037 Uskon sinua, Pesäpielus. Tämä on vakavaa, jos joku haluaa tappaa minut vain, koska tiedän liikaa.
+0x00000038 Epäilemättä he ovat kropojen liittolaisia. He näköjään eivät pidä Lumivuon tiedoista ja haluavat mykistää kaiken tiedon heidän heikkouksistaan!
+0x00000039 Mutta en aio perääntyä! Aion pitää sen puheeni ja luotan siihen, että sinä pysäytät tämän salaliiton, Pesäpielus. Nyt pitää saattaa vain ilmoittautuminen loppuun. Puhu nyt virkailijalle. 
+
+# Goal 3
+0x0000003a Selvä. Te olette siis Okuluksen interplanetaarisen tasavallan edustajat? Ja tekö halusitte puheenvuoron Galaktiseen Konferenssiin?
+0x0000003b Troopa: Kyllä. Sen pitäisi olla varattuna.
+0x0000003c Hyvä on, katsotaanpas...... Kyllä täällä on varattuna puheenvuoro Troopan nimellä. Te olette viimeisenä, heti lajin Urgulaatti valtakunnan jälkeen, jotka olivat jonossa ennen teitä. 
+0x0000003d Te olette muuten viimeiset sisääntulijat, joten suljemme ovet, ja konferenssi voi alkaa. Johdatan teidät paikoillenne. Ja anteeksi kun huusin teille. Minulla oli huono päivä. 
+0x0000003e Virkailija johdattaa ystävämme paikoilleen konferenssisalissa. Galaktinen Konferenssi on alkanut...
+
+
+# Act 5
+0x0000003f Galaktinen Konferenssi
+0x00000040 Kuluu jonkin aikaa ennen kuin tulee Troopan vuoro puhua. Nyt on viimein hänen vuoronsa, joten seuraa tarkasti. Sinulla on tunne, että sinun pitää liittää Piesus ja Troppa miehistöösi...
+
+# Goal 1
+0x00000041 Juontaja: Ja nyt kun saimme urgulaattien ja hipsuloiden asiat hoidettua, seuraavana vuorossa ovat Okuluksen tasavalta ja sen puhemies. Ole hyvä, Troopa!
+0x00000042 Troopa: Tervehdys, galaksin väki! Minä olen Troopa, Okuluksen kansallissankari ja luomisen sauvojen hyvinkäyttäjä. Osa teistä saattaa jo tuntea minut, kun vierailin heidän kotiplaneetoillaan.
+0x00000043 Troopa: Saatatte ehkä luulla, että puhuisin valtasauvoista ja niiden käytöstä, mutta ei, minulla on paljon tärkeämpää asiaa. Tahtoisin puhua kropoista.
+0x00000044 Troopa: Olen nimittäin päässyt käsiini viime aikoina edesmenneen Eduard Lumivuon muistiinpanoihin, ja ne kertovat ties mitä kropoista. Tahtoisin esitellä ne tässä ja nyt...
+0x00000045 Yhtäkkiä sinut valtaa tunne, että jotain kamalaa on tapahtumassa. Päätät liittää Tropan ja Piesuksen miehistöösi.
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 6
+0x00000046 Pysäyttäkää salaliitto!
+0x00000047 "HÄLYTYS! Tunkeilijoita havaittu kerroksessa 2! Vartijoita pyydetään välittömästi paikalle!"~br~Näyttää siltä, että Xenon liitto on toteuttamassa suunnitelmiaan! Pysäytä heidät!
+
+# Goal 1
+0x00000048 Ei mitään syytä huoleen! Tuo oli vain rutiininomainen varashälytys! Vartijamme pitävät huolen murtovarkaista!
+0x00000049 Puhuttuaan yleisölle vartija kääntyy sinun puoleesi. Hän vaikuttaa hätääntyneeltä.
+0x0000004a Xenon liitto on täällä! Kuulimme teiltä, mitä he aikovat, mutta tarvitsemme teidän apuanne, jotta päihittäisimme heidät! Suostutteko auttamaan?
+0x0000004b Pesäpielus: Tietysti! Parhaan ystäväni henki on vaarassa, joten kyllähän meidän pitää pysäyttää tämä salaliitto!
+0x0000004c Selvä, kiitos k-kiitos! Ottakaa sitten tämä avain! Se avaa tien seuraavaan kerrokseen! Sinne päästään takaoven kautta.
+
+# Goal 2
+0x0000004d Arvasimmekin, että juuri TE tulisitte pysäyttämään meidät! Mestarilla on silmänsä kaikkialla!
+0x0000004e Pesäpielus: Odottakaa hetki! Miksi te teette näin?
+0x0000004f Aikomuksenamme on estää Troopaa tuhoamasta kropoja! Jos hän yhdistää galaksin, suuret tuhon voimat pääsevät valloilleen!
+0x00000050 Tuhlaamme liikaa aikaa vastaamalla joutaviin kysymyksiinne! Numero III! Kiirehdi niiden räjähteittesi kanssa! Meidän on pysäytettävä "silmä", ennen kuin hän saa puheensa päätökseen!
+0x00000051 Pesäpielus: Se ei kyllä onnistu! Tulkaa kaverit! Pysäytetään tämä salaliitto tähän ja nyt!
+
+# Goal 3
+
+
+# Act 7
+0x00000052 Kohtalon hetki
+0x00000053 Estit salaliittoa romahduttamasta kattoa Troopan päältä, joten he päättivät paeta! Pura heidän luomansa pommi ja palaa sitten konferenssiin. Troopa on juuri viimeistelemässä puhettaan...
+
+# Goal 1
+0x00000054 Nyt kun Xenon liitto on poissa, voit keskittyä räjähteiden purkamiseen. Jonkin ajan kuluttua saat purettua viimeisetkin räjähteiden jämät. Nyt niistä ei ole enää harmia!
+0x00000055 Pesäpii: Me voitettiin! Nyt se liitto ei kyllä enää häiritse meitä!
+0x00000056 Troppa: Sain myös puhelun kaupunginjohtajalta. Hän sanoo, että Troopa on juuri viimeistelemässä puhettaan! 
+0x00000057 Pesäpielus: No, meidän pitää sitten palata alakertaan.
+0x00000058 Piesus: Naulan kantaan. Palataan alas ja katsotaan, mitä väki tuumii Troopan puheesta!
+
+# Goal 2
+0x00000059 Hyvä on, tunnustamme tappiomme tältä erää. Mutta me tulemme vielä palaamaan, kunhan näet!
+0x0000005a Mestari on hyväksynyt tappionsa tällä kertaa. Hän tietää, ettei teitä voi enää estää tuhoamasta kropoja, ja on pannut täytäntöön varasuunnitelmansa.
+0x0000005b Sinä, herra Pesäpielus, olet hänen "Puuttuva Linkkinsä". Ilman sinun interventiotasi suunitelmamme olisivat onnistuneet.
+0x0000005c Näkemisiin vielä! Luulen, että tulet vielä anomaan apuamme kun tuhon jumalat viimein saapuvat! Adieu!
+
+# Goal 3
+0x0000005d Aah, tulitte juuri sopivaan aikaan! Olin juuri viimeistelemässä esitystäni!
+0x0000005e Siis esitykseni oli seuraava: Kropot voivat olla hyvin vahvoja, koska heillä on yli 2400 järjestelmää, mutta he eivät ole mahti tai mikään galaksin kaikkien liittoumien yhdistetyille voimille!
+0x0000005f Ajan tässä takaa sitä, että meidän kaikkien pitäisi yhdistää voimamme kropoja vastaan! Tehän ette pidä heistä, eikö niin? 
+0x00000060 Siispä unohdetaan vanhat riidat, ja raivataan tiemme kohti galaksin keskustaa! On aikakin, että koko galaksi saa sen salat selville!
+0x00000061 Troopan puhe näyttää tehneen vaikutuksen galaksin väkeen! Yksitellen jokainen liittouma päättää yhdistää voimansa toistensa ja Okuluksen kanssa!
+
+
+# Act 8
+0x00000062 Galaksi on yhdistetty!
+0x00000063 Troopan puhe teki toivotun vaikutuksen ja nyt galaksin valtakunnat ovat kaikki yhdistämässä voimansa kropoja vastaan! Puhu Troopan kanssa tästä voitosta!
+
+# Goal 1
+0x00000064 Teimme sen, Pesäpielus, me teimme sen! Me yhdistimme galaksin voimat kropoja vastaan! Mitäs muuten pidit puheestani?
+0x00000065 Pesäpielus: Noh, olihan se kiva, mutta en ehtinyt kuulla kaikkea, koska... Tiedäthän... Minun piti pysäyttää se salaliitto, ettei se tappaisi sinua.
+0x00000066 Ääh, ei se mitään! Pääasia on, että työmme täällä on tehty! Nyt voimme hyökätä kropoja vastaan täydellä voimalla!
+0x00000067 Se anjurpa, jonka väitit olevan salaliitossa mukana, näyttää olevan myös väkijoukossa, eikä hän näytä iloiselta. Menisitkö katsomaan häntä?
+
+# Goal 2
+0x00000068 Mitä, MITÄ?! Missä muut xenolaiset ovat? Pysäytettiinkö suunnitelmamme?
+0x00000069 Pesäpielus: Miten maistuu tappion karvas kalkki, Aakere? Myönnätkö nyt tappiosi?
+0x0000006a No ei kyllä maistu! Minä satun olemaan lajin Anjurpa valtakunnan pääkapteeni, ja me olemme liitossa kropojen kanssa! He eivät tule olemaan tyytyväisiä!
+0x0000006b Anarrockon kansalaisena minulla on velvollisuus julistaa teidän pikku tasavallallenne sota, ja olette varmoja, että kropot tulevat tekemään samoin!
+0x0000006c Siispä luotan vain siihen, että kropot pyyhkivät teidät galaksin kartalta. Nauttikaa pikaisesta kuolemasta, troopatiaiset!
+
+# Goal 3
+0x0000006d Olen ylpeä sinusta, Troopaseni, ja niin olisivat vanhempasi ja entiset alfat, jos he olisivat vielä elossa
+0x0000006e Mutta meidän on vielä oltava valppaana! Tällaisilla puheilla on yleensä kauaskantoisia seuraamuksia!
+0x0000006f Ensinnäkin: Me olemme kiinnittäneet kropojen huomion.~br~Toiseksi: Meidän pitää johtaa tätä juuri muodostunutta liittoutumaa kropoja vastaan. Se ei tule olemaan helppoa.
+0x00000070 Luulen, että meillä on käsissämme vielä yksi, viimeinen taistelu kropojen kanssa. Se tulee olemaan vaikein kaikista kokemistamme taisteluista! Jopa vaikeampi, kuin koko tuhoisa sota yhteensä!
+0x00000071 Siispä palataanpa aluksillemme, ja ryhdytään toimiin! Kuolema kropoille!
+
+
+# Prop #114 - Sininen portti
+0x00000072 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #115 - Sininen portti
+0x00000073 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #116 - Sininen portti
+0x00000074 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000075 Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x00000076 Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x00000077 Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000078 Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x00000079 Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x0000007a Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000007b Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x0000007c Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x0000007d Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000007e Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x0000007f Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x00000080 Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000081 Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x00000082 Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x00000083 Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000084 Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x00000085 Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x00000086 Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000087 Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x00000088 Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x00000089 Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000008a Pesäpielus: Aluksemme Explorer. Se nimettiin vähän aika sitten galaktlantilaisella nimellä, koska Troopan avaruusalus ei kelvannut nimeksi vieraskielisillä kentillä.
+0x0000008b Pesäpielus: Olen opetellut vähän galaktlantia ja oppinnut, että pesäpieluksia kutsutaan nimellä Hivehat.
+0x0000008c Pesäpielus: Se taitaa auttaa vähän, jos tarinamme joskus käännetään muille kielille...
+
+# Prop #141 - Sininen portti
+0x0000008d Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #142 - Trooba
+0x0000008e Trooba
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #143 - Kiireinen tehdas 1
+0x0000008f Kiireinen tehdas 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #144 - Sininen portti
+0x00000090 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #145 - Sininen portti
+0x00000091 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #146 - Sininen portti
+0x00000092 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #147 - Sininen portti
+0x00000093 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #148 - Valkoinen portti
+0x00000094 Valkoinen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #149 - Rajavartija
+0x00000095 Rajavartija
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000096 Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x00000097 Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000098 Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x00000099 Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000009a Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x0000009b Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000009c Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x0000009d Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000009e Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x0000009f Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000a0 Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x000000a1 Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000a2 Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x000000a3 Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000a4 Esimieheni halusi varoittaa minua jostain "Xenon liitosta", mikä tahansa se nyt onkaan...
+0x000000a5 Lienevätkö jotain kropojen infovaikuttajia. Niitä on ollut paljon liikkeellä viime aikoina.
+
+# Prop #166 - Valkoinen avain
+0x000000a6 Valkoinen avain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #167 - Rajavartija
+0x000000a7 Rajavartija
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #168 - Sininen portti
+0x000000a8 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - Troppa
+0x000000a9 Troppa
+
+# Chatter for Act 1
+0x000000aa Troopan ja Pesäpieluksen pitäisi saapua juuri näillä hetkillä... Ai, tuossahan he ovatkin!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #171 - Sininen portti
+0x000000ab Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #172 - Sininen portti
+0x000000ac Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000ad Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000ae Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000af Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000b0 Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000b1 Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000b2 Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000b3 Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000b4 Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000b5 Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000b6 Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000b7 Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000b8 Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000b9 Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000ba Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000bb Troopa: Troppa taitaa olla jo rajan toisella puolen; aluksessa ei ole ketään sisällä.
+0x000000bc Troopa: Jatketaanpas nyt matkaa, Pesäpielus.
+
+# Prop #189 - Sininen portti
+0x000000bd Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000be Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000bf Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000c0 Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000c1 Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000c2 Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000c3 Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000c4 Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000c5 Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000c6 Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000c7 Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000c8 Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000c9 Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000ca Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000cb Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000cc Troopa: Lippulaivan laskutelineet. Ihmettelen, miksi rupesit tutkimaan niitä, Pesäpielus. Meidän on mentävä sinne konferenssiin!
+0x000000cd Pesäpielus: Ai niin, niin pitikin. Sori, jäin ajatuksiini...
+
+# Prop #206 - Galaktinen Konferenssitalo
+0x000000ce Galaktinen Konferenssitalo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #207 - Konferenssikeskuksen aula
+0x000000cf Konferenssikeskuksen aula
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #208 - Hupilan majat
+0x000000d0 Hupilan majat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #209 - Hupilan torni
+0x000000d1 Hupilan torni
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #210 - Tulevaisuuden asunnot
+0x000000d2 Tulevaisuuden asunnot
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #211 - Sininen portti
+0x000000d3 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #212 - Sininen portti
+0x000000d4 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #213 - Sininen portti
+0x000000d5 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #214 - Lucausian Headquarters
+0x000000d6 Lucausian Headquarters
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #215 - Lucausian Luxury Apartments
+0x000000d7 Lucausian Luxury Apartments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #216 - Lucausian Office
+0x000000d8 Lucausian Office
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #217 - Liikenne 1
+0x000000d9 Liikenne 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #218 - Liikenne 2
+0x000000da Liikenne 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #219 - Rantaääniä
+0x000000db Rantaääniä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #220 - Hotelli Argole
+0x000000dc Hotelli Argole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000dd HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000de Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000df HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000e0 Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000e1 HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000e2 Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000e3 HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000e4 Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000e5 HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000e6 Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000e7 HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000e8 Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000e9 HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000ea Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000eb HOTELLI ARGOLE - GALAKTISEN KONFERENSSIN VIRALLINEN HOTELLI
+0x000000ec Pesäpielus: Mielenkiintoista... Asuvatkohan kaikki vieraat täällä?
+
+# Prop #237 - Kirjastokihnuri
+0x000000ed Kirjastokihnuri
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #238 - Hippula
+0x000000ee Hippula
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #239 - Nokkatavi
+0x000000ef Nokkatavi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #240 - Bourgeois neighbor
+0x000000f0 Bourgeois neighbor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #241 - Purskahtis
+0x000000f1 Purskahtis
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #242 - Kalifornia
+0x000000f2 Kalifornia
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #243 - Troopa Cityn kaupunginjohtaja
+0x000000f3 Troopa Cityn kaupunginjohtaja
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #244 - Pietolan pormestari
+0x000000f4 Pietolan pormestari
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #245 - Broono
+0x000000f5 Boonakki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #246 - Piesus
+0x000000f6 Piesus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #247 - Graxilaisten johtaja
+0x000000f7 Graxilaisten johtaja
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000f8 Tämä lämmin ilma ei tee hyvää rasvakerrokselleni...
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000f9 Tämä lämmin ilma ei tee hyvää rasvakerrokselleni...
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000fa Tämä lämmin ilma ei tee hyvää rasvakerrokselleni...
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000fb Tämä lämmin ilma ei tee hyvää rasvakerrokselleni...
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000fc Tämä lämmin ilma ei tee hyvää rasvakerrokselleni...
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000000fd Tämä lämmin ilma ei tee hyvää rasvakerrokselleni...
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000000fe Tämä lämmin ilma ei tee hyvää rasvakerrokselleni...
+
+# Inspect for Act 8
+
+# Prop #255 - Gigantolan pormestari
+0x000000ff Gigantolan pormestari
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #256 - Hivepi
+0x00000100 Hivepi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000101 Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x00000102 Pesäpielus: ......................
+0x00000103 Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x00000104 Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x00000105 Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000106 Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x00000107 Pesäpielus: ......................
+0x00000108 Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x00000109 Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x0000010a Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000010b Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x0000010c Pesäpielus: ......................
+0x0000010d Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x0000010e Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x0000010f Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000110 Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x00000111 Pesäpielus: ......................
+0x00000112 Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x00000113 Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x00000114 Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000115 Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x00000116 Pesäpielus: ......................
+0x00000117 Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x00000118 Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x00000119 Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000011a Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x0000011b Pesäpielus: ......................
+0x0000011c Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x0000011d Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x0000011e Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000011f Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x00000120 Pesäpielus: ......................
+0x00000121 Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x00000122 Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x00000123 Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000124 Tervehdys, Pesäpielus! Muistatko minut, serkkusi Pesäpiin!
+0x00000125 Pesäpielus: ......................
+0x00000126 Mitä, etkö muista minua? Etkö muista, että sinä kerran autoit minua rakkauspulmissani Okuluksella? Voi sentään...
+0x00000127 Tsekkaa Sporepediasta Troopa X-seikkailu "Pesäpielus ja rakkauden uhri", jos haluat tietää lisää Pesäpiistä ja hänen seikkailuistaan!
+0x00000128 Mutta nyt ei puhuta siitä! Halusin kertoa, että näin kaupungilla epäilyttävän näköisen tyypin! Haluan lähteä hänen peräänsä, mutta sinun täytyy ensin liittää minut miehistöösi!
+
+# Prop #297 - Knuutti Graxilainen
+0x00000129 Knuutti Graxilainen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #298 - Kooka
+0x0000012a Kooka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #299 - Urgulaattien heimopäällikkö
+0x0000012b Urgulaattien heimopäällikkö
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000012c Pian! Olemme jo myöhässä!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000012d Pian! Olemme jo myöhässä!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000012e Pian! Olemme jo myöhässä!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000012f Pian! Olemme jo myöhässä!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000130 Pian! Olemme jo myöhässä!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000131 Pian! Olemme jo myöhässä!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000132 Pian! Olemme jo myöhässä!
+
+# Inspect for Act 8
+
+# Prop #307 - Jini
+0x00000133 Jini
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #308 - Pormestari
+0x00000134 Pormestari
+
+# Chatter for Act 1
+0x00000135 Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 1
+0x00000136 Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x00000137 Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Chatter for Act 2
+0x00000138 Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 2
+0x00000139 Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x0000013a Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Chatter for Act 3
+0x0000013b Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 3
+0x0000013c Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x0000013d Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Chatter for Act 4
+0x0000013e Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 4
+0x0000013f Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x00000140 Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Chatter for Act 5
+0x00000141 Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 5
+0x00000142 Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x00000143 Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Chatter for Act 6
+0x00000144 Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 6
+0x00000145 Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x00000146 Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Chatter for Act 7
+0x00000147 Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 7
+0x00000148 Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x00000149 Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Chatter for Act 8
+0x0000014a Olen syvästi pahoillani, oi suuri päällikkö! Ei olisi kannattanut pelata sitä aulan kolikkopeliä niin myöhään illalla!
+
+# Inspect for Act 8
+0x0000014b Pesäpielus: Hän taitaa olla se pormestari, jonka kaupunki on koko ajan hipsuloiden hyökkäysten kohteena
+0x0000014c Pesäpielus: Hän tuli varmaan tänne selvittelemään välejään hipsuloiden kanssa.
+
+# Prop #333 - Kapteeni Urgus
+0x0000014d Kapteeni Urgus
+
+# Chatter for Act 1
+0x0000014e Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000014f Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000150 Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000151 Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000152 Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000153 Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000154 Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000155 Pormestari, miksi nukuit pommiin? Meidän on ehdittävä konferenssiin, jos haluamme selvittää ne riitasi hipsuloiden kanssa!
+
+# Inspect for Act 8
+
+# Prop #342 - Siirrin
+0x00000156 Siirrin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #343 - Virkailija
+0x00000157 Virkailija
+
+# Chatter for Act 1
+0x00000158 Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x00000159 Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000015a Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x0000015b Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000015c Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x0000015d Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000015e Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x0000015f Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000160 Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x00000161 Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000162 Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x00000163 Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000164 Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x00000165 Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000166 Tiedoksesi: Vasen jono on ilmoittautumisia varten. Oikea jono on vaatehuonetta varten.
+0x00000167 Rauhoittukaapas nyt hetki! Yksi kerrallaan, kukin pääsee ajallaan!
+
+# Inspect for Act 8
+
+# Prop #360 - Dwarflate
+0x00000168 Kääpiölaatti
+
+# Chatter for Act 1
+0x00000169 Haluaisin tietää, missä minun varaukseni on!
+0x0000016a Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x0000016b Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x0000016c Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 1
+0x0000016d Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Chatter for Act 2
+0x0000016e Haluaisin tietää, missä minun varaukseni on!
+0x0000016f Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x00000170 Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x00000171 Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 2
+0x00000172 Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Chatter for Act 3
+0x00000173 Haluaisin tietää, missä minun varaukseni on!
+0x00000174 Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x00000175 Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x00000176 Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 3
+0x00000177 Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Chatter for Act 4
+0x00000178 Haluaisin tietää, missä minun varaukseni on!
+0x00000179 Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x0000017a Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x0000017b Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 4
+0x0000017c Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Chatter for Act 5
+0x0000017d Haluaisin tietää, missä minun varaukseni on!
+0x0000017e Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x0000017f Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x00000180 Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 5
+0x00000181 Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Chatter for Act 6
+0x00000182 Haluaisin tietää, missä minun varaukseni on!
+0x00000183 Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x00000184 Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x00000185 Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 6
+0x00000186 Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Chatter for Act 7
+0x00000187 Haluaisin tietää, missä minun varaukseni on!
+0x00000188 Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x00000189 Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x0000018a Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 7
+0x0000018b Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Chatter for Act 8
+0x0000018c Haluaisin tietää, missä minun varaukseni on!
+0x0000018d Olipa kyllä kurja odottaa isompien otusten liiskaamana kun minun varaukseni on hävinnyt taivaan tuuliin! Vaadin hyvitystä!
+0x0000018e Teidän ideanne pistää kaikki lajit samaan jonoon on surkein idea, mitä olen koskaan tiennyt!
+0x0000018f Minulla oli kauhea tuska kiivetä tähän tiskin päälle! Niinpä kertokaa, hyvä mies, MISSÄ MINUN VARAUKSENI ON?
+
+# Inspect for Act 8
+0x00000190 Hän vaikuttaa hyvin äkäiseltä. Parasta jättää hänet rauhaan...
+
+# Prop #401 - Po-ter
+0x00000191 Paikkis
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #402 - Pääjalka
+0x00000192 Pääjalka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #403 - Kärsäsuu
+0x00000193 Kärsäsuu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #404 - Vihersyöjä
+0x00000194 Vihersyöjä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #405 - Yleisö - sisällä
+0x00000195 Yleisö - sisällä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #406 - Yökerhojatsi
+0x00000196 Yökerhojatsi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #407 - Aaveulina
+0x00000197 Aaveulina
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #408 - Sininen portti
+0x00000198 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #409 - Sininen portti
+0x00000199 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #410 - Kapteeni Aakere
+0x0000019a Kapteeni Aakere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #411 - Salaperäinen pikkuotus
+0x0000019b Salaperäinen pikkuotus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #412 - Väijytys!
+0x0000019c Väijytys!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #413 - Troopa Cityn kaupunginjohtaja
+0x0000019d Troopa Cityn kaupunginjohtaja
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #414 - Trooba
+0x0000019e Troopa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #415 - Troppa
+0x0000019f Troppa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000001a0 Mitäs nyt, Pesäpielus?
+0x000001a1 Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001a2 Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000001a3 Mitäs nyt, Pesäpielus?
+0x000001a4 Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001a5 Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000001a6 Mitäs nyt, Pesäpielus?
+0x000001a7 Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001a8 Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000001a9 Mitäs nyt, Pesäpielus?
+0x000001aa Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001ab Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000001ac Mitäs nyt, Pesäpielus?
+0x000001ad Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001ae Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000001af Mitäs nyt, Pesäpielus?
+0x000001b0 Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001b1 Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000001b2 Mitäs nyt, Pesäpielus?
+0x000001b3 Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001b4 Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000001b5 Mitäs nyt, Pesäpielus?
+0x000001b6 Pesäpielus: Ajattelin, että liittäisin sinut miehistööni. Minulla on tunne, että Xenon liitto aikoo jotain. Jotain kamalaa.
+0x000001b7 Ahaa, ymmärrän. Tee minuun vaikutus, niin hyppään mukaasi!
+
+# Prop #440 - Konferenssivartija
+0x000001b8 Konferenssivartija
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001b9 Sinäkö olet Pesäpielus? Tarvitsemme juuri apuasi. Puhu lavan luona oleville vartijoille.
+0x000001ba Ei syytä paniikkiin! Tuo oli vain murtohälytys. Joukkomme ovat tällä hetkellä hoitelemassa kaikki kutsumattomat vieraat. 
+0x000001bb Meidän on hoideltava Xenon liitto ennen kuin he pääsevät tuhoamaan maineemme!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #444 - Sininen portti
+0x000001bc Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #445 - Sininen portti
+0x000001bd Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #446 - Sininen portti
+0x000001be Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #447 - Sininen portti
+0x000001bf Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #448 - Sininen portti
+0x000001c0 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #449 - Sininen portti
+0x000001c1 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #450 - Galaksi
+0x000001c2 Galaksi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #451 - Siirrin
+0x000001c3 Siirrin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #452 - Siirrin
+0x000001c4 Siirrin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #453 - Piesus
+0x000001c5 Piesus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000001c6 Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001c7 Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001c8 Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001c9 Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001ca Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000001cb Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001cc Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001cd Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001ce Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001cf Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000001d0 Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001d1 Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001d2 Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001d3 Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001d4 Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000001d5 Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001d6 Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001d7 Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001d8 Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001d9 Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000001da Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001db Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001dc Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001dd Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001de Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000001df Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001e0 Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001e1 Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001e2 Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001e3 Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000001e4 Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001e5 Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001e6 Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001e7 Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001e8 Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000001e9 Pesäpielus: Mitäs täällä on tapahtunut juuri nyt?
+0x000001ea Mitäh, nukuitko sinä? Sitä samaa, mitä konferensseissa yleensä tapahtuu: politiikkaa, väittelyitä ynnä muuta sellaista. 
+0x000001eb Pesäpielus: Hiukan tarkemmin, kiitos. Mitä edellisillä vuoroilla tapahtui?
+0x000001ec Noh, ennen meitä urgulaatit ja hipsulat väittelivät Kumpukaupungin omistusoikeudesta, ja sitä ennen peurastrutsien edustaja Sarado puhui kropojen voimien alkuperästä. Mitäs muuta sinä halusit?
+0x000001ed Liittää minut miehistöösi? Siitä vain, tee vaikutus!
+
+# Prop #494 - Troopa
+0x000001ee Troopa
+
+# Chatter for Act 1
+0x000001ef Kuten näette..........kropot................keisari..................kropojen synty..........
+0x000001f0 Eduard Lumivuon tiedoista saa selville, että..............2400 järjestelmää..................42................pedon luku.................X...........
+0x000001f1 Jos..........galaksi...................galaksin keskustassa käyneet.............Melorsian liittouma................Haper.............Mortteli......................urgulaatit...................
+0x000001f2 Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+0x000001f3 Toivottavasti Pesäpielus hoitelee sen salaliiton pian! Minusta ei ole hyötyä kuolleena!
+
+# Inspect for Act 1
+0x000001f4 Pesäpielus: Minulla ei ole aikaa jutella Troopan kanssa. Sitä paitsi hän on tällä hetkellä liian kiireinen tullakseen mukaani.
+
+# Chatter for Act 2
+0x000001f5 Kuten näette..........kropot................keisari..................kropojen synty..........
+0x000001f6 Eduard Lumivuon tiedoista saa selville, että..............2400 järjestelmää..................42................pedon luku.................X...........
+0x000001f7 Jos..........galaksi...................galaksin keskustassa käyneet.............Melorsian liittouma................Haper.............Mortteli......................urgulaatit...................
+0x000001f8 Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+0x000001f9 Toivottavasti Pesäpielus hoitelee sen salaliiton pian! Minusta ei ole hyötyä kuolleena!
+
+# Inspect for Act 2
+0x000001fa Pesäpielus: Minulla ei ole aikaa jutella Troopan kanssa. Sitä paitsi hän on tällä hetkellä liian kiireinen tullakseen mukaani.
+
+# Chatter for Act 3
+0x000001fb Kuten näette..........kropot................keisari..................kropojen synty..........
+0x000001fc Eduard Lumivuon tiedoista saa selville, että..............2400 järjestelmää..................42................pedon luku.................X...........
+0x000001fd Jos..........galaksi...................galaksin keskustassa käyneet.............Melorsian liittouma................Haper.............Mortteli......................urgulaatit...................
+0x000001fe Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+0x000001ff Toivottavasti Pesäpielus hoitelee sen salaliiton pian! Minusta ei ole hyötyä kuolleena!
+
+# Inspect for Act 3
+0x00000200 Pesäpielus: Minulla ei ole aikaa jutella Troopan kanssa. Sitä paitsi hän on tällä hetkellä liian kiireinen tullakseen mukaani.
+
+# Chatter for Act 4
+0x00000201 Kuten näette..........kropot................keisari..................kropojen synty..........
+0x00000202 Eduard Lumivuon tiedoista saa selville, että..............2400 järjestelmää..................42................pedon luku.................X...........
+0x00000203 Jos..........galaksi...................galaksin keskustassa käyneet.............Melorsian liittouma................Haper.............Mortteli......................urgulaatit...................
+0x00000204 Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+0x00000205 Toivottavasti Pesäpielus hoitelee sen salaliiton pian! Minusta ei ole hyötyä kuolleena!
+
+# Inspect for Act 4
+0x00000206 Pesäpielus: Minulla ei ole aikaa jutella Troopan kanssa. Sitä paitsi hän on tällä hetkellä liian kiireinen tullakseen mukaani.
+
+# Chatter for Act 5
+0x00000207 Kuten näette..........kropot................keisari..................kropojen synty..........
+0x00000208 Eduard Lumivuon tiedoista saa selville, että..............2400 järjestelmää..................42................pedon luku.................X...........
+0x00000209 Jos..........galaksi...................galaksin keskustassa käyneet.............Melorsian liittouma................Haper.............Mortteli......................urgulaatit...................
+0x0000020a Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+0x0000020b Toivottavasti Pesäpielus hoitelee sen salaliiton pian! Minusta ei ole hyötyä kuolleena!
+
+# Inspect for Act 5
+0x0000020c Pesäpielus: Minulla ei ole aikaa jutella Troopan kanssa. Sitä paitsi hän on tällä hetkellä liian kiireinen tullakseen mukaani.
+
+# Chatter for Act 6
+0x0000020d Kuten näette..........kropot................keisari..................kropojen synty..........
+0x0000020e Eduard Lumivuon tiedoista saa selville, että..............2400 järjestelmää..................42................pedon luku.................X...........
+0x0000020f Jos..........galaksi...................galaksin keskustassa käyneet.............Melorsian liittouma................Haper.............Mortteli......................urgulaatit...................
+0x00000210 Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+0x00000211 Toivottavasti Pesäpielus hoitelee sen salaliiton pian! Minusta ei ole hyötyä kuolleena!
+
+# Inspect for Act 6
+0x00000212 Pesäpielus: Minulla ei ole aikaa jutella Troopan kanssa. Sitä paitsi hän on tällä hetkellä liian kiireinen tullakseen mukaani.
+
+# Chatter for Act 7
+0x00000213 Kuten näette..........kropot................keisari..................kropojen synty..........
+0x00000214 Eduard Lumivuon tiedoista saa selville, että..............2400 järjestelmää..................42................pedon luku.................X...........
+0x00000215 Jos..........galaksi...................galaksin keskustassa käyneet.............Melorsian liittouma................Haper.............Mortteli......................urgulaatit...................
+0x00000216 Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+0x00000217 Toivottavasti Pesäpielus hoitelee sen salaliiton pian! Minusta ei ole hyötyä kuolleena!
+
+# Inspect for Act 7
+0x00000218 Pesäpielus: Minulla ei ole aikaa jutella Troopan kanssa. Sitä paitsi hän on tällä hetkellä liian kiireinen tullakseen mukaani.
+
+# Chatter for Act 8
+0x00000219 Onpas tämä uuvuttavaa! Tarvitsisin lasin vettä...
+
+# Inspect for Act 8
+
+# Prop #538 - Herra Pormestari
+0x0000021a Herra Pormestari
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000021b Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000021c Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000021d Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000021e Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000021f Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000220 Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000221 Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000222 Pesäpielus: Herra Pormestari Seikkailujen kaupungista. Hän on tämän konferenssin juontaja.
+
+# Prop #547 - Pietolan pormestari
+0x00000223 Pietolan pormestari
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #548 - Tunnelma – patarumpu
+0x00000224 Tunnelma – patarumpu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #549 - Gigantolan pormestari
+0x00000225 Gigantolan pormestari
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #550 - Graxilaisten johtaja
+0x00000226 Graxilaisten johtaja
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000227 Miksi tänne tuli kauhea sekamelska? Sehän oli vain puhe! En näe siinä mitään erikoista!
+0x00000228 En ymmärrä näitä kapitalisteja. Hirveä häslinki yhdestä puheesta!
+
+# Inspect for Act 8
+
+# Prop #553 - Broono
+0x00000229 Boonakki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #554 - Kooka
+0x0000022a Kooka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #555 - Knuutti Graxilainen
+0x0000022b Knuutti Graxilainen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #556 - Konferenssin kojelauta
+0x0000022c Konferenssin kojelauta
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #557 - Urgulaattien heimopäällikkö
+0x0000022d Urgulaattien heimopäällikkö
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000022e Melorsian liittouma antaa teille tukensa siunauksellani, Okulus!
+
+# Inspect for Act 8
+
+# Prop #559 - Kapteeni Urgus
+0x0000022f Kapteeni Urgus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000230 Teitte sen, Troopa ja Pesäpielus! Liskomato oli oikeassa teidän suhteen, te olette sankareita!
+
+# Inspect for Act 8
+
+# Prop #561 - Pormestari
+0x00000231 Pormestari
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000232 Tämä on varmasti jokin hipsuloiden temppu! Hekään eivät olleet tyytyväisiä lopputulokseen!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000233 Noh, ei se mitään. Kyllähän tämäkin kelpaa. Päästään eroon niistä kropoista!
+
+# Inspect for Act 8
+
+# Prop #564 - Vihersyöjä
+0x00000234 Vihersyöjä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000235 Onko tämä joku vitsi?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000236 Kuolematon päällikkömme Outaa tahtoo antaa tukensa teille, Troopa ja Pesäpielus! Me emme välitä siitä, että tapoitte lajitoverimme Okuluksella. Kysehän oli henkiinjäämisestä!
+
+# Inspect for Act 8
+
+# Prop #567 - General Clench
+0x00000237 Kenraali Lujanyrkki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000238 On tämäkin... Toivottavasti ne varkaat saavat köniin, ja sassiin!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000239 Oli jo aikakin antaa kropoille kunnolla kuonoon!
+
+# Inspect for Act 8
+
+# Prop #570 - Redclaw
+0x0000023a Punasaksi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #571 - Representative of Troobus
+0x0000023b Troopuksen edustaja
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000023c Hurraa! Hurraa!
+
+# Inspect for Act 8
+
+# Prop #573 - Captain Troobus
+0x0000023d Kapteeni Troopus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000023e Tylsää! Jatka puhumista, Troopa!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000023f En voi uskoa, miten yksi teko voi muuttaa galaksin kohtalon! En voinutkaan ajatella Troopan olevan niin tärkeä!
+
+# Inspect for Act 8
+
+# Prop #576 - Troopaton
+0x00000240 Troopaton
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000241 Onko tämä joku kropojen temppu viivästyttääkseen Troopaa?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000242 Onneksi olkoon, Troopa! Yhdistit galaksin! Kropot eivät kyllä tule pitämään siitä. Mutta olisi pian kiintoista käydä galaksin keskustassa. Siellä voi olla ties mitä!
+
+# Inspect for Act 8
+
+# Prop #579 - Troopa
+0x00000243 Troopa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000244 Kolme hurraa-huutoa Troopalle ja Pesäpielukselle! Hip-hip-hurraa! Hip-hip-hurraa! Hip-hip-hurraa!
+
+# Inspect for Act 8
+
+# Prop #581 - Kärsäsuu
+0x00000245 Kärsäsuu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000246 Hei, miks' tääll' on hälytys?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000247 Me jäätyläläiset halutaan antaa tukemme teille, makulalaiset! Nähdään galaksin keskustassa!
+
+# Inspect for Act 8
+
+# Prop #584 - Pääjalka
+0x00000248 Pääjalka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000249 Me pääjalat haluamme antaa tukemme teille, Troopa ja Pesäpielus!
+
+# Inspect for Act 8
+
+# Prop #586 - Po-ter
+0x0000024a Paikkis
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000024b Minkähän takia täällä on hälytys?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000024c Me paikkikset annamme tukemme tasavallallenne! Johtajamme sanoo, että galaksin keskuksessa on jotain tärkeää, joten me haluamme sen!
+
+# Inspect for Act 8
+
+# Prop #589 - Dwarflate
+0x0000024d Kääpiölaatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000024e Hälytys? Pappimmehan sanoivat, että täällä tapahtuisi jotain kamalaa.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000024f Valtakuntamme Minen-4:ltä tahtoo antaa tukensa tasavallallenne! Käyttäkää sitä viisaasti!
+
+# Inspect for Act 8
+
+# Prop #592 - Yleisö
+0x00000250 Yleisö
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #593 - Kapteeni Aakere
+0x00000251 Kapteeni Aakere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000252 Hälytys! Loistavaa! Se tarkoittaa, että liittolaiseni ovat täällä!
+0x00000253 Pian liittolaiseni tuhoavat tuon säälittävän troopatin, eivätkä tämän ystävät voi sille mitään!
+0x00000254 Kunhan Troopa kuolee, niin se merkitsee palkkani nousua!
+0x00000255 Kropot tulevat olemaan hyvin tyytyväisiä, kun kuulevat Troopan kuolemasta!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #598 - Hälytys – summeri
+0x00000256 Hälytys – summeri
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #599 - Häkeltynyt yleisö
+0x00000257 Häkeltynyt yleisö
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #600 - Siirrin
+0x00000258 Siirrin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #601 - Sininen portti
+0x00000259 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #602 - Yleisö - sisällä
+0x0000025a Yleisö - sisällä
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #603 - Peruskivi
+0x0000025b Peruskivi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #604 - Valkoinen portti
+0x0000025c Valkoinen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000025d Se näyttää tarvitsevan avaimen toimiakseen.
+0x0000025e Mistäköhän semmoisen saa?
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000025f Se näyttää tarvitsevan avaimen toimiakseen.
+0x00000260 Mistäköhän semmoisen saa?
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000261 Se näyttää tarvitsevan avaimen toimiakseen.
+0x00000262 Mistäköhän semmoisen saa?
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000263 Se näyttää tarvitsevan avaimen toimiakseen.
+0x00000264 Mistäköhän semmoisen saa?
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000265 Se näyttää tarvitsevan avaimen toimiakseen.
+0x00000266 Mistäköhän semmoisen saa?
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000267 Se näyttää tarvitsevan avaimen toimiakseen.
+0x00000268 Mistäköhän semmoisen saa?
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000269 Se näyttää tarvitsevan avaimen toimiakseen.
+0x0000026a Mistäköhän semmoisen saa?
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000026b Se näyttää tarvitsevan avaimen toimiakseen.
+0x0000026c Mistäköhän semmoisen saa?
+
+# Prop #621 - Hyppypatja
+0x0000026d Hyppypatja
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #622 - Siirrin
+0x0000026e Siirrin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #623 - Peruskivi
+0x0000026f Peruskivi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #624 - Sininen portti
+0x00000270 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #625 - Sininen portti
+0x00000271 Sininen portti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #626 - Jättiseikkailu
+0x00000272 Jättiseikkailu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #627 - Xenon liittolainen VIII
+0x00000273 Xenon liittolainen VIII
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #628 - Xenon liittolainen VII
+0x00000274 Xenon liittolainen VII
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000275 Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x00000276 Jos hän tekee sen, niin niist' kahest' tulee...
+0x00000277 UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x00000278 Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000279 Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x0000027a Jos hän tekee sen, niin niist' kahest' tulee...
+0x0000027b UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x0000027c Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000027d Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x0000027e Jos hän tekee sen, niin niist' kahest' tulee...
+0x0000027f UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x00000280 Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000281 Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x00000282 Jos hän tekee sen, niin niist' kahest' tulee...
+0x00000283 UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x00000284 Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000285 Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x00000286 Jos hän tekee sen, niin niist' kahest' tulee...
+0x00000287 UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x00000288 Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000289 Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x0000028a Jos hän tekee sen, niin niist' kahest' tulee...
+0x0000028b UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x0000028c Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000028d Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x0000028e Jos hän tekee sen, niin niist' kahest' tulee...
+0x0000028f UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x00000290 Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000291 Ei millään pahalla, mut en voi antaa Troopan puhuu konferenssissa. 
+0x00000292 Jos hän tekee sen, niin niist' kahest' tulee...
+0x00000293 UPS! Unohda tuo äskeinen! Tarkoitin tuhon voimia! Niin, tuho tulee, jos Troopa puhuu!
+0x00000294 Ei olis kannattanu lipsauttaa tota! Nyt Isair kyllä tappaa mut!
+
+# Prop #661 - Xenon liittolainen V
+0x00000295 Xenon liittolainen V
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000296 Mmessstarii tahhtoo pysäyttää teidät!
+0x00000297 Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000298 Mmessstarii tahhtoo pysäyttää teidät!
+0x00000299 Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000029a Mmessstarii tahhtoo pysäyttää teidät!
+0x0000029b Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000029c Mmessstarii tahhtoo pysäyttää teidät!
+0x0000029d Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000029e Mmessstarii tahhtoo pysäyttää teidät!
+0x0000029f Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000002a0 Mmessstarii tahhtoo pysäyttää teidät!
+0x000002a1 Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000002a2 Mmessstarii tahhtoo pysäyttää teidät!
+0x000002a3 Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000002a4 Mmessstarii tahhtoo pysäyttää teidät!
+0x000002a5 Jjoss sse mminuunn tullee, teidänn lopppu on tässä!
+
+# Prop #678 - Xenon liittolainen III
+0x000002a6 Xenon liittolainen III
+
+# Chatter for Act 1
+0x000002a7 En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002a8 Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002a9 Kautta Paten, miten minä voin korjata tämän näin?
+0x000002aa En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 1
+0x000002ab SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002ac Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002ad Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002ae Pesäpielus: Siinä et kyllä onnistu!
+0x000002af Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Chatter for Act 2
+0x000002b0 En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002b1 Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002b2 Kautta Paten, miten minä voin korjata tämän näin?
+0x000002b3 En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 2
+0x000002b4 SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002b5 Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002b6 Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002b7 Pesäpielus: Siinä et kyllä onnistu!
+0x000002b8 Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Chatter for Act 3
+0x000002b9 En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002ba Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002bb Kautta Paten, miten minä voin korjata tämän näin?
+0x000002bc En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 3
+0x000002bd SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002be Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002bf Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002c0 Pesäpielus: Siinä et kyllä onnistu!
+0x000002c1 Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Chatter for Act 4
+0x000002c2 En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002c3 Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002c4 Kautta Paten, miten minä voin korjata tämän näin?
+0x000002c5 En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 4
+0x000002c6 SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002c7 Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002c8 Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002c9 Pesäpielus: Siinä et kyllä onnistu!
+0x000002ca Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Chatter for Act 5
+0x000002cb En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002cc Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002cd Kautta Paten, miten minä voin korjata tämän näin?
+0x000002ce En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 5
+0x000002cf SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002d0 Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002d1 Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002d2 Pesäpielus: Siinä et kyllä onnistu!
+0x000002d3 Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Chatter for Act 6
+0x000002d4 En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002d5 Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002d6 Kautta Paten, miten minä voin korjata tämän näin?
+0x000002d7 En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 6
+0x000002d8 SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002d9 Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002da Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002db Pesäpielus: Siinä et kyllä onnistu!
+0x000002dc Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Chatter for Act 7
+0x000002dd En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002de Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002df Kautta Paten, miten minä voin korjata tämän näin?
+0x000002e0 En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 7
+0x000002e1 SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002e2 Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002e3 Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002e4 Pesäpielus: Siinä et kyllä onnistu!
+0x000002e5 Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Chatter for Act 8
+0x000002e6 En voi sille mitään! Mestari hankki meille liian huonot räjähteet!
+0x000002e7 Yritän parhaani saada näitä räjähteitä toimimaan!
+0x000002e8 Kautta Paten, miten minä voin korjata tämän näin?
+0x000002e9 En voi taata, toimivatko räjähteet. Jos kyllä, ne räjähtävät millä hetkellä hyvänsä! Jos ei, niin miksei sitten tehdä sitä perinteistä eli tunkeudutaan saliin ja tapetaan kaikki?
+
+# Inspect for Act 8
+0x000002ea SINÄ! Senkin valejumala, minä tapan sinut!
+0x000002eb Pesäpielus: Hetkinen, tunnemmeko toisemme?
+0x000002ec Et sinä, vaan tuo sinun idioottikaverisi tuossa noin! Kun Troopa kuolee, niin seikkailuillanne ei ole enää mitään merkitystä! HAHAHAHAHAHAA!
+0x000002ed Pesäpielus: Siinä et kyllä onnistu!
+0x000002ee Pesäpielus: (Hmmm.... Hän vaikuttaa olevan vastuussa räjähteistä. Jos lyön hänet ensin, niin silloin tulen pysäyttäneeksi Xenon liiton! Kiva! Tuumasta toimeen!)
+
+# Prop #751 - Arvokas laamapatsas
+0x000002ef Arvokas laamapatsas
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #752 - Arvokas laatta
+0x000002f0 Arvokas laatta
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #753 - Arvokas kruunu
+0x000002f1 Arvokas kruunu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #754 - Arvokas paperipaino
+0x000002f2 Arvokas paperipaino
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #755 - Arvokas patsas
+0x000002f3 Arvokas patsas
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #756 - Arvokas puutarhatonttu
+0x000002f4 Arvokas puutarhatonttu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #757 - Räjähteet
+0x000002f5 Räjähteet
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000002f6 Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x000002f7 Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000002f8 Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x000002f9 Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000002fa Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x000002fb Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000002fc Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x000002fd Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000002fe Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x000002ff Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000300 Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x00000301 Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000302 Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x00000303 Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000304 Räjähteitä! Nämä ovat varmaan tarkoitettu konferenssikeskuksen katon romahtamiseksi! Jos nämä räjähtävät, niin peli on silloin pelattu!
+0x00000305 Et voi kuitenkaan tehdä niitä vaarattomiksi ihan vielä! Ensin on pysäytettävä Xenon liitto!
+
+# Prop #774 - Räjähteet
+0x00000306 Räjähteet
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #775 - Tehtaan savu
+0x00000307 Tehtaan savu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #776 - Rikkinäisiä koneita
+0x00000308 Rikkinäisiä koneita
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #777 - Savu – musta
+0x00000309 Savu – musta
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #778 - Bonus - kunto
+0x0000030a Bonus - kunto
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #779 - Bonus - energia
+0x0000030b Bonus - energia
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #780 - Pehmus – musta
+0x0000030c Pehmus – musta
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #781 - Xenon liittolainen VIII
+0x0000030d Xenon liittolainen VIII
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #782 - Se on elossa!
+0x0000030e Se on elossa!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #783 - Areena – hurraus
+0x0000030f Areena – hurraus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #784 - Valonheitin
+0x00000310 Valonheitin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #785 - Kimallekanuuna
+0x00000311 Kimallekanuuna
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #786 - Konfettia
+0x00000312 Konfettia
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #787 - Serpentiinit
+0x00000313 Serpentiinit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+

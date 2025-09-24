@@ -1,0 +1,802 @@
+# Auto-generated localization file for: Trooba at the Galactic Core (ID: 0XF1B0C1B9)
+# Author
+0x00000001 Liskomato
+
+# Adventure name
+0x00000002 Trooba at the Galactic Core
+
+# Adventure description
+0x00000003 The Grox Wars~br~Part 4~br~The Grox have been beaten, and now Trooba and his friends head down to the Galactic Core to learn of its secrets. Meeting with its resident will change our heroes' fates forever...
+
+# Adventure tags
+0x00000004 trooba,hivehat,grox wars 4,tscanon,three staves,steve,staff of life,42,earth
+
+# Intro text
+0x00000005 Voitettuaan kropojen armeijan Necrolanian planeetalla Troopa Cityn lippulaivan miehistö suuntaa kohti galaksin keskusta. Perillä sankarimme ihailevat tätä energian syntysijaa...
+
+# Win text
+0x00000006 Pesäpielus: Ja niin saavuimme maapallolle, jossa yhteiset seikkailuni Troopan kanssa tulisivat päättymään...~br~Jatkuu ensi seikkailussa...
+
+# Lose text
+0x00000007 Troopa Cityn lippulaiva tuhoutui törmäyksessä galaksin keskustan kanssa. Kannattaisiko ohjata hiukan paremmin?
+
+# Act 1
+0x00000008 Galaksin keskus
+0x00000009 Jonkin ajan matkustamisen jälkeen lippulaiva on saapunut galaksin keskustaan. Puhu Tropan kanssa, niin hän ajaa aluksen mustan aukon sisään.
+
+# Goal 1
+0x0000000a Hyvät otukset, me olemme nyt saapuneet galaksin keskipisteeseen! Tämä on ensimmäinen kerta historiassa, kun tasavaltamme alus on saavuttanut galaksin keskustan!
+0x0000000b Moni tulee muistamaan tämän hetkenä, jolloin me selvitimme elämän tarkoituksen! Nyt pitää vain mennä sisään, ja avata sen salat kuin avainterä avaa oven!
+0x0000000c Troopa: Tylsää! Mennään jo sen sisään!
+0x0000000d Hyvä on, hyvä on! Älä hoputa! Katsotaanpas, miten ohjaan sen turvallisesti...
+0x0000000e Troppa ohjaa lippulaivan supermassiivisen mustan aukon tapahtumahorisonttiin. Pian alkaa valoshow, jota he eivät ole ennen nähneet...
+
+
+# Act 2
+0x0000000f Mustan aukon ihmeet
+0x00000010 Astuttuanne galaksin keskustan sisään mahtipontinen ääni alkoi kaikua ympäri alusta! Puhu ystäviesi kanssa, niin pystyt kuulemaan sen myös! Muista tehdä tavoitteet ylhäältä alas!
+
+# Goal 1
+0x00000011 Astuttuanne mustan aukon sisään mahtipontinen ääni alkaa kaikua ympäri lippulaivaa...
+0x00000012 Tervehdys, ystävät!~br~Olette matkanneet pitkään ja voittaneet monia vaikeuksia! ~br~Matkan aikana olette tavanneet monia eriskummallisia tovereitanne. ~br~Vain harva teistä pääsee tänne asti...
+0x00000013 Anteeksi, herra ääni, mutta saanko korjata? Tarkoitat varmaan, kuinka kropot suojasivat tätä paikkaa? Me tuhosimme heidät viimeiseen muruun asti! Tie on nyt avoin kaikille tänne keskustaan!
+0x00000014 Aah, tekö siis nujersitte kieltäytyjän kätyrit? Veljieni ja itseni puolesta tahdon kiittää teitä. Te olette ansainneet merkkinne, onneksi olkoon!
+0x00000015 Eipä kestä! Jatka vain puhettasi siitä mihin jäit, jooko?
+
+# Goal 2
+0x00000016 Hmm... Missä minä olinkaan? Aivan! ~br~Olette kaikki osoittaneet sankarillisuutenne.~br~Siitä hyvästä voitte siirtyä olevaisuuden seuraavalle tasolle.
+0x00000017 Universumi on vain yksi monista. ~br~Yksi lukemattomista toisiinsa liittyvistä universumeista. ~br~Urotekosi eivät ole jääneet huomaamatta, Troopa.
+0x00000018 Niinkö? Mistä sinä tiedät sen? Kuka kertoi sinulle nimeni?
+0x00000019 Kuulet aikanaan. ~br~Kuten sanoin, multiversumi on huomannut sankaritekosi. ~br~Ne heijastuvat näihin toisiin maailmoihin, vaikuttaen siellä kuin ne olisivat osa niitä. 
+0x0000001a Aivan kuten niiden tapahtumat vaikuttavat tänne: ~br~Maailma, missä keräilijät yrittävät selviytyä kuolevassa galaksissa. ~br~Maailma, missä miekka ja sauva kohtaavat, taistellen valon puolesta. 
+
+# Goal 3
+0x0000001b Maailma, missä kaikki koostuu erilaisista kuutioista. ~br~Maailma, missä vanhimmat loivat 12 artefaktia.~br~Maailma, missä elämän ja kuoleman voimat taistelevat keskenään.~br~Kaikki nämä ovat yhtä.
+0x0000001c Nyt on teidänkin aika liittyä meihin!~br~Liittykää meihin! ~br~MUHAHAHAHAHAA!
+0x0000001d Pilailin vain. Ei tässä mitään pelottavaa ole.~br~Ei todellakaan. Luvassa ovat näet hyvät ajat.~br~Poikkeuksellisen hyvät ajat suorastaan. ~br~Jotkut saattavatkin jo kysyä...
+0x0000001e Lopeta jo pelleily! Kerro nimesi! Kuka sinä olet?
+0x0000001f Aivan. Kuka mahtaa tietää tämän kaiken ja hallitsee näitä mahtavia voimia? ~br~Se on hyvä kysymys...
+
+
+# Act 3
+0x00000020 Teuvo
+0x00000021 Tapasit galaksin keskustan asukkaan, Teuvon itsensä! Hän tahtoo puhua sinulle muodostamansa radioyhteyden kautta! Muista tehdä tavoitteet järjestyksessä ylhäältä alas!
+
+# Goal 1
+0x00000022 Tietokonetaidoillasi avaat yhteyden edessänne olevaan lentävään lautaseen. Pian sen kaiuttimista kuuluu ääntä...
+0x00000023 Olen Teuvo! ~br~Teille luovutetaan nyt voima.~br~Juuri niin: VOIMA!~br~Voima luoda ja levittää elämää, älykkyyttä ja ymmärrystä kaikkialle kosmokseen! ~br~Käyttäkää tätä voimaa viisaasti!
+0x00000024 Käyttämällä tätä voimaa meistä tulee yhtä... ~br~öh, tarkoitan, että... ~br~Ikään kuin kuvainnollisesti yhtä siis. ~br~(Teen aina tämän saman virheen! JOKA KERTA! Miksi, Teuvo, voi miksi?) 
+0x00000025 Troopa: Tuo kuulostaa epäilyttävästi luomisen sauvalta, eikö niin?
+0x00000026 *Teuvo haukkoo henkeään*~br~Te siis tiedätte elämän varjeluksista?! Miten se on mahdollista? ~br~Kertokaa kaikki, mitä tiedätte sauvoista, oi suuret tietäjät!
+
+# Goal 2
+0x00000027 Troopa ja Pesäpielus kertovat kaiken, mitä he tiesivät luomisen sauvoista ja mitä niillä oli tehty.
+0x00000028 Teuvo: Ymmärrän. Te olette siis suojanneet sauvojamme niitä väärinkäyttäviltä otuksilta, ja ne ovat valinneet teidät käyttäjiksensä.
+0x00000029 Öh... Tuota... Kehittymisen sauva valitsi ainoastaan minut, ja lisääntymisen sauvasta en tiedä, kenet se valitsi. Onko tässä jokin jippo?
+0x0000002a Hmmm... Minun täytyy varmaan tunnustaa yksi asia... ~br~Katsos kun... Me loimme nuo sauvat edistääksemme elämää ympäri galaksia, minä, Pate ja Sporix. ~br~Näköjään suunnitelmamme eivät onnistuneet.
+0x0000002b Minun pitäisi lähettää se voima teille nyt, eikö niin? Panin sen juuri tulemaan teille. Sen pitäisi saapua... Juuri nyt! Käykää ruumassanne!
+
+
+# Act 4
+0x0000002c Elämänsauva
+0x0000002d Teuvo lähetti lahjansa teille: Kolmas luomisen sauvoista, Elämänsauva! Mene hakemaan lähetys, ja palaa sitten ohjaamoon!
+
+# Goal 1
+0x0000002e Koskettaessasi Elämänsauvaa se tutkailee sinua ja näyttää valitsevan sinut käyttäjäkseen! Onneksi olkoon!
+0x0000002f Teuvo: Muista käyttää tätä voimaa viisaasti!~br~Elämänsauva valitsee käyttäjänsä tarkkaan!
+0x00000030 Troopa: Minä luulin, että Elämänsauvoja olisi useampia, jokaisella galaksin keskustassa käyneellä! Mitäs ne muut ovat?
+0x00000031 Teuvo: Ääh, ne ovat vain kopioita. Siksi ne hajoavat aina 42 käytön jälkeen. ~br~Tämä beibi on taas se ainoa ja OIKEA Elämänsauva! ~br~Se toimii tuntemallanne tavalla kuten muut luomisen sauvat.
+0x00000032 Nyt haluaisin teidän palaavan ohjaamoonne. ~br~Minulla on vielä yksi asia sanottavana ennen kuin lähden!
+
+# Goal 3
+0x00000033 Teuvo: Ai niin, vielä yksi juttu.~br~Troopa, minulla on varattuna sinulle lomaosake eräällä kauniilla planeetalla, jonkalaisia tulee vain harvoin!
+0x00000034 Ai minulleko? Kuka sen varasi?
+0x00000035 Eräs tuttavani, joka kerran kävi täällä.~br~Hänet tunnetaan maailmanvartijana, sydämettömien tappajana ja tarinoiden keksijänä. ~br~Kuulemani mukaan hän keksi kertoa teidänkin tarinanne maailmalle. 
+0x00000036 Et... et kai vaan puhu Liskomadosta? Miten sinä tunnet hänet?!
+0x00000037 Helppoa! Hän on kotoisin siltä planeetalta, johon minä myyn niitä osakkeita! ~br~Etsikää vain kolmatta kiveä auringosta!
+
+
+# Act 5
+0x00000038 Se on ohi...
+0x00000039 Kuten kaikella on aina tapana, joudut jättämään hyvästit Teuvolle, ja alatte matkata kohti "kolmatta kiveä auringosta". Keskustele Troopan ja Tropan kanssa tästä tapaamisesta. 
+
+# Goal 1
+0x0000003a Se on sitten ohi! Harmi! Olisin halunnut kysyä Teuvolta niin paljon...
+0x0000003b Pesäpielus: Mikäs muuten on tämä luomismyytti, josta Teuvo puhui? Mitä hän tarkoitti itsellään, Patella ja jollakin "Sporixilla"?
+0x0000003c Ah, en ole selittänytkään sitä vielä sinulle! Luin Lumivuon kirjasta, miten galaksi sai syntynsä, ja miten kropot liittyvät siihen! Se on tosi mielenkiintoista!
+0x0000003d Legendat sanovat, että galaksimme loi kolme jumalaa: Pate, jonka me kaikki tiedämme jo etukäteen, joka muovasi galaksimme käsillään, Teuvo, joka lisäsi elämän siemenet planeettoihin...
+0x0000003e ...ja Sporix, joka auttoi eri lajeja kehittymään runsaiksi sivilisaatioiksi. Kropot olivat tämän kolmikon ensimmäinen luomus, mutta koska he kapinoivat, Paten oli pakko kirota heidät!
+
+# Goal 2
+0x0000003f En voi uskoa vieläkään, että tapasimme Teuvon, yhden kolmesta galaksin luoneesta jumalasta! Nyt pitäisi vain löytää kolmas kivi auringosta...
+0x00000040 Pesäpielus: Minkä planeetan sinä luulet Teuvon tarkoittaneen tuolla sanonnalla, Troppa?
+0x00000041 En tiedä, mutta ainoa mahdollinen kolmas planeetta suotuisalla ympäristöllä on Maa, kolmas planeetta tähdestä nimeltä Aurinko. Ehkä se Teuvon osake on siellä! Suunnataan sinne seuraavaksi!
+0x00000042 Muutamaa päivää myöhemmin, käyttäen hiukan madonreikiä apunaan, TCLL saapuu Aurinkokuntaan.
+0x00000043 Herätys, lapsukaiset! Olemme perillä! Katsokaa ja nauttikaa näkemästänne!
+
+
+# Act 6
+0x00000044 Planeetta Maa
+0x00000045 Olette saapuneet Maan kiertoradalle. Puhu Tropan kanssa ja sitten mene vastaamaan planeetan lennonjohdolle.
+
+# Goal 1
+0x00000046 Katsokaa, miten kaunis sinivihreä marmorikuula tuo onkaan! Ja sillä on ihan samanlainen kuu kuin meillä!
+0x00000047 Eiköhän panna laskeutumissukkula valmiiksi, niin me...
+0x00000048 Hetkinen, me saamme viestin paikallisilta! Odottakaa hetki, niin kuunnellaan se!
+0x00000049 Lajin Urgulaatti valtakunta kutsuu Troopa Cityn lippulaivaa! Vastatkaa! Täällä Maan lennonjohto! Mitä asiaa teillä on tänne?
+0x0000004a Ahaa, nyt muistankin! Maa kuuluu nykyään urgulaattien valtakuntaan. Kannattaisi vastata. Menisitkö päätteen ääreen, Pesäpielus?
+
+# Goal 2
+0x0000004b Maa kutsuu TCLL:ää! Vastatkaa!
+0x0000004c Pesäpielus: Täällä Pesäpielus TCLL:ltä, kuuntelen. Me haluamme lähettää sukkulan pinnallenne.
+0x0000004d Ahaa. Liittyykö tämä mitenkään Teuvoon? Niinkö, oikeasti? Tervetuloa sitten maapallollemme, okuluslaiset! Otamme teidät ilomielin vastaan!
+0x0000004e Pesäpielus: Kiva kuulla! Näkemiin!
+0x0000004f Troppa: Hyvä, me pääsemme siis pinnalle? Loistavaa! Varakapteeni Pesäpala! Pidä huoli aluksesta sillä välin, kun me käymme Maan pinnalla!
+
+
+# Act 7
+0x00000050 Kohti Maata!
+0x00000051 On aika laskeutua Maan pinnalle! Mene Troopan avaruusalukselle aloittaaksesi matkanne sinne!
+
+
+# Prop #1 - RE-Spaceship-Ground
+0x00000052 RE-Spaceship-Ground
+
+# Prop #2 - RE-Spaceship-Wall 01
+0x00000053 RE-Spaceship-Wall 01
+
+# Prop #3 - RE-Spaceship-Wall 02
+0x00000054 RE-Spaceship-Wall 02
+
+# Prop #4 - RE-Spaceship-Wall 03
+0x00000055 RE-Spaceship-Wall 03
+
+# Prop #5 - RE-Spaceship-Wall 04
+0x00000056 RE-Spaceship-Wall 04
+
+# Prop #6 - RE-Spaceship-Wall 05
+0x00000057 RE-Spaceship-Wall 05
+
+# Prop #7 - RE-Spaceship-Wall 01 door
+0x00000058 RE-Spaceship-Wall 01 door
+
+# Prop #8 - RE-Spaceship-technic 01
+0x00000059 RE-Spaceship-technic 01
+
+# Prop #9 - Valvomon tietokone
+0x0000005a Valvomon tietokone
+
+# Prop #10 - RE-Starship-Computer02
+0x0000005b RE-Starship-Computer02
+
+# Prop #11 - RE-Starship-Computer-06
+0x0000005c RE-Starship-Computer-06
+
+# Prop #12 - Tietokone nro. 4
+0x0000005d Tietokone nro. 4
+
+# Prop #13 - RE-Starship-Computer03
+0x0000005e RE-Starship-Computer03
+
+# Prop #14 - RE-Starship-Computer 05
+0x0000005f RE-Starship-Computer 05
+
+# Prop #15 - RE-Starshi-technic 02
+0x00000060 RE-Starshi-technic 02
+
+# Prop #16 - RE-Starship-technic 04
+0x00000061 RE-Starship-technic 04
+
+# Prop #17 - Light Yellow
+0x00000062 Light Yellow
+
+# Prop #18 - RE-Spaceship-technic 04
+0x00000063 RE-Spaceship-technic 04
+
+# Prop #19 - Static 1
+0x00000064 Static 1
+
+# Prop #20 - Static 2
+0x00000065 Static 2
+
+# Prop #21 - Self Destruct
+0x00000066 Self Destruct
+
+# Prop #22 - Siirrin
+0x00000067 Siirrin
+
+# Prop #23 - RE-Starship-Corridor_lamps 01
+0x00000068 RE-Starship-Corridor_lamps 01
+
+# Prop #24 - RE-Spaceship-Corridor 01
+0x00000069 RE-Spaceship-Corridor 01
+
+# Prop #25 - RE-Starship-Captainbed 01
+0x0000006a RE-Starship-Captainbed 01
+
+# Prop #26 - RE-Spaceship-Fluchtkapsel
+0x0000006b RE-Spaceship-Fluchtkapsel
+
+# Prop #27 - RE-Spaceship-kittchen 01
+0x0000006c RE-Spaceship-kittchen 01
+
+# Prop #28 - RE-Starship-bigtable 01
+0x0000006d RE-Starship-bigtable 01
+
+# Prop #29 - RE-Spaceship-Window 01
+0x0000006e RE-Spaceship-Window 01
+
+# Prop #30 - RE-Spaceship-Wall inside 01
+0x0000006f RE-Spaceship-Wall inside 01
+
+# Prop #31 - RE-Starship-mannshaftsbetten 01
+0x00000070 RE-Starship-mannshaftsbetten 01
+
+# Prop #32 - RE-Starship-Captainquartier 01
+0x00000071 RE-Starship-Captainquartier 01
+
+# Prop #33 - RE-Starship-Bridge
+0x00000072 RE-Starship-Bridge
+
+# Prop #34 - RE-Starship-Elevator 01
+0x00000073 RE-Starship-Elevator 01
+
+# Prop #35 - RE-Spaceship-Wall 02
+0x00000074 RE-Spaceship-Wall 02
+
+# Prop #36 - RE-Spaceship-Corridor 02
+0x00000075 RE-Spaceship-Corridor 02
+
+# Prop #37 - RE-Spaceship-Room 01
+0x00000076 RE-Spaceship-Room 01
+
+# Prop #38 - RE-Spaceship-Room 02
+0x00000077 RE-Spaceship-Room 02
+
+# Prop #39 - RE-Spaceship-Room03
+0x00000078 RE-Spaceship-Room03
+
+# Prop #40 - RE-Starship-Corridor 04
+0x00000079 RE-Starship-Corridor 04
+
+# Prop #41 - RE-Starship-emptyroom 01
+0x0000007a RE-Starship-emptyroom 01
+
+# Prop #42 - RE-Spaceship-aussenmauer01
+0x0000007b RE-Spaceship-aussenmauer01
+
+# Prop #43 - RE-Spaceship-Wall 03
+0x0000007c RE-Spaceship-Wall 03
+
+# Prop #44 - RE-Spaceship-Brückendecke 01
+0x0000007d RE-Spaceship-Brückendecke 01
+
+# Prop #45 - RE-Starship-Corridor 05
+0x0000007e RE-Starship-Corridor 05
+
+# Prop #46 - RE-Starship-roompart 01
+0x0000007f RE-Starship-roompart 01
+
+# Prop #47 - White Gate
+0x00000080 White Gate
+
+# Prop #48 - Explosive Barrel
+0x00000081 Explosive Barrel
+
+# Prop #49 - Sunbeams
+0x00000082 Sunbeams
+
+# Prop #50 - RE-Spaceship-Blackwall 01
+0x00000083 RE-Spaceship-Blackwall 01
+
+# Prop #51 - Galaxy
+0x00000084 Galaxy
+
+# Prop #52 - Waterfall
+0x00000085 Waterfall
+
+# Prop #53 - RE-Starship-zaun 01
+0x00000086 RE-Starship-zaun 01
+
+# Prop #54 - RE-Starship-Hangardoor 01
+0x00000087 RE-Starship-Hangardoor 01
+
+# Prop #55 - Red Gate
+0x00000088 Red Gate
+
+# Inspect for Act 1
+0x00000089 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Piesus sanoi, että sinne pääsyyn tarvitaan salasana.
+0x0000008a Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x0000008b Pesäpielus: Tuossa näyttää lukevan jotain...
+0x0000008c Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x0000008d Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 2
+0x0000008e Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Piesus sanoi, että sinne pääsyyn tarvitaan salasana.
+0x0000008f Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x00000090 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x00000091 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x00000092 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 3
+0x00000093 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Piesus sanoi, että sinne pääsyyn tarvitaan salasana.
+0x00000094 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x00000095 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x00000096 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x00000097 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 4
+0x00000098 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Piesus sanoi, että sinne pääsyyn tarvitaan salasana.
+0x00000099 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x0000009a Pesäpielus: Tuossa näyttää lukevan jotain...
+0x0000009b Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x0000009c Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 5
+0x0000009d Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Piesus sanoi, että sinne pääsyyn tarvitaan salasana.
+0x0000009e Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x0000009f Pesäpielus: Tuossa näyttää lukevan jotain...
+0x000000a0 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x000000a1 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 6
+0x000000a2 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Piesus sanoi, että sinne pääsyyn tarvitaan salasana.
+0x000000a3 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x000000a4 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x000000a5 Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x000000a6 Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Inspect for Act 7
+0x000000a7 Pesäpielus: Tämä näyttäisi olevan se "salainen varasto". Piesus sanoi, että sinne pääsyyn tarvitaan salasana.
+0x000000a8 Pesäpielus: Tämä kuitenkin näyttää mekaaniselta ovelta. Ehkä salasana tarkoittaa myös avaimen perässä olevaa lappua.
+0x000000a9 Pesäpielus: Tuossa näyttää lukevan jotain...
+0x000000aa Kysymys: Mikä oli ensimmäinen laji, jonka Troopa ja hänen sukulaisensa tapasivat?
+0x000000ab Vastaa oikein, niin pääset sisään PSP:n varastoon. Vastaa väärin, niin PSP:n varasto lukkiutuu ikiajoiksi. Valitse vastauksesi viisaasti. Saat vain yhden mahdollisuuden.
+
+# Prop #56 - Container Square
+0x000000ac Container Square
+
+# Prop #57 - Container Long
+0x000000ad Container Long
+
+# Prop #58 - Stacked Crates
+0x000000ae Stacked Crates
+
+# Prop #59 - Wood Crate Stacks
+0x000000af Wood Crate Stacks
+
+# Prop #60 - Hex Crates Stack 2
+0x000000b0 Hex Crates Stack 2
+
+# Prop #61 - Siirrin
+0x000000b1 Siirrin
+
+# Prop #62 - RE-Starship-ladder 01
+0x000000b2 RE-Starship-ladder 01
+
+# Prop #63 - Jump Pad 
+0x000000b3 Jump Pad 
+
+# Prop #64 - Explosive Barrel
+0x000000b4 Explosive Barrel
+
+# Prop #65 - Fog White
+0x000000b5 Fog White
+
+# Prop #66 - Marquee
+0x000000b6 Marquee
+
+# Prop #67 - Troppa
+0x000000b7 Troppa
+
+# Chatter for Act 3
+0x000000b8 Edessämme oleva alus tahtoisi ottaa meihin yhteyttä. Menisitkö valvomoon, Pesäpielus?
+
+# Prop #68 - Troopan avaruusalus
+0x000000b9 Troopan avaruusalus
+
+# Prop #69 - Troppa
+0x000000ba Troppa
+
+# Prop #70 - Trooba
+0x000000bb Troopa
+
+# Inspect for Act 1
+0x000000bc Elämänsauva on tuolla noin. Mene hakemaan se!
+
+# Inspect for Act 2
+0x000000bd Elämänsauva on tuolla noin. Mene hakemaan se!
+
+# Inspect for Act 3
+0x000000be Elämänsauva on tuolla noin. Mene hakemaan se!
+
+# Inspect for Act 4
+0x000000bf Elämänsauva on tuolla noin. Mene hakemaan se!
+
+# Inspect for Act 5
+0x000000c0 Elämänsauva on tuolla noin. Mene hakemaan se!
+
+# Inspect for Act 6
+0x000000c1 Elämänsauva on tuolla noin. Mene hakemaan se!
+
+# Inspect for Act 7
+0x000000c2 Elämänsauva on tuolla noin. Mene hakemaan se!
+
+# Prop #71 - Piesus
+0x000000c3 Piesus
+
+# Prop #72 - Poof White
+0x000000c4 Poof White
+
+# Prop #73 - Pesäpielijä
+0x000000c5 Pesäpielijä
+
+# Prop #74 - Troobatit Fleet Engineer
+0x000000c6 Troopati
+
+# Prop #75 - Gigantulaatti
+0x000000c7 Gigantulaatti
+
+# Prop #76 - Nukkuva pesäpielijä
+0x000000c8 Nukkuva pesäpielijä
+
+# Chatter for Act 1
+0x000000c9 ZZZzzzzz....
+0x000000ca Krooh! Pyyh!
+
+# Inspect for Act 1
+0x000000cb Hän vaikuttaa olevan ikiunessa.
+0x000000cc Parasta olla herättämättä häntä...
+
+# Chatter for Act 2
+0x000000cd ZZZzzzzz....
+0x000000ce Krooh! Pyyh!
+
+# Inspect for Act 2
+0x000000cf Hän vaikuttaa olevan ikiunessa.
+0x000000d0 Parasta olla herättämättä häntä...
+
+# Chatter for Act 3
+0x000000d1 ZZZzzzzz....
+0x000000d2 Krooh! Pyyh!
+
+# Inspect for Act 3
+0x000000d3 Hän vaikuttaa olevan ikiunessa.
+0x000000d4 Parasta olla herättämättä häntä...
+
+# Chatter for Act 4
+0x000000d5 ZZZzzzzz....
+0x000000d6 Krooh! Pyyh!
+
+# Inspect for Act 4
+0x000000d7 Hän vaikuttaa olevan ikiunessa.
+0x000000d8 Parasta olla herättämättä häntä...
+
+# Chatter for Act 5
+0x000000d9 ZZZzzzzz....
+0x000000da Krooh! Pyyh!
+
+# Inspect for Act 5
+0x000000db Hän vaikuttaa olevan ikiunessa.
+0x000000dc Parasta olla herättämättä häntä...
+
+# Chatter for Act 6
+0x000000dd ZZZzzzzz....
+0x000000de Krooh! Pyyh!
+
+# Inspect for Act 6
+0x000000df Hän vaikuttaa olevan ikiunessa.
+0x000000e0 Parasta olla herättämättä häntä...
+
+# Chatter for Act 7
+0x000000e1 ZZZzzzzz....
+0x000000e2 Krooh! Pyyh!
+
+# Inspect for Act 7
+0x000000e3 Hän vaikuttaa olevan ikiunessa.
+0x000000e4 Parasta olla herättämättä häntä...
+
+# Prop #77 - Glitter Sphere
+0x000000e5 Glitter Sphere
+
+# Prop #78 - Poof White
+0x000000e6 Poof White
+
+# Prop #79 - Poof White
+0x000000e7 Poof White
+
+# Prop #80 - Poof White
+0x000000e8 Poof White
+
+# Prop #81 - Johtava mekaanikko
+0x000000e9 Johtava mekaanikko
+
+# Prop #82 - Power Generator
+0x000000ea Power Generator
+
+# Prop #83 - Poof White
+0x000000eb Poof White
+
+# Prop #84 - Trooba
+0x000000ec Troopa
+
+# Inspect for Act 1
+0x000000ed Katso nyt tuota, Pesäpielus! Eikö olekin kaunista?
+0x000000ee Pesäpielus: Joo, ehkä...
+0x000000ef Kohta me näemme sen kokonaan, jee!
+0x000000f0 Pesäpielus: Näytät olevan aika innoissasi tästä, eikö niin?
+0x000000f1 Kyllä! Tätä ennen vain harvat valitut ovat päässeet galaksin keskustaan ja palanneet kertomaan siitä! Eikö olekin jännää?
+
+# Inspect for Act 2
+0x000000f2 Katso nyt tuota, Pesäpielus! Eikö olekin kaunista?
+0x000000f3 Pesäpielus: Joo, ehkä...
+0x000000f4 Kohta me näemme sen kokonaan, jee!
+0x000000f5 Pesäpielus: Näytät olevan aika innoissasi tästä, eikö niin?
+0x000000f6 Kyllä! Tätä ennen vain harvat valitut ovat päässeet galaksin keskustaan ja palanneet kertomaan siitä! Eikö olekin jännää?
+
+# Inspect for Act 3
+0x000000f7 Katso nyt tuota, Pesäpielus! Eikö olekin kaunista?
+0x000000f8 Pesäpielus: Joo, ehkä...
+0x000000f9 Kohta me näemme sen kokonaan, jee!
+0x000000fa Pesäpielus: Näytät olevan aika innoissasi tästä, eikö niin?
+0x000000fb Kyllä! Tätä ennen vain harvat valitut ovat päässeet galaksin keskustaan ja palanneet kertomaan siitä! Eikö olekin jännää?
+
+# Inspect for Act 4
+0x000000fc Katso nyt tuota, Pesäpielus! Eikö olekin kaunista?
+0x000000fd Pesäpielus: Joo, ehkä...
+0x000000fe Kohta me näemme sen kokonaan, jee!
+0x000000ff Pesäpielus: Näytät olevan aika innoissasi tästä, eikö niin?
+0x00000100 Kyllä! Tätä ennen vain harvat valitut ovat päässeet galaksin keskustaan ja palanneet kertomaan siitä! Eikö olekin jännää?
+
+# Inspect for Act 5
+0x00000101 Katso nyt tuota, Pesäpielus! Eikö olekin kaunista?
+0x00000102 Pesäpielus: Joo, ehkä...
+0x00000103 Kohta me näemme sen kokonaan, jee!
+0x00000104 Pesäpielus: Näytät olevan aika innoissasi tästä, eikö niin?
+0x00000105 Kyllä! Tätä ennen vain harvat valitut ovat päässeet galaksin keskustaan ja palanneet kertomaan siitä! Eikö olekin jännää?
+
+# Inspect for Act 6
+0x00000106 Katso nyt tuota, Pesäpielus! Eikö olekin kaunista?
+0x00000107 Pesäpielus: Joo, ehkä...
+0x00000108 Kohta me näemme sen kokonaan, jee!
+0x00000109 Pesäpielus: Näytät olevan aika innoissasi tästä, eikö niin?
+0x0000010a Kyllä! Tätä ennen vain harvat valitut ovat päässeet galaksin keskustaan ja palanneet kertomaan siitä! Eikö olekin jännää?
+
+# Inspect for Act 7
+0x0000010b Katso nyt tuota, Pesäpielus! Eikö olekin kaunista?
+0x0000010c Pesäpielus: Joo, ehkä...
+0x0000010d Kohta me näemme sen kokonaan, jee!
+0x0000010e Pesäpielus: Näytät olevan aika innoissasi tästä, eikö niin?
+0x0000010f Kyllä! Tätä ennen vain harvat valitut ovat päässeet galaksin keskustaan ja palanneet kertomaan siitä! Eikö olekin jännää?
+
+# Prop #85 - Piesus
+0x00000110 Piesus
+
+# Prop #86 - Krookusten kartta
+0x00000111 Krookusten kartta
+
+# Inspect for Act 1
+0x00000112 Makulan aurinkokunta
+0x00000113 Kartan laativat karun planeetan Krookukset.
+
+# Inspect for Act 2
+0x00000114 Makulan aurinkokunta
+0x00000115 Kartan laativat karun planeetan Krookukset.
+
+# Inspect for Act 3
+0x00000116 Makulan aurinkokunta
+0x00000117 Kartan laativat karun planeetan Krookukset.
+
+# Inspect for Act 4
+0x00000118 Makulan aurinkokunta
+0x00000119 Kartan laativat karun planeetan Krookukset.
+
+# Inspect for Act 5
+0x0000011a Makulan aurinkokunta
+0x0000011b Kartan laativat karun planeetan Krookukset.
+
+# Inspect for Act 6
+0x0000011c Makulan aurinkokunta
+0x0000011d Kartan laativat karun planeetan Krookukset.
+
+# Inspect for Act 7
+0x0000011e Makulan aurinkokunta
+0x0000011f Kartan laativat karun planeetan Krookukset.
+
+# Prop #87 - Maa
+0x00000120 Maa
+
+# Prop #88 - Troobatit Fleet Engineer
+0x00000121 Troopati
+
+# Chatter for Act 7
+0x00000122 Kiva päästä tutkimaan Maan pintaa!
+0x00000123 Mitäköhän me löydämme Maasta?
+0x00000124 Tuskin maltan odottaan, että pääsemme Maahan!
+
+# Prop #89 - Pesäpielijä
+0x00000125 Pesäpielijä
+
+# Prop #90 - Trooba
+0x00000126 Troopa
+
+# Prop #91 - Troopa
+0x00000127 Troopa
+
+# Prop #92 - Kooka
+0x00000128 Kooka
+
+# Prop #93 - Deerstrich
+0x00000129 Peurastrutsi
+
+# Prop #94 - Graxilainen
+0x0000012a Graxilainen
+
+# Chatter for Act 1
+0x0000012b Haluaisin tietää, miten kaikki täällä toimii.
+0x0000012c Saanko seurata työtäsi, toveri?
+
+# Chatter for Act 2
+0x0000012d Haluaisin tietää, miten kaikki täällä toimii.
+0x0000012e Saanko seurata työtäsi, toveri?
+
+# Chatter for Act 3
+0x0000012f Haluaisin tietää, miten kaikki täällä toimii.
+0x00000130 Saanko seurata työtäsi, toveri?
+
+# Chatter for Act 4
+0x00000131 Haluaisin tietää, miten kaikki täällä toimii.
+0x00000132 Saanko seurata työtäsi, toveri?
+
+# Chatter for Act 5
+0x00000133 Haluaisin tietää, miten kaikki täällä toimii.
+0x00000134 Saanko seurata työtäsi, toveri?
+
+# Chatter for Act 6
+0x00000135 Haluaisin tietää, miten kaikki täällä toimii.
+0x00000136 Saanko seurata työtäsi, toveri?
+
+# Chatter for Act 7
+0x00000137 Haluaisin tietää, miten kaikki täällä toimii.
+0x00000138 Saanko seurata työtäsi, toveri?
+
+# Prop #95 - Päätettä valvova silmikkä
+0x00000139 Päätettä valvova silmikkä
+
+# Prop #96 - Maa
+0x0000013a Maa
+
+# Prop #97 - Troopaton
+0x0000013b Troopaton
+
+# Inspect for Act 1
+0x0000013c Älä säikähdä, olen täällä vain vieraana.
+0x0000013d Halusin nähdä galaksin keskustan omin silmin teidän kanssanne, en liittolaisena, vaan ystävänä.
+0x0000013e Olemme kulkeneet pitkän matkan, ja kohta olemme perillä! En ollut ajatellut, että sivilisaatio näkisi galaksin keskustan ihmeet elämäni aikana!
+
+# Inspect for Act 2
+0x0000013f Älä säikähdä, olen täällä vain vieraana.
+0x00000140 Halusin nähdä galaksin keskustan omin silmin teidän kanssanne, en liittolaisena, vaan ystävänä.
+0x00000141 Olemme kulkeneet pitkän matkan, ja kohta olemme perillä! En ollut ajatellut, että sivilisaatio näkisi galaksin keskustan ihmeet elämäni aikana!
+
+# Inspect for Act 3
+0x00000142 Älä säikähdä, olen täällä vain vieraana.
+0x00000143 Halusin nähdä galaksin keskustan omin silmin teidän kanssanne, en liittolaisena, vaan ystävänä.
+0x00000144 Olemme kulkeneet pitkän matkan, ja kohta olemme perillä! En ollut ajatellut, että sivilisaatio näkisi galaksin keskustan ihmeet elämäni aikana!
+
+# Inspect for Act 4
+0x00000145 Älä säikähdä, olen täällä vain vieraana.
+0x00000146 Halusin nähdä galaksin keskustan omin silmin teidän kanssanne, en liittolaisena, vaan ystävänä.
+0x00000147 Olemme kulkeneet pitkän matkan, ja kohta olemme perillä! En ollut ajatellut, että sivilisaatio näkisi galaksin keskustan ihmeet elämäni aikana!
+
+# Inspect for Act 5
+0x00000148 Älä säikähdä, olen täällä vain vieraana.
+0x00000149 Halusin nähdä galaksin keskustan omin silmin teidän kanssanne, en liittolaisena, vaan ystävänä.
+0x0000014a Olemme kulkeneet pitkän matkan, ja kohta olemme perillä! En ollut ajatellut, että sivilisaatio näkisi galaksin keskustan ihmeet elämäni aikana!
+
+# Inspect for Act 6
+0x0000014b Älä säikähdä, olen täällä vain vieraana.
+0x0000014c Halusin nähdä galaksin keskustan omin silmin teidän kanssanne, en liittolaisena, vaan ystävänä.
+0x0000014d Olemme kulkeneet pitkän matkan, ja kohta olemme perillä! En ollut ajatellut, että sivilisaatio näkisi galaksin keskustan ihmeet elämäni aikana!
+
+# Inspect for Act 7
+0x0000014e Älä säikähdä, olen täällä vain vieraana.
+0x0000014f Halusin nähdä galaksin keskustan omin silmin teidän kanssanne, en liittolaisena, vaan ystävänä.
+0x00000150 Olemme kulkeneet pitkän matkan, ja kohta olemme perillä! En ollut ajatellut, että sivilisaatio näkisi galaksin keskustan ihmeet elämäni aikana!
+
+# Prop #98 - Piesus
+0x00000151 Piesus
+
+# Prop #99 - Troppa
+0x00000152 Troppa
+
+# Prop #100 - Rockabilly
+0x00000153 Rockabilly
+
+# Prop #101 - RE-Spaceship-Teleport
+0x00000154 RE-Spaceship-Teleport
+
+# Prop #102 - Water Blast Once
+0x00000155 Water Blast Once
+
+# Prop #103 - PSPn logo
+0x00000156 PSPn logo
+
+# Prop #104 - Teleporter
+0x00000157 Teleporter
+
+# Prop #105 - Tools
+0x00000158 Tools
+
+# Prop #106 - Tarvikelaatikko
+0x00000159 Tarvikelaatikko
+
+# Prop #107 - Sting Ever After
+0x0000015a Sting Ever After
+
+# Prop #108 - Kassakaapin ovi
+0x0000015b Kassakaapin ovi
+
+# Prop #109 - Sting Inspiring
+0x0000015c Sting Inspiring
+
+# Prop #110 - The Show
+0x0000015d The Show
+
+# Prop #111 - Echoes Underwater
+0x0000015e Echoes Underwater
+
+# Prop #112 - Teuvo
+0x0000015f Teuvo
+
+# Prop #113 - Black Hole
+0x00000160 Black Hole
+
+# Prop #114 - Spotlight Pink
+0x00000161 Spotlight Pink
+
+# Prop #115 - Blue Gate
+0x00000162 Blue Gate
+
+# Prop #116 - Teuvo
+0x00000163 Teuvo
+
+# Prop #117 - Spotlight Pink
+0x00000164 Spotlight Pink
+
+# Prop #118 - Magic Link
+0x00000165 Magic Link
+
+# Prop #119 - Evil Whispers
+0x00000166 Evil Whispers
+
+# Prop #120 - Fog Magic
+0x00000167 Fog Magic
+
+# Prop #121 - Elämänsauva
+0x00000168 Elämänsauva
+
+# Inspect for Act 1
+0x00000169 Pesäpielus: Eiköhän ole aika ottaa tämä syliini! Tule isin luo!
+
+# Inspect for Act 2
+0x0000016a Pesäpielus: Eiköhän ole aika ottaa tämä syliini! Tule isin luo!
+
+# Inspect for Act 3
+0x0000016b Pesäpielus: Eiköhän ole aika ottaa tämä syliini! Tule isin luo!
+
+# Inspect for Act 4
+0x0000016c Pesäpielus: Eiköhän ole aika ottaa tämä syliini! Tule isin luo!
+
+# Inspect for Act 5
+0x0000016d Pesäpielus: Eiköhän ole aika ottaa tämä syliini! Tule isin luo!
+
+# Inspect for Act 6
+0x0000016e Pesäpielus: Eiköhän ole aika ottaa tämä syliini! Tule isin luo!
+
+# Inspect for Act 7
+0x0000016f Pesäpielus: Eiköhän ole aika ottaa tämä syliini! Tule isin luo!
+
+# Prop #122 - Evil Whispers
+0x00000170 Evil Whispers
+

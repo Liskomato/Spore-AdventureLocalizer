@@ -1,0 +1,5834 @@
+# Auto-generated localization file for: Conference Conspiracy (ID: 0X39C8E9A0)
+# Adventure name
+0x00000001 Conference Conspiracy
+
+# Adventure description
+0x00000002 The Grox Wars~br~Part 2~br~After discovering incriminating evidence on the Grox's weakness, Trooba and Hivehat have rushed immediately to New Domino, to the imminent Galactic Conference, where they plan to reveal this information to the rest of the galaxy...
+
+# Intro text
+0x00000003 Trooba and Hivehat have arrived at New Domino, and the island serving as the hub for the Galactic Conference, the highest interstellar meeting in the whole galaxy. They are about to head over to border control now...
+
+# Win text
+0x00000004 Trooba's speech at the Conference was a great success - It united the whole galaxy! The Grox will not like this one bit...~br~To be continued...
+
+# Lose text
+0x00000005 Xeno's Covenant managed to silence Trooba, and the Grox were never defeated. Do you want to try again?
+
+# Act 1
+0x00000006 The Conference Island
+0x00000007 You have arrived at the Conference Spaceport. Speak with Trooba, after which head over to the customs officer.~br~~br~ After you've dealt with your paperwork, head over to Hotel Argole to meet with Trobba and the others.
+
+# Goal 1
+0x00000008 Okay, so we've arrived to the Conference island, but I can't see Trobba or the others anywhere. I can see the TCFS shuttle, but no crew in sight!
+0x00000009 Hivehat (you): "Ugh, have you already forgotten that we've yet to pass customs? This planet has very tight security, you know. I think our friends have already passed the border and are already waiting for us over at Hotel Argole, where we were supposed to meet anyway."
+0x0000000a Oh yeah, that was it! Forgive me, Hivehat, but I can't contain my excitement about Snowhut's notes, and what sort of ramifications they could really have! We could change history, no, the current status quo completely!
+0x0000000b Hivehat: "Yes, obviously we will. It's just dependent on how good you're at talking. Which I know you will be, otherwise we wouldn't be here. But now let's get that border control done and dealt with."
+0x0000000c Right, right! Lead the way, Hivehat!
+
+# Goal 2
+0x0000000d Your passports and other travel documents, please!
+0x0000000e Trooba and Hivehat go through the customs by first giving their galactic passports, declaring their ship and goods, and then stating their purpose of visit: The Conference
+0x0000000f Trooba and Hivehat, I presume? Captain Urgus of the Melorsian Alliance wanted to leave two messages for you. First, your friends are waiting for you at hotel Argole, found opposite of the conference building on the main plaza. 
+0x00000010 Troopa: "Good to have confirmation! What is the second message he sent?"
+0x00000011 A warning. There may or may not be a conspiracy against you. The Grox have their eyes everywhere, even inside our own borders. Do please be careful of any suspicious individuals along your way, alright?
+
+# Goal 3
+0x00000012 Greetings, Trooba! Long time no see! How you've been, pals!
+0x00000013 Trooba and Hivehat explain their adventures on the surface of Lavaliben, exploring the library, finding Snowhut's notes, and their daring escape. ~br~Troopa: "And that is why we reserved a turn for our republic at the Conference."
+0x00000014 Whoah, what adventures! One wouldn't easily believe half the tales you just told! Are you saying the Grox are weaker than what they show? Then that's life-changing, no, really ground-breaking!
+0x00000015 I did as you asked, Trooba, and brought the entire Grand Council with me. Some of them would've already come here as observers, but at your request everyone came.
+0x00000016 Speaking of which... The Conference is about to begin! The first few representatives of each space empire are about to arrive already! And our own guys are just behind the hotel's doors, coming right about... Now.
+
+
+# Act 2
+0x00000017 Time for the Conference!
+0x00000018 The Galactic Conference is about to commence, as signs of it are about to become large and obvious. Speak with Trooba City's mayor and head to the Conference building to sign up.
+
+# Goal 1
+0x00000019 It has been a while, Trooba! How goes the Trooba X... Wait, now is not the time for that.
+0x0000001a Trobba has told me what has been going on with you lately: You found evidence about the Grox's weakness, and want to show it to the galaxy. 
+0x0000001b  I see now what the words the fortune teller told your father was all about (yes, your father did tell me about that once when you were little). You hold the keys to unite the galaxy as a whole.
+0x0000001c You must hold a very good speech now, and make an impression to all the political powers that are present here. I trust you will be able to do it, Trooba. I know you will! But now let's get to the conference building proper! It's opposite of Hotel Argole here.
+
+# Goal 2
+0x0000001d Hey, you! Back to the end of the line!
+0x0000001e Hivehat: "But we couldn't know that there even is a line!"
+0x0000001f Yeah yeah, pretenses, excuses, lies! Wait for your turn! As if I have enough trouble calming down this troublesome dwarflate here!
+0x00000020 Hivehat: "Fine, back to the line we go... What now, Trooba?"~br~Trooba: "While we wait in line, your cousin Hivepi suggested that you two check some places in the town he's concerned about."
+0x00000021 Trooba: "Add him to your crew so you two don't get so easily separated. Don't worry about us, we'll be fine!"
+
+# Goal 3
+
+
+# Act 3
+0x00000022 Remote Shadows
+0x00000023 Hivepi wants you to follow him in tailing a suspicious captain. Follow the target on the map to get where you need.~br~~br~HINT: ~br~Speak with the captain from further away so his advanced behaviour doesn't break when you get close.
+
+# Goal 1
+0x00000024 Hivepi: "This is the guy I talked about, Hat-cousin! Isn't he so suspicious? Just standing there menacingly and...?"
+0x00000025 Menacing? I'll show you menacing! Let me come closer so I can...
+0x00000026 Hivehat: "Wait! Forgive us my friend's behaviour, he has a certain... 'tendency' to jump to conclusions like that. We'll just... be along our way and such. Do please excuse us."
+0x00000027 Well, that's fine! If you'll now 'excuse' *me*, I have some places to be! Goodbye!
+0x00000028 Hivehat: "Hivepi, next time don't be so loud when near your target! But you're right about one thing. He's an anjurpa. They are allies of the Grox, which means he might be on some shady business here. Let's keep a low profile for now and follow him from some distance."
+
+# Goal 2
+0x00000029 Hivehat: "Hide! We cannot be seen here!"~br~You and Hivepi hide behind the fountain and eavesdrop on the conversation...
+0x0000002a Aakere: "Good news, Master! Trooba has arrived, which means our plan proceeds apace."
+0x0000002b Excellent work, Number VI! Once Trooba is dead and buried, Xeno's Covenant will reward you and your empire *handsomely.* Not to mention how happy my clients will be afterwards.
+0x0000002c Hivepi: "Oh my god, they're going to kill Trooba! What are we going to do?!"~br~Hivehat: "Pi, stay quie-"
+0x0000002d Who's there? Number VI, deal with these pests!
+
+# Goal 3
+
+
+# Act 4
+0x0000002e Dangerous Conspiracy
+0x0000002f You have discovered that this "Xeno's Covenant" is about to assassinate Trooba before he gets a chance to speak! Escape them and warn your best friend about them!
+
+# Goal 1
+0x00000030 Hivepi and Hivehat! Where have you been!? We have been waiting for you so we could sign up for real!
+0x00000031 Hivehat: "I have to warn you! There's a conspiracy against us! There's this 'Xeno's Covenant' and the Grox might've hired them to kill Trooba!"
+0x00000032 Yeah yeah, who believes those lies? Did your "Pi-cousin" perhaps bring you to a bar to drink yourselves into a stupor?
+0x00000033 Hivehat: "What the hell, Mr. Mayor?! You know as well as I that we..."~br~Trooba: "Enough! Let's hear out what Hivehat has to say. I believe he has no reason to lie about this."
+0x00000034 Trooba: "Hivehat, please tell us everything, from start to finish. This considers especially *my* safety so we need to know."
+
+# Goal 2
+0x00000035 Hivehat: "Okay, so Hivepi told me about this shady space captain loitering around Hotel Argole, so we tailed behind him for a while and came across a 'hidden' meeting at a pier on the edge of the island."
+0x00000036 Hivehat: "There, the captain talked with a heavily robed creature who then talked about 'Xeno's Covenant' and their 'clients' rewarding the captain and his people handsomely once Trooba was dead. It seems the anjurpa was also part of that same cabal, as the creature called him 'Number VI'. I worry who the first five 'numbers' are."
+0x00000037 I fully believe you, Hivehat. And everyone else should as well. It's clear now what is going on here.
+0x00000038 The Grox are still after us, even here in New Domino. Like that customs official said, they have allies everywhere we look. But we cannot falter, nay, we WILL NOT falter! I will still hold that speech and reveal their insidiousness to all in the galaxy!
+0x00000039 I trust that you guys will stop this conspiracy against us while I handle my speech. But for now, let's get ourselves signed up! 
+
+# Goal 3
+0x0000003a Alright. So you are the representatives of the Interstellar Republic of Oculus? I see you have a turn reserved on our list and that one of you is having a speech before the audience. That right?
+0x0000003b Trooba: "Yes, that's it. I am the speaker in question, my name should be visible there."
+0x0000003c Alright, let's see... Yes. You have been reserved the last turn for today, after the Urgulate v. Dipsye debate and settlement courts.
+0x0000003d As you have been the last ones to arrive, we will now close the doors and commence the Galactic Conference. Please, follow me. I will lead you to your seats. And do forgive me for yelling earlier, I've had a bad day today.
+0x0000003e The official leads our friends to their seats in the conference hall. The Galactic Conference has begun...
+
+
+# Act 5
+0x0000003f The Galactic Conference
+0x00000040 Some hours pass before Trooba's turn to speak arrives. Now that it has, you feel Xeno's Covenant might strike at him now, so you decide to add Hivepeter and Trobba to your crew...
+
+# Goal 1
+0x00000041 "Now that we have settled the matter of Hill City between the Urgulate and Dipsye Empires, next in turn to speak is the representative from the Republic of Oculus. Trooba, the floor is yours."
+0x00000042 Trooba: "Thank you mister. Ahem...~br~~br~Greetings! My name is Trooba. Some may know me as the national hero of Oculus, or as the chosen, pure-hearted wielder of the Staff of Evolution. Some may know me from the news, or from historical documents detailing our nation's history. Or even from the missions I have done for my Republic."
+0x00000043 Trooba: "You may be wondering why I am talking to you here today. Am I here to talk about the Staves? What my personal opinion about their usage is? Or how they should even be used, if at all? No, no. I'm here to talk about the Grox."
+0x00000044 Trooba: "I have recently visited the planet Lavaliben, which got destroyed by the Grox Empire's forces as I left, and with the blessings of the late Eduard Snowhut (may he find peace in the afterlife), received his notes and book on the Grox: the aptly-named 'Greatest Secrets of the Grox'. I'd like to introduce their contents here and now..."
+0x00000045 Suddenly you get the feeling that something horrible is about to happen. You decided to ally with Trobba and Hivepeter in order to counter this threat.
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 6
+0x00000046 Stop the Conspiracy!
+0x00000047 "ALERT! Intruders reported on floor 2F. Security forces are asked to counter them immediately!"~br~It looks like Xeno's Covenant is making its move! Stop them!
+
+# Goal 1
+0x00000048 No need to worry! This is just a routine burglar alarm! Our guards will take care of the security threat in the meantime, carry on! 
+0x00000049 After reassuring the crowd the security guard turns towards you. He looks panicked.
+0x0000004a Xeno's Covenant is here! They are heavily armed and have placed explosives on the second floor, right above us! If they are allowed to succeed, the whole building will collapse! As I see you are heavily armed, we were hoping you'd be able to help!
+0x0000004b Hivehat: "But of course! My best friend's life is in danger, not to mention others', so of course we'll help you to stop this conspiracy on its tracks! No need to ask!"
+0x0000004c Th-thank you! Please, take this key and place it in the jump pad behind the building. It will bring you to the storage room where the Covenant has made their base. Some of our guards are already there but they will only open fire when you arrive. Godsspeed!
+
+# Goal 2
+0x0000004d We KNEW you would come here to stop us. We have already prepared for you, see!
+0x0000004e Hivehat: "Why are you doing this, of all things? Why are you trying to stop us?"
+0x0000004f Because, if the Grox are destroyed, as you would very much hope, the ensuing power vacuum will lead the galaxy to turmoil. And we CANNOT allow that!
+0x00000050 We waste too much time asking these meaningless questions. Number III! Hurry up with those explosives! We must stop 'the Eye' before he can finish his speech!
+0x00000051 Hivehat: "You will NOT win this fight! Come on guys, let's stop this cabal for good!"
+
+# Goal 3
+
+
+# Act 7
+0x00000052 The Moment of Truth
+0x00000053 You have foiled the conspiracy's plot to collapse the conference building to prevent Trooba's speech. Dismantle the bomb and return to the conference hall to hear the conclusion of Trooba's speech.
+
+# Goal 1
+0x00000054 Now that you've routed the Covenant, you focus on dismantling the explosives and making them harmless. Some time afterwards, you are successful and have saved the Conference in the process. 
+0x00000055 Hivepi: "We won! Now that covenant will surely not mess with us again!"~br~Hivehat: "I doubt it, but I'm sure they know their affairs now."
+0x00000056 Trobba: "I received a call from Trooba City's mayor. Trooba is finishing his speech in a few minutes and he wants us to hear its conclusion!" 
+0x00000057 Hivehat: "Well, let's humour him then by coming back downstairs."
+0x00000058 Hivepeter: "You bet! Let's see how Trooba's going to make it!"
+
+# Goal 2
+0x00000059 Fine, we will concede for now. But know that we will continue to work against you, for eternity if we must.
+0x0000005a Our Master has accepted that he has lost this round. He knows the Grox will now be destroyed, so he has started executing his backup plan.
+0x0000005b You, Hivehat, are his "Missing Link". He didn't expect your intervention, but also that you are the knot that ties Trooba to his fate.
+0x0000005c Well, I will be seeing you lot. I will be expecting you when you inevitably come to beg our help once the God War breaks out. Adieu!
+
+# Goal 3
+0x0000005d Aah, you arrived just in time! I was just about to finish my presentation!
+0x0000005e So, my conclusion is the following: The Grox might be really strong, they may have superior military might, but in sheer numbers they are outmatched by the amount of stars they have versus to ours.
+0x0000005f What I have been after with this speech is that we should all unite our forces against the Grox while they are weak. If we strike while the iron is hot, our blade will be unstoppable! 
+0x00000060 So let's forget our old differences, if only for a moment, and break our way to the Galactic Core! It's time its secrets are to become public knowledge!
+0x00000061 There ends Trooba's speech. And after some few minutes of silence and contemplation... One by one, each allies throws its support for Trooba and the Republic of Oculus in their plan to take on the Grox.
+
+
+# Act 8
+0x00000062 The Galaxy is United!
+0x00000063 Trooba's speech had the desired effect, and now all of the galaxy's empires have united their forces against the Grox! Speak with Trooba about this victory!
+
+# Goal 1
+0x00000064 We did it, Hivehat, we did it! We united the galaxy against the Grox! How did you like my speech?
+0x00000065 Hivehat: "Well, you know I didn't hear all of it because... you know why. But it was great nonetheless!"
+0x00000066 Don't worry about it, it was just a lot of numbers and galaxy charts. But the important thing is now, we stopped the conspiracy and can now attack the Grox at full strength! 
+0x00000067 The anjurpa you said was part of the conspiracy seems to be among the crowd, and he doesn't look happy! Can you perhaps go check him out and "rub it in"? Heh...
+
+# Goal 2
+0x00000068 What, WHAT?! Where are all the other Covenants? Were we beaten?
+0x00000069 Hivehat: "How is it feeling now, mister? Feeling the bitter chalk of loss?"
+0x0000006a Well I'll be damned, if it isn't the guy who stalked me! Lest you know, I am Aakere! Head Captain of the Anjurpa Empire, and proud ally of the Grox Imperium!
+0x0000006b As a citizen of Anarrocko I see no other course but declare war on you and your petty little "alliance". You will not see yourselves alive even when you're not at the Grox's border. 
+0x0000006c And I can be certain that the Grox will wipe you off the map as well. Have a nice and gruesome death, Oculians!
+
+# Goal 3
+0x0000006d I'm so proud of you, my dear Trooba, and so would be your parents and the old alphas if they were still alive!
+0x0000006e But now, we must be vigilant! These events often have far-reaching consequences, some even coming out of left field!
+0x0000006f Firstly, we have received the attention of the Grox.~br~Secondly, we must be the ones to lead this newfound alliance against the Grox. It won't be easy. Arguments will be aplenty.
+0x00000070 I think we ourselves might still have one, final battle against Groxkind. A battle that'll be even fiercer than the Destructive War and the Ducky Crisis combined!
+0x00000071 So let us return back to our ships, and get to action! Death to the Grox! ~br~Everyone: "Death to the Grox! Death to the Grox! DEATH TO THE GROX!"
+
+
+# Prop #114 - Blue Gate
+0x00000072 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #115 - Blue Gate
+0x00000073 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #116 - Blue Gate
+0x00000074 The Explorer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000075 Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x00000076 Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x00000077 Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000078 Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x00000079 Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x0000007a Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000007b Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x0000007c Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x0000007d Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000007e Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x0000007f Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x00000080 Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000081 Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x00000082 Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x00000083 Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000084 Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x00000085 Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x00000086 Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000087 Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x00000088 Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x00000089 Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000008a Hivehat: "Our ship, the Explorer. It's none the worse for wear after our daring escape from Lavaliben."
+0x0000008b Hivehat: "It was quite the thrill, fighting that Grox general and such. And the library? Quite a font of knowledge, it was."
+0x0000008c Hivehat: "A shame it got all destroyed. The Grox shall be made to pay."
+
+# Prop #141 - Blue Gate
+0x0000008d Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #142 - Trooba
+0x0000008e Trooba
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #143 - Busy Factory 1
+0x0000008f Busy Factory 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #144 - Blue Gate
+0x00000090 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #145 - Blue Gate
+0x00000091 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #146 - Blue Gate
+0x00000092 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #147 - Blue Gate
+0x00000093 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #148 - White Gate
+0x00000094 White Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #149 - Rajavartija
+0x00000095 Border Officer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000096 My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x00000097 Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000098 My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x00000099 Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000009a My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x0000009b Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000009c My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x0000009d Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000009e My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x0000009f Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000a0 My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x000000a1 Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000a2 My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x000000a3 Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000a4 My superiors wanted to warn me about this 'Xeno's Covenant', whatever it is.
+0x000000a5 Mayhaps they are some sort of Grox influencers. There have been many like them lately...
+
+# Prop #166 - White Key
+0x000000a6 White Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #167 - Rajavartija
+0x000000a7 Border Officer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #168 - Blue Gate
+0x000000a8 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - Troppa
+0x000000a9 Trobba
+
+# Chatter for Act 1
+0x000000aa Trooba and Hivehat should appear any minute now... Ah, there they are!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #171 - Blue Gate
+0x000000ab Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #172 - Blue Gate
+0x000000ac Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000ad Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000ae Trooba: Let's just move on, Hivehat.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000af Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000b0 Trooba: Let's just move on, Hivehat.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000b1 Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000b2 Trooba: Let's just move on, Hivehat.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000b3 Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000b4 Trooba: Let's just move on, Hivehat.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000b5 Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000b6 Trooba: Let's just move on, Hivehat.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000b7 Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000b8 Trooba: Let's just move on, Hivehat.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000b9 Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000ba Trooba: Let's just move on, Hivehat.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000bb Trooba: Trobba should already be across the border by now; There's no one inside the ship.
+0x000000bc Trooba: Let's just move on, Hivehat.
+
+# Prop #189 - Blue Gate
+0x000000bd Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000be Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000bf Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000c0 Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000c1 Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000c2 Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000c3 Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000c4 Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000c5 Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000c6 Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000c7 Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000c8 Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000c9 Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000ca Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000cb Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000cc Trooba: Some landing gear. I wonder why you started inspecting this, Hivehat. We have to go to the Conference!
+0x000000cd Hivehat: Oh, right. Sorry about that. My mind raced for a moment there...
+
+# Prop #206 - Galaktinen Konferenssitalo
+0x000000ce Galactic Conference Hall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #207 - Konferenssikeskuksen aula
+0x000000cf Conference Lobby
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #208 - The Fun Dominiums
+0x000000d0 The Fun Dominiums
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #209 - The Fun Tower
+0x000000d1 The Fun Tower
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #210 - Future Appartments
+0x000000d2 Future Appartments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #211 - Blue Gate
+0x000000d3 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #212 - Blue Gate
+0x000000d4 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #213 - Blue Gate
+0x000000d5 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #214 - Lucausian Headquarters
+0x000000d6 Lucausian Headquarters
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #215 - Lucausian Luxury Apartments
+0x000000d7 Lucausian Luxury Apartments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #216 - Lucausian Office
+0x000000d8 Lucausian Office
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #217 - Traffic 1
+0x000000d9 Traffic 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #218 - Traffic 2
+0x000000da Traffic 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #219 - Beach Ambience
+0x000000db Beach Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #220 - Hotelli Argole
+0x000000dc Hotel Argole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000dd HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000de Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000df HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000e0 Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000e1 HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000e2 Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000e3 HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000e4 Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000e5 HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000e6 Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000e7 HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000e8 Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000e9 HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000ea Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000eb HOTEL ARGOLE - The Official Galactic Conference Hotel
+0x000000ec Hivehat: "Interesting... I wonder if all the guests live here?"
+
+# Prop #237 - Jarzo
+0x000000ed Jarzo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #238 - Chibby
+0x000000ee Chibby
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #239 - Sir Beakenstein
+0x000000ef Sir Beakenstein
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #240 - Bourgeois neighbor
+0x000000f0 Bourgeois neighbor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #241 - Slapstick Spring
+0x000000f1 Slapstick Spring
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #242 - California
+0x000000f2 California
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #243 - Troopa Cityn kaupunginjohtaja
+0x000000f3 Trooba City Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #244 - Pietolan pormestari
+0x000000f4 Newhive Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #245 - Broono
+0x000000f5 Broono
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #246 - Piesus
+0x000000f6 Hivepeter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #247 - Graxilaisten johtaja
+0x000000f7 Grawx Leader
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000f8 This warm air doesn't do good for my fat layers...
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000f9 This warm air doesn't do good for my fat layers...
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000fa This warm air doesn't do good for my fat layers...
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000fb This warm air doesn't do good for my fat layers...
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000fc This warm air doesn't do good for my fat layers...
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000000fd This warm air doesn't do good for my fat layers...
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000000fe This warm air doesn't do good for my fat layers...
+
+# Inspect for Act 8
+
+# Prop #255 - Gigantolan pormestari
+0x000000ff Gigantopia Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #256 - Hivepi
+0x00000100 Hivepi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000101 Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x00000102 Hivehat: "Hello, Pi-cousin. How are things?"
+0x00000103 I'm doing great! You?
+0x00000104 Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x00000105 Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000106 Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x00000107 Hivehat: "Hello, Pi-cousin. How are things?"
+0x00000108 I'm doing great! You?
+0x00000109 Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x0000010a Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000010b Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x0000010c Hivehat: "Hello, Pi-cousin. How are things?"
+0x0000010d I'm doing great! You?
+0x0000010e Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x0000010f Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000110 Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x00000111 Hivehat: "Hello, Pi-cousin. How are things?"
+0x00000112 I'm doing great! You?
+0x00000113 Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x00000114 Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000115 Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x00000116 Hivehat: "Hello, Pi-cousin. How are things?"
+0x00000117 I'm doing great! You?
+0x00000118 Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x00000119 Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000011a Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x0000011b Hivehat: "Hello, Pi-cousin. How are things?"
+0x0000011c I'm doing great! You?
+0x0000011d Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x0000011e Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000011f Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x00000120 Hivehat: "Hello, Pi-cousin. How are things?"
+0x00000121 I'm doing great! You?
+0x00000122 Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x00000123 Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000124 Greetings, Hivehat! Remember me still? Hivepi, your cousin?
+0x00000125 Hivehat: "Hello, Pi-cousin. How are things?"
+0x00000126 I'm doing great! You?
+0x00000127 Hivehat: "I'm doing alright myself. Just need to wait until our turn to register arrives."
+0x00000128 Well, while we let the other guys do that, how about we explore the town? I've seen this pretty shady guy, and I want you to help me in tailing him! Come on!~br~~br~[Ally with him.]
+
+# Prop #297 - Knuutti Graxilainen
+0x00000129 Knot the Grawx
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #298 - Kooka
+0x0000012a Kook
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #299 - Urgulaattien heimopäällikkö
+0x0000012b The Holy Chieftain of Urleg
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000012c Hurry! We're already late!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000012d Hurry! We're already late!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000012e Hurry! We're already late!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000012f Hurry! We're already late!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000130 Hurry! We're already late!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000131 Hurry! We're already late!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000132 Hurry! We're already late!
+
+# Inspect for Act 8
+
+# Prop #307 - Jin
+0x00000133 Jin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #308 - Pormestari
+0x00000134 Hill City Mayor
+
+# Chatter for Act 1
+0x00000135 I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 1
+0x00000136 Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x00000137 Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Chatter for Act 2
+0x00000138 I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 2
+0x00000139 Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x0000013a Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Chatter for Act 3
+0x0000013b I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 3
+0x0000013c Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x0000013d Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Chatter for Act 4
+0x0000013e I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 4
+0x0000013f Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x00000140 Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Chatter for Act 5
+0x00000141 I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 5
+0x00000142 Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x00000143 Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Chatter for Act 6
+0x00000144 I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 6
+0x00000145 Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x00000146 Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Chatter for Act 7
+0x00000147 I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 7
+0x00000148 Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x00000149 Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Chatter for Act 8
+0x0000014a I'm so sorry, Your Grace! I shouldn't have played in the arcade so late in the night!
+
+# Inspect for Act 8
+0x0000014b Hivehat: "I think that's the mayor of Hill City, the Urgulate city that got conquered by the Dipsyes."
+0x0000014c Hivehat: "Perhaps he has come here to settle his disputes with them?"
+
+# Prop #333 - Kapteeni Urgus
+0x0000014d Captain Urgus
+
+# Chatter for Act 1
+0x0000014e Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000014f Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000150 Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000151 Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000152 Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000153 Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000154 Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000155 Ah, Hivehat. Sorry, but I need to stay with my entourage in order to sign up, maybe later?
+
+# Inspect for Act 8
+
+# Prop #342 - Teleporter
+0x00000156 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #343 - Virkailija
+0x00000157 Receptionist
+
+# Chatter for Act 1
+0x00000158 For your information: Left queue is for signups. Right queue is for the closets.
+0x00000159 Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000015a For your information: Left queue is for signups. Right queue is for the closets.
+0x0000015b Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000015c For your information: Left queue is for signups. Right queue is for the closets.
+0x0000015d Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000015e For your information: Left queue is for signups. Right queue is for the closets.
+0x0000015f Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000160 For your information: Left queue is for signups. Right queue is for the closets.
+0x00000161 Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000162 For your information: Left queue is for signups. Right queue is for the closets.
+0x00000163 Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000164 For your information: Left queue is for signups. Right queue is for the closets.
+0x00000165 Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000166 For your information: Left queue is for signups. Right queue is for the closets.
+0x00000167 Calm down, calm down. One at a time, one at a time...
+
+# Inspect for Act 8
+
+# Prop #360 - Dwarflate
+0x00000168 Dwarflate
+
+# Chatter for Act 1
+0x00000169 I would like to know where my reservation is!
+0x0000016a If my reservation is as good as gone, I demand a refund!
+0x0000016b Where's my reservation? WHERE IS IT?
+0x0000016c I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 1
+0x0000016d He seems very mad. Better to leave him in peace...
+
+# Chatter for Act 2
+0x0000016e I would like to know where my reservation is!
+0x0000016f If my reservation is as good as gone, I demand a refund!
+0x00000170 Where's my reservation? WHERE IS IT?
+0x00000171 I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 2
+0x00000172 He seems very mad. Better to leave him in peace...
+
+# Chatter for Act 3
+0x00000173 I would like to know where my reservation is!
+0x00000174 If my reservation is as good as gone, I demand a refund!
+0x00000175 Where's my reservation? WHERE IS IT?
+0x00000176 I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 3
+0x00000177 He seems very mad. Better to leave him in peace...
+
+# Chatter for Act 4
+0x00000178 I would like to know where my reservation is!
+0x00000179 If my reservation is as good as gone, I demand a refund!
+0x0000017a Where's my reservation? WHERE IS IT?
+0x0000017b I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 4
+0x0000017c He seems very mad. Better to leave him in peace...
+
+# Chatter for Act 5
+0x0000017d I would like to know where my reservation is!
+0x0000017e If my reservation is as good as gone, I demand a refund!
+0x0000017f Where's my reservation? WHERE IS IT?
+0x00000180 I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 5
+0x00000181 He seems very mad. Better to leave him in peace...
+
+# Chatter for Act 6
+0x00000182 I would like to know where my reservation is!
+0x00000183 If my reservation is as good as gone, I demand a refund!
+0x00000184 Where's my reservation? WHERE IS IT?
+0x00000185 I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 6
+0x00000186 He seems very mad. Better to leave him in peace...
+
+# Chatter for Act 7
+0x00000187 I would like to know where my reservation is!
+0x00000188 If my reservation is as good as gone, I demand a refund!
+0x00000189 Where's my reservation? WHERE IS IT?
+0x0000018a I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 7
+0x0000018b He seems very mad. Better to leave him in peace...
+
+# Chatter for Act 8
+0x0000018c I would like to know where my reservation is!
+0x0000018d If my reservation is as good as gone, I demand a refund!
+0x0000018e Where's my reservation? WHERE IS IT?
+0x0000018f I had such pains climbing here! Now then, good sir, tell me, WHERE IS MY RESERVATION?
+
+# Inspect for Act 8
+0x00000190 He seems very mad. Better to leave him in peace...
+
+# Prop #401 - Po-ter
+0x00000191 Po-ter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #402 - Pääjalka
+0x00000192 Headfeet
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #403 - Kärsäsuu
+0x00000193 Probomouth
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #404 - Vihersyöjä
+0x00000194 Greeneater
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #405 - Indoor Crowd
+0x00000195 Indoor Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #406 - Smooth City Night
+0x00000196 Smooth City Night
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #407 - Haunted
+0x00000197 Haunted
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #408 - Blue Gate
+0x00000198 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #409 - Blue Gate
+0x00000199 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #410 - Kapteeni Aakere
+0x0000019a Captain Aakere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #411 - Salaperäinen pikkuotus
+0x0000019b Mysterious Creature
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #412 - Ambush!
+0x0000019c Ambush!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #413 - Troopa Cityn kaupunginjohtaja
+0x0000019d Trooba City Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #414 - Trooba
+0x0000019e Trooba
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #415 - Troppa
+0x0000019f Trobba
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000001a0 What now, Hivehat?
+0x000001a1 Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001a2 Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000001a3 What now, Hivehat?
+0x000001a4 Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001a5 Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000001a6 What now, Hivehat?
+0x000001a7 Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001a8 Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000001a9 What now, Hivehat?
+0x000001aa Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001ab Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000001ac What now, Hivehat?
+0x000001ad Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001ae Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000001af What now, Hivehat?
+0x000001b0 Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001b1 Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000001b2 What now, Hivehat?
+0x000001b3 Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001b4 Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000001b5 What now, Hivehat?
+0x000001b6 Hivehat: "I thought to add you to my crew. I have a feeling Xeno's Covenant might strike soon."
+0x000001b7 Ah, that explains it! I guess that's why you've seemed so nervous during this conference. I'll join you!~br~[Ally with him]
+
+# Prop #440 - Konferenssivartija
+0x000001b8 Conference Guard
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001b9 Hivehat, I presume? We need your help, speak with the guards near the stage.
+0x000001ba No need to panic! Our forces will take care of any intruders before you know it!
+0x000001bb We have to deal with Xeno's Covenant before they ruin our fame!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #444 - Blue Gate
+0x000001bc Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #445 - Blue Gate
+0x000001bd Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #446 - Blue Gate
+0x000001be Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #447 - Blue Gate
+0x000001bf Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #448 - Blue Gate
+0x000001c0 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #449 - Blue Gate
+0x000001c1 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #450 - Galaxy
+0x000001c2 Galaxy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #451 - Teleporter
+0x000001c3 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #452 - Teleporter
+0x000001c4 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #453 - Piesus
+0x000001c5 Hivepeter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000001c6 Hivehat: "What's been happening in this conference so far?"
+0x000001c7 What, were you asleep? It's just the usual: politics, debates et cetera. 
+0x000001c8 Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001c9 Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001ca Add me to your crew? Sure thing, make an impression on me!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000001cb Hivehat: "What's been happening in this conference so far?"
+0x000001cc What, were you asleep? It's just the usual: politics, debates et cetera.  
+0x000001cd Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001ce Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001cf Add me to your crew? Sure thing, make an impression on me!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000001d0 Hivehat: "What's been happening in this conference so far?"
+0x000001d1 What, were you asleep? It's just the usual: politics, debates et cetera.  
+0x000001d2 Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001d3 Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001d4 Add me to your crew? Sure thing, make an impression on me!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000001d5 Hivehat: "What's been happening in this conference so far?"
+0x000001d6 What, were you asleep? It's just the usual: politics, debates et cetera.  
+0x000001d7 Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001d8 Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001d9 Add me to your crew? Sure thing, make an impression on me!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000001da Hivehat: "What's been happening in this conference so far?"
+0x000001db What, were you asleep? It's just the usual: politics, debates et cetera.  
+0x000001dc Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001dd Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001de Add me to your crew? Sure thing, make an impression on me!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000001df Hivehat: "What's been happening in this conference so far?"
+0x000001e0 What, were you asleep? It's just the usual: politics, debates et cetera.  
+0x000001e1 Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001e2 Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001e3 Add me to your crew? Sure thing, make an impression on me!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000001e4 Hivehat: "What's been happening in this conference so far?"
+0x000001e5 What, were you asleep? It's just the usual: politics, debates et cetera.  
+0x000001e6 Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001e7 Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001e8 Add me to your crew? Sure thing, make an impression on me!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000001e9 Hivehat: "What's been happening in this conference so far?"
+0x000001ea What, were you asleep? It's just the usual: politics, debates et cetera.  
+0x000001eb Hivehat: "I'd like some more details, please. What happened on previous turns?"
+0x000001ec Well, before us, the Urgulates and Dipsyes settled their disputes regarding the ownership of Hill City and its resources. And before that, Professor Sarado from the Deerstrich Empire talked about the origins of the Grox, and how they came to be. He mentioned us, too, and Trooba's then-coming speech. So, what else did you want to talk about?
+0x000001ed Add me to your crew? Sure thing, make an impression on me!
+
+# Prop #494 - Troopa
+0x000001ee Trooba
+
+# Chatter for Act 1
+0x000001ef As you can see..........the Grox................the Emperor..................origin of the Grox..........
+0x000001f0 As you can see from Eduard Snowhut's data..............2400 systems..................42................recusant's sigil.................also known as X...........Letter of endings......rebirth....reunion..........
+0x000001f1 If..........the galaxy...................those who visited the Core.............Melorsia Alliance................Haper.............Mortar......................the Urgulates...................
+0x000001f2 Oomph, this is tiring! I need a glass of water.
+0x000001f3 Hopefully Hivehat deals with that conspiracy soon. I'm of no use while dead!
+
+# Inspect for Act 1
+0x000001f4 Hivehat: I have no time to chat with Trooba. Besides, he's too busy with THAT anyway.
+
+# Chatter for Act 2
+0x000001f5 As you can see..........the Grox................the Emperor..................origin of the Grox..........
+0x000001f6 As you can see from Eduard Snowhut's data..............2400 systems..................42................recusant's sigil.................also known as X...........Letter of endings......rebirth....reunion..........
+0x000001f7 If..........the galaxy...................those who visited the Core.............Melorsia Alliance................Haper.............Mortar......................the Urgulates...................
+0x000001f8 Oomph, this is tiring! I need a glass of water.
+0x000001f9 Hopefully Hivehat deals with that conspiracy soon. I'm of no use while dead!
+
+# Inspect for Act 2
+0x000001fa Hivehat: I have no time to chat with Trooba. Besides, he's too busy with THAT anyway.
+
+# Chatter for Act 3
+0x000001fb As you can see..........the Grox................the Emperor..................origin of the Grox..........
+0x000001fc As you can see from Eduard Snowhut's data..............2400 systems..................42................recusant's sigil.................also known as X...........Letter of endings......rebirth....reunion..........
+0x000001fd If..........the galaxy...................those who visited the Core.............Melorsia Alliance................Haper.............Mortar......................the Urgulates...................
+0x000001fe Oomph, this is tiring! I need a glass of water.
+0x000001ff Hopefully Hivehat deals with that conspiracy soon. I'm of no use while dead!
+
+# Inspect for Act 3
+0x00000200 Hivehat: I have no time to chat with Trooba. Besides, he's too busy with THAT anyway.
+
+# Chatter for Act 4
+0x00000201 As you can see..........the Grox................the Emperor..................origin of the Grox..........
+0x00000202 As you can see from Eduard Snowhut's data..............2400 systems..................42................recusant's sigil.................also known as X...........Letter of endings......rebirth....reunion..........
+0x00000203 If..........the galaxy...................those who visited the Core.............Melorsia Alliance................Haper.............Mortar......................the Urgulates...................
+0x00000204 Oomph, this is tiring! I need a glass of water.
+0x00000205 Hopefully Hivehat deals with that conspiracy soon. I'm of no use while dead!
+
+# Inspect for Act 4
+0x00000206 Hivehat: I have no time to chat with Trooba. Besides, he's too busy with THAT anyway.
+
+# Chatter for Act 5
+0x00000207 As you can see..........the Grox................the Emperor..................origin of the Grox..........
+0x00000208 As you can see from Eduard Snowhut's data..............2400 systems..................42................recusant's sigil.................also known as X...........Letter of endings......rebirth....reunion..........
+0x00000209 If..........the galaxy...................those who visited the Core.............Melorsia Alliance................Haper.............Mortar......................the Urgulates...................
+0x0000020a Oomph, this is tiring! I need a glass of water.
+0x0000020b Hopefully Hivehat deals with that conspiracy soon. I'm of no use while dead!
+
+# Inspect for Act 5
+0x0000020c Hivehat: I have no time to chat with Trooba. Besides, he's too busy with THAT anyway.
+
+# Chatter for Act 6
+0x0000020d As you can see..........the Grox................the Emperor..................origin of the Grox..........
+0x0000020e As you can see from Eduard Snowhut's data..............2400 systems..................42................recusant's sigil.................also known as X...........Letter of endings......rebirth....reunion..........
+0x0000020f If..........the galaxy...................those who visited the Core.............Melorsia Alliance................Haper.............Mortar......................the Urgulates...................
+0x00000210 Oomph, this is tiring! I need a glass of water.
+0x00000211 Hopefully Hivehat deals with that conspiracy soon. I'm of no use while dead!
+
+# Inspect for Act 6
+0x00000212 Hivehat: I have no time to chat with Trooba. Besides, he's too busy with THAT anyway.
+
+# Chatter for Act 7
+0x00000213 As you can see..........the Grox................the Emperor..................origin of the Grox..........
+0x00000214 As you can see from Eduard Snowhut's data..............2400 systems..................42................recusant's sigil.................also known as X...........Letter of endings......rebirth....reunion..........
+0x00000215 If..........the galaxy...................those who visited the Core.............Melorsia Alliance................Haper.............Mortar......................the Urgulates...................
+0x00000216 Oomph, this is tiring! I need a glass of water.
+0x00000217 Hopefully Hivehat deals with that conspiracy soon. I'm of no use while dead!
+
+# Inspect for Act 7
+0x00000218 Hivehat: I have no time to chat with Trooba. Besides, he's too busy with THAT anyway.
+
+# Chatter for Act 8
+0x00000219 Oomph, this is tiring! I need a glass of water.
+
+# Inspect for Act 8
+
+# Prop #538 - Mr Mayor
+0x0000021a Mr Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000021b Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000021c Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000021d Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000021e Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000021f Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000220 Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000221 Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000222 Hivehat: Mr. Mayor from Adventure Town. He hosts this venue.
+
+# Prop #547 - Pietolan pormestari
+0x00000223 Newhive Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #548 - Sting Big Drum
+0x00000224 Sting Big Drum
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #549 - Gigantolan pormestari
+0x00000225 Gigantopia Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #550 - Graxilaisten johtaja
+0x00000226 Grawx Leader
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000227 Why is there such a ruckus? It was just a speech! I see nothing special in it!
+0x00000228 I don't understand these capitalists. Such a ruckus from a plain speech!
+
+# Inspect for Act 8
+
+# Prop #553 - Broono
+0x00000229 Broono
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #554 - Kooka
+0x0000022a Kook
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #555 - Knuutti Graxilainen
+0x0000022b Knot the Grawx
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #556 - Konferenssin kojelauta
+0x0000022c Conference Board
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #557 - Urgulaattien heimopäällikkö
+0x0000022d The Holy Chieftain of Urleg
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000022e Melorsia Alliance will give its full support with my blessings, Oculus!
+
+# Inspect for Act 8
+
+# Prop #559 - Kapteeni Urgus
+0x0000022f Captain Urgus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000230 You did it, Trooba and Hivehat! Liskomato was right about you, you ARE heroes!
+
+# Inspect for Act 8
+
+# Prop #561 - Pormestari
+0x00000231 Hill City Mayor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000232 This must be some sort of Dipsye trick! They, too, were not happy with the Hill City resolution!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000233 Well, that's fine. This is fine. At least we'll get rid of the Grox now!
+
+# Inspect for Act 8
+
+# Prop #564 - Vihersyöjä
+0x00000234 Greeneater
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000235 Is this some kind of joke?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000236 Our immortal chieftain Outaa will grant his blessing to support you, Trooba and Hivehat!
+
+# Inspect for Act 8
+
+# Prop #567 - General Clench
+0x00000237 General Clench
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000238 Well, this is great! Hopefully the burglars will get their butts kicked!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000239 Well, it was about time we gave a good lesson to the Grox!
+
+# Inspect for Act 8
+
+# Prop #570 - Redclaw
+0x0000023a Redclaw
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #571 - Representative of Troobus
+0x0000023b Representative of Troobus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000023c Hooray! Hooray!
+
+# Inspect for Act 8
+
+# Prop #573 - Captain Troobus
+0x0000023d Captain Troobus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000023e Booriing! Continue the speech, Trooba!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000023f I can't believe it! The guy who saved me from that frost ball really IS a hero! And not just to his own kind!
+
+# Inspect for Act 8
+
+# Prop #576 - Troopaton
+0x00000240 Troobaton
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000241 Is this some kind of Grox trick to silence Trooba?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000242 Congratulations, Trooba! You united the galaxy! I'll see you on the battlefield, fighting together!
+
+# Inspect for Act 8
+
+# Prop #579 - Troopa
+0x00000243 Espyrkan Trooba
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000244 Three hoorays for Trooba and Hivehat! Hip hip hooray! Hip hip hooray! Hip hip hooray!
+
+# Inspect for Act 8
+
+# Prop #581 - Kärsäsuu
+0x00000245 Probomouth
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000246 Huh? Why's there an alarm?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000247 We Freezians want to throw our full support to you, Oculians! See you at the Core!
+
+# Inspect for Act 8
+
+# Prop #584 - Pääjalka
+0x00000248 Headfeet
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000249 We headfeet want to give our support to you, Trooba and Hivehat!
+
+# Inspect for Act 8
+
+# Prop #586 - Po-ter
+0x0000024a Po-ter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000024b I wonder why's there an alarm.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000024c We Po-ters will support you 100%, Oculus! Our president has said that there's something important in the Galactic Core, and we want to see it too!
+
+# Inspect for Act 8
+
+# Prop #589 - Dwarflate
+0x0000024d Dwarflate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000024e Alert? Our priests did say that something bad was about to happen here, after all...
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000024f The Dwarflates of Minen-4 will give you our full support, Oculus!
+
+# Inspect for Act 8
+
+# Prop #592 - Crowd
+0x00000250 Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #593 - Kapteeni Aakere
+0x00000251 Captain Aakere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000252 Alert? Excellent! That means the Covenant is here!
+0x00000253 Soon my allies will destroy that pitiful troobatit, and none of his friends can do ANYTHING about it!
+0x00000254 Once Trooba dies, that can only mean a bigger salary!
+0x00000255 The Grox will be very happy once they hear about Trooba's death!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #598 - Alarm Buzz
+0x00000256 Alarm Buzz
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #599 - Awed Crowd
+0x00000257 Awed Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #600 - Teleporter
+0x00000258 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #601 - Blue Gate
+0x00000259 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #602 - Indoor Crowd
+0x0000025a Indoor Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #603 - Local Rock
+0x0000025b Local Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #604 - White Gate
+0x0000025c White Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000025d It looks like it needs a key in order to work.
+0x0000025e I wonder where you could get one?
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000025f It looks like it needs a key in order to work.
+0x00000260 I wonder where you could get one?
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000261 It looks like it needs a key in order to work.
+0x00000262 I wonder where you could get one?
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000263 It looks like it needs a key in order to work.
+0x00000264 I wonder where you could get one?
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000265 It looks like it needs a key in order to work.
+0x00000266 I wonder where you could get one?
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000267 It looks like it needs a key in order to work.
+0x00000268 I wonder where you could get one?
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000269 It looks like it needs a key in order to work.
+0x0000026a I wonder where you could get one?
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000026b It looks like it needs a key in order to work.
+0x0000026c I wonder where you could get one?
+
+# Prop #621 - Jump Pad 
+0x0000026d Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #622 - Teleporter
+0x0000026e Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #623 - Local Rock
+0x0000026f Local Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #624 - Blue Gate
+0x00000270 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #625 - Blue Gate
+0x00000271 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #626 - Epic Adventure
+0x00000272 Epic Adventure
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #627 - Xenon liittolainen VIII
+0x00000273 Xeno's Covenant No. VIII
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #628 - Xenon liittolainen VII
+0x00000274 Xeno's Covenant No. VII
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000275 No offense, but I can't allow you to have Trooba speak down there.
+0x00000276 If he does that, the Grox will die and S-
+0x00000277 OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x00000278 I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000279 No offense, but I can't allow you to have Trooba speak down there. 
+0x0000027a If he does that, the Grox will die and S-
+0x0000027b OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x0000027c I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000027d No offense, but I can't allow you to have Trooba speak down there. 
+0x0000027e If he does that, the Grox will die and S-
+0x0000027f OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x00000280 I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000281 No offense, but I can't allow you to have Trooba speak down there. 
+0x00000282 If he does that, the Grox will die and S-
+0x00000283 OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x00000284 I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000285 No offense, but I can't allow you to have Trooba speak down there. 
+0x00000286 If he does that, the Grox will die and S-
+0x00000287 OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x00000288 I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000289 No offense, but I can't allow you to have Trooba speak down there. 
+0x0000028a If he does that, the Grox will die and S-
+0x0000028b OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x0000028c I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000028d No offense, but I can't allow you to have Trooba speak down there. 
+0x0000028e If he does that, the Grox will die and S-
+0x0000028f OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x00000290 I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000291 No offense, but I can't allow you to have Trooba speak down there. 
+0x00000292 If he does that, the Grox will die and S-
+0x00000293 OOPS! Forget that part! Yeah, Grox will die and the power vacuum will mean the end for us all! That's right!
+0x00000294 I shouldn't have slipped that! Now Isair will kill me for sure!
+
+# Prop #661 - Xenon liittolainen V
+0x00000295 Xeno's Covenant No. V
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000296 Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x00000297 Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000298 Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x00000299 Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000029a Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x0000029b Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000029c Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x0000029d Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000029e Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x0000029f Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000002a0 Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x000002a1 Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000002a2 Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x000002a3 Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000002a4 Mmmmasssterrr wannnntssss usss tooo stop youuu!
+0x000002a5 Iffff itttt commesss downnnn tooo meee, yourrrr ennnnddd isss atttt haaaaand!
+
+# Prop #678 - Xenon liittolainen III
+0x000002a6 Xeno's Covenant No. III
+
+# Chatter for Act 1
+0x000002a7 I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002a8 I'm doing my best to get these explosives to work! I'm trying!
+0x000002a9 By Spode, how am I going to fix this?
+0x000002aa I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 1
+0x000002ab YOU! False god, I will kill you for coming back!
+0x000002ac Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002ad I don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002ae Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002af Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Chatter for Act 2
+0x000002b0 I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002b1 I'm doing my best to get these explosives to work! I'm trying!
+0x000002b2 By Spode, how am I going to fix this?
+0x000002b3 I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 2
+0x000002b4 YOU! False god, I will kill you for coming back!
+0x000002b5 Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002b6I don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002b7 Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002b8 Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Chatter for Act 3
+0x000002b9 I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002ba I'm doing my best to get these explosives to work! I'm trying!
+0x000002bb By Spode, how am I going to fix this?
+0x000002bc I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 3
+0x000002bd YOU! False god, I will kill you for coming back!
+0x000002be Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002bfI don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002c0 Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002c1 Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Chatter for Act 4
+0x000002c2 I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002c3 I'm doing my best to get these explosives to work! I'm trying!
+0x000002c4 By Spode, how am I going to fix this?
+0x000002c5 I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 4
+0x000002c6 YOU! False god, I will kill you for coming back!
+0x000002c7 Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002c8I don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002c9 Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002ca Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Chatter for Act 5
+0x000002cb I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002cc I'm doing my best to get these explosives to work! I'm trying!
+0x000002cd By Spode, how am I going to fix this?
+0x000002ce I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 5
+0x000002cf YOU! False god, I will kill you for coming back!
+0x000002d0 Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002d1I don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002d2 Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002d3 Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Chatter for Act 6
+0x000002d4 I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002d5 I'm doing my best to get these explosives to work! I'm trying!
+0x000002d6 By Spode, how am I going to fix this?
+0x000002d7 I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 6
+0x000002d8 YOU! False god, I will kill you for coming back!
+0x000002d9 Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002daI don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002db Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002dc Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Chatter for Act 7
+0x000002dd I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002de I'm doing my best to get these explosives to work! I'm trying!
+0x000002df By Spode, how am I going to fix this?
+0x000002e0 I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 7
+0x000002e1 YOU! False god, I will kill you for coming back!
+0x000002e2 Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002e3I don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002e4 Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002e5 Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Chatter for Act 8
+0x000002e6 I can't do anything about it! The explosives are too low-quality! Master should've given us bigger budget for this!
+0x000002e7 I'm doing my best to get these explosives to work! I'm trying!
+0x000002e8 By Spode, how am I going to fix this?
+0x000002e9 I can't grant that the explosives will work. If yes, mission success but if not, why not just enter the hall and do the traditional, AKA kill 'em all?
+
+# Inspect for Act 8
+0x000002ea YOU! False god, I will kill you for coming back!
+0x000002eb Hivehat: "Wait, that voice..."~br~Hivepi: "Liinamola?"
+0x000002ecI don't know who you are! But I know your existence is a bane on this galaxy. Once Trooba is gone, Spode's will shall be restored!
+0x000002ed Hivehat: "In that case, I shall deny His fate and kill you to save my friend!"
+0x000002ee Hivehat: (It looks like she is responsible for the explosives. If I can take her down, the Covenant's plot is done for!)
+
+# Prop #751 - Treasured Llama
+0x000002ef Treasured Llama
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #752 - Treasured Plate
+0x000002f0 Treasured Plate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #753 - Treasured Crown
+0x000002f1 Treasured Crown
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #754 - Treasured Snowglobe
+0x000002f2 Treasured Snowglobe
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #755 - Treasured Idol
+0x000002f3 Treasured Idol
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #756 - Treasured Gnome
+0x000002f4 Treasured Gnome
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #757 - Räjähteet
+0x000002f5 Explosives
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000002f6 Explosives! These must be how the Covenant is going to collapse the ceiling from above Trooba! If these blow up, game over! 
+0x000002f7 You cannot dismantle them now, however. First, you need to defeat the Covenant!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000002f8 Explosives! These must be how the Covenant is going to collapse the ceiling from above Trooba! If these blow up, game over! 
+0x000002f9 You cannot dismantle them now, however. First, you need to defeat the Covenant!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000002fa Explosives! These must be how the Covenant is going to collapse the ceiling from above Trooba! If these blow up, game over! 
+0x000002fb You cannot dismantle them now, however. First, you need to defeat the Covenant!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000002fc Explosives! These must be how the Covenant is going to collapse the ceiling from above Trooba! If these blow up, game over! 
+0x000002fd You cannot dismantle them now, however. First, you need to defeat the Covenant!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000002fe Explosives! These must be how the Covenant is going to collapse the ceiling from above Trooba! If these blow up, game over! 
+0x000002ff You cannot dismantle them now, however. First, you need to defeat the Covenant!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000300 Explosives! These must be how the Covenant is going to collapse the ceiling from above Trooba! If these blow up, game over! 
+0x00000301 You cannot dismantle them now, however. First, you need to defeat the Covenant!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000302 Hivehat: (Rest in peace, Liinamola. I didn't want to do this to you, but...)
+0x00000303 Hivehat: (Well, water under the bridge now. Let's get back downstairs...)
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000304 Hivehat: (Rest in peace, Liinamola. I didn't want to do this to you, but...)
+0x00000305 Hivehat: (Well, water under the bridge now. Let's get back downstairs...)
+
+# Prop #774 - Räjähteet
+0x00000306 Explosives
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #775 - Factory Steam
+0x00000307 Factory Steam
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #776 - Broken Machinery
+0x00000308 Broken Machinery
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #777 - Smoke Black
+0x00000309 Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #778 - Power-Up Health
+0x0000030a Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #779 - Power-Up Energy
+0x0000030b Power-Up Energy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #780 - Poof Black
+0x0000030c Poof Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #781 - Xenon liittolainen VIII
+0x0000030d Xeno's Covenant No. VIII
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #782 - It's ALIVE!!!
+0x0000030e It's ALIVE!!!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #783 - Arena Cheer
+0x0000030f Arena Cheer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #784 - Searchlight
+0x00000310 Searchlight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #785 - Glitter Cannon
+0x00000311 Glitter Cannon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #786 - Confetti
+0x00000312 Confetti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #787 - Streamers
+0x00000313 Streamers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+

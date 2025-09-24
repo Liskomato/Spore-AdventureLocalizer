@@ -1,4 +1,4 @@
-<mod displayName="Adventure Localizer" unique="AdventureLocalizer" description="Adds 3 cheats to allow for modification and usage of adventure localization tables." installerSystemVersion="1.0.1.2" hasCustomInstaller="true" isExperimental="false" dllsBuild="2.5.280">
+<mod displayName="Adventure Localizer v1.2" unique="AdventureLocalizer" description="Adds 3 cheats to allow for modification and usage of adventure localization tables." installerSystemVersion="1.0.1.2" hasCustomInstaller="true" isExperimental="false" dllsBuild="2.5.395">
 <component unique="ExampleLocales" displayName="Example Locales" description="Adds the example localisations found from the Adventure Localizer Git repository into the game." game="GalacticAdventures" defaultChecked="true">!!!!!AdventureLocalizations.package</component>
 <prerequisite>AdventureLocalizer.dll</prerequisite>
 <remove game="GalacticAdventures">*AdventureLocalizations.package</remove>

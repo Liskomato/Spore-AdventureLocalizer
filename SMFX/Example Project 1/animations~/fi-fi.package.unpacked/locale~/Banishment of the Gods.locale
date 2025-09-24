@@ -1,0 +1,783 @@
+# Auto-generated localization file for: Banishment of the Gods (ID: 0X25C09A8F)
+# Author
+0x00000001 Liskomato
+
+# Adventure name
+0x00000002 Jumalten häätö
+
+# Adventure description
+0x00000003 Kroposodat~br~Osa 9~br~Pitkällinen etsintä on tuonut Pesäpieluksen kauniille Solum-planeetalle, jossa hän toivoo herättävänsä tasapainon jumalan Sporix, jotta he voisivat yhdessä häätää sotivat sormusjumalat...
+
+# Adventure tags
+0x00000004 hivehat,sporix,saradostrich,zamolate,sporid,ring of fate,grox wars 9, three staves,tscanon
+
+# Intro text
+0x00000005 Pesäpielus on saapunut Solumin planeetalle, jossa Sporixin sanotaan nukkuvan. Hän huomannut lähistöllä rituaalipaikan, josta puhutaan Xenon kirjoissa. Mene sinne. 
+
+# Win text
+0x00000006 Ja niin päättyi ensimmäinen Jumalsota. Pesäpielus tulisi vielä kerran palaamaan Solumille, mutta se on toinen tarina. Galaksiin on viimein tullut rauha, mutta se ei tulisi kestämään ikuisesti.
+
+# Lose text
+0x00000007 Ja niin Pesäpielus kaatui Solumin taistelussa, ja jumalat sotivat ikuisesti. Galaksi ei tulisi enää ikinä olemaan sellainen, kuin se oli joskus kerran, kauan sitten...
+
+# Act 1
+0x00000008 Solum
+0x00000009 Olet saapunut Solumin planeetalle, jossa Sporixin sanotaan nukkuvan. Mene läheiselle rituaalimuodostelmalle, jossa voit alkaa herättelemään planeetan nukkujaa...
+
+# Goal 1
+0x0000000a Pesäpielus: Tämän täytyy olla se paikka! Parasta aloittaa heti...
+0x0000000b Alat noudattaa muinaista ohjetta, jonka avulla Sporix saataisiin herätettyä mahdollisen kriisin aikana. 
+0x0000000c Jonkin ajan kuluttua saat vieraita: Saradostrutsi ja Zamolaatti ovat saapuneet myös paikalle, aikeinaan estää suunnitelmasi!
+
+
+# Act 2
+0x0000000d Sormuksen jumalat
+0x0000000e Saradostrutsi ja Zamolaatti pääsivät yllättämään sinut! Puhu heidän kanssaan ja tee tavoitteet ylhäältä alas. 
+
+# Goal 1
+0x0000000f Haa! Saimmepas sinut kiinni! Nyt et kyllä karkaa!
+0x00000010 Tiedämme kyllä suunnitelmasi! Aiot herättää Solumin nukkujan ja häätää meidät pois! Sitä en anna sinun tekevän, en niin kauan kunnes olen lyönyt Zamolaatin!
+0x00000011 Zamolaatti: Hah hah! Sinulla näyttää olevan aivat samat aikeet kuten aina, Sarado! Minäkin tässä aioin estää Pesäpielusta pysäyttämästä minua!
+0x00000012 Ai jaa? Sinä tuhoat planeettoja elämän sauvallasi kuin ne olisivat jotain leluja! Kun olen tuhonnut sinut, niin pystytän ikuisen valtakunnan, jossa kaikki kaltaisesi riiviöt on eliminoitu!
+
+# Goal 2
+0x00000013 Kas kas, eikös olekin ironista? Kolme sauvaa ovat jälleen yhdessä, mutta tällä kertaa toisiaan vastaan! Luuletteko tosiaan, että sauvat pystyisivät lyömään toisensa?
+0x00000014 Saradostrutsi: Nyt saa riittää! Zamolaatti! Kaaoksesi loppuu tähän!
+0x00000015 Ahaa, vastataan sitten tuleen tulella! Saradostrutsi! Nuo tulevat olemaan viimeiset sanasi! Azag Fúrina Rifira!
+0x00000016 Jumalat alkavat luoda toisiansa vastaan tulipalloja. Pelkäät, että jotain kamalaa tapahtuu, ja luot itsellesi Elämänsauvan avulla suojakilven.
+
+
+# Act 3
+0x00000017 Raunioitunut maailma
+0x00000018 Kolmen sauvan yhteentörmäys tuhosi puolet Solumista ja lennätti sinut toiselle puolen planeettaa. Kun olet laskeutunut, puhu paikallisten otusten kanssa.
+
+# Goal 1
+0x00000019 Clk? Clkna! Clkakls, kelon!
+0x0000001a Pesäpielus: En ymmärrä teistä yhtään mitään! Olisiko lähellä tulkkia tai kääntäjää? ~br~Yhtäkkiä sinulle tulee kuitenkin tunne, että ymmärrät heitä. He näyttävät puhuvan telepaattisesti...
+0x0000001b Tervehdys, sauvan kantaja. Mikä tuo sinut tänne planeetalleni?
+0x0000001c Pesäpielus: Öh, minun pitäisi pysäyttää nuo läheiset jumalat. He saivat voimansa kropojen sormuksesta ja nyt taistelevat sen omistajuudesta.
+0x0000001d Arvelenkin niin. Xeno... Hänen kostonsa on täällä... Tule luokseni, pikkuotus, niin voimme jutella paremmin...
+
+# Goal 2
+0x0000001e Kuten saatatkin jo arvella, olen Sporix, yksi kolmesta galaksin luojasta. Rituaalikiven tuho herätti minut unestani. En ajatellut törmääväni tällaiseen tuhoon...
+0x0000001f Pesäpielus: Mitä me voimme tehdä pysäyttääksemme nuo kaksi? ~br~(Osoitat entiselle rituaalipaikalle, jossa Saradostrutsi ja Zamolaatti tällä hetkellä taistelevat)
+0x00000020 Voimani ylittävät kolmen sauvan voiman reippaasti moninkertaisesti, mutta sormus on eri juttu. Sen voi tuhota ainoastaan Tuhonvuorella. Valitettavasti en voi luottaa sinulle sormusta. 
+0x00000021 Se turmelisi sinutkin. Voin kuitenkin sinetöidä sormuksen itseeni ja hillitä sen voimia. Se silti pitää viedä jonain päivänä Tuhonvuorelle, jotta Xeno ei saisi tahtoaan läpi. 
+0x00000022 Huomaan sinusta, että olet tavannut kieltäytyjän. En kyllä ymmärrä, miksi hän lähetti sinut tänne, mutta en kysy sitä nyt. Meidän on autettava sporidejani! He ovat vankeina tuolla laaksossa.
+
+
+# Act 4
+0x00000023 Pelastakaa sporidit!
+0x00000024 Liittoudu Sporixin kanssa ja pelasta hänen sporidinsa Zamolaatin velhojen käsistä. Kohteenasi on läheinen Zamolaatin tukikohta, johon he ovat perustaneet kaivoksen. 
+
+# Goal 3
+0x00000025 Jaahas, sehän on se itse Elämänsauvan kantaja, Pesäpielus! Sinun takiasi kunniakas järjestömme hajosi ainaaksi ja se teeskentelijä nousi valtaan!
+0x00000026 Miltä tuntuu, kun me maksoimme takaisin ja tuhosimme tämän pikku planeetan? Sattuuko se, kun niin viattomia otuksia menehtyi jonkun yhden virheeseen?
+0x00000027 Pesäpielus: Minä en tiedä. Parasta että kysyt ystävältäni tässä näin. ~br~Sporix: Sinä olet vain pelinappula. Etkö ymmärrä, mistä on kyse suuremmassa mittakaavassa?
+0x00000028 Jaa, siinä siis on itse suurherra, itse Sporix! Sinä et itse tajua mistään yhtään mitään! Kaaos tulee vallitsemaan! Ennustuksemme tulevat olemaan oikeassa!
+0x00000029 Sporix: Niin sokea. Xenolaatille kaikki on shakkia. Jokainen vaihtoehto on harkittava. Hoidellaan tämä kaveri pois alta, Pesäpielus. 
+
+
+# Act 5
+0x0000002a Aluksesi on vaarassa!
+0x0000002b Pelastit sporidit, mutta heidän mukaansa aluksesi on vaarassa! Puhu sporoidien johtajan kanssa ja johdata sitten heidät aluksesi luo. 
+
+# Goal 1
+0x0000002c (Hyvä että tulit pelastamaan meidät, Sporix! Tämä on hätätilanne! Tietojemme mukaan tämän pesäpielijäherran alus on vaarassa! Meidän on mentävä sinne pikimiten!)
+0x0000002d (Olemme saaneet myöskin kuulla, että Saradostrutsin joukot ovat saartamassa sitä! Mitä me teemme?)
+0x0000002e Pesäpielus: Voi ei! Se on haettava sitten heti! Mennään!
+0x0000002f Sporix: Selvä. Johda tietä, Pesäpielus
+
+# Goal 3
+0x00000030 (Hurraa, saimme lisäjoukkoja! Sporix on näköjään heidän kanssaan! Eläköön Sporix!)
+0x00000031 (Haluaisimme kertoa, että tämän tuhon aikaansaajat ovat ihan lähellä! He taistelevat kuin vimmatut läheisellä kraatterilla! Sporix, pysäytä heidät!)
+0x00000032 Sporix: Olette tehneet hyvän työn. Kiitos. Seuratkaa minua, niin pysäytän nuo valejumalat.
+0x00000033 (Selvä pyy! Sotilaat! Seuratkaa Sporixia!)
+
+
+# Act 6
+0x00000034 Jumalten häätö
+0x00000035 Seuraa Sporixia ja näe, kuinka hän häätää kaikki kolmen luojan sanomaa vääristävät valejumalat.
+
+# Goal 1
+0x00000036 Sinä ja Sporix saavutte keskelle sitä paikkaa, jossa ennen oli rituaalimuodostelma. Nyt se on jumalten taistelupaikka. Sporixin ääni kaikuu ympäri aluetta...
+0x00000037 Te olette valinneet väärän paikan taistelutantereeksenne! Väitätte olevanne valon tuojia, mutta oikeasti olette vain pimeyden herroja! 
+0x00000038 Pimeydestä on voimanne, niin sinne on myös teidän kohtalonne oleva! Häipykää omiin ulottuvuuksiinne! Sinne on teidän ehkä paras myös jäädä! Älkääkä enää ikinä palatko galaksiimme!
+0x00000039 Jumalat tuntevat, että joku on imemässä heidän voimiaan pois. Sporix on vetämässä sormuksen palasia jälleen yhteen. Saradostrutsi ja Zamolaatti yrittävät estää häntä, mutta he epäonnistuvat.
+0x0000003a Lopulta jumalat katoavat kuin yhdessä silmänräpäyksessä pois omiin ulottuvuuksiinsa, kun Sporix veti heiltä sormuksen pois. Jonkin ajan kuluttua...
+
+
+# Act 7
+0x0000003b Jälkitilanne
+0x0000003c Sporix hääsi Saradostrutsin ja Zamolaatin omiin ulottuvuuksiinsa, pois tästä galaksista. Nyt on aika siivota heidän jälkensä. Puhu Sporixin kanssa, niin voit alkaa käyttää Elämänsauvaa...
+
+# Goal 1
+0x0000003d Kiitos, Pesäpielus, kun autoit minua huomaamaan galaksia uhanneen vaaran. Tein hyvän palveluksen Elämänsauvan valittuna kantajana. 
+0x0000003e Pesäpielus: Mitä tapahtuu nyt sormukselle ja sen luomille jumalille? Mihin he joutuivat?
+0x0000003f Sormus on nyt sisälläni, niin vaarattomana kuin se voi olla. Nuo epäjumalat asuvat nyt omissa ulottuvuuksissaan, jossa he varmaan voivat olla tyytyväisiä. 
+0x00000040 Meidän pitäisi nyt palauttaa tämä planeetta entiseen loistoonsa, eikö niin? Käytä Elämänsauvaa, niin minä sillä välin siirrän nämä muut sotijat omille aluksilleen ja lähetän ne pois täältä. 
+0x00000041 Pesäpielus: Selvä. Mitenkäs Elämänsauvat toimivatkaan alunperin... ~br~Alat käyttää Elämänsauvaa sen alkuperäiseen tarkoitukseen: planeettojan maankaltaistukseen. Palautat Solumin ennalleen.
+
+
+# Act 8
+0x00000042 Palautunut planeetta
+0x00000043 Palautit Elämänsauvalla Solumin takaisin ennalleen, T3-luokkaan. Puhu Sporixin kanssa vielä kerran ja palaa sitten aluksellesi.
+
+# Goal 1
+0x00000044 Rituaalipaikkaa emme voineet valitettavasti palauttaa ennalleen, mutta en näe sille enää tarvetta. Sen työ on nyt tehty.
+0x00000045 Ennen kuin lähdet, Pesäpielus, tahdon varoittaa sinua Xenosta. Hän tekee mitä tahansa saavuttaakseen tavoitteensa. Hän joko pitää lupauksensa tai sitten pettää ne. Häneen ei voi luottaa.
+0x00000046 Huomaan sinusta, että hän on vienyt sinulta jotain tärkeää. Sinähän olet nähnyt hänen merkkinsä unissa, eikö niin? Sinuna olisin hyvin varovainen juuri nyt. Ties mitä hän aikoo pääsi menoksi. 
+0x00000047 Jos sinusta tuntuu, että kotisi on hylkäämässä sinut, olet aina tervetullut perheinesi tänne Solumille. Saatan ehkä tarvita hiukan lisää suojelijoita, kun kerran tein jotain niin suurta.
+0x00000048 Hyvästi, Pesäpielus. Veljieni ja itseni siunauksella toivotan sinulle hyvää kotimatkaa!
+
+
+# Prop #1 - Ancient Sporehenge
+0x00000049 Ancient Sporehenge
+
+# Prop #2 - Saradostrich
+0x0000004a Saradostrutsi
+
+# Prop #3 - Rituaalikivimuodostelma
+0x0000004b Rituaalikivimuodostelma
+
+# Prop #4 - Troopan avaruusalus
+0x0000004c Troopan avaruusalus
+
+# Prop #5 - Wand
+0x0000004d Sauva
+
+# Prop #6 - Zamolate
+0x0000004e Zamolaatti
+
+# Prop #7 - It's ALIVE!!!
+0x0000004f It's ALIVE!!!
+
+# Prop #8 - Peaceful Universe
+0x00000050 Peaceful Universe
+
+# Prop #9 - Water Blast Once
+0x00000051 Water Blast Once
+
+# Prop #10 - Shrapnel Bomb Once
+0x00000052 Shrapnel Bomb Once
+
+# Prop #11 - Luolan suu
+0x00000053 Luolan suu
+
+# Prop #12 - Musta muuri
+0x00000054 Musta muuri
+
+# Prop #13 - Sandstone Stack
+0x00000055 Sandstone Stack
+
+# Prop #14 - Sting Vertigo
+0x00000056 Sting Vertigo
+
+# Prop #15 - Sting Villain
+0x00000057 Sting Villain
+
+# Prop #16 - Cluster Bomb Once
+0x00000058 Cluster Bomb Once
+
+# Prop #17 - Mushroom Cloud Once
+0x00000059 Mushroom Cloud Once
+
+# Prop #18 - Jump Pad 
+0x0000005a Jump Pad 
+
+# Prop #19 - Teleporter
+0x0000005b Teleporter
+
+# Prop #20 - Battlefield Classic
+0x0000005c Battlefield Classic
+
+# Prop #21 - Sporix
+0x0000005d Sporix
+
+# Prop #22 - Sporenoidi
+0x0000005e Sporenoidi
+
+# Prop #23 - Sporenoidi
+0x0000005f Sporenoidi
+
+# Prop #24 - Saradostrutsin saarnaaja
+0x00000060 Saradostrutsin saarnaaja
+
+# Chatter for Act 1
+0x00000061 Katukaa, te syntiset! Katukaa kaaostanne!
+0x00000062 Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x00000063 Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x00000064 Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Chatter for Act 2
+0x00000065 Katukaa, te syntiset! Katukaa kaaostanne!
+0x00000066 Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x00000067 Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x00000068 Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Chatter for Act 3
+0x00000069 Katukaa, te syntiset! Katukaa kaaostanne!
+0x0000006a Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x0000006b Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x0000006c Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Chatter for Act 4
+0x0000006d Katukaa, te syntiset! Katukaa kaaostanne!
+0x0000006e Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x0000006f Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x00000070 Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Chatter for Act 5
+0x00000071 Katukaa, te syntiset! Katukaa kaaostanne!
+0x00000072 Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x00000073 Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x00000074 Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Chatter for Act 6
+0x00000075 Katukaa, te syntiset! Katukaa kaaostanne!
+0x00000076 Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x00000077 Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x00000078 Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Chatter for Act 7
+0x00000079 Katukaa, te syntiset! Katukaa kaaostanne!
+0x0000007a Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x0000007b Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x0000007c Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Chatter for Act 8
+0x0000007d Katukaa, te syntiset! Katukaa kaaostanne!
+0x0000007e Kaaos on tuhoa ja tuho on kuolemaa! Katukaa, niin pääsette turvaan!
+0x0000007f Saradostrutsi toivottaa kaikki katuvat tervetulleiksi valtakuntaansa!
+0x00000080 Saradostrutsi tulee tuomitsemaan kaikki tuhonpalvojat! Kääntykää, niin pääsette vapaiksi kaaoksen kahleista! 
+
+# Prop #25 - Saradostrutsin hovivelho
+0x00000081 Saradostrutsin hovivelho
+
+# Chatter for Act 1
+0x00000082 Demonistit! Häipykää galaksistamme!
+0x00000083 Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x00000084 Kuolema demonisteille ja paholaisenpalvojille!
+0x00000085 En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Chatter for Act 2
+0x00000086 Demonistit! Häipykää galaksistamme!
+0x00000087 Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x00000088 Kuolema demonisteille ja paholaisenpalvojille!
+0x00000089 En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Chatter for Act 3
+0x0000008a Demonistit! Häipykää galaksistamme!
+0x0000008b Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x0000008c Kuolema demonisteille ja paholaisenpalvojille!
+0x0000008d En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Chatter for Act 4
+0x0000008e Demonistit! Häipykää galaksistamme!
+0x0000008f Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x00000090 Kuolema demonisteille ja paholaisenpalvojille!
+0x00000091 En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Chatter for Act 5
+0x00000092 Demonistit! Häipykää galaksistamme!
+0x00000093 Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x00000094 Kuolema demonisteille ja paholaisenpalvojille!
+0x00000095 En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Chatter for Act 6
+0x00000096 Demonistit! Häipykää galaksistamme!
+0x00000097 Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x00000098 Kuolema demonisteille ja paholaisenpalvojille!
+0x00000099 En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Chatter for Act 7
+0x0000009a Demonistit! Häipykää galaksistamme!
+0x0000009b Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x0000009c Kuolema demonisteille ja paholaisenpalvojille!
+0x0000009d En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Chatter for Act 8
+0x0000009e Demonistit! Häipykää galaksistamme!
+0x0000009f Te tuomitsette meidät kaikki kuolemaan! Kuolkaa itse, demonistit!
+0x000000a0 Kuolema demonisteille ja paholaisenpalvojille!
+0x000000a1 En kestä näitä kaaostelijoita! Saradostrutsi korjatkoon heistä jokaisen!
+
+# Prop #26 - Envoy of Saradostrich
+0x000000a2 Saradostrutsin lähettiläs
+
+# Chatter for Act 1
+0x000000a3 Eteenpäin! Ei armoa demonisteille!
+0x000000a4 Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000a5 Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000a6 Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Chatter for Act 2
+0x000000a7 Eteenpäin! Ei armoa demonisteille!
+0x000000a8 Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000a9 Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000aa Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Chatter for Act 3
+0x000000ab Eteenpäin! Ei armoa demonisteille!
+0x000000ac Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000ad Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000ae Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Chatter for Act 4
+0x000000af Eteenpäin! Ei armoa demonisteille!
+0x000000b0 Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000b1 Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000b2 Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Chatter for Act 5
+0x000000b3 Eteenpäin! Ei armoa demonisteille!
+0x000000b4 Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000b5 Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000b6 Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Chatter for Act 6
+0x000000b7 Eteenpäin! Ei armoa demonisteille!
+0x000000b8 Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000b9 Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000ba Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Chatter for Act 7
+0x000000bb Eteenpäin! Ei armoa demonisteille!
+0x000000bc Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000bd Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000be Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Chatter for Act 8
+0x000000bf Eteenpäin! Ei armoa demonisteille!
+0x000000c0 Kaikki zamolatistit ovat pakanoita kuolemanpalvojia! Heidän on kuoltava!
+0x000000c1 Kuolema Zamolaatille ja hänen joukoilleen!
+0x000000c2 Älkää pelätkö, toverit! Kaikki marttyyrit pääsevät Saradostrutsin paratiisiin!
+
+# Prop #27 - Sting Inspiring
+0x000000c3 Sting Inspiring
+
+# Prop #28 - Chaos Urgulate Warrior
+0x000000c4 Kaaossoturi
+
+# Chatter for Act 1
+0x000000c5 Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000c6 Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000c7 Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000c8 Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000c9 Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Chatter for Act 2
+0x000000ca Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000cb Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000cc Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000cd Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000ce Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Chatter for Act 3
+0x000000cf Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000d0 Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000d1 Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000d2 Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000d3 Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Chatter for Act 4
+0x000000d4 Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000d5 Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000d6 Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000d7 Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000d8 Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Chatter for Act 5
+0x000000d9 Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000da Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000db Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000dc Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000dd Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Chatter for Act 6
+0x000000de Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000df Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000e0 Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000e1 Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000e2 Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Chatter for Act 7
+0x000000e3 Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000e4 Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000e5 Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000e6 Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000e7 Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Chatter for Act 8
+0x000000e8 Veljet, eteenpäin! Voimaa kaaoksesta!
+0x000000e9 Saradostrutsi heitti Zamon laavaan! Häneen ei voi luottaa!
+0x000000ea Liittykää meihin, niin pääsette vapaiksi ikuisesta orjuudesta!
+0x000000eb Saradostrutsin "järjestys" on jumalallista orjuutta! Kääntykää kaaoksen puoleen, niin pääsette vapaiksi!
+0x000000ec Kaaos on voimaa! Voimaa kaaoksesta!
+
+# Prop #29 - Controller of Time
+0x000000ed Kaaosvelho
+
+# Chatter for Act 1
+0x000000ee Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x000000ef Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x000000f0 Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x000000f1 Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x000000f2 Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Chatter for Act 2
+0x000000f3 Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x000000f4 Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x000000f5 Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x000000f6 Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x000000f7 Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Chatter for Act 3
+0x000000f8 Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x000000f9 Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x000000fa Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x000000fb Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x000000fc Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Chatter for Act 4
+0x000000fd Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x000000fe Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x000000ff Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x00000100 Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x00000101 Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Chatter for Act 5
+0x00000102 Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x00000103 Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x00000104 Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x00000105 Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x00000106 Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Chatter for Act 6
+0x00000107 Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x00000108 Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x00000109 Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x0000010a Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x0000010b Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Chatter for Act 7
+0x0000010c Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x0000010d Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x0000010e Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x0000010f Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x00000110 Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Chatter for Act 8
+0x00000111 Kuolema Saradostrutsille! Voimaa kaaoksesta!
+0x00000112 Saradostrutsi on orjuuttaja! Irtautukaa hänestä! 
+0x00000113 Saradostrutsi johdattaa meidät pysähtyneisyyden aikaan! Kääntykää kaaoksen puoleen!
+0x00000114 Me emme tarvitse Saradostrutsia! Eläköön kaaos!
+0x00000115 Voimaa kaaoksesta, veljet! Kaaos on voimaa!
+
+# Prop #30 - Kaaosvelho
+0x00000116 Ajanhallitsija
+
+# Chatter for Act 1
+0x00000117 Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x00000118 Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x00000119 Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x0000011a Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Chatter for Act 2
+0x0000011b Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x0000011c Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x0000011d Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x0000011e Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Chatter for Act 3
+0x0000011f Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x00000120 Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x00000121 Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x00000122 Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Chatter for Act 4
+0x00000123 Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x00000124 Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x00000125 Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x00000126 Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Chatter for Act 5
+0x00000127 Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x00000128 Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x00000129 Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x0000012a Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Chatter for Act 6
+0x0000012b Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x0000012c Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x0000012d Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x0000012e Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Chatter for Act 7
+0x0000012f Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x00000130 Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x00000131 Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x00000132 Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Chatter for Act 8
+0x00000133 Eteenpäin, veljet! Kostakaa Ajan hallitsijoiden tuho!
+0x00000134 Saradostrutsi on orjuuttaja ja petturi! Hylkäsi vielä veljensäkin tulivuoreen!
+0x00000135 Saradostrutsi johtaa meidät "valonsa" avulla ikuiseen pimeyteen! Kuolema Saradostrutsille ja hänen "käännynnäisilleen"!
+0x00000136 Mieluummin tuli ja kaaos kuin vesi ja orjuus! Eläköön kaaos!
+
+# Prop #31 - Creepy Action 2
+0x00000137 Creepy Action 2
+
+# Prop #32 - Urleg Factory
+0x00000138 Urlegiläinen tehdas
+
+# Prop #33 - Urleg Apartments
+0x00000139 Urlegiläinen kerrostalo
+
+# Prop #34 - Kaaosvelho
+0x0000013a Kaaosvelho
+
+# Prop #35 - Ambassador of Chaos
+0x0000013b Kaaoksen lähettiläs
+
+# Prop #36 - Chaos Dwarflate Destructor
+0x0000013c Kaaostuhoaja
+
+# Prop #37 - Conglomerate Stack
+0x0000013d Conglomerate Stack
+
+# Prop #38 - Marshmallow Rock
+0x0000013e Marshmallow Rock
+
+# Prop #39 - Luolan portti
+0x0000013f Luolan portti
+
+# Prop #40 - Chief Wizard Pargas
+0x00000140 Päävelho Pargas
+
+# Prop #41 - Piikkisporoidi
+0x00000141 Piikkisporoidi
+
+# Prop #42 - Spoideri
+0x00000142 Spoideri
+
+# Prop #43 - Sporid Wizard
+0x00000143 Velhosporidi
+
+# Inspect for Act 1
+0x00000144 Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x00000145 Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x00000146 Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x00000147 Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x00000148 Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Inspect for Act 2
+0x00000149 Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x0000014a Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x0000014b Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x0000014c Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x0000014d Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Inspect for Act 3
+0x0000014e Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x0000014f Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x00000150 Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x00000151 Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x00000152 Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Inspect for Act 4
+0x00000153 Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x00000154 Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x00000155 Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x00000156 Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x00000157 Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Inspect for Act 5
+0x00000158 Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x00000159 Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x0000015a Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x0000015b Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x0000015c Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Inspect for Act 6
+0x0000015d Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x0000015e Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x0000015f Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x00000160 Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x00000161 Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Inspect for Act 7
+0x00000162 Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x00000163 Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x00000164 Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x00000165 Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x00000166 Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Inspect for Act 8
+0x00000167 Pesäpielus: Mitäs näille palgulaateille on tapahtunut?
+0x00000168 Sporix: He joutuivat osaksi järjestelmääni ajautuessaan liian lähelle yhtä minun sporideistani. Nyt ne ovat täysin hallinnassani.
+0x00000169 Pesäpielus: Tuohan on julmaa! Eivät he semmoista ansaitse!
+0x0000016a Sporix: Noh, jos ajattelet asiaa tarkemmin, heillä on nyt parempi olla kuin ollessaan Zamolaatin palveluksessa. 
+0x0000016b Pesäpielus: Onkohan niin? Voisin argumentoida tästä koko päivän, mutta nyt ei ole sen aika. Jumalat on häädettävä täältä! 
+
+# Prop #44 - Tommi
+0x0000016c Tommi
+
+# Inspect for Act 1
+0x0000016d Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Inspect for Act 2
+0x0000016e Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Inspect for Act 3
+0x0000016f Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Inspect for Act 4
+0x00000170 Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Inspect for Act 5
+0x00000171 Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Inspect for Act 6
+0x00000172 Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Inspect for Act 7
+0x00000173 Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Chatter for Act 8
+0x00000174 (Näkemiin, Pesäpielus. Oli ilo taistella kanssasi.)
+
+# Inspect for Act 8
+0x00000175 Sporix: Tommi on yksi minun uskollisimmista sporoideistani. Hän toimii heidän johtajanaan.
+
+# Prop #45 - Ambush!
+0x00000176 Ambush!
+
+# Prop #46 - Piikkisporoidi
+0x00000177 Piikkisporoidi
+
+# Prop #47 - Troopan avaruusalus
+0x00000178 Troopan avaruusalus
+
+# Prop #48 - Warrior of Saradostrich
+0x00000179 Saradostrutsin soturi
+
+# Prop #49 - Fanatic of Saradostrich
+0x0000017a Saradostrutsin fanaatikko
+
+# Prop #50 - Guardian of Saradostrich
+0x0000017b Saradostrutsin vartija
+
+# Prop #51 - Redbird Warrior (Zamolate)
+0x0000017c Punalintusoturi
+
+# Prop #52 - Sauroneye Warrior
+0x0000017d Sauroninsilmäsotilas
+
+# Prop #53 - Chaos Urgulate Warrior
+0x0000017e Kaaosurgulaattisoturi
+
+# Chatter for Act 6
+0x0000017f Kuolema Saradostrutsin kätyreille!
+0x00000180 Voimaa kaaoksesta! Alas kaikki teeskentelijät!
+0x00000181 Mikä tuo pallo on? Se ei lupaa hyvää...
+0x00000182 Kaaos on voimaa! Mikään metallipallo ei estä pyrkimyksiämme!
+
+# Chatter for Act 7
+0x00000183 Mestari, mihin sinä katosit? MESTARI!
+0x00000184 Voi jukra! Saradostrutsi teki itsemurhatempun ja teilasi heidät molemmat! Mitä me nyt teemme?
+0x00000185 Tuo metallihäkkyrä hävitti mestarimme! Sen on tuhouduttava! 
+0x00000186 Alas Sporix! Eläköön kaaos!
+
+# Chatter for Act 8
+0x00000187 Mestari, mihin sinä katosit? MESTARI!
+0x00000188 Voi jukra! Saradostrutsi teki itsemurhatempun ja teilasi heidät molemmat! Mitä me nyt teemme?
+0x00000189 Tuo metallihäkkyrä hävitti mestarimme! Sen on tuhouduttava! 
+0x0000018a Alas Sporix! Eläköön kaaos!
+
+# Prop #54 - Teleporter
+0x0000018b Teleporter
+
+# Prop #55 - Laser Battle
+0x0000018c Laser Battle
+
+# Prop #56 - Epic Adventure
+0x0000018d Epic Adventure
+
+# Prop #57 - Sporix
+0x0000018e Sporix
+
+# Prop #58 - Rituaalikraatteri
+0x0000018f Rituaalikraatteri
+
+# Prop #59 - Warrior of Saradostrich
+0x00000190 Saradostrutsin soturi
+
+# Chatter for Act 6
+0x00000191 Kuka TUO on? Joku Zamolaatin liittolainen? Sillä ei ole paikkaa Saradostrutsin paratiisissa, siitä olen varma!
+0x00000192 Mitkään luonnonvoimat eivät estä herraamme saavuttamasta tavoitteitaan!
+0x00000193 Alas tuo metallihäkkyrä! Se on iljetys, kun se sekoittaa noin täydellisesti luontoa ja mekaniikkaa! Vain Pate pystyy tuollaiseen! Epäjumala! Häivy täältä!
+0x00000194 Mitkään epäjumalat eivät estä Patea tuhoamasta tulevaa jumalaa tässä ja nyt!
+
+# Chatter for Act 7
+0x00000195 Mestari, mihin sinä katosit? MESTARI!
+0x00000196 Zamolaatti tuhosi mestarimme itsensä kanssa! APUA! OLEMME TUHON OMAT! 
+0x00000197 Tuo metallipallo hävitti mestarimme! Sen on kuoltava!
+0x00000198 Mestari, pyydän, tule takaisin! MESTARI!
+0x00000199 Mestari Saradostrutsi! Missä sinä olet?
+
+# Chatter for Act 8
+0x0000019a Mestari, mihin sinä katosit? MESTARI!
+0x0000019b Zamolaatti tuhosi mestarimme itsensä kanssa! APUA! OLEMME TUHON OMAT! 
+0x0000019c Tuo metallipallo hävitti mestarimme! Sen on kuoltava!
+0x0000019d Mestari, pyydän, tule takaisin! MESTARI!
+0x0000019e Mestari Saradostrutsi! Missä sinä olet?
+
+# Prop #60 - Spotlight Blue
+0x0000019f Spotlight Blue
+
+# Prop #61 - Spotlight Pink
+0x000001a0 Spotlight Pink
+
+# Prop #62 - Sporix
+0x000001a1 Sporix
+
+# Prop #63 - Will'o'wisps
+0x000001a2 Will'o'wisps
+
+# Prop #64 - Angelic Dream
+0x000001a3 Angelic Dream
+
+# Prop #65 - Fireflies
+0x000001a4 Fireflies
+
+# Prop #66 - Poof Black
+0x000001a5 Poof Black
+
+# Prop #67 - Pixies
+0x000001a6 Pixies
+
+# Prop #68 - Toronado
+0x000001a7 Toronado
+
+# Prop #69 - Lightning
+0x000001a8 Lightning
+
+# Prop #70 - Sporix
+0x000001a9 Sporix
+
+# Prop #71 - Teleporter
+0x000001aa Teleporter
+
+# Prop #72 - Psychedelic Moongarden
+0x000001ab Psychedelic Moongarden
+
+# Prop #73 - Blue Gate
+0x000001ac Blue Gate
+
+# Prop #74 - Blue Gate
+0x000001ad Blue Gate
+
+# Prop #75 - Blue Gate
+0x000001ae Blue Gate
+
