@@ -91,7 +91,7 @@ void LocalizeAdventure::ParseLine(const ArgScript::Line& line)
 			stringCount++;
 		}
 		if (resource->mLoseText.mNonLocalizedString != u"") {
-			RemoveNewLines(resource->mWinText.mNonLocalizedString);
+			RemoveNewLines(resource->mLoseText.mNonLocalizedString);
 			data.append_sprintf(u"# Lose text\n");
 			data.append_sprintf(u"%#010x %ls\n\n", stringCount, resource->mLoseText.mNonLocalizedString);
 			resource->mLoseText.mLocalizedStringInstanceID = stringCount;
